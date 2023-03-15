@@ -1,12 +1,14 @@
 import tensorflow as tf
 from tensorflow import keras
 
+from keras import regularizers
 from tensorflow.keras.layers import Flatten, Dense, Dropout, Input
 from tensorflow.keras import Model
 from tensorflow.keras.models import load_model
 from tensorflow.keras.optimizers import SGD
 from sklearn.metrics import confusion_matrix
 from tensorflow.keras.applications.densenet import preprocess_input
+from keras.callbacks import EarlyStopping, ReduceLROnPlateau
 
 import cv2
 import matplotlib.pyplot as plt
@@ -15,12 +17,14 @@ import itertools
 import re
 
 class modelsDenseNet121:
-    def __init__(self, epoch, steps, val_steps, train_batches, valid_batches, test ,optimization=False):
+    def __init__(self, epoch, steps, val_steps, train_batches, valid_batches, test, optimization=False):
         self.base_model = ''
         self.model = ''
         self.base_predic = ''
         self.predic = ''
         self.confusion = ""
+        self.historic = ''
+        self.callbackList = ''
         self.epoch = epoch
         self.steps = steps
         self.val_steps = val_steps
@@ -29,16 +33,16 @@ class modelsDenseNet121:
         self.testData = test
         self.optimization = optimization
 
+
     # Create model Denset121
     def baseModelDenseNet121(self):
         self.base_model = tf.keras.applications.DenseNet121(weights='imagenet', include_top=False, pooling='avg')
 
         x = self.base_model.output
         x = Flatten()(x)
-        x = Dense(256, activation='relu')(x)
+        x = Dense(256, kernel_regularizer=regularizers.l1_l2(0.01), activity_regularizer=regularizers.l2(0.01), activation='relu')(x)
         x = Dropout(0.5)(x)
-
-        self.base_predic = Dense(7, activation='softmax')(x)
+        self.base_predic = Dense(4, activation='softmax')(x)
 
         self.model = Model(inputs=self.base_model.input, outputs=self.base_predic)
 
@@ -46,35 +50,60 @@ class modelsDenseNet121:
 
     def compileModel(self):
         if self.optimization:
-            self.model.compile(optimizer=SGD(learning_rate=0.0001, momentum=0.9), loss='categorical_crossentropy',
-                               metrics=['accuracy'])
+            self.model.compile(optimizer=SGD(learning_rate=0.01, momentum=0.9), loss='categorical_crossentropy',
+                               metrics=['accuracy', 'mse'])
+            stop = EarlyStopping(monitor='val_loss', patience=8, verbose=1, min_delta=1e-4)
+            reduceLr = ReduceLROnPlateau(monitor='val_loss', factor=0.1, patience=2, verbose=1, min_delta=1e-6)
+            self.callbackList = [stop, reduceLr]
+            print("Optimization")
         else:
-            self.model.compile(optimizer='rmsprop', loss='categorical_crossentropy', metrics=['accuracy'])
-
+            self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy', 'mse'])
+            stop = EarlyStopping(monitor='val_loss', patience=8, verbose=1, min_delta=1e-4)
+            reduceLr = ReduceLROnPlateau(monitor='val_loss', factor=0.1, patience=3, verbose=1, min_delta=1e-4)
+            self.callbackList = [stop, reduceLr]
     def fit(self):
-        self.model.fit(self.train_batches, steps_per_epoch=self.steps, validation_steps=self.val_steps,
-                       validation_data=self.valid_batches, epochs=self.epoch, verbose=1)
+         self.historic=self.model.fit(
+             self.train_batches,
+             steps_per_epoch=self.steps,
+             validation_steps=self.val_steps,
+             validation_data=self.valid_batches,
+             epochs=self.epoch,
+             callbacks=self.callbackList,
+             verbose=1
+         )
 
     def predictions(self):
-        self.predic = self.model.predict(x=self.testData, verbose = 1, steps = self.val_steps)
+        self.predic = self.model.predict(x=self.testData, verbose=1, steps=self.val_steps)
 
     def plotGraphics(self, title):
-        plt.title('Cross Entropy Loss' + title)
-        plt.plot(self.model.history['loss'], color='blue', label='train')
-        plt.plot(self.model.history['val_loss'], color='orange', label='val')
+        plt.title('Training Loss vs Validarion Loss ' + title)
+        plt.plot(self.historic.history['loss'], color='blue', label='train')
+        plt.plot(self.historic.history['val_loss'], color='orange', label='val')
+        plt.xlabel("Num of Epoch")
+        plt.ylabel("Loss")
         plt.legend()
         plt.show()
 
-        plt.title('Classification Accuracy' + title)
-        plt.plot(self.model.history['accuracy'], color='blue', label='train')
-        plt.plot(self.model.history['val_accuracy'], color='orange', label='val')
+        plt.title('Training Accuracy vs Validation Accuracy ' + title)
+        plt.plot(self.historic.history['accuracy'], color='blue', label='train')
+        plt.plot(self.historic.history['val_accuracy'], color='orange', label='val')
+        plt.xlabel("Num of Epoch")
+        plt.ylabel("Accuracy")
+        plt.legend()
+        plt.show()
+
+        plt.title('Training MSE vs Validarion MSE ' + title)
+        plt.plot(self.historic.history['mse'], color='blue', label='train')
+        plt.plot(self.historic.history['val_mse'], color='orange', label='val')
+        plt.xlabel("Num of Epoch")
+        plt.ylabel("MSE")
         plt.legend()
         plt.show()
 
     def createConfuMat(self):
         self.confusion = confusion_matrix(y_true=self.testData.classes, y_pred=np.argmax(self.predic, axis=-1))
 
-    def plotConfusionMatrix(self, classes, title="Confusion Matrix", normalize=False, cmap = plt.cm.Blues):
+    def plotConfusionMatrix(self, classes, title="Confusion Matrix", normalize=False, cmap=plt.cm.Blues):
         self.createConfuMat()
         plt.imshow(self.confusion, interpolation='nearest', cmap=cmap)
         plt.title(title)
@@ -124,7 +153,7 @@ class modelsDenseNet121:
         print(self.testData.class_indices)
 
     def testing(self, classes):
-        img_test = "./test/organic/organic (31).jpg"
+        img_test = "./dataset/test/organic/organic (31).jpg"
         img = tf.image.decode_jpeg(tf.io.read_file(img_test), channels=3)
         dimension = np.expend_dims(img, axis=0)
         imageResize = tf.image.resize_with_pad(dimension, 224,224, method="bilinear", antialias=True)
