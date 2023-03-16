@@ -14,10 +14,11 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 import itertools
+from PIL import Image
 import re
 
 class modelsDenseNet121:
-    def __init__(self, epoch, steps, val_steps, train_batches, valid_batches, test, optimization=False):
+    def __init__(self, epoch, steps, val_steps, train_batches, valid_batches, test, test_prepro, optimization=False):
         self.base_model = ''
         self.model = ''
         self.base_predic = ''
@@ -25,6 +26,7 @@ class modelsDenseNet121:
         self.confusion = ""
         self.historic = ''
         self.callbackList = ''
+        self.model_prepro = ""
         self.epoch = epoch
         self.steps = steps
         self.val_steps = val_steps
@@ -32,6 +34,7 @@ class modelsDenseNet121:
         self.valid_batches = valid_batches
         self.testData = test
         self.optimization = optimization
+        self.test_nopre = test_prepro
 
 
     # Create model Denset121
@@ -72,9 +75,14 @@ class modelsDenseNet121:
              verbose=1
          )
 
-    def predictions(self):
-        self.predic = self.model.predict(x=self.testData, verbose=1, steps=self.val_steps)
+    def predictions(self, preproc=False):
+        if preproc:
+            self.predic = self.model.predict(x=self.test_nopre, verbose=1, steps=self.val_steps)
+        else:
+            self.predic = self.model.predict(x=self.testData, verbose=1, steps=self.val_steps)
 
+    def evaluateModel(self):
+        self.model.evaluate(x=self.testData, verbose=1, steps=self.val_steps)
     def plotGraphics(self, title):
         plt.title('Training Loss vs Validarion Loss ' + title)
         plt.plot(self.historic.history['loss'], color='blue', label='train')
@@ -100,11 +108,14 @@ class modelsDenseNet121:
         plt.legend()
         plt.show()
 
-    def createConfuMat(self):
-        self.confusion = confusion_matrix(y_true=self.testData.classes, y_pred=np.argmax(self.predic, axis=-1))
-
-    def plotConfusionMatrix(self, classes, title="Confusion Matrix", normalize=False, cmap=plt.cm.Blues):
-        self.createConfuMat()
+    def createConfuMat(self, prepro=False):
+        if (prepro):
+            self.confusion = confusion_matrix(y_true=self.test_nopre.classes, y_pred=np.argmax(self.predic, axis=-1))
+        else:
+            self.confusion = confusion_matrix(y_true=self.testData.classes, y_pred=np.argmax(self.predic, axis=-1))
+        print("complete predictions")
+    def plotConfusionMatrix(self, classes, prepro = False, title="Confusion Matrix", normalize=False, cmap=plt.cm.Blues):
+        self.createConfuMat(prepro)
         plt.imshow(self.confusion, interpolation='nearest', cmap=cmap)
         plt.title(title)
         plt.colorbar()
@@ -155,16 +166,48 @@ class modelsDenseNet121:
     def testing(self, classes):
         img_test = "./dataset/test/organic/organic (31).jpg"
         img = tf.image.decode_jpeg(tf.io.read_file(img_test), channels=3)
-        dimension = np.expend_dims(img, axis=0)
+        dimension = np.expand_dims(img, axis=0)
         imageResize = tf.image.resize_with_pad(dimension, 224,224, method="bilinear", antialias=True)
         imageProces = preprocess_input(imageResize)
-
-        img = cv2.imread(img_test, cv2.IMREAD_COLOR)
-        img = cv2.resize(img, (224, 224))
-        plt.imshow(img)
-        plt.show()
 
         results = self.model.predict(imageProces)
         print('Class: ' + classes[np.argmax(results)] + ' ' + str(round(results[0, np.argmax(results)] * 100, 2)) + '%')
 
+        img = cv2.imread(img_test, cv2.IMREAD_COLOR)
+        img = cv2.resize(img, (224, 224))
+        plt.imshow(img)
+        plt.title("Class: " + classes[np.argmax(results)] + ' ' + str(round(results[0, np.argmax(results)] * 100, 2)) + '%')
+        plt.show()
 
+    def myImages(self, classes, nameFile):
+        img = Image.open(nameFile)
+
+        imgResize = img.resize((224, 224), Image.BILINEAR)
+
+        dimension = np.array(imgResize)
+        imgDimension = np.expand_dims(dimension, axis=0)
+
+        results = self.model_prepro.predict(imgDimension)
+
+        print('Class: ' + classes[np.argmax(results)] + ' ' + str(round(results[0, np.argmax(results)] * 100, 2)) + '%')
+
+        img = cv2.imread(nameFile)
+        img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+        plt.imshow(img)
+        plt.title("Class: " + classes[np.argmax(results)] + ' ' + str(round(results[0, np.argmax(results)] * 100, 2)) + '%')
+        plt.show()
+
+    def preprocesing(self, classes):
+        i = Input([None, None, 3], dtype=tf.uint8)
+        x = tf.cast(i, tf.float32)
+        x = preprocess_input(x)
+        x = self.model(x)
+        self.model_prepro = Model(inputs=[i], outputs=[x])
+
+        self.model_prepro.compile(optimizer=SGD(learning_rate=0.00001, momentum=0.9), loss='categorical_crossentropy', metrics=['accuracy'])
+        self.model_prepro.save("./models/modelprepro.h5")
+        self.predic = self.model_prepro.predict(x=self.test_nopre, verbose=1, steps=self.steps)
+
+        self.predic = np.round(self.predic)
+
+        self.plotConfusionMatrix(classes, True, "Confusion Matrix (preproces)")

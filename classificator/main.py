@@ -36,7 +36,16 @@ valid_batches = tf.keras.preprocessing.image.ImageDataGenerator(
 
 test_batches = tf.keras.preprocessing.image.ImageDataGenerator(
         preprocessing_function=preprocess_input,
-        rescale=1./255,
+).flow_from_directory(
+        directory=test_path,
+        target_size=imageSize,
+        classes=names_class,
+        batch_size=batch_size,
+        shuffle=False,
+        class_mode='categorical'
+)
+test_batches_nopre = tf.keras.preprocessing.image.ImageDataGenerator(
+        dtype='uint8'
 ).flow_from_directory(
         directory=test_path,
         target_size=imageSize,
@@ -49,36 +58,42 @@ test_batches = tf.keras.preprocessing.image.ImageDataGenerator(
 print("dataset Augmented")
 
 epoch = 20
-
 steps = int(train_batches.samples / 35)
 val_steps = int(valid_batches.samples / 35)
 
-secondModel = classModels.modelsDenseNet121(epoch, steps, val_steps, train_batches, valid_batches, test_batches, True)
+secondModel = classModels.modelsDenseNet121(epoch, steps, val_steps, train_batches, valid_batches, test_batches, test_batches_nopre, True)
 
-secondModel.baseModelDenseNet121()
+#secondModel.baseModelDenseNet121()
 
-secondModel.layerFalse(313)
+#secondModel.layerFalse(313)
 
-secondModel.compileModel()
+#secondModel.compileModel()
 
-secondModel.fit()
+#secondModel.fit()
 
-secondModel.save(" SecondModel")
+#secondModel.save(" SecondModel")
 
-secondModel.plotGraphics("SeconModel")
+#secondModel.plotGraphics("SeconModel")
 
-'''
-epoch = 20
-steps = int(train_batches.samples / 10)
-val_steps = int(valid_batches.samples / 10)
+secondModel.loadModel(" SecondModel")
 
-secondModel = classModels.modelsDenseNet121(epoch, steps, val_steps, train_batches, valid_batches, test, True)
+#secondModel.evaluateModel()
 
-secondModel.loadModel("secondModel")
+#secondModel.predictions()
 
-secondModel.showIndexesTest()
-secondModel.predictions()
-secondModel.plotConfusionMatrix(names_class, "Confusion Matrix (best model)")
+#secondModel.plotConfusionMatrix(names_class, "Confusion Matrix (best model)")
 
-secondModel.testing(names_class)
-'''
+#secondModel = classModels.modelsDenseNet121(epoch, steps, val_steps, train_batches, valid_batches, test_batches, True)
+
+#secondModel.loadModel("model(0_85)")
+
+#secondModel.evaluateModel()
+
+#secondModel.showIndexesTest()
+#secondModel.predictions()
+#secondModel.plotConfusionMatrix(names_class, "Confusion Matrix (best model)")
+
+#secondModel.testing(names_class)
+secondModel.preprocesing(names_class)
+secondModel.myImages(names_class, "./dataset/myImages/green5.JPG")
+secondModel.myImages(names_class, "./dataset/myImages/yellow.JPG")
