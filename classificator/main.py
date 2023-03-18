@@ -95,5 +95,5 @@ secondModel.loadModel("modelUse")
 
 #secondModel.testing(names_class)
 #secondModel.preprocesing(names_class)
-secondModel.myImages(names_class, "./dataset/myImages/organic1.JPG")
-secondModel.myImages(names_class, "./dataset/myImages/organic2.JPG")
+secondModel.myImages(names_class, "./dataset/myImages/yellow3.JPG")
+secondModel.myImages(names_class, "./dataset/myImages/yellow4.JPG")
