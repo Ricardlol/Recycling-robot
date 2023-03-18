@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Simulation>
+  <Part Id="467a2a44-400a-4441-ae10-633417059371" />
+  <Part Id="deb576ff-d4fb-4fbc-b44b-3741421d8e1f" />
+  <Behavior Id="f05d2ffd-d5f5-4e4b-bf6f-800828e4da3b" InitialState="a9c6564e-343e-40f5-8d72-03c9ab175185">
+    <State Id="a9c6564e-343e-40f5-8d72-03c9ab175185" Name="off" Trigger="TX60\valve1" />
+    <State Id="d0b1556b-4903-4717-a8a1-cf212b47f15a" Name="on" Trigger="TX60\valve1" TriggerCondition="On" />
+    <Transition From="a9c6564e-343e-40f5-8d72-03c9ab175185" To="d0b1556b-4903-4717-a8a1-cf212b47f15a" FromToDuration="PT0S" ToFromDuration="PT0S" />
+    <Handler Id="92b51753-508b-45b4-9800-a4fa681e8690" GraspStateId="d0b1556b-4903-4717-a8a1-cf212b47f15a" />
+  </Behavior>
+</Simulation>

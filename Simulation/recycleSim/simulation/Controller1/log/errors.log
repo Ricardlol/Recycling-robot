@@ -1,0 +1,704 @@
+﻿[03/15/23 18:08:39]: ----------------------------------------------- {725f669c}
+[03/15/23 18:08:39]: Logger started (1048576) {ecd7f813}
+[03/15/23 18:08:44]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {a7063299}
+[03/15/23 18:08:44]: <0x0003> Cycle time set to 0.004s {071f9b2b}
+[03/15/23 18:08:44]: <0x0003> Simulation cycle time set to 0.1s {96acfbe2}
+[03/15/23 18:08:44]: <0x0002> Controller IP address could not be updated {0c76c0c5}
+[03/15/23 18:08:44]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {d4053285}
+[03/15/23 18:08:44]: <0x0002> Default user payload used. {1c22d396}
+[03/15/23 18:08:44]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {72642c15}
+[03/15/23 18:08:44]: <0x2401> Power hour count = 0:00:00 {76f56f89}
+[03/15/23 18:08:44]: <0x2401> Mac Address = 3c-a0-67-8c-70-dd {6916a151}
+[03/15/23 18:08:44]: <0x0003> COM-PC: server created on all interfaces [851] {5061fd9c}
+[03/15/23 18:08:45]: <0x1602> End of arm power shutdown phase. {3b301eb4}
+[03/15/23 18:08:45]: <0x2402> History handler has been connected to IHM {3c14245f}
+[03/15/23 18:08:45]: <0x2401> System: s7.11.2 Feb 24 2020 {b2f67662}
+[03/15/23 18:08:45]: <0x2401> Kernel: Unknown  {b2bf0508}
+[03/15/23 18:08:45]: <0x2401> Configuration Version: c1.046  {1dcc45ee}
+[03/15/23 18:08:45]: <0x2401> CPU: TEKNOR  {6c6c6dd1}
+[03/15/23 18:08:45]: <0x2401> Option testMode: enabled  {c4183c8d}
+[03/15/23 18:08:45]: <0x2401> Option VAL 3: enabled  {d4d5dabc}
+[03/15/23 18:08:45]: <0x2401> Machine Number: ?  {282b070d}
+[03/15/23 18:08:45]: <0x2401> Arm: tx60-S1-R4 floor {67c5e254}
+[03/15/23 18:08:45]: <0x2401> Arm serial number: ?  {a0ca2048}
+[03/15/23 18:08:45]: <0x2401> Arm oil type:   {b0e6e097}
+[03/15/23 18:08:45]: <0x2401> Robot name:   {6c517106}
+[03/15/23 18:08:45]: <0x2401> EP: s7.11.2 Feb 24 2020 {a11a3c5b}
+[03/15/23 18:08:45]: <0x2401> EP10: s7.11.2 Feb 24 2020 {8b1ccfcc}
+[03/15/23 18:08:45]: <0x2401> SCA: s7.11.2 Feb 24 2020 {fbb4f739}
+[03/15/23 18:08:45]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {87eacf58}
+[03/15/23 18:08:45]: <0x2201> New profile : default {aa320b5b}
+[03/15/23 18:08:45]: <0x2401> End of controller initialization 0 {419389c4}
+[03/15/23 18:08:50]: <0x2401> Saving controller context... {4c0dd796}
+[03/15/23 18:08:51]: <0x2402> Controller temperature: 28°C {66cc4a07}
+[03/15/23 18:08:51]: <0x2402> CPU temperature: 28°C {f547db12}
+[03/15/23 18:09:41]: <0x2402> COM-PC: create session 127.0.0.1 on port 50761 id=#50133000 {97b8cd0d}
+[03/15/23 20:39:21]: <0x2402> COM-PC: create session 127.0.0.1 on port 50761 id=#50134560 {023d578f}
+[03/15/23 20:39:23]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {60fda7a6}
+[03/15/23 20:39:23]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {b20ea584}
+[03/15/23 20:39:24]: <0x5405> (File start.pgx-line 8) ')' : missing parameter {11a302a7}
+[03/15/23 20:39:25]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50761 id=#50134560 {5db46e84}
+[03/15/23 20:41:00]: <0x2402> COM-PC: create session 127.0.0.1 on port 50761 id=#50135704 {9ce74549}
+[03/15/23 20:41:00]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {946ad9f3}
+[03/15/23 20:41:00]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {80eea919}
+[03/15/23 20:41:01]: <0x5405> (File start.pgx-line 8) ')' : missing parameter {de502c20}
+[03/15/23 20:41:01]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50761 id=#50135704 {713610a2}
+[03/15/23 20:41:48]: <0x2402> COM-PC: create session 127.0.0.1 on port 50761 id=#50134456 {d85d2fdd}
+[03/15/23 20:41:48]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {efcb41da}
+[03/15/23 20:41:48]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {1f4c6127}
+[03/15/23 20:41:48]: <0x5405> (File start.pgx-line 8) ')' : missing parameter {40c53a7d}
+[03/15/23 20:41:48]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50761 id=#50134456 {11b01058}
+[03/15/23 20:42:57]: <0x2402> COM-PC: create session 127.0.0.1 on port 50761 id=#50135496 {407c3ec9}
+[03/15/23 20:42:57]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {53875fcf}
+[03/15/23 20:42:57]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {cc9e9d03}
+[03/15/23 20:42:57]: <0x5402> test application started {f3a02554}
+[03/15/23 20:42:57]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50761 id=#50135496 {00454cbe}
+[03/15/23 20:43:00]: <0x2402> Mcp = TSimulated {f1df5458}
+[03/15/23 20:43:00]: <0x340A> Mcp communication established {00b6d0ac}
+[03/15/23 20:43:01]: <0x1802> Working mode:manual. {7366894e}
+[03/15/23 20:43:15]: <0x5A03> Deadman validated {12bb880a}
+[03/15/23 20:43:15]: <0x1603> Settling arm power... {1dcbdbff}
+[03/15/23 20:43:17]: <0x1601> Arm power settled. {69303206}
+[03/15/23 20:43:33]: <0x2401> Saving controller context... {63cbe405}
+[03/15/23 20:43:37]: <0x5A02> Deadman disabled. {1c1c2460}
+[03/15/23 20:43:37]: <0x1627> Arm power shutdown: working mode change. {cf51433f}
+[03/15/23 20:43:37]: <0x1604> Arm power shutdown... {639a2fd8}
+[03/15/23 20:43:39]: <0x2401> Saving controller context... {ff881112}
+[03/15/23 20:43:41]: <0x1804> Working mode:remote. {ecd68215}
+[03/15/23 20:43:43]: <0x1602> End of arm power shutdown phase. {9106bb88}
+[03/15/23 20:43:44]: <0x2401> Saving controller context... {ac9a712f}
+[03/15/23 20:43:52]: <0x2401> Saving controller context... (1) {2220f77e}
+[03/15/23 20:44:13]: <0x5A03> Deadman validated {2eefaf3d}
+[03/15/23 20:44:13]: <0x4001> Arm power enable request refused: cabinet working mode is remote or invalid. {53f079d0}
+[03/15/23 20:44:14]: <0x5A02> Deadman disabled. {e49301a8}
+[03/15/23 20:44:14]: <0x5A03> Deadman validated {98c45998}
+[03/15/23 20:44:14]: <0x4001> Arm power enable request refused: cabinet working mode is remote or invalid. {be3bdf64}
+[03/15/23 20:44:18]: <0x5A02> Deadman disabled. {6e384051}
+[03/15/23 20:44:18]: <0x5A03> Deadman validated {81356fa5}
+[03/15/23 20:44:23]: <0x5A02> Deadman disabled. {3ba8c1d2}
+[03/15/23 20:44:23]: <0x5A03> Deadman validated {b84b0679}
+[03/15/23 20:44:23]: <0x4001> Arm power enable request refused: cabinet working mode is remote or invalid. {f4424614}
+[03/15/23 20:44:58]: <0x2402> COM-PC: create session 127.0.0.1 on port 50761 id=#50133104 {f4dc3140}
+[03/15/23 20:44:58]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {03e1899c}
+[03/15/23 20:44:58]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {364c2860}
+[03/15/23 20:44:58]: <0x5403> test application stopped {760c8a66}
+[03/15/23 20:44:58]: <0x5402> test application started {13c318ac}
+[03/15/23 20:44:58]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50761 id=#50133104 {a4a46ace}
+[03/15/23 20:45:08]: <0x5A02> Deadman disabled. {5c176d73}
+[03/15/23 20:45:08]: <0x5A03> Deadman validated {137815cf}
+[03/15/23 20:45:09]: <0x4001> Arm power enable request refused: cabinet working mode is remote or invalid. {8d5a418b}
+[03/15/23 20:45:19]: <0x5A02> Deadman disabled. {bfd833e9}
+[03/15/23 20:45:19]: <0x5A03> Deadman validated {f290e6eb}
+[03/15/23 20:45:19]: <0x4001> Arm power enable request refused: cabinet working mode is remote or invalid. {90e2b9ea}
+[03/15/23 20:46:19]: <0x5A01> Deadman enabled. {894043dc}
+[03/15/23 20:46:46]: <0x5A02> Deadman disabled. {abf2c99e}
+[03/15/23 20:46:46]: <0x5A03> Deadman validated {fca401ed}
+[03/15/23 20:46:46]: <0x4001> Arm power enable request refused: cabinet working mode is remote or invalid. {edf31531}
+[03/15/23 20:47:15]: <0x5A01> Deadman enabled. {90e52404}
+[03/15/23 20:47:20]: <0x2402> COM-PC: create session 127.0.0.1 on port 50761 id=#50135704 {c47f94e5}
+[03/15/23 20:47:20]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {fbb9b625}
+[03/15/23 20:47:20]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {8a698e32}
+[03/15/23 20:47:20]: <0x5403> test application stopped {1499caef}
+[03/15/23 20:47:20]: <0x5402> test application started {4dc14fc1}
+[03/15/23 20:47:20]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50761 id=#50135704 {b4c42ed1}
+[03/15/23 20:47:23]: <0x5A02> Deadman disabled. {a063d39d}
+[03/15/23 20:47:24]: <0x1801> Working mode:automatic. {331acda0}
+[03/15/23 20:47:24]: <0x5A03> Deadman validated {54cd73ba}
+[03/15/23 20:47:24]: <0x1603> Settling arm power... {d4511a6e}
+[03/15/23 20:47:25]: <0x1601> Arm power settled. {a1eb8394}
+[03/15/23 20:47:33]: <0x5403> test application stopped {702c0f0b}
+[03/15/23 20:47:34]: <0x2401> Saving controller context... {cb88d31d}
+[03/15/23 20:47:36]: <0x5A02> Deadman disabled. {6014c043}
+[03/15/23 20:47:36]: <0x1627> Arm power shutdown: working mode change. {0ac16ad7}
+[03/15/23 20:47:36]: <0x1604> Arm power shutdown... {049fd07c}
+[03/15/23 20:47:39]: <0x1802> Working mode:manual. {8e7bf8af}
+[03/15/23 20:47:39]: <0x3F15> Jog mode cannot be selected: first enable arm power. {3f21beac}
+[03/15/23 20:47:42]: <0x2401> Saving controller context... {d8a34172}
+[03/15/23 20:47:42]: <0x1602> End of arm power shutdown phase. {93061be5}
+[03/15/23 20:48:04]: <0x3F15> Jog mode cannot be selected: first enable arm power. {39d9d87b}
+[03/15/23 20:48:21]: <0x5A03> Deadman validated {2b7f5684}
+[03/15/23 20:48:21]: <0x4001> Arm power enable request refused: cabinet working mode is remote or invalid. {d89b5476}
+[03/15/23 20:48:22]: <0x1803> Working mode:test. {76ca7fcc}
+[03/15/23 20:48:22]: <0x5A02> Deadman disabled. {e6915ee6}
+[03/15/23 20:48:26]: <0x2401> Saving controller context... {3edb23e8}
+[03/15/23 20:48:51]: <0x2402> COM-PC: create session 127.0.0.1 on port 53232 id=#50134352 {fc0feb6d}
+[03/15/23 20:48:51]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {8a488cf6}
+[03/15/23 20:48:51]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {a767574d}
+[03/15/23 20:48:52]: <0x5402> test application started {0b91819c}
+[03/15/23 20:48:52]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53232 id=#50134352 {78c09437}
+[03/15/23 20:49:02]: <0x1804> Working mode:remote. {109f05c1}
+[03/15/23 20:49:02]: <0x1801> Working mode:automatic. {64b3d056}
+[03/15/23 20:49:03]: <0x5A03> Deadman validated {1a1c117d}
+[03/15/23 20:49:03]: <0x1603> Settling arm power... {8ceefa4d}
+[03/15/23 20:49:03]: <0x1601> Arm power settled. {fa39fb0d}
+[03/15/23 20:49:08]: <0x5A02> Deadman disabled. {689c9bfd}
+[03/15/23 20:49:08]: <0x1627> Arm power shutdown: working mode change. {e137170d}
+[03/15/23 20:49:08]: <0x1604> Arm power shutdown... {fef3924e}
+[03/15/23 20:49:11]: <0x1802> Working mode:manual. {d0122923}
+[03/15/23 20:49:12]: <0x3F15> Jog mode cannot be selected: first enable arm power. {24dafa46}
+[03/15/23 20:49:13]: <0x3F15> Jog mode cannot be selected: first enable arm power. (3) {64c4d64c}
+[03/15/23 20:49:13]: <0x2401> Saving controller context... {1fb59631}
+[03/15/23 20:49:14]: <0x3F15> Jog mode cannot be selected: first enable arm power. {ec7b4b78}
+[03/15/23 20:49:14]: <0x3F15> Jog mode cannot be selected: first enable arm power. (2) {9c4483a2}
+[03/15/23 20:49:15]: <0x1602> End of arm power shutdown phase. {57123b95}
+[03/15/23 20:49:16]: <0x5A03> Deadman validated {b99f13d0}
+[03/15/23 20:49:16]: <0x1603> Settling arm power... {8f6cf08f}
+[03/15/23 20:49:18]: <0x1601> Arm power settled. {a83c0230}
+[03/15/23 20:49:19]: <0x3F1B> Manual motion mode:Connect {4a4b3194}
+[03/15/23 20:49:23]: <0x3F1B> Manual motion mode:Disabled {574d7f8c}
+[03/15/23 20:49:23]: <0x3F10> End of connection move. {61b1688d}
+[03/15/23 20:49:24]: <0x2401> Saving controller context... {e5beca42}
+[03/15/23 20:49:47]: <0x2401> Saving controller context... (3) {50ba72e7}
+[03/15/23 20:49:53]: <0x5A02> Deadman disabled. {b412a96a}
+[03/15/23 20:49:53]: <0x1604> Arm power shutdown... {c04fb733}
+[03/15/23 20:49:53]: <0x3F08> Cannot apply arm power: press and hold the deadman switch. {f1ce734d}
+[03/15/23 20:49:53]: <0x5A03> Deadman validated {e44e76c5}
+[03/15/23 20:49:53]: <0x2401> Saving controller context... {bd5de4be}
+[03/15/23 20:49:53]: <0x3F04> Cannot apply arm power: arm power is still in disabling phase. {a1f82d64}
+[03/15/23 20:49:54]: <0x1602> End of arm power shutdown phase. {4d1a6d00}
+[03/15/23 20:50:09]: <0x5A01> Deadman enabled. {5db49626}
+[03/15/23 20:50:49]: <0x2402> MCP communication disconnected {a121ce88}
+[03/15/23 20:54:57]: <0x2402> COM-PC: create session 127.0.0.1 on port 53273 id=#50133416 {952fbae5}
+[03/15/23 20:54:58]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0db4e202}
+[03/15/23 20:54:58]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {8c08049a}
+[03/15/23 20:54:58]: <0x5403> test application stopped {e769e3f6}
+[03/15/23 20:54:58]: <0x5402> test application started {25967637}
+[03/15/23 20:54:58]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53273 id=#50133416 {70164f5d}
+[03/15/23 20:55:00]: <0x2402> Mcp = TSimulated {b7571d45}
+[03/15/23 20:55:00]: <0x340A> Mcp communication established {9db1d83d}
+[03/15/23 20:55:00]: <0x5A02> Deadman disabled. {6ad6ffe2}
+[03/15/23 20:55:01]: <0x1802> Working mode:manual. {3ec4e4b6}
+[03/15/23 20:55:05]: <0x5A03> Deadman validated {faf6808b}
+[03/15/23 20:55:12]: <0x1603> Settling arm power... {6bc355f8}
+[03/15/23 20:55:14]: <0x3F15> Jog mode cannot be selected: first enable arm power. {6540f9dd}
+[03/15/23 20:55:14]: <0x1601> Arm power settled. {eec4a131}
+[03/15/23 20:55:17]: <0x2401> Saving controller context... {83655d4a}
+[03/15/23 20:55:59]: <0x2401> Saving controller context... (6) {f1d7948d}
+[03/15/23 20:56:06]: <0x5A01> Deadman enabled. {dc821938}
+[03/15/23 20:56:07]: <0x2401> Saving controller context... {6d6b846f}
+[03/15/23 21:00:23]: <0x2401> Saving controller context... (36) {d3d67363}
+[03/15/23 21:00:25]: <0x2402> COM-PC: create session 127.0.0.1 on port 53273 id=#50134872 {93ad488d}
+[03/15/23 21:00:25]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a9616f60}
+[03/15/23 21:00:25]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {f81c773c}
+[03/15/23 21:00:26]: <0x5403> test application stopped {e13ec61e}
+[03/15/23 21:00:26]: <0x5402> test application started {4fd5e189}
+[03/15/23 21:00:26]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53273 id=#50134872 {e5fbd1c3}
+[03/15/23 21:00:31]: <0x2401> Saving controller context... {b90f0ebd}
+[03/15/23 21:01:41]: <0x2401> Saving controller context... (10) {62132942}
+[03/15/23 21:01:47]: <0x5A02> Deadman disabled. {39ab64bd}
+[03/15/23 21:01:47]: <0x1604> Arm power shutdown... {ae16bd55}
+[03/15/23 21:01:47]: <0x3F08> Cannot apply arm power: press and hold the deadman switch. {1c5ca16d}
+[03/15/23 21:01:47]: <0x5A03> Deadman validated {1f4e557a}
+[03/15/23 21:01:47]: <0x3F04> Cannot apply arm power: arm power is still in disabling phase. {19fd8459}
+[03/15/23 21:01:48]: <0x1602> End of arm power shutdown phase. {56841fa8}
+[03/15/23 21:01:49]: <0x2401> Saving controller context... {0d3c9b48}
+[03/15/23 21:01:49]: <0x5A02> Deadman disabled. {b16c7e85}
+[03/15/23 21:01:50]: <0x1803> Working mode:test. {2aacfe0a}
+[03/15/23 21:01:50]: <0x1803> Working mode:test. (1) {5a6aac71}
+[03/15/23 21:01:51]: <0x1804> Working mode:remote. {c5c950fc}
+[03/15/23 21:01:52]: <0x1801> Working mode:automatic. {ba83f747}
+[03/15/23 21:01:52]: <0x1603> Settling arm power... {0953041e}
+[03/15/23 21:01:53]: <0x1601> Arm power settled. {82e61301}
+[03/15/23 21:01:53]: <0x3F1B> Manual motion mode:Connect {200a8a9f}
+[03/15/23 21:02:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 53469 id=#50134560 {8feb057a}
+[03/15/23 21:02:04]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {63fa483e}
+[03/15/23 21:02:04]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {2097d5a6}
+[03/15/23 21:02:04]: <0x3F1B> Manual motion mode:Disabled {b908e4bd}
+[03/15/23 21:02:04]: <0x5403> test application stopped {4606106b}
+[03/15/23 21:02:04]: <0x3F10> End of connection move. {cda3d3df}
+[03/15/23 21:02:04]: <0x5402> test application started {c78b89f8}
+[03/15/23 21:02:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53469 id=#50134560 {3f1c589f}
+[03/15/23 21:02:04]: <0x2401> Saving controller context... {515c9121}
+[03/15/23 21:02:17]: <0x5A03> Deadman validated {ea6d9b9d}
+[03/15/23 21:02:17]: <0x3F04> Cannot apply arm power: arm power is still in disabling phase. {fca50e2b}
+[03/15/23 21:02:17]: <0x1604> Arm power shutdown... {e382960d}
+[03/15/23 21:02:20]: <0x2401> Saving controller context... {acaafbed}
+[03/15/23 21:02:21]: <0x1602> End of arm power shutdown phase. {c146ac27}
+[03/15/23 21:02:25]: <0x5A02> Deadman disabled. {7e8ae4a7}
+[03/15/23 21:02:25]: <0x5A03> Deadman validated {5973488c}
+[03/15/23 21:02:25]: <0x1603> Settling arm power... {c1766f34}
+[03/15/23 21:02:27]: <0x1601> Arm power settled. {754441b2}
+[03/15/23 21:02:29]: <0x3F1B> Manual motion mode:Connect {7d6dcedb}
+[03/15/23 21:02:29]: <0x5A02> Deadman disabled. {f88139dc}
+[03/15/23 21:02:29]: <0x1627> Arm power shutdown: working mode change. {6bef335a}
+[03/15/23 21:02:29]: <0x1604> Arm power shutdown... {10f5eccc}
+[03/15/23 21:02:29]: <0x3F1B> Manual motion mode:Disabled {fec954ab}
+[03/15/23 21:02:31]: <0x1802> Working mode:manual. {6ff4112b}
+[03/15/23 21:02:32]: <0x3F15> Jog mode cannot be selected: first enable arm power. {0a2bb6ba}
+[03/15/23 21:02:33]: <0x3F15> Jog mode cannot be selected: first enable arm power. (1) {7e2d18b0}
+[03/15/23 21:02:34]: <0x1602> End of arm power shutdown phase. {f1514a1d}
+[03/15/23 21:02:36]: <0x2401> Saving controller context... {98fd4ca0}
+[03/15/23 21:02:38]: <0x5A03> Deadman validated {8de3e2b5}
+[03/15/23 21:02:38]: <0x1603> Settling arm power... {a1aeceed}
+[03/15/23 21:02:40]: <0x1601> Arm power settled. {5674df59}
+[03/15/23 21:02:41]: <0x3F15> Jog mode cannot be selected: first enable arm power. {4070c925}
+[03/15/23 21:02:41]: <0x3F1B> Manual motion mode:Connect {fe94c86e}
+[03/15/23 21:02:46]: <0x3F1B> Manual motion mode:Disabled {0da2c1eb}
+[03/15/23 21:02:46]: <0x3F10> End of connection move. {8e4c8e4f}
+[03/15/23 21:02:49]: <0x2401> Saving controller context... {9bc1a4dc}
+[03/15/23 21:03:02]: <0x2401> Saving controller context... (2) {44d66cd1}
+[03/15/23 21:03:09]: <0x5A02> Deadman disabled. {2fde28f8}
+[03/15/23 21:03:09]: <0x1604> Arm power shutdown... {a8548283}
+[03/15/23 21:03:09]: <0x3F08> Cannot apply arm power: press and hold the deadman switch. {01285069}
+[03/15/23 21:03:09]: <0x5A03> Deadman validated {bd6daa7c}
+[03/15/23 21:03:09]: <0x3F04> Cannot apply arm power: arm power is still in disabling phase. {0725d35f}
+[03/15/23 21:03:09]: <0x2401> Saving controller context... {ec2dec9e}
+[03/15/23 21:03:11]: <0x1602> End of arm power shutdown phase. {1603be37}
+[03/15/23 21:03:26]: <0x5A01> Deadman enabled. {083be4fa}
+[03/15/23 21:06:17]: <0x5A02> Deadman disabled. {c792ff18}
+[03/15/23 21:06:18]: <0x1803> Working mode:test. {bdaf3637}
+[03/15/23 21:06:19]: <0x1804> Working mode:remote. {b8a1b180}
+[03/15/23 21:06:20]: <0x1801> Working mode:automatic. {697c54ae}
+[03/15/23 21:06:20]: <0x5A03> Deadman validated {d05d5134}
+[03/15/23 21:06:20]: <0x1603> Settling arm power... {552536ef}
+[03/15/23 21:06:21]: <0x1601> Arm power settled. {d25562f5}
+[03/15/23 21:06:21]: <0x3F1B> Manual motion mode:Connect {cae4dfd0}
+[03/15/23 21:06:26]: <0x2401> Saving controller context... {c8c1caae}
+[03/15/23 21:06:42]: <0x2401> Saving controller context... (2) {963dae61}
+[03/15/23 21:06:44]: <0x2402> COM-PC: create session 127.0.0.1 on port 53549 id=#50133104 {c6af51a7}
+[03/15/23 21:06:44]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {f4d8ec55}
+[03/15/23 21:06:44]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {5e2489c6}
+[03/15/23 21:06:44]: <0x3F1B> Manual motion mode:Disabled {90d33af0}
+[03/15/23 21:06:44]: <0x5403> test application stopped {c856815e}
+[03/15/23 21:06:44]: <0x3F10> End of connection move. {f4c9ee9a}
+[03/15/23 21:06:44]: <0x5402> test application started {249cebb2}
+[03/15/23 21:06:44]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53549 id=#50133104 {562603d3}
+[03/15/23 21:06:49]: <0x2401> Saving controller context... {ed490e67}
+[03/15/23 21:07:10]: <0x2401> Saving controller context... (1) {48d36397}
+[03/15/23 21:07:16]: <0x5A01> Deadman enabled. {ec78dc4f}
+[03/15/23 21:07:18]: <0x2401> Saving controller context... {19ed2930}
+[03/15/23 21:07:31]: <0x2401> Saving controller context... (2) {abde3ad7}
+[03/15/23 21:07:33]: <0x1604> Arm power shutdown... {16d042cb}
+[03/15/23 21:07:36]: <0x2401> Saving controller context... {f29ec40c}
+[03/15/23 21:07:37]: <0x1602> End of arm power shutdown phase. {5cdcf91e}
+[03/15/23 21:07:39]: <0x5A02> Deadman disabled. {3b48ca21}
+[03/15/23 21:07:39]: <0x5A03> Deadman validated {fd7fd696}
+[03/15/23 21:07:39]: <0x1603> Settling arm power... {f220e46a}
+[03/15/23 21:07:41]: <0x1601> Arm power settled. {98db3812}
+[03/15/23 21:07:43]: <0x3F1B> Manual motion mode:Connect {57eea607}
+[03/15/23 21:07:45]: <0x3F1B> Manual motion mode:Disabled {1767da63}
+[03/15/23 21:07:45]: <0x3F10> End of connection move. {c81d5899}
+[03/15/23 21:07:46]: <0x2401> Saving controller context... {4d5abdc2}
+[03/15/23 21:08:36]: <0x2401> Saving controller context... (7) {5cfca903}
+[03/15/23 21:08:40]: <0x5A01> Deadman enabled. {dd90efe8}
+[03/15/23 21:08:43]: <0x2401> Saving controller context... {740a9395}
+[03/15/23 21:10:16]: <0x2401> Saving controller context... (13) {d6d3c2b0}
+[03/15/23 21:10:20]: <0x5403> test application stopped {237e16b5}
+[03/15/23 21:10:21]: <0x2401> Saving controller context... {e435a410}
+[03/15/23 21:10:26]: <0x2402> COM-PC: create session 127.0.0.1 on port 53549 id=#50134976 {2cb7a48b}
+[03/15/23 21:10:26]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {e4518bb5}
+[03/15/23 21:10:26]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {473bea71}
+[03/15/23 21:10:27]: <0x5402> test application started {b0195232}
+[03/15/23 21:10:27]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53549 id=#50134976 {33ca4502}
+[03/15/23 21:10:29]: <0x2401> Saving controller context... {a8f4d2d6}
+[03/15/23 21:10:35]: <0x5403> test application stopped {0fef2917}
+[03/15/23 21:10:37]: <0x2401> Saving controller context... {55227b45}
+[03/15/23 21:13:07]: <0x2401> Saving controller context... (21) {e33f1039}
+[03/15/23 21:13:12]: <0x5A02> Deadman disabled. {9d6cd489}
+[03/15/23 21:13:12]: <0x5A03> Deadman validated {ce875e32}
+[03/15/23 21:13:13]: <0x1604> Arm power shutdown... {9bc7cae1}
+[03/15/23 21:13:14]: <0x1602> End of arm power shutdown phase. {3671afef}
+[03/15/23 21:13:15]: <0x2401> Saving controller context... {dcf62229}
+[03/15/23 21:13:29]: <0x5A01> Deadman enabled. {5846f0ee}
+[03/15/23 21:14:18]: <0x2402> COM-PC: create session 127.0.0.1 on port 53675 id=#50135704 {c96e1275}
+[03/15/23 21:14:18]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {6d90f617}
+[03/15/23 21:14:18]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {0a5b46d2}
+[03/15/23 21:14:18]: <0x5402> test application started {02afcf27}
+[03/15/23 21:14:19]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53675 id=#50135704 {2401c81c}
+[03/15/23 21:14:22]: <0x5A02> Deadman disabled. {236410ee}
+[03/15/23 21:14:22]: <0x5A03> Deadman validated {f8383cb0}
+[03/15/23 21:14:22]: <0x1603> Settling arm power... {bfb6e6b3}
+[03/15/23 21:14:22]: <0x1601> Arm power settled. {ee78ecbe}
+[03/15/23 21:14:31]: <0x5403> test application stopped {04d93fb2}
+[03/15/23 21:14:31]: <0x2401> Saving controller context... {4ef13025}
+[03/15/23 21:14:39]: <0x2401> Saving controller context... (1) {2672c0fc}
+[03/15/23 21:14:42]: <0x2402> COM-PC: create session 127.0.0.1 on port 53698 id=#50133624 {a60d5c91}
+[03/15/23 21:14:42]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {bffb3bb6}
+[03/15/23 21:14:42]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {1a45b5be}
+[03/15/23 21:14:42]: <0x5402> test application started {93489f82}
+[03/15/23 21:14:42]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53698 id=#50133624 {e6f51073}
+[03/15/23 21:14:47]: <0x2401> Saving controller context... {5dfe9ee5}
+[03/15/23 21:14:52]: <0x2401> Saving controller context... (1) {fcd85b21}
+[03/15/23 21:14:57]: <0x5A02> Deadman disabled. {bbf81d7d}
+[03/15/23 21:14:57]: <0x1627> Arm power shutdown: working mode change. {da71b026}
+[03/15/23 21:14:57]: <0x1604> Arm power shutdown... {bdb417b1}
+[03/15/23 21:14:59]: <0x1802> Working mode:manual. {f7fe195e}
+[03/15/23 21:15:02]: <0x3F15> Jog mode cannot be selected: first enable arm power. {d691d44f}
+[03/15/23 21:15:02]: <0x1602> End of arm power shutdown phase. {11fec626}
+[03/15/23 21:15:03]: <0x2401> Saving controller context... {987c955b}
+[03/15/23 21:15:08]: <0x1803> Working mode:test. {85d3f2a0}
+[03/15/23 21:15:11]: <0x5A03> Deadman validated {d33d63a2}
+[03/15/23 21:15:11]: <0x2401> Saving controller context... {91d6aa8f}
+[03/15/23 21:15:14]: <0x5A02> Deadman disabled. {8d7a92f4}
+[03/15/23 21:15:16]: <0x1804> Working mode:remote. {2bf49a34}
+[03/15/23 21:15:19]: <0x2401> Saving controller context... {2dffe96e}
+[03/15/23 21:15:20]: <0x1801> Working mode:automatic. {4105076b}
+[03/15/23 21:15:23]: <0x1802> Working mode:manual. {32a466f3}
+[03/15/23 21:15:24]: <0x5A03> Deadman validated {496c937d}
+[03/15/23 21:15:24]: <0x1603> Settling arm power... {9ce6e75c}
+[03/15/23 21:15:26]: <0x1601> Arm power settled. {bb86babb}
+[03/15/23 21:15:27]: <0x2401> Saving controller context... {9288af25}
+[03/15/23 21:15:28]: <0x3F1B> Manual motion mode:Connect {7d60e098}
+[03/15/23 21:15:29]: <0x3F1B> Manual motion mode:Disabled {188c398e}
+[03/15/23 21:15:29]: <0x3F10> End of connection move. {ba4bd905}
+[03/15/23 21:15:37]: <0x2401> Saving controller context... {b74e8989}
+[03/15/23 21:15:53]: <0x2401> Saving controller context... (2) {7a72bd30}
+[03/15/23 21:15:55]: <0x5A02> Deadman disabled. {38f26fe1}
+[03/15/23 21:15:55]: <0x1604> Arm power shutdown... {5512122d}
+[03/15/23 21:15:55]: <0x3F08> Cannot apply arm power: press and hold the deadman switch. {6f873da7}
+[03/15/23 21:15:55]: <0x5A03> Deadman validated {8b7effd6}
+[03/15/23 21:15:55]: <0x3F04> Cannot apply arm power: arm power is still in disabling phase. {a1a260f5}
+[03/15/23 21:15:56]: <0x1602> End of arm power shutdown phase. {21f02053}
+[03/15/23 21:15:58]: <0x2401> Saving controller context... {9cfb638c}
+[03/15/23 21:16:11]: <0x5A01> Deadman enabled. {ad08f518}
+[03/15/23 21:16:22]: <0x2402> COM-PC: create session 127.0.0.1 on port 53725 id=#50134144 {681a39b2}
+[03/15/23 21:16:22]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {24a3ad5f}
+[03/15/23 21:16:22]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {47e85189}
+[03/15/23 21:16:22]: <0x5403> test application stopped {0e5f3b49}
+[03/15/23 21:16:22]: <0x5402> test application started {04d5fc71}
+[03/15/23 21:16:22]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53725 id=#50134144 {18be5d21}
+[03/15/23 21:16:26]: <0x3F15> Jog mode cannot be selected: first enable arm power. {50ed4a03}
+[03/15/23 21:16:27]: <0x3F15> Jog mode cannot be selected: first enable arm power. (2) {f8146e18}
+[03/15/23 21:16:29]: <0x5A02> Deadman disabled. {755b60da}
+[03/15/23 21:16:30]: <0x1803> Working mode:test. {5d6744ef}
+[03/15/23 21:16:31]: <0x1804> Working mode:remote. {f3948b9a}
+[03/15/23 21:16:32]: <0x1801> Working mode:automatic. {12ab2553}
+[03/15/23 21:16:33]: <0x5A03> Deadman validated {77f49fe5}
+[03/15/23 21:16:35]: <0x2401> Saving controller context... {25eb9b96}
+[03/15/23 21:16:48]: <0x5A02> Deadman disabled. {e2383d43}
+[03/15/23 21:16:48]: <0x5A03> Deadman validated {e17718e4}
+[03/15/23 21:16:48]: <0x1603> Settling arm power... {8111e61c}
+[03/15/23 21:16:50]: <0x1601> Arm power settled. {970ffc55}
+[03/15/23 21:16:56]: <0x2401> Saving controller context... {aee5d568}
+[03/15/23 21:17:09]: <0x2401> Saving controller context... (1) {0f68c172}
+[03/15/23 21:17:11]: <0x5403> test application stopped {d187dce9}
+[03/15/23 21:17:14]: <0x5A02> Deadman disabled. {c864f12c}
+[03/15/23 21:17:14]: <0x1627> Arm power shutdown: working mode change. {497e8230}
+[03/15/23 21:17:14]: <0x1604> Arm power shutdown... {2432266e}
+[03/15/23 21:17:17]: <0x1803> Working mode:test. {c3db5985}
+[03/15/23 21:17:19]: <0x2401> Saving controller context... {431e1331}
+[03/15/23 21:17:20]: <0x1602> End of arm power shutdown phase. {161f3cfa}
+[03/15/23 21:17:23]: <0x3F12> Cannot apply arm power: release & press deadman to enable arm power request. {134ef3bb}
+[03/15/23 21:17:27]: <0x5A03> Deadman validated {42fe23e8}
+[03/15/23 21:17:27]: <0x1603> Settling arm power... {cdcc7433}
+[03/15/23 21:17:28]: <0x5A02> Deadman disabled. {1ef8190e}
+[03/15/23 21:17:28]: <0x1604> Arm power shutdown... {9f37d521}
+[03/15/23 21:17:28]: <0x3F08> Cannot apply arm power: press and hold the deadman switch. {6c16045f}
+[03/15/23 21:17:28]: <0x5A03> Deadman validated {2bab5fa2}
+[03/15/23 21:17:32]: <0x3F15> Jog mode cannot be selected: first enable arm power. {01e799b7}
+[03/15/23 21:17:32]: <0x1602> End of arm power shutdown phase. {eb14267e}
+[03/15/23 21:17:35]: <0x5A02> Deadman disabled. {396b874a}
+[03/15/23 21:17:35]: <0x5A03> Deadman validated {d6227a25}
+[03/15/23 21:17:36]: <0x1603> Settling arm power... {fa04411c}
+[03/15/23 21:17:38]: <0x1601> Arm power settled. {b94b2721}
+[03/15/23 21:17:38]: <0x3F15> Jog mode cannot be selected: first enable arm power. {25441e46}
+[03/15/23 21:17:48]: <0x2401> Saving controller context... {7abf18e8}
+[03/15/23 21:17:52]: <0x5A02> Deadman disabled. {c5ed09dd}
+[03/15/23 21:17:52]: <0x1627> Arm power shutdown: working mode change. {0b105d36}
+[03/15/23 21:17:52]: <0x1604> Arm power shutdown... {557d5c5d}
+[03/15/23 21:17:53]: <0x2401> Saving controller context... {965016c1}
+[03/15/23 21:17:54]: <0x1804> Working mode:remote. {35140059}
+[03/15/23 21:17:57]: <0x1602> End of arm power shutdown phase. {addc203a}
+[03/15/23 21:17:58]: <0x1801> Working mode:automatic. {be4fbea7}
+[03/15/23 21:18:01]: <0x2401> Saving controller context... {413bc36f}
+[03/15/23 21:18:02]: <0x2402> COM-PC: create session 127.0.0.1 on port 53741 id=#50134040 {4f6bb7d9}
+[03/15/23 21:18:02]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0c102d0e}
+[03/15/23 21:18:02]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {dcad4cf6}
+[03/15/23 21:18:02]: <0x5402> test application started {16d3c460}
+[03/15/23 21:18:02]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53741 id=#50134040 {0fd11326}
+[03/15/23 21:18:07]: <0x5A03> Deadman validated {c4055e54}
+[03/15/23 21:18:07]: <0x1603> Settling arm power... {0901a1b8}
+[03/15/23 21:18:09]: <0x1601> Arm power settled. {4278d7d1}
+[03/15/23 21:18:17]: <0x2401> Saving controller context... {0b20af47}
+[03/15/23 21:19:06]: <0x2401> Saving controller context... (6) {58bf3d47}
+[03/15/23 21:19:08]: <0x5A01> Deadman enabled. {1975e6af}
+[03/15/23 21:19:14]: <0x2401> Saving controller context... {91664576}
+[03/15/23 21:19:34]: <0x2401> Saving controller context... (3) {8db2face}
+[03/15/23 21:19:40]: <0x5A02> Deadman disabled. {ed8c7ea3}
+[03/15/23 21:19:40]: <0x5A03> Deadman validated {ad6da61c}
+[03/15/23 21:19:41]: <0x1604> Arm power shutdown... {f0146374}
+[03/15/23 21:19:42]: <0x1602> End of arm power shutdown phase. {506e18ca}
+[03/15/23 21:19:42]: <0x2401> Saving controller context... {fd2031fc}
+[03/15/23 21:19:57]: <0x5A01> Deadman enabled. {02e26e26}
+[03/15/23 21:19:59]: <0x2402> COM-PC: create session 127.0.0.1 on port 53793 id=#50134768 {4e58a000}
+[03/15/23 21:19:59]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {59fb7414}
+[03/15/23 21:19:59]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {ead8362d}
+[03/15/23 21:19:59]: <0x5403> test application stopped {31150ab7}
+[03/15/23 21:20:00]: <0x2402> COM-PC: create session 127.0.0.1 on port 53793 id=#50133416 {c598809d}
+[03/15/23 21:20:00]: <0x5402> test application started {680687c0}
+[03/15/23 21:20:00]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53793 id=#50134768 {e5db3080}
+[03/15/23 21:20:02]: <0x2402> MCP communication disconnected {e51c1f45}
+[03/15/23 21:20:07]: <0x2402> Mcp = TSimulated {828c8324}
+[03/15/23 21:20:07]: <0x340A> Mcp communication established {a79279f2}
+[03/15/23 21:20:07]: <0x5A02> Deadman disabled. {239d1a39}
+[03/15/23 21:20:07]: <0x1801> Working mode:automatic. {58f04a6e}
+[03/15/23 21:20:21]: <0x5A03> Deadman validated {b063b17a}
+[03/15/23 21:20:22]: <0x1603> Settling arm power... {567564a8}
+[03/15/23 21:20:22]: <0x1601> Arm power settled. {4da73a93}
+[03/15/23 21:20:34]: <0x5A02> Deadman disabled. {e01be135}
+[03/15/23 21:20:34]: <0x1627> Arm power shutdown: working mode change. {b1fb2a94}
+[03/15/23 21:20:34]: <0x1604> Arm power shutdown... {2cc949ee}
+[03/15/23 21:20:35]: <0x1802> Working mode:manual. {a399cfc5}
+[03/15/23 21:20:35]: <0x1602> End of arm power shutdown phase. {47b709e2}
+[03/15/23 21:20:38]: <0x5A03> Deadman validated {0820a11e}
+[03/15/23 21:20:38]: <0x1603> Settling arm power... {6aa5a89b}
+[03/15/23 21:20:38]: <0x1601> Arm power settled. {580f153b}
+[03/15/23 21:20:39]: <0x3F1B> Manual motion mode:Connect {1e008c0c}
+[03/15/23 21:20:54]: <0x5A01> Deadman enabled. {b0d507c8}
+[03/15/23 21:21:36]: <0x3F1B> Manual motion mode:Disabled {165c9622}
+[03/15/23 21:21:36]: <0x3F10> End of connection move. {1255dcfe}
+[03/15/23 21:21:49]: <0x5403> test application stopped {c44bbf69}
+[03/15/23 21:21:56]: <0x5A02> Deadman disabled. {c7703ea5}
+[03/15/23 21:21:56]: <0x1627> Arm power shutdown: working mode change. {bdfcf114}
+[03/15/23 21:21:56]: <0x1604> Arm power shutdown... {de4b49cc}
+[03/15/23 21:21:56]: <0x1803> Working mode:test. {4d836fc6}
+[03/15/23 21:21:57]: <0x1602> End of arm power shutdown phase. {d568e10b}
+[03/15/23 21:21:57]: <0x1804> Working mode:remote. {1fe23e38}
+[03/15/23 21:21:58]: <0x1801> Working mode:automatic. {13696528}
+[03/15/23 21:21:58]: <0x5A03> Deadman validated {65962d53}
+[03/15/23 21:21:59]: <0x1603> Settling arm power... {cf9fe00c}
+[03/15/23 21:21:59]: <0x1601> Arm power settled. {6f1c9768}
+[03/15/23 21:22:06]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53793 id=#50133416 {aebfab63}
+[03/15/23 21:22:06]: <0x5A02> Deadman disabled. {31810cb8}
+[03/15/23 21:22:06]: <0x5A03> Deadman validated {5a1b16c2}
+[03/15/23 21:22:07]: <0x1604> Arm power shutdown... {1cac72d3}
+[03/15/23 21:22:07]: <0x2402> MCP communication disconnected {63e5811f}
+[03/15/23 21:22:08]: <0x1602> End of arm power shutdown phase. {32d106f3}
+[03/15/23 21:22:09]: <0x2402> Mcp = TSimulated {85fcd7b5}
+[03/15/23 21:22:09]: <0x340A> Mcp communication established {200f1398}
+[03/15/23 21:22:09]: <0x5A02> Deadman disabled. {38c1e7b2}
+[03/15/23 21:22:09]: <0x1801> Working mode:automatic. {c5ad3b18}
+[03/15/23 21:22:10]: <0x2401> Saving controller context... {bc9a3d8d}
+[03/15/23 21:23:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 53876 id=#50135392 {c5c09ea4}
+[03/15/23 21:23:04]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {1fb31dde}
+[03/15/23 21:23:04]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {24b30b27}
+[03/15/23 21:23:04]: <0x5402> test application started {be71eb3f}
+[03/15/23 21:23:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53876 id=#50135392 {92764c6d}
+[03/15/23 21:23:07]: <0x5A03> Deadman validated {a08a163f}
+[03/15/23 21:23:20]: <0x2402> COM-PC: create session 127.0.0.1 on port 53899 id=#50133208 {6b599f62}
+[03/15/23 21:23:20]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0ddbc517}
+[03/15/23 21:23:20]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {9cc3ea88}
+[03/15/23 21:23:20]: <0x5403> test application stopped {6960b291}
+[03/15/23 21:23:21]: <0x5402> test application started {0b909ac6}
+[03/15/23 21:23:21]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53899 id=#50133208 {cf5116cb}
+[03/15/23 21:23:31]: <0x2402> MCP communication disconnected {43c8e881}
+[03/15/23 21:23:52]: <0x2402> COM-PC: create session 127.0.0.1 on port 53899 id=#50135704 {253a3fa6}
+[03/15/23 21:23:52]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {eea419a8}
+[03/15/23 21:23:52]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {a9c00ca3}
+[03/15/23 21:23:52]: <0x5403> test application stopped {505ace0c}
+[03/15/23 21:23:52]: <0x5402> test application started {55f7e4b8}
+[03/15/23 21:23:52]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53899 id=#50135704 {f528cd9f}
+[03/15/23 21:23:54]: <0x2402> Mcp = TSimulated {e5153b46}
+[03/15/23 21:23:54]: <0x340A> Mcp communication established {304b7c64}
+[03/15/23 21:23:54]: <0x5A02> Deadman disabled. {98d498c5}
+[03/15/23 21:23:55]: <0x1801> Working mode:automatic. {5fd5cfbd}
+[03/15/23 21:24:00]: <0x5A03> Deadman validated {1761d2a3}
+[03/15/23 21:24:01]: <0x1603> Settling arm power... {6a4adffb}
+[03/15/23 21:24:03]: <0x1601> Arm power settled. {b5d5245d}
+[03/15/23 21:24:25]: <0x2401> Saving controller context... {f3f652fe}
+[03/15/23 21:24:33]: <0x2401> Saving controller context... (1) {67a58793}
+[03/15/23 21:24:34]: <0x5403> test application stopped {0da9b376}
+[03/15/23 21:24:41]: <0x2401> Saving controller context... {d006edd8}
+[03/15/23 21:24:43]: <0x1604> Arm power shutdown... {5a58de23}
+[03/15/23 21:24:43]: <0x5A02> Deadman disabled. {93afd3d5}
+[03/15/23 21:24:43]: <0x5A03> Deadman validated {331a4275}
+[03/15/23 21:24:44]: <0x1602> End of arm power shutdown phase. {efffe9d4}
+[03/15/23 21:24:46]: <0x2401> Saving controller context... {aeb16181}
+[03/15/23 21:25:00]: <0x5A01> Deadman enabled. {5afb0a51}
+[03/15/23 21:27:21]: <0x5A02> Deadman disabled. {e9928c50}
+[03/15/23 21:27:21]: <0x5A03> Deadman validated {c7128b60}
+[03/15/23 21:27:21]: <0x1603> Settling arm power... {4209e363}
+[03/15/23 21:27:22]: <0x1601> Arm power settled. {7d3d4773}
+[03/15/23 21:27:27]: <0x2402> COM-PC: create session 127.0.0.1 on port 53983 id=#50133728 {c4bcb514}
+[03/15/23 21:27:27]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {07adb1d1}
+[03/15/23 21:27:27]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {7b2fa265}
+[03/15/23 21:27:27]: <0x5402> test application started {806f6ea0}
+[03/15/23 21:27:27]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53983 id=#50133728 {541eb921}
+[03/15/23 21:27:33]: <0x2401> Saving controller context... {d71708da}
+[03/15/23 21:28:02]: <0x2401> Saving controller context... (3) {8c9eb72d}
+[03/15/23 21:28:02]: <0x5403> test application stopped {2e7c0646}
+[03/15/23 21:28:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 53983 id=#50135288 {21404e6b}
+[03/15/23 21:28:04]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {d240b8ed}
+[03/15/23 21:28:04]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c23181bf}
+[03/15/23 21:28:05]: <0x5402> test application started {53c4ebfb}
+[03/15/23 21:28:05]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53983 id=#50135288 {1eb410b5}
+[03/15/23 21:28:07]: <0x2401> Saving controller context... {a1566f4b}
+[03/15/23 21:28:17]: <0x5A01> Deadman enabled. {b44fbd6f}
+[03/15/23 21:28:26]: <0x5403> test application stopped {2f75fffa}
+[03/15/23 21:28:35]: <0x2401> Saving controller context... {85178412}
+[03/15/23 21:36:24]: <0x2401> Saving controller context... (65) {a03a722a}
+[03/15/23 21:36:25]: <0x5A02> Deadman disabled. {a51220cf}
+[03/15/23 21:36:25]: <0x5A03> Deadman validated {4299ca09}
+[03/15/23 21:36:25]: <0x1604> Arm power shutdown... {f76c4684}
+[03/15/23 21:36:26]: <0x1602> End of arm power shutdown phase. {6e957bc6}
+[03/15/23 21:36:29]: <0x2401> Saving controller context... {69c69746}
+[03/15/23 21:36:41]: <0x5A01> Deadman enabled. {2c37f47a}
+[03/16/23 10:35:45]: ----------------------------------------------- {fdac082b}
+[03/16/23 10:35:45]: Logger started (1048576) {0583ada0}
+[03/16/23 10:35:50]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {a78936a6}
+[03/16/23 10:35:50]: <0x0003> Cycle time set to 0.004s {5c4fd3f6}
+[03/16/23 10:35:50]: <0x0003> Simulation cycle time set to 0.1s {77bb958a}
+[03/16/23 10:35:50]: <0x0002> Controller IP address could not be updated {0a3107e2}
+[03/16/23 10:35:50]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {43e79e7f}
+[03/16/23 10:35:50]: <0x0003> Mcp = TSimulated {fa0fa098}
+[03/16/23 10:35:50]: <0x340A> Mcp communication established {c9fd3d5c}
+[03/16/23 10:35:50]: <0x0002> Default user payload used. {5e82939f}
+[03/16/23 10:35:50]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {33083223}
+[03/16/23 10:35:50]: <0x2401> Power hour count = 0:08:28 {40d654f5}
+[03/16/23 10:35:50]: <0x2401> Mac Address = 30-e1-71-27-5c-c4 {36ad3751}
+[03/16/23 10:35:51]: <0x1805> Working mode:invalid. {fee9166a}
+[03/16/23 10:35:51]: <0x1602> End of arm power shutdown phase. {ef472943}
+[03/16/23 10:35:53]: <0x0003> COM-PC: server created on all interfaces [851] {8e95f65b}
+[03/16/23 10:35:56]: <0x0003> MCP communication disconnected {2acabc8a}
+[03/16/23 10:35:57]: ----------------------------------------------- {ea944635}
+[03/16/23 10:35:57]: Logger started (1048576) {8e5df387}
+[03/16/23 10:36:02]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {f11d6ca3}
+[03/16/23 10:36:02]: <0x0003> Cycle time set to 0.004s {8136e6d6}
+[03/16/23 10:36:02]: <0x0003> Simulation cycle time set to 0.1s {750c1fea}
+[03/16/23 10:36:02]: <0x0002> Controller IP address could not be updated {acb16152}
+[03/16/23 10:36:02]: <0x0003> Mcp = TSimulated {9032b5b8}
+[03/16/23 10:36:02]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {bced19f2}
+[03/16/23 10:36:02]: <0x0002> Default user payload used. {ea855ab3}
+[03/16/23 10:36:02]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {36f465f1}
+[03/16/23 10:36:02]: <0x2401> Power hour count = 0:08:28 {22231711}
+[03/16/23 10:36:02]: <0x2401> Mac Address = 30-e1-71-27-5c-c4 {aac826df}
+[03/16/23 10:36:02]: <0x0003> COM-PC: server created on all interfaces [851] {45d1449e}
+[03/16/23 10:36:02]: <0x340A> Mcp communication established {5b426442}
+[03/16/23 10:36:02]: <0x0003> MCP communication disconnected {bf9bd2ed}
+[03/16/23 10:36:02]: <0x2402> History handler has been connected to IHM {4f656302}
+[03/16/23 10:36:02]: <0x2401> System: s7.11.2 Feb 24 2020 {5a75a3c9}
+[03/16/23 10:36:02]: <0x2401> Kernel: Unknown  {b8721335}
+[03/16/23 10:36:02]: <0x2401> Configuration Version: c1.046  {b02d168c}
+[03/16/23 10:36:02]: <0x2401> CPU: TEKNOR  {47c5bfe9}
+[03/16/23 10:36:02]: <0x2401> Option testMode: enabled  {416ffafa}
+[03/16/23 10:36:02]: <0x2401> Option VAL 3: enabled  {3175348a}
+[03/16/23 10:36:02]: <0x2401> Machine Number: ?  {77bd58fd}
+[03/16/23 10:36:02]: <0x2401> Arm: tx60-S1-R4 floor {f43bdfc1}
+[03/16/23 10:36:02]: <0x2401> Arm serial number: ?  {8c15a0e6}
+[03/16/23 10:36:02]: <0x2401> Arm oil type:   {9c6244df}
+[03/16/23 10:36:02]: <0x2401> Robot name:   {5b45a87c}
+[03/16/23 10:36:02]: <0x2401> EP: s7.11.2 Feb 24 2020 {5eb747b1}
+[03/16/23 10:36:02]: <0x2401> EP10: s7.11.2 Feb 24 2020 {2cdeebcd}
+[03/16/23 10:36:02]: <0x2401> SCA: s7.11.2 Feb 24 2020 {5155093b}
+[03/16/23 10:36:02]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {b537e2ab}
+[03/16/23 10:36:02]: <0x2201> New profile : default {f6a868a8}
+[03/16/23 10:36:02]: <0x2401> End of controller initialization 0 {93e04bed}
+[03/16/23 10:36:03]: <0x1602> End of arm power shutdown phase. {ff6c6194}
+[03/16/23 10:36:03]: <0x2402> Mcp = TSimulated {97b13815}
+[03/16/23 10:36:05]: <0x340A> Mcp communication established {97535775}
+[03/16/23 10:36:05]: <0x2402> MCP communication disconnected {45a45cb2}
+[03/16/23 10:37:06]: <0x2402> COM-PC: create session 127.0.0.1 on port 49859 id=#48588624 {a45baf75}
+[03/16/23 18:08:27]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 49859 id=#48588624 {826ac405}
+[03/16/23 20:21:11]: ----------------------------------------------- {d811bb16}
+[03/16/23 20:21:11]: Logger started (1048576) {c1b0e5b6}
+[03/16/23 20:21:16]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {9c4c519c}
+[03/16/23 20:21:16]: <0x0003> Cycle time set to 0.004s {d0152774}
+[03/16/23 20:21:16]: <0x0003> Simulation cycle time set to 0.1s {bf87ccbb}
+[03/16/23 20:21:16]: <0x0002> Controller IP address could not be updated {14ab8473}
+[03/16/23 20:21:16]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {c9c1064f}
+[03/16/23 20:21:16]: <0x0002> Default user payload used. {a234d4d0}
+[03/16/23 20:21:16]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {373fb81f}
+[03/16/23 20:21:16]: <0x2401> Power hour count = 0:08:28 {ecec11fd}
+[03/16/23 20:21:16]: <0x2401> Mac Address = 30-e1-71-27-5c-c4 {555f4a93}
+[03/16/23 20:21:17]: <0x1602> End of arm power shutdown phase. {bb05ef62}
+[03/16/23 20:21:17]: <0x0003> COM-PC: server created on all interfaces [851] {5a6de016}
+[03/16/23 20:21:19]: <0x2402> History handler has been connected to IHM {57e69358}
+[03/16/23 20:21:19]: <0x2401> System: s7.11.2 Feb 24 2020 {a363b806}
+[03/16/23 20:21:19]: <0x2401> Kernel: Unknown  {24a24e4e}
+[03/16/23 20:21:19]: <0x2401> Configuration Version: c1.046  {55791edf}
+[03/16/23 20:21:19]: <0x2401> CPU: TEKNOR  {3fb28c61}
+[03/16/23 20:21:19]: <0x2401> Option testMode: enabled  {3d72a285}
+[03/16/23 20:21:19]: <0x2401> Option VAL 3: enabled  {0df72067}
+[03/16/23 20:21:19]: <0x2401> Machine Number: ?  {098a5356}
+[03/16/23 20:21:19]: <0x2401> Arm: tx60-S1-R4 floor {feb32613}
+[03/16/23 20:21:19]: <0x2401> Arm serial number: ?  {a8a14f82}
+[03/16/23 20:21:19]: <0x2401> Arm oil type:   {98f0613b}
+[03/16/23 20:21:19]: <0x2401> Robot name:   {4a26ec0c}
+[03/16/23 20:21:19]: <0x2401> EP: s7.11.2 Feb 24 2020 {40bc2ad2}
+[03/16/23 20:21:19]: <0x2401> EP10: s7.11.2 Feb 24 2020 {5a471a09}
+[03/16/23 20:21:19]: <0x2401> SCA: s7.11.2 Feb 24 2020 {fa32d35e}
+[03/16/23 20:21:19]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {ad0df2a2}
+[03/16/23 20:21:19]: <0x2201> New profile : default {ace53e21}
+[03/16/23 20:21:19]: <0x2401> End of controller initialization 0 {989b9866}
+[03/16/23 20:21:32]: <0x2402> Mcp = TSimulated {465f8df5}
+[03/16/23 20:21:32]: <0x340A> Mcp communication established {d4171135}
+[03/16/23 20:21:33]: <0x1801> Working mode:automatic. {064cf3af}
+[03/16/23 20:22:45]: <0x2402> COM-PC: create session 127.0.0.1 on port 58115 id=#44478416 {925c700d}
+[03/16/23 20:30:20]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 58115 id=#44478416 {d3539fde}
+[03/16/23 20:30:20]: <0x2402> COM-PC: create session 127.0.0.1 on port 58116 id=#44478936 {c3674a92}
+[03/16/23 20:30:21]: <0x2402> MCP communication disconnected {406658b8}
+[03/17/23 18:48:56]: ----------------------------------------------- {8810f006}
+[03/17/23 18:48:56]: Logger started (1048576) {6e4de288}
+[03/17/23 18:49:00]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {58581ae1}
+[03/17/23 18:49:00]: <0x0003> Cycle time set to 0.004s {3191ec6b}
+[03/17/23 18:49:00]: <0x0003> Simulation cycle time set to 0.1s {9015226b}
+[03/17/23 18:49:00]: <0x0002> Controller IP address could not be updated {88c44ee7}
+[03/17/23 18:49:00]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {33e07124}
+[03/17/23 18:49:00]: <0x0002> Default user payload used. {e3d7eaef}
+[03/17/23 18:49:00]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {dea42271}
+[03/17/23 18:49:00]: <0x2401> Power hour count = 0:08:28 {79beba22}
+[03/17/23 18:49:00]: <0x2401> Mac Address = 3c-a0-67-8c-70-dd {829e600d}
+[03/17/23 18:49:01]: <0x1602> End of arm power shutdown phase. {f7d1c877}
+[03/17/23 18:49:01]: <0x0003> Mcp = TSimulated {ff150451}
+[03/17/23 18:49:01]: <0x340A> Mcp communication established {fed74b5b}
+[03/17/23 18:49:02]: <0x1805> Working mode:invalid. {4146d56b}
+[03/17/23 18:49:02]: <0x0003> COM-PC: server created on all interfaces [851] {20f6416e}
+[03/17/23 18:49:05]: <0x2402> History handler has been connected to IHM {47f4f02a}
+[03/17/23 18:49:05]: <0x2401> System: s7.11.2 Feb 24 2020 {08670417}
+[03/17/23 18:49:05]: <0x2401> Kernel: Unknown  {de9534f4}
+[03/17/23 18:49:05]: <0x2401> Configuration Version: c1.046  {42457e3e}
+[03/17/23 18:49:05]: <0x2401> CPU: TEKNOR  {4383cd81}
+[03/17/23 18:49:05]: <0x2401> Option testMode: enabled  {9643232f}
+[03/17/23 18:49:05]: <0x2401> Option VAL 3: enabled  {a6685ed2}
+[03/17/23 18:49:05]: <0x2401> Machine Number: ?  {28a000cf}
+[03/17/23 18:49:05]: <0x2401> Arm: tx60-S1-R4 floor {2204a23d}
+[03/17/23 18:49:05]: <0x2401> Arm serial number: ?  {36dd58a8}
+[03/17/23 18:49:05]: <0x2401> Arm oil type:   {065dcdbd}
+[03/17/23 18:49:05]: <0x2401> Robot name:   {6b2d3530}
+[03/17/23 18:49:05]: <0x2401> EP: s7.11.2 Feb 24 2020 {5ad7ff0c}
+[03/17/23 18:49:05]: <0x2401> EP10: s7.11.2 Feb 24 2020 {3c0ee5d4}
+[03/17/23 18:49:05]: <0x2401> SCA: s7.11.2 Feb 24 2020 {85a54dbf}
+[03/17/23 18:49:05]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {1a5b957f}
+[03/17/23 18:49:05]: <0x2201> New profile : default {3127034a}
+[03/17/23 18:49:06]: <0x2401> End of controller initialization 0 {ecece54e}
+[03/17/23 18:49:06]: <0x1801> Working mode:automatic. {bad4dde7}
+[03/17/23 18:49:07]: ----------------------------------------------- {21482e92}
+[03/17/23 18:49:07]: Logger started (1048576) {1170147a}
+[03/17/23 18:49:12]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {96f2e9be}
+[03/17/23 18:49:12]: <0x0003> Cycle time set to 0.004s {4beab9b8}
+[03/17/23 18:49:12]: <0x0003> Simulation cycle time set to 0.1s {d4059284}
+[03/17/23 18:49:12]: <0x0002> Controller IP address could not be updated {ea3334c4}
+[03/17/23 18:49:12]: <0x0003> Mcp = TSimulated {01ff4641}
+[03/17/23 18:49:12]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {44e43431}
+[03/17/23 18:49:12]: <0x0002> Default user payload used. {7392772f}
+[03/17/23 18:49:12]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {c39e39de}
+[03/17/23 18:49:12]: <0x2401> Power hour count = 0:08:28 {e87d44b1}
+[03/17/23 18:49:12]: <0x2401> Mac Address = 3c-a0-67-8c-70-dd {66157fce}
+[03/17/23 18:49:12]: <0x0003> COM-PC: server created on all interfaces [851] {0fbe3651}
+[03/17/23 18:49:12]: <0x2402> History handler has been connected to IHM {a14cf10b}
+[03/17/23 18:49:12]: <0x2401> System: s7.11.2 Feb 24 2020 {be3f3ad9}
+[03/17/23 18:49:12]: <0x2401> Kernel: Unknown  {397f5609}
+[03/17/23 18:49:12]: <0x2401> Configuration Version: c1.046  {26f906e1}
+[03/17/23 18:49:12]: <0x2401> CPU: TEKNOR  {aada1d48}
+[03/17/23 18:49:12]: <0x2401> Option testMode: enabled  {1df797c2}
+[03/17/23 18:49:12]: <0x2401> Option VAL 3: enabled  {2d4b1758}
+[03/17/23 18:49:12]: <0x2401> Machine Number: ?  {b7fb1e5e}
+[03/17/23 18:49:12]: <0x2401> Arm: tx60-S1-R4 floor {57ffdfce}
+[03/17/23 18:49:12]: <0x2401> Arm serial number: ?  {b601bef4}
+[03/17/23 18:49:12]: <0x2401> Arm oil type:   {8633e90a}
+[03/17/23 18:49:12]: <0x2401> Robot name:   {7f4565bd}
+[03/17/23 18:49:12]: <0x2401> EP: s7.11.2 Feb 24 2020 {e5b49d91}
+[03/17/23 18:49:12]: <0x2401> EP10: s7.11.2 Feb 24 2020 {8a4537da}
+[03/17/23 18:49:12]: <0x2401> SCA: s7.11.2 Feb 24 2020 {de7ebbd1}
+[03/17/23 18:49:12]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {67844198}
+[03/17/23 18:49:12]: <0x2201> New profile : default {3dc6c4f2}
+[03/17/23 18:49:12]: <0x2401> End of controller initialization 0 {45ca540a}
+[03/17/23 18:49:12]: <0x340A> Mcp communication established {5639d85f}
+[03/17/23 18:49:12]: <0x2402> MCP communication disconnected {9795c387}
+[03/17/23 18:49:13]: <0x1602> End of arm power shutdown phase. {4c858c1e}
+[03/17/23 18:49:13]: <0x2402> Mcp = TSimulated {141013e3}
+[03/17/23 18:49:15]: <0x340A> Mcp communication established {9109ff68}
+[03/17/23 18:49:15]: <0x2402> MCP communication disconnected {361fb382}
+[03/17/23 18:50:16]: <0x2402> COM-PC: create session 127.0.0.1 on port 61456 id=#52393360 {8ead785f}
+[03/17/23 19:36:46]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61456 id=#52393360 {e35af29e}
+[03/17/23 19:36:47]: <0x2402> COM-PC: create session 127.0.0.1 on port 61459 id=#52393256 {24e7b67a}

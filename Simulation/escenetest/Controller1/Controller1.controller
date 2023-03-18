@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalController xmlns="http://www.staubli.com/robotics/controller/1">
+  <Version>s7.11.2</Version>
+  <Properties>
+    <Property type="SRS.VAL3Studio.Services.RobotOptionsControllerProperty">
+      <RobotOptions component="C:\Users\Public\Documents\Staubli.Public\3D\3.0\tx60-v1_0.zip" powerConnector="Horizontal" UL="false" hardStop="false" />
+    </Property>
+  </Properties>
+  <Target hostname="" name="">
+    <Context type="RemoteConnection" port="5653" username="default" />
+    <Context type="ClientRemoteAccess" port="800" username="default" />
+  </Target>
+</LocalController>
