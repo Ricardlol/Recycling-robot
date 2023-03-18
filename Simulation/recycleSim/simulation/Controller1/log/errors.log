@@ -702,3 +702,61 @@
 [03/17/23 18:50:16]: <0x2402> COM-PC: create session 127.0.0.1 on port 61456 id=#52393360 {8ead785f}
 [03/17/23 19:36:46]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61456 id=#52393360 {e35af29e}
 [03/17/23 19:36:47]: <0x2402> COM-PC: create session 127.0.0.1 on port 61459 id=#52393256 {24e7b67a}
+[03/18/23 15:12:43]: ----------------------------------------------- {558e5125}
+[03/18/23 15:12:43]: Logger started (1048576) {6b9e94b4}
+[03/18/23 15:12:48]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {d88b17f0}
+[03/18/23 15:12:48]: <0x0003> Cycle time set to 0.004s {ce1a3afd}
+[03/18/23 15:12:48]: <0x0003> Simulation cycle time set to 0.1s {6010c4d8}
+[03/18/23 15:12:48]: <0x0002> Controller IP address could not be updated {74c8c9b3}
+[03/18/23 15:12:48]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {90914680}
+[03/18/23 15:12:48]: <0x0002> Default user payload used. {96080d83}
+[03/18/23 15:12:48]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {68ae7ef4}
+[03/18/23 15:12:48]: <0x2401> Power hour count = 0:08:28 {eaa971f4}
+[03/18/23 15:12:48]: <0x2401> Mac Address = 3c-a0-67-8c-70-dd {68fedcaf}
+[03/18/23 15:12:49]: <0x1602> End of arm power shutdown phase. {6b3a2f4d}
+[03/18/23 15:12:49]: <0x0003> COM-PC: server created on all interfaces [851] {fd16e83f}
+[03/18/23 15:12:50]: <0x2402> History handler has been connected to IHM {4e4e9874}
+[03/18/23 15:12:50]: <0x2401> System: s7.11.2 Feb 24 2020 {b50276c6}
+[03/18/23 15:12:50]: <0x2401> Kernel: Unknown  {62b2b573}
+[03/18/23 15:12:50]: <0x2401> Configuration Version: c1.046  {750936fe}
+[03/18/23 15:12:50]: <0x2401> CPU: TEKNOR  {5dc46ba4}
+[03/18/23 15:12:50]: <0x2401> Option testMode: enabled  {90c21ade}
+[03/18/23 15:12:50]: <0x2401> Option VAL 3: enabled  {80567b8b}
+[03/18/23 15:12:50]: <0x2401> Machine Number: ?  {d29d7922}
+[03/18/23 15:12:50]: <0x2401> Arm: tx60-S1-R4 floor {6aa1768e}
+[03/18/23 15:12:50]: <0x2401> Arm serial number: ?  {ff8481cb}
+[03/18/23 15:12:50]: <0x2401> Arm oil type:   {ef75d5f6}
+[03/18/23 15:12:50]: <0x2401> Robot name:   {1f0bd9b8}
+[03/18/23 15:12:50]: <0x2401> EP: s7.11.2 Feb 24 2020 {c81ed59b}
+[03/18/23 15:12:50]: <0x2401> EP10: s7.11.2 Feb 24 2020 {4edc546c}
+[03/18/23 15:12:50]: <0x2401> SCA: s7.11.2 Feb 24 2020 {4dc7d8db}
+[03/18/23 15:12:50]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {00960488}
+[03/18/23 15:12:50]: <0x2201> New profile : default {41831be1}
+[03/18/23 15:12:51]: <0x2401> End of controller initialization 0 {12544978}
+[03/18/23 15:12:54]: <0x2402> Mcp = TSimulated {b4e3dc1f}
+[03/18/23 15:12:54]: <0x340A> Mcp communication established {3ffca431}
+[03/18/23 15:12:54]: <0x1801> Working mode:automatic. {bf3de068}
+[03/18/23 15:15:40]: <0x2402> COM-PC: create session 127.0.0.1 on port 50094 id=#43624192 {caf3d9ad}
+[03/18/23 15:49:03]: <0x2401> Saving controller context... {7d2e678f}
+[03/18/23 15:49:03]: <0x2402> Controller temperature: 28°C {d6fc2c1c}
+[03/18/23 15:49:03]: <0x2402> CPU temperature: 28°C {a91428f0}
+[03/18/23 17:09:03]: <0x1A03> System event INTERFACE-Stopped  (Main menu) {fc8da5d4}
+[03/18/23 17:09:05]: <0x1A04> System event INTERFACE-Stopped  (Main menu). 3 events lost. {dcc303f2}
+[03/18/23 17:11:10]: <0x2401> Watchdog occurs in Cs8 priority:75 {558334cd}
+[03/18/23 17:14:43]: <0x2401> Watchdog occurs in Cs8 priority:75 (2) {af207014}
+[03/18/23 17:20:07]: <0x1A03> System event INTERFACE-Stopped  (Main menu) {f78339ba}
+[03/18/23 17:20:08]: <0x1A04> System event INTERFACE-Stopped  (Main menu). 3 events lost. {d0e523a3}
+[03/18/23 17:20:23]: <0x1A03> System event INTERFACE-Stopped  (Main menu) {257ea91f}
+[03/18/23 17:20:23]: <0x1A04> System event INTERFACE-Stopped  (Main menu). 2 events lost. {53ca36a5}
+[03/18/23 17:20:30]: <0x1A03> System event INTERFACE-Stopped  (Main menu) {9c85202f}
+[03/18/23 17:20:30]: <0x1A04> System event INTERFACE-Stopped  (Main menu). 4 events lost. {5c7cd159}
+[03/18/23 17:20:37]: <0x1A03> System event INTERFACE-Stopped  (Main menu) {ede9f261}
+[03/18/23 17:20:39]: <0x1A04> System event INTERFACE-Stopped  (Main menu). 7 events lost. {b7fe9241}
+[03/18/23 17:20:45]: <0x1A03> System event INTERFACE-Stopped  (Main menu) {6dc8b7ac}
+[03/18/23 17:20:46]: <0x1A04> System event INTERFACE-Stopped  (Main menu). 4 events lost. {87f664ed}
+[03/18/23 17:20:52]: <0x1A03> System event INTERFACE-Stopped  (Main menu) {ef96bc03}
+[03/18/23 17:20:53]: <0x1A04> System event INTERFACE-Stopped  (Main menu). 3 events lost. {54c8495d}
+[03/18/23 17:21:05]: <0x1A03> System event INTERFACE-Stopped  (Main menu) {c0d2b8be}
+[03/18/23 17:21:06]: <0x1A04> System event INTERFACE-Stopped  (Main menu). 5 events lost. {92f44a75}
+[03/18/23 18:11:16]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50094 id=#43624192 {cc003311}
+[03/18/23 18:15:16]: <0x2402> MCP communication disconnected {793dc217}
