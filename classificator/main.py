@@ -75,7 +75,7 @@ secondModel = classModels.modelsDenseNet121(epoch, steps, val_steps, train_batch
 
 #secondModel.plotGraphics("SeconModel")
 
-secondModel.loadModel(" SecondModel")
+secondModel.loadModel("modelUse")
 
 #secondModel.evaluateModel()
 
@@ -94,6 +94,6 @@ secondModel.loadModel(" SecondModel")
 #secondModel.plotConfusionMatrix(names_class, "Confusion Matrix (best model)")
 
 #secondModel.testing(names_class)
-secondModel.preprocesing(names_class)
-secondModel.myImages(names_class, "./dataset/myImages/green5.JPG")
-secondModel.myImages(names_class, "./dataset/myImages/yellow.JPG")
+#secondModel.preprocesing(names_class)
+secondModel.myImages(names_class, "./dataset/myImages/organic1.JPG")
+secondModel.myImages(names_class, "./dataset/myImages/organic2.JPG")

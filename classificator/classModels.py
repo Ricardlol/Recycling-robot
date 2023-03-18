@@ -148,6 +148,7 @@ class modelsDenseNet121:
 
     def loadModel(self, name):
         self.model = load_model("./models/" + name + ".h5")
+        self.model_prepro = load_model("./models/" + name + ".h5")
         print("load model")
 
     def layerFalse(self, num=0):
