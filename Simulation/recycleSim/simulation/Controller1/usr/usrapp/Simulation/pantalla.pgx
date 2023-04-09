@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="pantalla">
+    <Code><![CDATA[begin
+  userPage(sMonitor)
+  cls(sMonitor)
+  title(sMonitor, "Start to recicling")
+  gotoxy(sMonitor, 35,13)
+  put(sMonitor, "EXIT")
+  do
+    gotoxy(sMonitor, 0,1)
+    put(sMonitor, "Port 1102:")
+    gotoxy(sMonitor, 12,1)
+    switch nConnection
+      case -1
+        put(sMonitor, "Waiting connection")
+      break
+      case 1
+        put(sMonitor, "Connected succesful")
+        putln(sMonitor,"Go to bin")
+        put(sMonitor, nRecvData)
+      break
+      default
+        put(sMonitor, "Connection lose")
+      break
+    endSwitch
+    nkey = getKey()
+    
+    if(nkey == 278)
+      bStop = true
+    endIf
+    
+    gotoxy(sMonitor, 0,6)
+    put(sMonitor, nkey)
+  until bStop == false
+end]]></Code>
+  </Program>
+</Programs>

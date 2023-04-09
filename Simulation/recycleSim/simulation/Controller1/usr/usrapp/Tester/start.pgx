@@ -2,6 +2,23 @@
 <Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
   <Program name="start">
     <Code><![CDATA[begin
+  cls()
+  movej(JHome,tTool, mNomSpeed)
+  waitEndMove()
+  movej(JApproach1,tTool, mNomSpeed)
+  waitEndMove()
+  do
+    // Leo caracter
+    nTest = sioGet(sSioOrdenador, l_nNumero)
+    delay(5)
+    put("Test :")
+    put(nTest)
+    put(" L_nNumero :")
+    put(l_nNumero)
+    putln(" ")
+    
+    
+  until l_nNumero == 13
 end]]></Code>
   </Program>
 </Programs>

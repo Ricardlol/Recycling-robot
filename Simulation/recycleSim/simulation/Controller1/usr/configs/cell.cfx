@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <cell>
-  <String name="language" value="english" />
+  <String name="language" value="espanol" />
   <Uint name="coderCounts" value="1024" />
   <String name="valve1Mode" value="notInverted" />
   <String name="valve2Mode" value="notInverted" />

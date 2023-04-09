@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="MoveRobot">
+    <Code><![CDATA[begin
+  movej(JHome,tToolSuccion, mNomSpeed)
+  waitEndMove()
+  movej(JApproach1,tToolSuccion, mNomSpeed)
+  waitEndMove()
+  
+  do
+    open(tToolSuccion)
+    waitEndMove()
+    movej(jGetCinta, tToolSuccion, mNomSpeed)
+    waitEndMove()
+    movel(pApprBins, tToolSuccion, mNomSpeed)
+    waitEndMove()
+    nConnection = sioGet(SocketComputer, nRecvData)
+    delay(5)
+    if nConnection == 1
+      switch nRecvData
+        case 48
+          movel(pBinYellow, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        case 49
+          movel(pBinBlue, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        case 50
+          movel(pBinGreen, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        case 51
+          movel(pBinBrown, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        default
+          putln(sMonitor, "Bin selected no correct")
+        break
+      endSwitch
+      close(tToolSuccion)
+      
+      waitEndMove()
+    endIf
+  until nkey == 278
+end]]></Code>
+  </Program>
+</Programs>
