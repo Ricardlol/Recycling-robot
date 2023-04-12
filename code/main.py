@@ -19,10 +19,10 @@ stopProgram = False
 
 while not(stopProgram):
 
-    if takeFoto == True:
+    if takeFoto:
         leido, frame = cap.read()
 
-        if leido == True:
+        if leido:
             nameFoto = "../img/"+str(uuid.uuid4()) + ".png" # uuid4 regresa un objeto, no una cadena. Por eso lo convertimos
             cv2.imwrite(nameFoto, frame)
             resultClass = model.classifyImage(names_class, nameFoto)
