@@ -2338,3 +2338,1687 @@ Mcp = connected
 [04/07/23 20:14:38]: <0x2402> MCP communication disconnected {ada738b2}
 [04/07/23 20:14:43]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55141 id=#43664392 {b13fb7c2}
 [04/07/23 20:14:43]: <0x2402> COM-PC: create session 127.0.0.1 on port 62265 id=#43665952 {a12c145a}
+[04/12/23 11:36:38]: ----------------------------------------------- {cedae78d}
+[04/12/23 11:36:38]: Registro iniciado (1048576) {3bba65cc}
+[04/12/23 11:36:42]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {47e6b162}
+[04/12/23 11:36:42]: <0x0003> Cycle time set to 0.004s {30d28454}
+[04/12/23 11:36:42]: <0x0003> Simulation cycle time set to 0.1s {aa438533}
+[04/12/23 11:36:42]: <0x0002> Controller IP address could not be updated {3c0ef5a5}
+[04/12/23 11:36:42]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {3aab7f16}
+[04/12/23 11:36:42]: <0x0001> Error while trying to build User serial 2 {4465513d}
+[04/12/23 11:36:42]: <0x0002> Default user payload used. {102bbf03}
+[04/12/23 11:36:42]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {7efb6e05}
+[04/12/23 11:36:42]: <0x2401> Horas con potencia =8:06:40 {33c450c4}
+[04/12/23 11:36:42]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {b1d65bbb}
+[04/12/23 11:36:44]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {acdde9de}
+[04/12/23 11:36:45]: <0x0003> COM-PC: server created on all interfaces [851] {90dacc4c}
+[04/12/23 11:36:45]: <0x2402> History handler has been connected to IHM {5e75ff4e}
+[04/12/23 11:36:45]: <0x2401> System: s7.11.2 Feb 24 2020 {362bf39f}
+[04/12/23 11:36:45]: <0x2401> Kernel: Unknown  {a8409818}
+[04/12/23 11:36:45]: <0x2401> Configuration Version: c1.046  {dc7bd986}
+[04/12/23 11:36:45]: <0x2401> CPU: TEKNOR  {13316310}
+[04/12/23 11:36:45]: <0x2401> Option testMode: enabled  {66881fd8}
+[04/12/23 11:36:45]: <0x2401> Option VAL 3: enabled  {96d5728d}
+[04/12/23 11:36:45]: <0x2401> N/S del controlador: : ?  {d648de44}
+[04/12/23 11:36:45]: <0x2401> Brazo: tx60-S1-R4 suelo {5af2e345}
+[04/12/23 11:36:45]: <0x2401> N/S del brazo:: ?  {61f19129}
+[04/12/23 11:36:45]: <0x2401> Tipo de aceite:   {e6db4daf}
+[04/12/23 11:36:45]: <0x2401> Nombre del robot:   {f3226841}
+[04/12/23 11:36:45]: <0x2401> EP: s7.11.2 Feb 24 2020 {47ff7539}
+[04/12/23 11:36:45]: <0x2401> EP10: s7.11.2 Feb 24 2020 {ce32cfd6}
+[04/12/23 11:36:45]: <0x2401> SCA: s7.11.2 Feb 24 2020 {1ae6ae6a}
+[04/12/23 11:36:45]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {9bee16fe}
+[04/12/23 11:36:45]: <0x2201> Nuevo perfil : default {947bed19}
+[04/12/23 11:36:46]: <0x2401> End of controller initialization 0 {6ab00cc9}
+[04/12/23 11:36:49]: <0x2402> Mcp = TSimulated {f3449910}
+[04/12/23 11:36:49]: <0x340A> Mcp communication established {b34cbf78}
+[04/12/23 11:36:49]: <0x1801> Modo de trabajo:automático. {5992a345}
+[04/12/23 11:36:51]: <0x2401> Saving controller context... {3a62255f}
+[04/12/23 11:36:51]: <0x2402> Temperatura del controlador: 28°C {164efa28}
+[04/12/23 11:36:51]: <0x2402> Temperatura de la CPU: 28°C {06b04cd0}
+[04/12/23 11:36:57]: ----------------------------------------------- {f4752e2c}
+[04/12/23 11:36:57]: Registro iniciado (1048576) {f76ffd07}
+[04/12/23 11:37:01]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {58b77a3d}
+[04/12/23 11:37:01]: <0x0003> Cycle time set to 0.004s {ae6b026b}
+[04/12/23 11:37:01]: <0x0003> Simulation cycle time set to 0.1s {934febd6}
+[04/12/23 11:37:01]: <0x0002> Controller IP address could not be updated {fec88298}
+[04/12/23 11:37:01]: <0x0003> Mcp = TSimulated {04919cb7}
+[04/12/23 11:37:01]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {66791e72}
+[04/12/23 11:37:01]: <0x0001> Error while trying to build User serial 2 {06a689b8}
+[04/12/23 11:37:01]: <0x0002> Default user payload used. {6513e206}
+[04/12/23 11:37:01]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {e3a26a47}
+[04/12/23 11:37:01]: <0x2401> Horas con potencia =8:06:40 {b3b5cceb}
+[04/12/23 11:37:01]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {869335ba}
+[04/12/23 11:37:01]: <0x0003> COM-PC: server created on all interfaces [851] {4fbe0cd4}
+[04/12/23 11:37:01]: <0x2402> History handler has been connected to IHM {a0cce38c}
+[04/12/23 11:37:01]: <0x2401> System: s7.11.2 Feb 24 2020 {7b1c1f72}
+[04/12/23 11:37:01]: <0x2401> Kernel: Unknown  {551e8762}
+[04/12/23 11:37:01]: <0x2401> Configuration Version: c1.046  {0cc4903e}
+[04/12/23 11:37:01]: <0x2401> CPU: TEKNOR  {e427cfdd}
+[04/12/23 11:37:01]: <0x2401> Option testMode: enabled  {e31fd83e}
+[04/12/23 11:37:01]: <0x2401> Option VAL 3: enabled  {f35821be}
+[04/12/23 11:37:01]: <0x2401> N/S del controlador: : ?  {caaaaa52}
+[04/12/23 11:37:01]: <0x2401> Brazo: tx60-S1-R4 suelo {07887ef2}
+[04/12/23 11:37:01]: <0x2401> N/S del brazo:: ?  {952949c6}
+[04/12/23 11:37:01]: <0x2401> Tipo de aceite:   {e1e23831}
+[04/12/23 11:37:01]: <0x2401> Nombre del robot:   {4040b72c}
+[04/12/23 11:37:01]: <0x2401> EP: s7.11.2 Feb 24 2020 {1c589ec5}
+[04/12/23 11:37:01]: <0x2401> EP10: s7.11.2 Feb 24 2020 {badae7a7}
+[04/12/23 11:37:01]: <0x2401> SCA: s7.11.2 Feb 24 2020 {78f58674}
+[04/12/23 11:37:01]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {1e860caa}
+[04/12/23 11:37:01]: <0x2201> Nuevo perfil : default {f98c064d}
+[04/12/23 11:37:01]: <0x2401> End of controller initialization 0 {8bd0f4fa}
+[04/12/23 11:37:02]: <0x340A> Mcp communication established {51ae1d4c}
+[04/12/23 11:37:02]: <0x2402> MCP communication disconnected {d1b065d4}
+[04/12/23 11:37:02]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {d5b33b8d}
+[04/12/23 11:37:03]: <0x2402> Mcp = TSimulated {fbd44c33}
+[04/12/23 11:37:05]: <0x340A> Mcp communication established {17b95b8c}
+[04/12/23 11:37:05]: <0x2402> MCP communication disconnected {0af93a29}
+[04/12/23 11:37:34]: <0x2402> COM-PC: create session 127.0.0.1 on port 20159 id=#53596104 {336d6ac2}
+[04/12/23 11:38:02]: <0x2402> COM-PC: create session 127.0.0.1 on port 20160 id=#53598184 {0493c990}
+[04/12/23 11:38:03]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {c60d6d7e}
+[04/12/23 11:38:03]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {40abaff2}
+[04/12/23 11:38:03]: <0x5402> Tester Aplicación arrancada {7b673e56}
+[04/12/23 11:38:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 20160 id=#53598184 {8581a2a5}
+[04/12/23 11:39:30]: <0x2402> COM-PC: create session 127.0.0.1 on port 20171 id=#53597248 {90432cb8}
+[04/12/23 11:39:30]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {4d418873}
+[04/12/23 11:39:30]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {f5f7b33a}
+[04/12/23 11:39:30]: <0x5403> Tester Aplicación parada {add1eebb}
+[04/12/23 11:39:31]: <0x5402> Tester Aplicación arrancada {7c32733c}
+[04/12/23 11:39:31]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 20171 id=#53597248 {b4c500b0}
+[04/12/23 11:39:32]: <0x2402> Mcp = TSimulated {0faefe38}
+[04/12/23 11:39:32]: <0x340A> Mcp communication established {fdaea1a8}
+[04/12/23 11:39:34]: <0x1801> Modo de trabajo:automático. {c8fc63fe}
+[04/12/23 11:41:02]: <0x2401> Saving controller context... {dae4b0a8}
+[04/12/23 11:41:02]: <0x2402> Temperatura del controlador: 28°C {6ebf899f}
+[04/12/23 11:41:02]: <0x2402> Temperatura de la CPU: 28°C {7e861a1f}
+[04/12/23 12:32:45]: <0x2402> MCP communication disconnected {5f7382e6}
+[04/12/23 12:32:45]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 20159 id=#53596104 {f46a3784}
+[04/12/23 12:32:45]: <0x2402> COM-PC: create session 127.0.0.1 on port 20171 id=#53599016 {84752e24}
+[04/12/23 13:12:00]: ----------------------------------------------- {7f717120}
+[04/12/23 13:12:00]: Registro iniciado (1048576) {f83337fc}
+[04/12/23 13:12:04]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {e2b41611}
+[04/12/23 13:12:04]: <0x0003> Cycle time set to 0.004s {91586904}
+[04/12/23 13:12:04]: <0x0003> Simulation cycle time set to 0.1s {d430fbde}
+[04/12/23 13:12:04]: <0x0002> Controller IP address could not be updated {83706fc2}
+[04/12/23 13:12:04]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {dc1317f2}
+[04/12/23 13:12:04]: <0x0001> Error while trying to build User serial 2 {c397eb9b}
+[04/12/23 13:12:04]: <0x0002> Default user payload used. {cb8aabba}
+[04/12/23 13:12:04]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {5687d02e}
+[04/12/23 13:12:04]: <0x2401> Horas con potencia =8:06:40 {55f21872}
+[04/12/23 13:12:04]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {d3e45150}
+[04/12/23 13:12:06]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {0b689730}
+[04/12/23 13:12:07]: <0x0003> COM-PC: server created on all interfaces [851] {8eb4dc23}
+[04/12/23 13:12:07]: <0x2402> History handler has been connected to IHM {4a5efc8d}
+[04/12/23 13:12:07]: <0x2401> System: s7.11.2 Feb 24 2020 {2a701e81}
+[04/12/23 13:12:07]: <0x2401> Kernel: Unknown  {0d052eeb}
+[04/12/23 13:12:07]: <0x2401> Configuration Version: c1.046  {7f8860e1}
+[04/12/23 13:12:07]: <0x2401> CPU: TEKNOR  {10a8759a}
+[04/12/23 13:12:07]: <0x2401> Option testMode: enabled  {e0ce1d90}
+[04/12/23 13:12:07]: <0x2401> Option VAL 3: enabled  {f0da6174}
+[04/12/23 13:12:07]: <0x2401> N/S del controlador: : ?  {f04fe1bb}
+[04/12/23 13:12:07]: <0x2401> Brazo: tx60-S1-R4 suelo {d52d48e6}
+[04/12/23 13:12:07]: <0x2401> N/S del brazo:: ?  {d0066737}
+[04/12/23 13:12:07]: <0x2401> Tipo de aceite:   {af290fec}
+[04/12/23 13:12:07]: <0x2401> Nombre del robot:   {9f30e0d8}
+[04/12/23 13:12:07]: <0x2401> EP: s7.11.2 Feb 24 2020 {fa8d0873}
+[04/12/23 13:12:07]: <0x2401> EP10: s7.11.2 Feb 24 2020 {b114b67a}
+[04/12/23 13:12:07]: <0x2401> SCA: s7.11.2 Feb 24 2020 {29932eab}
+[04/12/23 13:12:07]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {644be5a1}
+[04/12/23 13:12:07]: <0x2201> Nuevo perfil : default {f19e5ad7}
+[04/12/23 13:12:07]: <0x2401> End of controller initialization 0 {5fc3d64a}
+[04/12/23 13:12:22]: <0x2402> Mcp = TSimulated {5569c754}
+[04/12/23 13:12:22]: <0x340A> Mcp communication established {a09cd7fc}
+[04/12/23 13:12:22]: <0x1801> Modo de trabajo:automático. {23ab1362}
+[04/12/23 13:12:26]: <0x2402> MCP communication disconnected {809eaaf5}
+[04/12/23 13:12:27]: ----------------------------------------------- {6ddbdcab}
+[04/12/23 13:12:27]: Registro iniciado (1048576) {5cc2596a}
+[04/12/23 13:12:31]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {6c08b68f}
+[04/12/23 13:12:31]: <0x0003> Cycle time set to 0.004s {a98370f7}
+[04/12/23 13:12:31]: <0x0003> Simulation cycle time set to 0.1s {a12ee3cd}
+[04/12/23 13:12:31]: <0x0002> Controller IP address could not be updated {f9130c19}
+[04/12/23 13:12:31]: <0x0003> Mcp = TSimulated {5b8cafd7}
+[04/12/23 13:12:31]: <0x340A> Mcp communication established {017c7528}
+[04/12/23 13:12:31]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {96d49b78}
+[04/12/23 13:12:31]: <0x0001> Error while trying to build User serial 2 {f363f57e}
+[04/12/23 13:12:31]: <0x0002> Default user payload used. {730dd6cd}
+[04/12/23 13:12:31]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {f7b82985}
+[04/12/23 13:12:31]: <0x2401> Horas con potencia =8:06:40 {b0f64d19}
+[04/12/23 13:12:31]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {744b923c}
+[04/12/23 13:12:31]: <0x0003> COM-PC: server created on all interfaces [851] {cfb4ac73}
+[04/12/23 13:12:31]: <0x2402> History handler has been connected to IHM {24d9c57a}
+[04/12/23 13:12:31]: <0x2401> System: s7.11.2 Feb 24 2020 {480584e9}
+[04/12/23 13:12:31]: <0x2401> Kernel: Unknown  {b47c3071}
+[04/12/23 13:12:31]: <0x2401> Configuration Version: c1.046  {b36514f1}
+[04/12/23 13:12:31]: <0x2401> CPU: TEKNOR  {8baaec9d}
+[04/12/23 13:12:31]: <0x2401> Option testMode: enabled  {b6e1d8c2}
+[04/12/23 13:12:31]: <0x2401> Option VAL 3: enabled  {a6b9c0c0}
+[04/12/23 13:12:31]: <0x2401> N/S del controlador: : ?  {50d0d4d2}
+[04/12/23 13:12:31]: <0x2401> Brazo: tx60-S1-R4 suelo {d6986f44}
+[04/12/23 13:12:31]: <0x2401> N/S del brazo:: ?  {2b8e991a}
+[04/12/23 13:12:31]: <0x2401> Tipo de aceite:   {7111de30}
+[04/12/23 13:12:31]: <0x2401> Nombre del robot:   {f84b9263}
+[04/12/23 13:12:31]: <0x2401> EP: s7.11.2 Feb 24 2020 {f30946b8}
+[04/12/23 13:12:31]: <0x2401> EP10: s7.11.2 Feb 24 2020 {8ac071de}
+[04/12/23 13:12:31]: <0x2401> SCA: s7.11.2 Feb 24 2020 {c6f59cea}
+[04/12/23 13:12:31]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {d0ce9ce3}
+[04/12/23 13:12:31]: <0x2201> Nuevo perfil : default {3c2d84e7}
+[04/12/23 13:12:31]: <0x2401> End of controller initialization 0 {69d7f35a}
+[04/12/23 13:12:31]: <0x1801> Modo de trabajo:automático. {7699674d}
+[04/12/23 13:12:32]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {29f53d7d}
+[04/12/23 14:35:43]: ----------------------------------------------- {df6dea89}
+[04/12/23 14:35:43]: Registro iniciado (1048576) {2099b4e3}
+[04/12/23 14:35:47]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {d4ffff81}
+[04/12/23 14:35:47]: <0x0003> Cycle time set to 0.004s {68923e44}
+[04/12/23 14:35:47]: <0x0003> Simulation cycle time set to 0.1s {0bc6e355}
+[04/12/23 14:35:47]: <0x0002> Controller IP address could not be updated {62dbfc6d}
+[04/12/23 14:35:47]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {8efa378a}
+[04/12/23 14:35:47]: <0x0001> Error while trying to build User serial 2 {f18bd1b5}
+[04/12/23 14:35:47]: <0x0002> Default user payload used. {4b7f6137}
+[04/12/23 14:35:47]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {eeb9d045}
+[04/12/23 14:35:47]: <0x2401> Horas con potencia =8:06:40 {726bc9d5}
+[04/12/23 14:35:47]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {15fe7994}
+[04/12/23 14:35:48]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {daae8143}
+[04/12/23 14:35:52]: <0x0003> COM-PC: server created on all interfaces [851] {2a5ee465}
+[04/12/23 14:35:53]: <0x2402> History handler has been connected to IHM {6a616cf4}
+[04/12/23 14:35:53]: <0x2401> System: s7.11.2 Feb 24 2020 {b0055e22}
+[04/12/23 14:35:53]: <0x2401> Kernel: Unknown  {4e6e72eb}
+[04/12/23 14:35:53]: <0x2401> Configuration Version: c1.046  {23f0c5ef}
+[04/12/23 14:35:53]: <0x2401> CPU: TEKNOR  {68294da7}
+[04/12/23 14:35:53]: <0x2401> Option testMode: enabled  {809f1dcf}
+[04/12/23 14:35:53]: <0x2401> Option VAL 3: enabled  {f86d64d9}
+[04/12/23 14:35:53]: <0x2401> N/S del controlador: : ?  {0df2b8f6}
+[04/12/23 14:35:53]: <0x2401> Brazo: tx60-S1-R4 suelo {2ee7e051}
+[04/12/23 14:35:53]: <0x2401> N/S del brazo:: ?  {2d6f0888}
+[04/12/23 14:35:53]: <0x2401> Tipo de aceite:   {ca1cd65e}
+[04/12/23 14:35:53]: <0x2401> Nombre del robot:   {2f329ccb}
+[04/12/23 14:35:53]: <0x2401> EP: s7.11.2 Feb 24 2020 {85b9680b}
+[04/12/23 14:35:53]: <0x2401> EP10: s7.11.2 Feb 24 2020 {9fdbff79}
+[04/12/23 14:35:53]: <0x2401> SCA: s7.11.2 Feb 24 2020 {3dbda080}
+[04/12/23 14:35:53]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {5730ee64}
+[04/12/23 14:35:53]: <0x2201> Nuevo perfil : default {c4781687}
+[04/12/23 14:35:53]: <0x2401> End of controller initialization 0 {f679a55b}
+[04/12/23 14:35:58]: <0x2401> Saving controller context... {fb93c463}
+[04/12/23 14:35:59]: <0x2402> Temperatura del controlador: 28°C {45381d51}
+[04/12/23 14:35:59]: <0x2402> Temperatura de la CPU: 28°C {5522dc35}
+[04/12/23 14:36:19]: <0x2402> Mcp = TSimulated {a39f19b6}
+[04/12/23 14:36:19]: <0x340A> Mcp communication established {e8e344a0}
+[04/12/23 14:36:19]: <0x1801> Modo de trabajo:automático. {2c4cbd0d}
+[04/12/23 14:37:51]: <0x2402> COM-PC: create session 127.0.0.1 on port 1213 id=#48813328 {cec6f6ec}
+[04/12/23 14:43:11]: <0x2402> COM-PC: create session 127.0.0.1 on port 1217 id=#48813016 {277271ba}
+[04/12/23 14:43:12]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {048e5f69}
+[04/12/23 14:43:12]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {90a55944}
+[04/12/23 14:43:13]: <0x5402> Tester Aplicación arrancada {c3a168f7}
+[04/12/23 14:43:13]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 1217 id=#48813016 {2e11d921}
+[04/12/23 14:43:54]: <0x2402> MCP communication disconnected {2d1a3771}
+[04/12/23 14:43:57]: <0x2402> COM-PC: create session 127.0.0.1 on port 1217 id=#48812808 {7718066c}
+[04/12/23 14:43:58]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0f21cbf4}
+[04/12/23 14:43:58]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {d650347b}
+[04/12/23 14:43:58]: <0x5403> Tester Aplicación parada {4d305b29}
+[04/12/23 14:43:58]: <0x5402> Tester Aplicación arrancada {972d1d78}
+[04/12/23 14:43:58]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 1217 id=#48812808 {47e4d40f}
+[04/12/23 14:44:00]: <0x2402> Mcp = TSimulated {f4ac0a21}
+[04/12/23 14:44:00]: <0x340A> Mcp communication established {22ade48e}
+[04/12/23 14:44:00]: <0x1801> Modo de trabajo:automático. {92775b91}
+[04/12/23 14:51:27]: <0x5A03> Deadman validated {b99dbf45}
+[04/12/23 14:51:27]: <0x1603> Habilitando la potencia del brazo... {de9d43c0}
+[04/12/23 14:51:27]: <0x1601> Potencia del brazo habilitada. {0fa0ba1c}
+[04/12/23 14:51:34]: <0x2401> Saving controller context... {e884924f}
+[04/12/23 14:52:16]: <0x2401> Saving controller context... (6) {78291f6c}
+[04/12/23 14:52:23]: <0x5A01> Deadman enabled. {27fc0ebb}
+[04/12/23 14:52:24]: <0x2401> Saving controller context... {3e03510f}
+[04/12/23 14:52:30]: <0x2401> Saving controller context... (1) {4761418e}
+[04/12/23 14:52:36]: <0x5403> Tester Aplicación parada {07bb651a}
+[04/12/23 14:52:39]: <0x2401> Saving controller context... {9d4e3976}
+[04/12/23 15:23:54]: <0x2401> Saving controller context... (193) {59fde43e}
+[04/12/23 15:24:05]: <0x5A02> Deadman disabled. {59e84a04}
+[04/12/23 15:24:05]: <0x5A03> Deadman validated {d0787bbc}
+[04/12/23 15:24:05]: <0x1604> Desactivación de la potencia del brazo... {99665bd8}
+[04/12/23 15:24:06]: <0x2401> Saving controller context... {1d670814}
+[04/12/23 15:24:06]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {759829fb}
+[04/12/23 15:24:09]: <0x5A02> Deadman disabled. {71abb597}
+[04/12/23 15:24:09]: <0x5A03> Deadman validated {3e101fda}
+[04/12/23 15:24:09]: <0x1603> Habilitando la potencia del brazo... {7187adaa}
+[04/12/23 15:24:10]: <0x1601> Potencia del brazo habilitada. {e7212e55}
+[04/12/23 15:24:14]: <0x2401> Saving controller context... {88912f4c}
+[04/12/23 15:24:22]: <0x2401> Saving controller context... (1) {7a4ad950}
+[04/12/23 15:24:28]: <0x2402> COM-PC: create session 127.0.0.1 on port 2009 id=#48814784 {a3a226c1}
+[04/12/23 15:24:28]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {4d4d14ce}
+[04/12/23 15:24:28]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {a7fdcb6a}
+[04/12/23 15:24:28]: <0x5402> Tester Aplicación arrancada {0ca706b0}
+[04/12/23 15:24:28]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 2009 id=#48814784 {144cb8b7}
+[04/12/23 15:24:30]: <0x2401> Saving controller context... {9cbd1591}
+[04/12/23 15:25:04]: <0x2401> Saving controller context... (5) {07f4ce82}
+[04/12/23 15:25:06]: <0x5A01> Deadman enabled. {7a5ea5f6}
+[04/12/23 15:25:11]: <0x2401> Saving controller context... {c055579c}
+[04/12/23 15:35:02]: <0x2401> Saving controller context... (84) {7903dce2}
+[04/12/23 15:35:02]: <0x2402> COM-PC: create session 127.0.0.1 on port 2009 id=#48814888 {a4512bf7}
+[04/12/23 15:35:02]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {75776090}
+[04/12/23 15:35:02]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {01087df8}
+[04/12/23 15:35:02]: <0x5403> Tester Aplicación parada {a402ed03}
+[04/12/23 15:35:02]: <0x5402> Tester Aplicación arrancada {2514221e}
+[04/12/23 15:35:03]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 2009 id=#48814888 {8987bb9e}
+[04/12/23 15:35:09]: <0x2401> Saving controller context... {5cbdb5db}
+[04/12/23 15:35:12]: <0x2402> COM-PC: create session 127.0.0.1 on port 2009 id=#48813432 {d94e37e9}
+[04/12/23 15:35:12]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {ccb7a481}
+[04/12/23 15:35:12]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {b17b6e94}
+[04/12/23 15:35:12]: <0x5403> Tester Aplicación parada {c4daa472}
+[04/12/23 15:35:13]: <0x5402> Tester Aplicación arrancada {4082c8c0}
+[04/12/23 15:35:13]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 2009 id=#48813432 {b868fabd}
+[04/12/23 15:35:17]: <0x2401> Saving controller context... {086f94ab}
+[04/12/23 15:36:12]: <0x2401> Saving controller context... (8) {c4c6ccd5}
+[04/12/23 15:36:17]: <0x2402> COM-PC: create session 127.0.0.1 on port 2231 id=#48813432 {6ac99420}
+[04/12/23 15:36:17]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {3fe3aeee}
+[04/12/23 15:36:17]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {9c4d6a46}
+[04/12/23 15:36:17]: <0x5403> Tester Aplicación parada {9437309b}
+[04/12/23 15:36:17]: <0x5402> Tester Aplicación arrancada {f244f3cf}
+[04/12/23 15:36:17]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 2231 id=#48813432 {1afac70a}
+[04/12/23 15:36:20]: <0x2401> Saving controller context... {0a38e3e6}
+[04/12/23 15:37:04]: <0x2401> Saving controller context... (6) {a53b4d13}
+[04/12/23 15:37:07]: <0x2402> MCP communication disconnected {67bd7698}
+[04/12/23 15:37:07]: <0x1627> Desactivación de la potencia del brazo: cambio del modo de trabajo. {f6f026da}
+[04/12/23 15:37:07]: <0x1604> Desactivación de la potencia del brazo... {699ba393}
+[04/12/23 15:37:08]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 1213 id=#48813328 {510f7c9a}
+[04/12/23 15:37:08]: <0x2402> COM-PC: create session 127.0.0.1 on port 2009 id=#48814784 {2164ba82}
+[04/12/23 15:37:10]: <0x2401> Saving controller context... {6c0370f6}
+[04/12/23 15:37:10]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {811db53e}
+[04/12/23 16:38:19]: ----------------------------------------------- {5caf6b91}
+[04/12/23 16:38:19]: Registro iniciado (1048576) {78510ece}
+[04/12/23 16:38:24]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {755df4cb}
+[04/12/23 16:38:24]: <0x0003> Cycle time set to 0.004s {ffb74777}
+[04/12/23 16:38:24]: <0x0003> Simulation cycle time set to 0.1s {f04facb3}
+[04/12/23 16:38:24]: <0x0002> Controller IP address could not be updated {3cb1503d}
+[04/12/23 16:38:24]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {2c5cc69c}
+[04/12/23 16:38:24]: <0x0001> Error while trying to build User serial 2 {fa518ba9}
+[04/12/23 16:38:24]: <0x0002> Default user payload used. {97b945c0}
+[04/12/23 16:38:24]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {4747278e}
+[04/12/23 16:38:24]: <0x2401> Horas con potencia =8:17:50 {6ec82402}
+[04/12/23 16:38:24]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {0e31b113}
+[04/12/23 16:38:25]: <0x0003> COM-PC: server created on all interfaces [851] {7416d287}
+[04/12/23 16:38:25]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {89efa9c0}
+[04/12/23 16:38:26]: <0x2402> History handler has been connected to IHM {4f579b0f}
+[04/12/23 16:38:26]: <0x2401> System: s7.11.2 Feb 24 2020 {eaf70b29}
+[04/12/23 16:38:26]: <0x2401> Kernel: Unknown  {e91d3699}
+[04/12/23 16:38:26]: <0x2401> Configuration Version: c1.046  {1eaaefa7}
+[04/12/23 16:38:26]: <0x2401> CPU: TEKNOR  {3e9f5f83}
+[04/12/23 16:38:26]: <0x2401> Option testMode: enabled  {bb987258}
+[04/12/23 16:38:26]: <0x2401> Option VAL 3: enabled  {cbc1aeec}
+[04/12/23 16:38:26]: <0x2401> N/S del controlador: : ?  {1ab74e61}
+[04/12/23 16:38:26]: <0x2401> Brazo: tx60-S1-R4 suelo {b98ac477}
+[04/12/23 16:38:26]: <0x2401> N/S del brazo:: ?  {3a484f17}
+[04/12/23 16:38:26]: <0x2401> Tipo de aceite:   {1b73ced3}
+[04/12/23 16:38:26]: <0x2401> Nombre del robot:   {e2204733}
+[04/12/23 16:38:26]: <0x2401> EP: s7.11.2 Feb 24 2020 {655e2ef5}
+[04/12/23 16:38:26]: <0x2401> EP10: s7.11.2 Feb 24 2020 {2afea264}
+[04/12/23 16:38:26]: <0x2401> SCA: s7.11.2 Feb 24 2020 {cc3b1d01}
+[04/12/23 16:38:26]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {baad3a1e}
+[04/12/23 16:38:26]: <0x2201> Nuevo perfil : default {f4d8c176}
+[04/12/23 16:38:26]: <0x2401> End of controller initialization 0 {9b80f52f}
+[04/12/23 16:38:34]: <0x2402> Mcp = TSimulated {b115055a}
+[04/12/23 16:38:34]: <0x340A> Mcp communication established {db7e129f}
+[04/12/23 16:38:34]: <0x1801> Modo de trabajo:automático. {eb0925d1}
+[04/12/23 16:42:37]: <0x2402> COM-PC: create session 127.0.0.1 on port 2394 id=#50321280 {dd5c2c6e}
+[04/12/23 16:42:53]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {5215a573}
+[04/12/23 16:42:54]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {8c9ea5f3}
+[04/12/23 16:42:55]: <0x5402> Tester Aplicación arrancada {d50dd9ba}
+[04/12/23 16:42:56]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 2394 id=#50321280 {a8164f5b}
+[04/12/23 16:46:43]: <0x2402> COM-PC: create session 127.0.0.1 on port 2470 id=#50322112 {a70d5661}
+[04/12/23 16:46:58]: <0x5A03> Deadman validated {4a1f161d}
+[04/12/23 16:46:58]: <0x1603> Habilitando la potencia del brazo... {24545c5e}
+[04/12/23 16:46:59]: <0x1601> Potencia del brazo habilitada. {99ccad0d}
+[04/12/23 16:47:07]: <0x2401> Saving controller context... {6402a0b3}
+[04/12/23 16:47:07]: <0x2402> Temperatura del controlador: 28°C {89aa4e10}
+[04/12/23 16:47:07]: <0x2402> Temperatura de la CPU: 28°C {99ec048a}
+[04/12/23 16:47:09]: <0x2402> COM-PC: create session 127.0.0.1 on port 2480 id=#50319096 {7c2b6c51}
+[04/12/23 16:47:09]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {2c447557}
+[04/12/23 16:47:09]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c7ef33ba}
+[04/12/23 16:47:09]: <0x5403> Tester Aplicación parada {5002d652}
+[04/12/23 16:47:09]: <0x5402> Tester Aplicación arrancada {5d87b1ca}
+[04/12/23 16:47:10]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 2480 id=#50319096 {55d2d87d}
+[04/12/23 16:47:15]: <0x2401> Saving controller context... {16f01b73}
+[04/12/23 16:47:53]: <0x2401> Saving controller context... (5) {2ecce09e}
+[04/12/23 16:47:56]: <0x5A01> Deadman enabled. {c9b28b43}
+[04/12/23 16:48:01]: <0x2401> Saving controller context... {5ab85c92}
+[04/12/23 16:58:19]: <0x2401> Saving controller context... (84) {3d304005}
+[04/12/23 16:58:22]: <0x2401> Watchdog occurs in Cs8 priority:75 {2f59e71e}
+[04/12/23 16:58:27]: <0x2401> Saving controller context... {13d60899}
+[04/12/23 17:10:37]: <0x2401> Saving controller context... (104) {a7872662}
+[04/12/23 17:10:40]: <0x1604> Desactivación de la potencia del brazo... {031c238e}
+[04/12/23 17:10:42]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {d51bc64e}
+[04/12/23 17:10:45]: <0x2401> Saving controller context... {ff6c6dd6}
+[04/12/23 19:04:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 2954 id=#50321280 {69fa5316}
+[04/12/23 19:04:04]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a4638fb1}
+[04/12/23 19:04:04]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {7ee0e8d2}
+[04/12/23 19:04:04]: <0x5403> Tester Aplicación parada {a13e6213}
+[04/12/23 19:04:05]: <0x5405> (Archivo start.pgx-línea 2) 'JApproach1' : nombre inválido {6af5e937}
+[04/12/23 19:04:05]: <0x5405> (Archivo start.pgx-línea 4) 'jGetCinta' : nombre inválido {7a0cb5e1}
+[04/12/23 19:04:05]: <0x5405> (Archivo start.pgx-línea 6) 'tToolSuccion' : nombre inválido {4a4a0562}
+[04/12/23 19:04:05]: <0x5405> (Archivo start.pgx-línea 9) 'pApprBins' : nombre inválido {5aaa99ca}
+[04/12/23 19:04:05]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 2954 id=#50321280 {5bbf70e2}
+[04/12/23 19:06:47]: <0x5A02> Deadman disabled. {45df3558}
+[04/12/23 19:06:47]: <0x5A03> Deadman validated {d02573e4}
+[04/12/23 19:06:47]: <0x1603> Habilitando la potencia del brazo... {32b5e012}
+[04/12/23 19:06:48]: <0x1601> Potencia del brazo habilitada. {b263ccf3}
+[04/12/23 19:06:56]: <0x2401> Saving controller context... {f687ac3b}
+[04/12/23 19:06:59]: <0x2402> COM-PC: create session 127.0.0.1 on port 4934 id=#50322216 {51506c87}
+[04/12/23 19:06:59]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {66bb3eb5}
+[04/12/23 19:06:59]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {3c2830da}
+[04/12/23 19:06:59]: <0x5405> (Archivo start.pgx-línea 2) 'JApproach1' : nombre inválido {f285e229}
+[04/12/23 19:06:59]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 4934 id=#50322216 {1076a963}
+[04/12/23 19:07:03]: <0x2401> Saving controller context... {7b4e8649}
+[04/12/23 19:07:16]: <0x2401> Saving controller context... (2) {9a51f832}
+[04/12/23 19:07:21]: <0x2402> COM-PC: create session 127.0.0.1 on port 4948 id=#50320032 {71b28495}
+[04/12/23 19:07:22]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {76ea3059}
+[04/12/23 19:07:22]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {88ec090b}
+[04/12/23 19:07:22]: <0x5402> TestSuccionar Aplicación arrancada {970d2750}
+[04/12/23 19:07:22]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 4948 id=#50320032 {1843026e}
+[04/12/23 19:07:24]: <0x2401> Saving controller context... {8c32403d}
+[04/12/23 19:07:40]: <0x2401> Saving controller context... (2) {08398a36}
+[04/12/23 19:07:43]: <0x5A01> Deadman enabled. {a31900f1}
+[04/12/23 19:07:45]: <0x2401> Saving controller context... {33c3682e}
+[04/12/23 19:07:50]: <0x5403> TestSuccionar Aplicación parada {f9e6bc78}
+[04/12/23 19:07:53]: <0x2401> Saving controller context... {ae133b0f}
+[04/12/23 19:16:02]: <0x2401> Saving controller context... (66) {b3929e0d}
+[04/12/23 19:16:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 5095 id=#50321904 {5c47b5b4}
+[04/12/23 19:16:05]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {12f87234}
+[04/12/23 19:16:05]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {dcf5013b}
+[04/12/23 19:16:05]: <0x5402> TestSuccionar Aplicación arrancada {1f590cd5}
+[04/12/23 19:16:05]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 5095 id=#50321904 {04b217ac}
+[04/12/23 19:16:10]: <0x2401> Saving controller context... {46e714db}
+[04/12/23 19:16:26]: <0x2401> Saving controller context... (2) {5fa5e22b}
+[04/12/23 19:16:33]: <0x5403> TestSuccionar Aplicación parada {a08b849c}
+[04/12/23 19:16:34]: <0x2401> Saving controller context... {d395fbe3}
+[04/12/23 19:17:27]: <0x2401> Saving controller context... (7) {fb9703c4}
+[04/12/23 19:17:32]: <0x5A02> Deadman disabled. {65126621}
+[04/12/23 19:17:32]: <0x5A03> Deadman validated {e2ff2dbf}
+[04/12/23 19:17:33]: <0x1604> Desactivación de la potencia del brazo... {d766b471}
+[04/12/23 19:17:34]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {bd6d10c7}
+[04/12/23 19:17:35]: <0x2401> Saving controller context... {8aec5036}
+[04/12/23 19:17:49]: <0x5A01> Deadman enabled. {2df3f97e}
+[04/12/23 19:49:13]: <0x2402> COM-PC: create session 127.0.0.1 on port 5120 id=#50322216 {169f50a0}
+[04/12/23 19:49:13]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {4808107f}
+[04/12/23 19:49:13]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {e505bad0}
+[04/12/23 19:49:13]: <0x5402> TestSuccionar Aplicación arrancada {7409c848}
+[04/12/23 19:49:14]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 5120 id=#50322216 {59f2e94b}
+[04/12/23 19:49:22]: <0x5A02> Deadman disabled. {f783e7af}
+[04/12/23 19:49:22]: <0x5A03> Deadman validated {39e5b11e}
+[04/12/23 19:49:22]: <0x1603> Habilitando la potencia del brazo... {0d808788}
+[04/12/23 19:49:23]: <0x1601> Potencia del brazo habilitada. {914e84cc}
+[04/12/23 19:49:31]: <0x5403> TestSuccionar Aplicación parada {33399757}
+[04/12/23 19:49:39]: <0x5A01> Deadman enabled. {0c89296a}
+[04/12/23 19:49:40]: <0x2402> COM-PC: create session 127.0.0.1 on port 5120 id=#50319512 {ed6293a5}
+[04/12/23 19:49:40]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {6459ba3b}
+[04/12/23 19:49:40]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {2066007a}
+[04/12/23 19:49:41]: <0x5402> TestSuccionar Aplicación arrancada {8131ccc4}
+[04/12/23 19:49:41]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 5120 id=#50319512 {5d22d5fc}
+[04/12/23 19:49:53]: <0x5403> TestSuccionar Aplicación parada {0acc9b20}
+[04/12/23 19:59:47]: <0x2402> COM-PC: create session 127.0.0.1 on port 5120 id=#50320656 {ffc93ccb}
+[04/12/23 19:59:48]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {02a5ec67}
+[04/12/23 19:59:48]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {fe8fdab5}
+[04/12/23 19:59:48]: <0x5402> TestSuccionar Aplicación arrancada {4b3b3a77}
+[04/12/23 19:59:48]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 5120 id=#50320656 {4b59c851}
+[04/12/23 20:00:02]: <0x5403> TestSuccionar Aplicación parada {2f58349f}
+[04/12/23 20:00:10]: <0x2402> COM-PC: create session 127.0.0.1 on port 5120 id=#50318992 {cf92631c}
+[04/12/23 20:00:10]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0505b494}
+[04/12/23 20:00:10]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {226e1431}
+[04/12/23 20:00:11]: <0x5402> TestSuccionar Aplicación arrancada {b2d09374}
+[04/12/23 20:00:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 5120 id=#50318992 {b4285335}
+[04/12/23 20:00:31]: <0x5403> TestSuccionar Aplicación parada {e47afe57}
+[04/12/23 20:00:43]: <0x2402> COM-PC: create session 127.0.0.1 on port 5120 id=#50318992 {3c0d6cb6}
+[04/12/23 20:00:43]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {8ebd1194}
+[04/12/23 20:00:43]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c611cb0a}
+[04/12/23 20:00:44]: <0x5402> TestSuccionar Aplicación arrancada {3637db85}
+[04/12/23 20:00:44]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 5120 id=#50318992 {117bd286}
+[04/12/23 20:01:18]: <0x5403> TestSuccionar Aplicación parada {521238e5}
+[04/12/23 20:01:24]: <0x1604> Desactivación de la potencia del brazo... {47e5c30d}
+[04/12/23 20:01:25]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {4eff85cd}
+[04/12/23 20:01:30]: <0x2401> Saving controller context... {f425b944}
+[04/12/23 20:40:23]: <0x2402> MCP communication disconnected {538a3e47}
+[04/12/23 20:40:30]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 2470 id=#50322112 {014ba77b}
+[04/12/23 20:40:30]: <0x2402> COM-PC: create session 127.0.0.1 on port 5855 id=#50321904 {1190d3ac}
+[04/13/23 11:23:56]: ----------------------------------------------- {cd58a07d}
+[04/13/23 11:23:56]: Registro iniciado (1048576) {1a65da44}
+[04/13/23 11:24:01]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {6ba6cc51}
+[04/13/23 11:24:01]: <0x0003> Cycle time set to 0.004s {5e1c155e}
+[04/13/23 11:24:01]: <0x0003> Simulation cycle time set to 0.1s {9fd9d5a1}
+[04/13/23 11:24:01]: <0x0002> Controller IP address could not be updated {3dd89061}
+[04/13/23 11:24:01]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {6a47a05b}
+[04/13/23 11:24:01]: <0x0001> Error while trying to build User serial 2 {540fa8bd}
+[04/13/23 11:24:01]: <0x0002> Default user payload used. {f16bdbf4}
+[04/13/23 11:24:01]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {8da9acac}
+[04/13/23 11:24:01]: <0x2401> Horas con potencia =8:37:14 {55d49182}
+[04/13/23 11:24:01]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {e1484560}
+[04/13/23 11:24:02]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {e32a04ff}
+[04/13/23 11:24:04]: <0x0003> COM-PC: server created on all interfaces [851] {3eb6d6b4}
+[04/13/23 11:24:05]: <0x2402> History handler has been connected to IHM {b6f10785}
+[04/13/23 11:24:05]: <0x2401> System: s7.11.2 Feb 24 2020 {769c1ad0}
+[04/13/23 11:24:05]: <0x2401> Kernel: Unknown  {a559bae5}
+[04/13/23 11:24:05]: <0x2401> Configuration Version: c1.046  {8be14ca5}
+[04/13/23 11:24:05]: <0x2401> CPU: TEKNOR  {d973a234}
+[04/13/23 11:24:05]: <0x2401> Option testMode: enabled  {724dedbf}
+[04/13/23 11:24:05]: <0x2401> Option VAL 3: enabled  {622a9c4d}
+[04/13/23 11:24:05]: <0x2401> N/S del controlador: : ?  {7b780f73}
+[04/13/23 11:24:05]: <0x2401> Brazo: tx60-S1-R4 suelo {15377c41}
+[04/13/23 11:24:05]: <0x2401> N/S del brazo:: ?  {08f69a65}
+[04/13/23 11:24:05]: <0x2401> Tipo de aceite:   {3aecbabe}
+[04/13/23 11:24:05]: <0x2401> Nombre del robot:   {1dd44b0f}
+[04/13/23 11:24:05]: <0x2401> EP: s7.11.2 Feb 24 2020 {7c0c0a8d}
+[04/13/23 11:24:05]: <0x2401> EP10: s7.11.2 Feb 24 2020 {ef526c42}
+[04/13/23 11:24:05]: <0x2401> SCA: s7.11.2 Feb 24 2020 {a5d8b900}
+[04/13/23 11:24:05]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {65f94368}
+[04/13/23 11:24:05]: <0x2201> Nuevo perfil : default {1b00b313}
+[04/13/23 11:24:05]: <0x2401> End of controller initialization 0 {7768b4ff}
+[04/13/23 11:24:21]: <0x2402> Mcp = TSimulated {924c3eb8}
+[04/13/23 11:24:21]: <0x340A> Mcp communication established {f48f83cd}
+[04/13/23 11:24:21]: <0x1801> Modo de trabajo:automático. {af830ad0}
+[04/13/23 11:24:26]: <0x3407> Error interno MCP-NoAnswer: char 1 {4ff0fb5e}
+[04/13/23 11:24:32]: <0x3409> Error interno MCP-ResetTimeout {bc88278b}
+[04/13/23 11:24:32]: <0x2402> MCP communication disconnected {21562ab4}
+[04/13/23 11:24:36]: <0x2402> Mcp = TSimulated {a8f3786b}
+[04/13/23 11:24:36]: <0x340A> Mcp communication established {74ec419d}
+[04/13/23 11:24:36]: <0x1801> Modo de trabajo:automático. {83ba2fea}
+[04/13/23 11:24:41]: <0x3407> Error interno MCP-NoAnswer: char 1 {dbbb5b36}
+[04/13/23 11:24:47]: <0x3409> Error interno MCP-ResetTimeout {c2803b7a}
+[04/13/23 11:24:47]: <0x2402> MCP communication disconnected {cd262a4e}
+[04/13/23 11:24:49]: <0x2402> Mcp = TSimulated {6c2389c5}
+[04/13/23 11:24:49]: <0x340A> Mcp communication established {d2a0f9ab}
+[04/13/23 11:24:49]: <0x1801> Modo de trabajo:automático. {087a7c07}
+[04/13/23 11:24:54]: <0x3407> Error interno MCP-NoAnswer: char 1 {a94b8d2a}
+[04/13/23 11:25:00]: <0x3409> Error interno MCP-ResetTimeout {ed1de605}
+[04/13/23 11:25:00]: <0x2402> MCP communication disconnected {23fc7507}
+[04/13/23 11:25:02]: <0x2402> Mcp = TSimulated {585d7cb9}
+[04/13/23 11:25:02]: <0x340A> Mcp communication established {e5449924}
+[04/13/23 11:25:02]: <0x1801> Modo de trabajo:automático. {afc5b4d0}
+[04/13/23 11:25:07]: <0x3407> Error interno MCP-NoAnswer: char 1 {8967971a}
+[04/13/23 11:25:13]: <0x3409> Error interno MCP-ResetTimeout {93cbebef}
+[04/13/23 11:25:13]: <0x2402> MCP communication disconnected {ffc6fd3f}
+[04/13/23 11:25:15]: <0x2402> Mcp = TSimulated {359cc63f}
+[04/13/23 11:25:15]: <0x340A> Mcp communication established {ecc89f3f}
+[04/13/23 11:25:15]: <0x1801> Modo de trabajo:automático. {3986e3a4}
+[04/13/23 11:25:20]: <0x3407> Error interno MCP-NoAnswer: char 1 {1eca642a}
+[04/13/23 11:25:26]: <0x3409> Error interno MCP-ResetTimeout {33b1eb7b}
+[04/13/23 11:25:26]: <0x2402> MCP communication disconnected {1ab9be13}
+[04/13/23 11:25:28]: <0x2402> Mcp = TSimulated {f4f86335}
+[04/13/23 11:25:28]: <0x340A> Mcp communication established {ac8e6326}
+[04/13/23 11:25:28]: <0x1801> Modo de trabajo:automático. {33a80177}
+[04/13/23 11:25:33]: <0x3407> Error interno MCP-NoAnswer: char 1 {cbb60b57}
+[04/13/23 11:25:39]: <0x3409> Error interno MCP-ResetTimeout {be99fe45}
+[04/13/23 11:25:39]: <0x2402> MCP communication disconnected {32893036}
+[04/13/23 11:25:41]: <0x2402> Mcp = TSimulated {12acfec5}
+[04/13/23 11:25:41]: <0x340A> Mcp communication established {46be55b3}
+[04/13/23 11:25:41]: <0x1801> Modo de trabajo:automático. {760fe3bf}
+[04/13/23 11:25:46]: <0x3407> Error interno MCP-NoAnswer: char 1 {327a3005}
+[04/13/23 11:25:52]: <0x3409> Error interno MCP-ResetTimeout {8dbaf135}
+[04/13/23 11:25:52]: <0x2402> MCP communication disconnected {1d2859e4}
+[04/13/23 11:25:53]: <0x2402> Mcp = TSimulated {5d12a3af}
+[04/13/23 11:25:53]: <0x340A> Mcp communication established {48154d4a}
+[04/13/23 11:25:54]: <0x1801> Modo de trabajo:automático. {2753d933}
+[04/13/23 11:25:59]: <0x3407> Error interno MCP-NoAnswer: char 1 {54d601be}
+[04/13/23 11:26:05]: <0x3409> Error interno MCP-ResetTimeout {0313b5b3}
+[04/13/23 11:26:05]: <0x2402> MCP communication disconnected {94a15ae7}
+[04/13/23 11:26:06]: <0x2402> Mcp = TSimulated {8544fdb8}
+[04/13/23 11:26:06]: <0x340A> Mcp communication established {57a6cbe6}
+[04/13/23 11:26:07]: <0x1801> Modo de trabajo:automático. {5769a9a4}
+[04/13/23 11:26:12]: <0x3407> Error interno MCP-NoAnswer: char 1 {23cffd89}
+[04/13/23 11:26:18]: <0x3409> Error interno MCP-ResetTimeout {23c89fb5}
+[04/13/23 11:26:18]: <0x2402> MCP communication disconnected {8d45781a}
+[04/13/23 11:26:19]: <0x2402> Mcp = TSimulated {9129b42e}
+[04/13/23 11:26:19]: <0x340A> Mcp communication established {2c86e85e}
+[04/13/23 11:26:19]: <0x1801> Modo de trabajo:automático. {9de81f94}
+[04/13/23 11:26:25]: <0x3407> Error interno MCP-NoAnswer: char 1 {f9a4e61b}
+[04/13/23 11:26:31]: <0x3409> Error interno MCP-ResetTimeout {f7ade75f}
+[04/13/23 11:26:31]: <0x2402> MCP communication disconnected {cfa75128}
+[04/13/23 11:26:32]: <0x2402> Mcp = TSimulated {f7115b4d}
+[04/13/23 11:26:32]: <0x340A> Mcp communication established {4c37a123}
+[04/13/23 11:26:32]: <0x1801> Modo de trabajo:automático. {c6874b63}
+[04/13/23 11:26:38]: <0x3407> Error interno MCP-NoAnswer: char 1 {428e47e4}
+[04/13/23 11:26:44]: <0x3409> Error interno MCP-ResetTimeout {92e563d1}
+[04/13/23 11:26:44]: <0x2402> MCP communication disconnected {80e826dd}
+[04/13/23 11:26:45]: <0x2402> Mcp = TSimulated {a122a63e}
+[04/13/23 11:26:45]: <0x340A> Mcp communication established {78dc7ea7}
+[04/13/23 11:26:45]: <0x1801> Modo de trabajo:automático. {0670bae7}
+[04/13/23 11:26:51]: <0x3407> Error interno MCP-NoAnswer: char 1 {1a183b17}
+[04/13/23 11:26:57]: <0x3409> Error interno MCP-ResetTimeout {5ab352a8}
+[04/13/23 11:26:57]: <0x2402> MCP communication disconnected {b1faf600}
+[04/13/23 11:26:58]: <0x2402> Mcp = TSimulated {d8ee6dbe}
+[04/13/23 11:26:58]: <0x340A> Mcp communication established {ee6cbe5d}
+[04/13/23 11:26:58]: <0x1801> Modo de trabajo:automático. {9465c10e}
+[04/13/23 11:27:04]: <0x3407> Error interno MCP-NoAnswer: char 1 {e0672b3e}
+[04/13/23 11:27:10]: <0x3409> Error interno MCP-ResetTimeout {f62e8a9d}
+[04/13/23 11:27:10]: <0x2402> MCP communication disconnected {f07a5a1d}
+[04/13/23 11:27:11]: <0x2402> Mcp = TSimulated {ccacfe49}
+[04/13/23 11:27:11]: <0x340A> Mcp communication established {d87f1938}
+[04/13/23 11:27:11]: <0x1801> Modo de trabajo:automático. {95d9bfff}
+[04/13/23 11:27:17]: <0x3407> Error interno MCP-NoAnswer: char 1 {74a3018b}
+[04/13/23 11:27:23]: <0x3409> Error interno MCP-ResetTimeout {5c8adf92}
+[04/13/23 11:27:23]: <0x2402> MCP communication disconnected {bac5d021}
+[04/13/23 11:27:24]: <0x2402> Mcp = TSimulated {f51ce7e5}
+[04/13/23 11:27:24]: <0x340A> Mcp communication established {57fb46c2}
+[04/13/23 11:27:24]: <0x1801> Modo de trabajo:automático. {fce53a0a}
+[04/13/23 11:27:29]: <0x3407> Error interno MCP-NoAnswer: char 1 {580f556a}
+[04/13/23 11:27:35]: <0x3409> Error interno MCP-ResetTimeout {e68b5d31}
+[04/13/23 11:27:35]: <0x2402> MCP communication disconnected {95f455d6}
+[04/13/23 11:27:37]: <0x2402> Mcp = TSimulated {6a8d2ef8}
+[04/13/23 11:27:37]: <0x340A> Mcp communication established {7cbed769}
+[04/13/23 11:27:37]: <0x1801> Modo de trabajo:automático. {0fd08fe9}
+[04/13/23 11:27:42]: <0x3407> Error interno MCP-NoAnswer: char 1 {acd9b852}
+[04/13/23 11:27:48]: <0x3409> Error interno MCP-ResetTimeout {508b4392}
+[04/13/23 11:27:48]: <0x2402> MCP communication disconnected {d357bbda}
+[04/13/23 11:27:50]: <0x2402> Mcp = TSimulated {06944743}
+[04/13/23 11:27:50]: <0x340A> Mcp communication established {795d3f84}
+[04/13/23 11:27:50]: <0x1801> Modo de trabajo:automático. {15d6a4c1}
+[04/13/23 11:27:55]: <0x3407> Error interno MCP-NoAnswer: char 1 {7a2b721b}
+[04/13/23 11:28:01]: <0x3409> Error interno MCP-ResetTimeout {95df5e4a}
+[04/13/23 11:28:01]: <0x2402> MCP communication disconnected {133c1e00}
+[04/13/23 11:28:03]: <0x2402> Mcp = TSimulated {837418f7}
+[04/13/23 11:28:03]: <0x340A> Mcp communication established {a0711f1c}
+[04/13/23 11:28:03]: <0x1801> Modo de trabajo:automático. {cfa9c664}
+[04/13/23 11:28:08]: <0x3407> Error interno MCP-NoAnswer: char 1 {491ce44f}
+[04/13/23 11:28:14]: <0x3409> Error interno MCP-ResetTimeout {5cd9ac6b}
+[04/13/23 11:28:14]: <0x2402> MCP communication disconnected {f7812f98}
+[04/13/23 11:28:16]: <0x2402> Mcp = TSimulated {ee73f5bd}
+[04/13/23 11:28:16]: <0x340A> Mcp communication established {28a328c7}
+[04/13/23 11:28:16]: <0x1801> Modo de trabajo:automático. {22f1f548}
+[04/13/23 11:28:21]: <0x3407> Error interno MCP-NoAnswer: char 1 {a8957c78}
+[04/13/23 11:28:27]: <0x3409> Error interno MCP-ResetTimeout {87bf55b2}
+[04/13/23 11:28:27]: <0x2402> MCP communication disconnected {797e3590}
+[04/13/23 11:28:29]: <0x2402> Mcp = TSimulated {6126a502}
+[04/13/23 11:28:29]: <0x340A> Mcp communication established {2e79e683}
+[04/13/23 11:28:29]: <0x1801> Modo de trabajo:automático. {e7b7ff83}
+[04/13/23 11:28:34]: <0x3407> Error interno MCP-NoAnswer: char 1 {cad9a1b9}
+[04/13/23 11:28:40]: <0x3409> Error interno MCP-ResetTimeout {fdcfe804}
+[04/13/23 11:28:40]: <0x2402> MCP communication disconnected {f9dc53aa}
+[04/13/23 11:28:42]: <0x2402> Mcp = TSimulated {c955c285}
+[04/13/23 11:28:42]: <0x340A> Mcp communication established {acb340f9}
+[04/13/23 11:28:42]: <0x1801> Modo de trabajo:automático. {6181d056}
+[04/13/23 11:28:47]: <0x3407> Error interno MCP-NoAnswer: char 1 {08fd492c}
+[04/13/23 11:28:53]: <0x3409> Error interno MCP-ResetTimeout {f47c253b}
+[04/13/23 11:28:53]: <0x2402> MCP communication disconnected {602f3fca}
+[04/13/23 11:28:55]: <0x2402> Mcp = TSimulated {0fd35913}
+[04/13/23 11:28:55]: <0x340A> Mcp communication established {da87a634}
+[04/13/23 11:28:55]: <0x1801> Modo de trabajo:automático. {7f53a2e7}
+[04/13/23 11:29:00]: <0x3407> Error interno MCP-NoAnswer: char 1 {97bdda18}
+[04/13/23 11:29:06]: <0x3409> Error interno MCP-ResetTimeout {0fc36dfa}
+[04/13/23 11:29:06]: <0x2402> MCP communication disconnected {519c9609}
+[04/13/23 11:29:08]: <0x2402> Mcp = TSimulated {b808c792}
+[04/13/23 11:29:08]: <0x340A> Mcp communication established {31794ba3}
+[04/13/23 11:29:08]: <0x1801> Modo de trabajo:automático. {f7c9ca42}
+[04/13/23 11:29:13]: <0x3407> Error interno MCP-NoAnswer: char 1 {95e93694}
+[04/13/23 11:29:19]: <0x3409> Error interno MCP-ResetTimeout {35f2acf2}
+[04/13/23 11:29:19]: <0x2402> MCP communication disconnected {a1e56fd5}
+[04/13/23 11:29:21]: <0x2402> Mcp = TSimulated {c47c7dbb}
+[04/13/23 11:29:21]: <0x340A> Mcp communication established {f186a3fc}
+[04/13/23 11:29:21]: <0x1801> Modo de trabajo:automático. {ed807d2b}
+[04/13/23 11:29:26]: <0x3407> Error interno MCP-NoAnswer: char 1 {418705dc}
+[04/13/23 11:29:32]: <0x3409> Error interno MCP-ResetTimeout {bc828217}
+[04/13/23 11:29:32]: <0x2402> MCP communication disconnected {1b8abd6d}
+[04/13/23 11:29:34]: <0x2402> Mcp = TSimulated {dcf3a3aa}
+[04/13/23 11:29:34]: <0x340A> Mcp communication established {dcf7ea48}
+[04/13/23 11:29:34]: <0x1801> Modo de trabajo:automático. {17a0e672}
+[04/13/23 11:29:39]: <0x3407> Error interno MCP-NoAnswer: char 1 {ad1ef643}
+[04/13/23 11:29:45]: <0x3409> Error interno MCP-ResetTimeout {e9e48a76}
+[04/13/23 11:29:45]: <0x2402> MCP communication disconnected {04a584cc}
+[04/13/23 11:29:47]: <0x2402> Mcp = TSimulated {bc3b26c9}
+[04/13/23 11:29:47]: <0x340A> Mcp communication established {4f0fa0ac}
+[04/13/23 11:29:47]: <0x1801> Modo de trabajo:automático. {ccb3cca2}
+[04/13/23 11:29:52]: <0x3407> Error interno MCP-NoAnswer: char 1 {e8c39aca}
+[04/13/23 11:29:58]: <0x3409> Error interno MCP-ResetTimeout {2626a038}
+[04/13/23 11:29:58]: <0x2402> MCP communication disconnected {b4b416d3}
+[04/13/23 11:29:59]: <0x2402> Mcp = TSimulated {436524a7}
+[04/13/23 11:30:00]: <0x340A> Mcp communication established {410b02c6}
+[04/13/23 11:30:00]: <0x1801> Modo de trabajo:automático. {682ad41f}
+[04/13/23 11:30:05]: <0x3407> Error interno MCP-NoAnswer: char 1 {f9f5a39c}
+[04/13/23 11:30:11]: <0x3409> Error interno MCP-ResetTimeout {54c064ef}
+[04/13/23 11:30:11]: <0x2402> MCP communication disconnected {573e513a}
+[04/13/23 11:30:12]: <0x2402> Mcp = TSimulated {ea7df38f}
+[04/13/23 11:30:12]: <0x340A> Mcp communication established {cbb451aa}
+[04/13/23 11:30:13]: <0x1801> Modo de trabajo:automático. {70491542}
+[04/13/23 11:30:18]: <0x3407> Error interno MCP-NoAnswer: char 1 {a7695fd6}
+[04/13/23 11:30:24]: <0x3409> Error interno MCP-ResetTimeout {7900e5e5}
+[04/13/23 11:30:24]: <0x2402> MCP communication disconnected {50a5a3e4}
+[04/13/23 11:30:25]: <0x2402> Mcp = TSimulated {04ee0686}
+[04/13/23 11:30:25]: <0x340A> Mcp communication established {47582577}
+[04/13/23 11:30:26]: <0x1801> Modo de trabajo:automático. {540189cc}
+[04/13/23 11:30:31]: <0x3407> Error interno MCP-NoAnswer: char 1 {441bf3af}
+[04/13/23 11:30:37]: <0x3409> Error interno MCP-ResetTimeout {8925614d}
+[04/13/23 11:30:37]: <0x2402> MCP communication disconnected {61f882f0}
+[04/13/23 11:30:38]: <0x2402> Mcp = TSimulated {514f6000}
+[04/13/23 11:30:38]: <0x340A> Mcp communication established {21837c16}
+[04/13/23 11:30:39]: <0x1801> Modo de trabajo:automático. {abb46a4b}
+[04/13/23 11:30:44]: <0x3407> Error interno MCP-NoAnswer: char 1 {f939c32e}
+[04/13/23 11:30:50]: <0x3409> Error interno MCP-ResetTimeout {719b30f2}
+[04/13/23 11:30:50]: <0x2402> MCP communication disconnected {890fc4bb}
+[04/13/23 11:30:51]: <0x2402> Mcp = TSimulated {33ca293a}
+[04/13/23 11:30:51]: <0x340A> Mcp communication established {cfff1969}
+[04/13/23 11:30:52]: <0x1801> Modo de trabajo:automático. {7684c3ab}
+[04/13/23 11:30:57]: <0x3407> Error interno MCP-NoAnswer: char 1 {0d07c96d}
+[04/13/23 11:31:03]: <0x3409> Error interno MCP-ResetTimeout {1b872ac5}
+[04/13/23 11:31:03]: <0x2402> MCP communication disconnected {9864818d}
+[04/13/23 11:31:04]: <0x2402> Mcp = TSimulated {ca09961b}
+[04/13/23 11:31:04]: <0x340A> Mcp communication established {c6250eed}
+[04/13/23 11:31:05]: <0x1801> Modo de trabajo:automático. {e0b76744}
+[04/13/23 11:31:10]: <0x3407> Error interno MCP-NoAnswer: char 1 {4f90832c}
+[04/13/23 11:31:16]: <0x3409> Error interno MCP-ResetTimeout {074e037f}
+[04/13/23 11:31:16]: <0x2402> MCP communication disconnected {f33a51ae}
+[04/13/23 11:31:17]: <0x2402> Mcp = TSimulated {a14053a3}
+[04/13/23 11:31:17]: <0x340A> Mcp communication established {8022aef6}
+[04/13/23 11:31:18]: <0x1801> Modo de trabajo:automático. {86904376}
+[04/13/23 11:31:23]: <0x3407> Error interno MCP-NoAnswer: char 1 {a1c4ba3c}
+[04/13/23 11:31:29]: <0x3409> Error interno MCP-ResetTimeout {168bb76b}
+[04/13/23 11:31:29]: <0x2402> MCP communication disconnected {8ce3c3b6}
+[04/13/23 11:31:30]: <0x2402> Mcp = TSimulated {b1e4105b}
+[04/13/23 11:31:30]: <0x340A> Mcp communication established {a8577d47}
+[04/13/23 11:31:31]: <0x1801> Modo de trabajo:automático. {e1960cc6}
+[04/13/23 11:31:36]: <0x3407> Error interno MCP-NoAnswer: char 1 {ffbfe0c1}
+[04/13/23 11:31:42]: <0x3409> Error interno MCP-ResetTimeout {ae339dcb}
+[04/13/23 11:31:42]: <0x2402> MCP communication disconnected {3278c3bd}
+[04/13/23 11:31:43]: <0x2402> Mcp = TSimulated {059af1ba}
+[04/13/23 11:31:43]: <0x340A> Mcp communication established {5adbf661}
+[04/13/23 11:31:44]: <0x1801> Modo de trabajo:automático. {342b1a9a}
+[04/13/23 11:31:49]: <0x3407> Error interno MCP-NoAnswer: char 1 {09611a96}
+[04/13/23 11:31:55]: <0x3409> Error interno MCP-ResetTimeout {261d9e87}
+[04/13/23 11:31:55]: <0x2402> MCP communication disconnected {58494ca4}
+[04/13/23 11:31:56]: <0x2402> Mcp = TSimulated {2f0d8165}
+[04/13/23 11:31:56]: <0x340A> Mcp communication established {ce9b8a94}
+[04/13/23 11:31:57]: <0x1801> Modo de trabajo:automático. {c3fbb6a6}
+[04/13/23 11:32:02]: <0x3407> Error interno MCP-NoAnswer: char 1 {d204081e}
+[04/13/23 11:32:08]: <0x3409> Error interno MCP-ResetTimeout {2a4b22e5}
+[04/13/23 11:32:08]: <0x2402> MCP communication disconnected {97366aee}
+[04/13/23 11:32:09]: <0x2402> Mcp = TSimulated {57789bc5}
+[04/13/23 11:32:09]: <0x340A> Mcp communication established {ece07db1}
+[04/13/23 11:32:09]: <0x1801> Modo de trabajo:automático. {5d80fedb}
+[04/13/23 11:32:15]: <0x3407> Error interno MCP-NoAnswer: char 1 {86bc8c9a}
+[04/13/23 11:32:21]: <0x3409> Error interno MCP-ResetTimeout {bf7678ba}
+[04/13/23 11:32:21]: <0x2402> MCP communication disconnected {01c62276}
+[04/13/23 11:32:22]: <0x2402> Mcp = TSimulated {7d784a8b}
+[04/13/23 11:32:22]: <0x340A> Mcp communication established {e54c65ba}
+[04/13/23 11:32:23]: <0x1801> Modo de trabajo:automático. {3be388d5}
+[04/13/23 11:32:28]: <0x3407> Error interno MCP-NoAnswer: char 1 {fa078f53}
+[04/13/23 11:32:34]: <0x3409> Error interno MCP-ResetTimeout {cd3f1da6}
+[04/13/23 11:32:34]: <0x2402> MCP communication disconnected {3876bc68}
+[04/13/23 11:32:35]: <0x2402> Mcp = TSimulated {8ba0a2a0}
+[04/13/23 11:32:35]: <0x340A> Mcp communication established {03a62bd3}
+[04/13/23 11:32:35]: <0x1801> Modo de trabajo:automático. {52d6af47}
+[04/13/23 11:32:41]: <0x3407> Error interno MCP-NoAnswer: char 1 {b1741c8b}
+[04/13/23 11:32:47]: <0x3409> Error interno MCP-ResetTimeout {e4fda2f8}
+[04/13/23 11:32:47]: <0x2402> MCP communication disconnected {5efdd1f1}
+[04/13/23 11:32:48]: <0x2402> Mcp = TSimulated {2d1a74bf}
+[04/13/23 11:32:48]: <0x340A> Mcp communication established {ae4f7b84}
+[04/13/23 11:32:48]: <0x1801> Modo de trabajo:automático. {9fe1d1e3}
+[04/13/23 11:32:54]: <0x3407> Error interno MCP-NoAnswer: char 1 {feeba17a}
+[04/13/23 11:33:00]: <0x3409> Error interno MCP-ResetTimeout {515689c3}
+[04/13/23 11:33:00]: <0x2402> MCP communication disconnected {e63cabaa}
+[04/13/23 11:33:01]: <0x2402> Mcp = TSimulated {d9cc740a}
+[04/13/23 11:33:01]: <0x340A> Mcp communication established {5c0e90d3}
+[04/13/23 11:33:01]: <0x1801> Modo de trabajo:automático. {6d3107c6}
+[04/13/23 11:33:07]: <0x3407> Error interno MCP-NoAnswer: char 1 {6ee7d3a3}
+[04/13/23 11:33:13]: <0x3409> Error interno MCP-ResetTimeout {9d871349}
+[04/13/23 11:33:13]: <0x2402> MCP communication disconnected {3d56b042}
+[04/13/23 11:33:14]: <0x2402> Mcp = TSimulated {4b930e91}
+[04/13/23 11:33:14]: <0x340A> Mcp communication established {aaa05b7b}
+[04/13/23 11:33:14]: <0x1801> Modo de trabajo:automático. {12a5c5fc}
+[04/13/23 11:33:20]: <0x3407> Error interno MCP-NoAnswer: char 1 {d292fe27}
+[04/13/23 11:33:26]: <0x3409> Error interno MCP-ResetTimeout {dd7ef0b7}
+[04/13/23 11:33:26]: <0x2402> MCP communication disconnected {1c96ba5f}
+[04/13/23 11:33:27]: <0x2402> Mcp = TSimulated {77c824c9}
+[04/13/23 11:33:27]: <0x340A> Mcp communication established {e40da0f0}
+[04/13/23 11:33:27]: <0x1801> Modo de trabajo:automático. {6286d654}
+[04/13/23 11:33:33]: <0x3407> Error interno MCP-NoAnswer: char 1 {dec0bc0d}
+[04/13/23 11:33:39]: <0x3409> Error interno MCP-ResetTimeout {2e9577c3}
+[04/13/23 11:33:39]: <0x2402> MCP communication disconnected {8c086691}
+[04/13/23 11:33:40]: <0x2402> Mcp = TSimulated {cdd476a5}
+[04/13/23 11:33:40]: <0x340A> Mcp communication established {bc244e26}
+[04/13/23 11:33:40]: <0x1801> Modo de trabajo:automático. {462f81de}
+[04/13/23 11:33:46]: <0x3407> Error interno MCP-NoAnswer: char 1 {d420a333}
+[04/13/23 11:33:52]: <0x3409> Error interno MCP-ResetTimeout {522fae2f}
+[04/13/23 11:33:52]: <0x2402> MCP communication disconnected {1eeee66f}
+[04/13/23 11:33:53]: <0x2402> Mcp = TSimulated {8768d094}
+[04/13/23 11:33:53]: <0x340A> Mcp communication established {37c2ffd2}
+[04/13/23 11:33:53]: <0x1801> Modo de trabajo:automático. {0a3416bc}
+[04/13/23 11:33:58]: <0x3407> Error interno MCP-NoAnswer: char 1 {e95136ec}
+[04/13/23 11:34:04]: <0x3409> Error interno MCP-ResetTimeout {74ddfb3a}
+[04/13/23 11:34:04]: <0x2402> MCP communication disconnected {fd93fcc1}
+[04/13/23 11:34:06]: <0x2402> Mcp = TSimulated {8c7e8808}
+[04/13/23 11:34:06]: <0x340A> Mcp communication established {d4cfafa0}
+[04/13/23 11:34:06]: <0x1801> Modo de trabajo:automático. {515a3f1f}
+[04/13/23 11:34:11]: <0x3407> Error interno MCP-NoAnswer: char 1 {1db24e20}
+[04/13/23 11:34:17]: <0x3409> Error interno MCP-ResetTimeout {a26bdc69}
+[04/13/23 11:34:17]: <0x2402> MCP communication disconnected {7fcb9181}
+[04/13/23 11:34:19]: <0x2402> Mcp = TSimulated {51b6d3a9}
+[04/13/23 11:34:19]: <0x340A> Mcp communication established {55b94a2c}
+[04/13/23 11:34:19]: <0x1801> Modo de trabajo:automático. {d73ff039}
+[04/13/23 11:34:24]: <0x3407> Error interno MCP-NoAnswer: char 1 {3c58e11b}
+[04/13/23 11:34:30]: <0x3409> Error interno MCP-ResetTimeout {c73c2ba4}
+[04/13/23 11:34:30]: <0x2402> MCP communication disconnected {88d4bd50}
+[04/13/23 11:34:32]: <0x2402> Mcp = TSimulated {2129991c}
+[04/13/23 11:34:32]: <0x340A> Mcp communication established {bbf39816}
+[04/13/23 11:34:32]: <0x1801> Modo de trabajo:automático. {9f02b0ac}
+[04/13/23 11:34:37]: <0x3407> Error interno MCP-NoAnswer: char 1 {191d84d7}
+[04/13/23 11:34:43]: <0x3409> Error interno MCP-ResetTimeout {ea1dd22c}
+[04/13/23 11:34:43]: <0x2402> MCP communication disconnected {34bdb7bf}
+[04/13/23 11:34:45]: <0x2402> Mcp = TSimulated {e147f933}
+[04/13/23 11:34:45]: <0x340A> Mcp communication established {e37c2efe}
+[04/13/23 11:34:45]: <0x1801> Modo de trabajo:automático. {4da2771c}
+[04/13/23 11:34:50]: <0x3407> Error interno MCP-NoAnswer: char 1 {72ac3bdd}
+[04/13/23 11:34:56]: <0x3409> Error interno MCP-ResetTimeout {f3e57faa}
+[04/13/23 11:34:56]: <0x2402> MCP communication disconnected {ee4342e2}
+[04/13/23 11:34:58]: <0x2402> Mcp = TSimulated {c8d614ad}
+[04/13/23 11:34:58]: <0x340A> Mcp communication established {923cef74}
+[04/13/23 11:34:58]: <0x1801> Modo de trabajo:automático. {1f77d9ce}
+[04/13/23 11:35:03]: <0x3407> Error interno MCP-NoAnswer: char 1 {4a92a026}
+[04/13/23 11:35:09]: <0x3409> Error interno MCP-ResetTimeout {6f2547d4}
+[04/13/23 11:35:09]: <0x2402> MCP communication disconnected {3eada136}
+[04/13/23 11:35:11]: <0x2402> Mcp = TSimulated {0123a7bd}
+[04/13/23 11:35:11]: <0x340A> Mcp communication established {944e58ce}
+[04/13/23 11:35:11]: <0x1801> Modo de trabajo:automático. {c79ab21c}
+[04/13/23 11:35:16]: <0x3407> Error interno MCP-NoAnswer: char 1 {686a8008}
+[04/13/23 11:35:22]: <0x3409> Error interno MCP-ResetTimeout {c92377c2}
+[04/13/23 11:35:22]: <0x2402> MCP communication disconnected {fe11c7b4}
+[04/13/23 11:35:24]: <0x2402> Mcp = TSimulated {e90db09c}
+[04/13/23 11:35:24]: <0x340A> Mcp communication established {5de37208}
+[04/13/23 11:35:24]: <0x1801> Modo de trabajo:automático. {3eebead8}
+[04/13/23 11:35:29]: <0x3407> Error interno MCP-NoAnswer: char 1 {7f643907}
+[04/13/23 11:35:35]: <0x3409> Error interno MCP-ResetTimeout {1dd68e9a}
+[04/13/23 11:35:35]: <0x2402> MCP communication disconnected {50bbc049}
+[04/13/23 11:35:37]: <0x2402> Mcp = TSimulated {0b5c8ca5}
+[04/13/23 11:35:37]: <0x340A> Mcp communication established {7e950a4a}
+[04/13/23 11:35:37]: <0x1801> Modo de trabajo:automático. {0c211145}
+[04/13/23 11:35:42]: <0x3407> Error interno MCP-NoAnswer: char 1 {d00496df}
+[04/13/23 11:35:48]: <0x3409> Error interno MCP-ResetTimeout {af950830}
+[04/13/23 11:35:48]: <0x2402> MCP communication disconnected {ecfd7954}
+[04/13/23 11:35:50]: <0x2402> Mcp = TSimulated {1008f976}
+[04/13/23 11:35:50]: <0x340A> Mcp communication established {b2373471}
+[04/13/23 11:35:50]: <0x1801> Modo de trabajo:automático. {9ca5e8a6}
+[04/13/23 11:35:55]: <0x3407> Error interno MCP-NoAnswer: char 1 {0871bfa4}
+[04/13/23 11:36:01]: <0x3409> Error interno MCP-ResetTimeout {a91cd332}
+[04/13/23 11:36:01]: <0x2402> MCP communication disconnected {08185c39}
+[04/13/23 11:36:03]: <0x2402> Mcp = TSimulated {0613822d}
+[04/13/23 11:36:03]: <0x340A> Mcp communication established {e34626c6}
+[04/13/23 11:36:03]: <0x1801> Modo de trabajo:automático. {398060bf}
+[04/13/23 11:36:08]: <0x3407> Error interno MCP-NoAnswer: char 1 {d26893b9}
+[04/13/23 11:36:14]: <0x3409> Error interno MCP-ResetTimeout {20271dd9}
+[04/13/23 11:36:14]: <0x2402> MCP communication disconnected {57a44ceb}
+[04/13/23 11:36:16]: <0x2402> Mcp = TSimulated {8c11f960}
+[04/13/23 11:36:16]: <0x340A> Mcp communication established {f82c887f}
+[04/13/23 11:36:16]: <0x1801> Modo de trabajo:automático. {e2b1eb07}
+[04/13/23 11:36:21]: <0x3407> Error interno MCP-NoAnswer: char 1 {fdfdb0df}
+[04/13/23 11:36:27]: <0x3409> Error interno MCP-ResetTimeout {eacd1907}
+[04/13/23 11:36:27]: <0x2402> MCP communication disconnected {8fed2c4e}
+[04/13/23 11:36:29]: <0x2402> Mcp = TSimulated {df16ab96}
+[04/13/23 11:36:29]: <0x340A> Mcp communication established {404304b6}
+[04/13/23 11:36:29]: <0x1801> Modo de trabajo:automático. {a4abec8c}
+[04/13/23 11:36:34]: <0x3407> Error interno MCP-NoAnswer: char 1 {1eb7b80e}
+[04/13/23 11:36:40]: <0x3409> Error interno MCP-ResetTimeout {e228071c}
+[04/13/23 11:36:40]: <0x2402> MCP communication disconnected {73335064}
+[04/13/23 11:36:42]: <0x2402> Mcp = TSimulated {e19138c8}
+[04/13/23 11:36:42]: <0x340A> Mcp communication established {f2aad894}
+[04/13/23 11:36:42]: <0x1801> Modo de trabajo:automático. {ae8c8e8a}
+[04/13/23 11:36:47]: <0x3407> Error interno MCP-NoAnswer: char 1 {120aeec0}
+[04/13/23 11:36:53]: <0x3409> Error interno MCP-ResetTimeout {512f696f}
+[04/13/23 11:36:53]: <0x2402> MCP communication disconnected {faa221a1}
+[04/13/23 11:36:55]: <0x2402> Mcp = TSimulated {0de753ae}
+[04/13/23 11:36:55]: <0x340A> Mcp communication established {9a3c59bc}
+[04/13/23 11:36:55]: <0x1801> Modo de trabajo:automático. {0561eceb}
+[04/13/23 11:37:00]: <0x3407> Error interno MCP-NoAnswer: char 1 {e433c921}
+[04/13/23 11:37:06]: <0x3409> Error interno MCP-ResetTimeout {1b157df1}
+[04/13/23 11:37:06]: <0x2402> MCP communication disconnected {f3da6f7c}
+[04/13/23 11:37:08]: <0x2402> Mcp = TSimulated {9b720224}
+[04/13/23 11:37:08]: <0x340A> Mcp communication established {4abedc7a}
+[04/13/23 11:37:08]: <0x1801> Modo de trabajo:automático. {e7f5a017}
+[04/13/23 11:37:13]: <0x3407> Error interno MCP-NoAnswer: char 1 {5a913474}
+[04/13/23 11:37:19]: <0x3409> Error interno MCP-ResetTimeout {50dd5248}
+[04/13/23 11:37:19]: <0x2402> MCP communication disconnected {7a3200cd}
+[04/13/23 11:37:21]: <0x2402> Mcp = TSimulated {000eee84}
+[04/13/23 11:37:21]: <0x340A> Mcp communication established {0bb25637}
+[04/13/23 11:37:21]: <0x1801> Modo de trabajo:automático. {3674d42f}
+[04/13/23 11:37:26]: <0x3407> Error interno MCP-NoAnswer: char 1 {585830cc}
+[04/13/23 11:37:32]: <0x3409> Error interno MCP-ResetTimeout {6cc8ccc9}
+[04/13/23 11:37:32]: <0x2402> MCP communication disconnected {0d693d46}
+[04/13/23 11:37:34]: <0x2402> Mcp = TSimulated {f948f491}
+[04/13/23 11:37:34]: <0x340A> Mcp communication established {ec82af3e}
+[04/13/23 11:37:34]: <0x1801> Modo de trabajo:automático. {795f7966}
+[04/13/23 11:37:39]: <0x3407> Error interno MCP-NoAnswer: char 1 {6b16020c}
+[04/13/23 11:37:45]: <0x3409> Error interno MCP-ResetTimeout {6210b416}
+[04/13/23 11:37:45]: <0x2402> MCP communication disconnected {46c815a0}
+[04/13/23 11:37:47]: <0x2402> Mcp = TSimulated {0fccdaf6}
+[04/13/23 11:37:47]: <0x340A> Mcp communication established {80fa830d}
+[04/13/23 11:37:47]: <0x1801> Modo de trabajo:automático. {5b439e25}
+[04/13/23 11:37:52]: <0x3407> Error interno MCP-NoAnswer: char 1 {e6baa4da}
+[04/13/23 11:37:58]: <0x3409> Error interno MCP-ResetTimeout {4344009d}
+[04/13/23 11:37:58]: <0x2402> MCP communication disconnected {83c0e5c3}
+[04/13/23 11:38:00]: <0x2402> Mcp = TSimulated {0a86a608}
+[04/13/23 11:38:00]: <0x340A> Mcp communication established {e039fa11}
+[04/13/23 11:38:00]: <0x1801> Modo de trabajo:automático. {b8a319eb}
+[04/13/23 11:38:05]: <0x3407> Error interno MCP-NoAnswer: char 1 {90f3a874}
+[04/13/23 11:38:11]: <0x3409> Error interno MCP-ResetTimeout {760f7acb}
+[04/13/23 11:38:11]: <0x2402> MCP communication disconnected {91931d50}
+[04/13/23 11:38:12]: <0x2402> Mcp = TSimulated {5934c879}
+[04/13/23 11:38:12]: <0x340A> Mcp communication established {ad7d0d73}
+[04/13/23 11:38:13]: <0x1801> Modo de trabajo:automático. {00ea7014}
+[04/13/23 11:38:18]: <0x3407> Error interno MCP-NoAnswer: char 1 {0449924f}
+[04/13/23 11:38:24]: <0x3409> Error interno MCP-ResetTimeout {23766604}
+[04/13/23 11:38:24]: <0x2402> MCP communication disconnected {01ac06ac}
+[04/13/23 11:38:25]: <0x2402> Mcp = TSimulated {ad73d95e}
+[04/13/23 11:38:25]: <0x340A> Mcp communication established {43d4ae4e}
+[04/13/23 11:38:26]: <0x1801> Modo de trabajo:automático. {0a4ef7d3}
+[04/13/23 11:38:31]: <0x3407> Error interno MCP-NoAnswer: char 1 {e55732ce}
+[04/13/23 11:38:37]: <0x3409> Error interno MCP-ResetTimeout {ccdf3ac1}
+[04/13/23 11:38:37]: <0x2402> MCP communication disconnected {9f2bad3a}
+[04/13/23 11:38:38]: <0x2402> Mcp = TSimulated {54a75f76}
+[04/13/23 11:38:38]: <0x340A> Mcp communication established {51001e23}
+[04/13/23 11:38:39]: <0x1801> Modo de trabajo:automático. {2b12a9e2}
+[04/13/23 11:38:44]: <0x3407> Error interno MCP-NoAnswer: char 1 {be66420c}
+[04/13/23 11:38:50]: <0x3409> Error interno MCP-ResetTimeout {770a4015}
+[04/13/23 11:38:50]: <0x2402> MCP communication disconnected {b4daeabf}
+[04/13/23 11:38:51]: <0x2402> Mcp = TSimulated {70a8baf6}
+[04/13/23 11:38:51]: <0x340A> Mcp communication established {3e435119}
+[04/13/23 11:38:52]: <0x1801> Modo de trabajo:automático. {911c40f7}
+[04/13/23 11:38:57]: <0x3407> Error interno MCP-NoAnswer: char 1 {c5f39549}
+[04/13/23 11:39:03]: <0x3409> Error interno MCP-ResetTimeout {e00e4a89}
+[04/13/23 11:39:03]: <0x2402> MCP communication disconnected {f428a26f}
+[04/13/23 11:39:04]: <0x2402> Mcp = TSimulated {223ee147}
+[04/13/23 11:39:04]: <0x340A> Mcp communication established {a01fc540}
+[04/13/23 11:39:05]: <0x1801> Modo de trabajo:automático. {34d400d9}
+[04/13/23 11:39:10]: <0x3407> Error interno MCP-NoAnswer: char 1 {c036e949}
+[04/13/23 11:39:16]: <0x3409> Error interno MCP-ResetTimeout {53f7f073}
+[04/13/23 11:39:16]: <0x2402> MCP communication disconnected {c14ed511}
+[04/13/23 11:39:17]: <0x2402> Mcp = TSimulated {197ddc2a}
+[04/13/23 11:39:17]: <0x340A> Mcp communication established {2de365d1}
+[04/13/23 11:39:18]: <0x1801> Modo de trabajo:automático. {0aa4e552}
+[04/13/23 11:39:23]: <0x3407> Error interno MCP-NoAnswer: char 1 {64ecb1c6}
+[04/13/23 11:39:29]: <0x3409> Error interno MCP-ResetTimeout {e38cb00c}
+[04/13/23 11:39:29]: <0x2402> MCP communication disconnected {9edc6bf3}
+[04/13/23 11:39:30]: <0x2402> Mcp = TSimulated {22a145d0}
+[04/13/23 11:39:30]: <0x340A> Mcp communication established {d4f86b2d}
+[04/13/23 11:39:31]: <0x1801> Modo de trabajo:automático. {af0c2593}
+[04/13/23 11:39:36]: <0x3407> Error interno MCP-NoAnswer: char 1 {8601aedd}
+[04/13/23 11:39:42]: <0x3409> Error interno MCP-ResetTimeout {0dacb5a3}
+[04/13/23 11:39:42]: <0x2402> MCP communication disconnected {db27cdef}
+[04/13/23 11:39:43]: <0x2402> Mcp = TSimulated {14a4597f}
+[04/13/23 11:39:43]: <0x340A> Mcp communication established {8c7e9198}
+[04/13/23 11:39:44]: <0x1801> Modo de trabajo:automático. {ff9a9a4d}
+[04/13/23 11:39:49]: <0x3407> Error interno MCP-NoAnswer: char 1 {e7b5f2fc}
+[04/13/23 11:39:55]: <0x3409> Error interno MCP-ResetTimeout {50d98a55}
+[04/13/23 11:39:55]: <0x2402> MCP communication disconnected {84527205}
+[04/13/23 11:39:56]: <0x2402> Mcp = TSimulated {a0ed3ee0}
+[04/13/23 11:39:56]: <0x340A> Mcp communication established {6b9edcb4}
+[04/13/23 11:39:57]: <0x1801> Modo de trabajo:automático. {9b3a059d}
+[04/13/23 11:40:02]: <0x3407> Error interno MCP-NoAnswer: char 1 {f2c8e7ba}
+[04/13/23 11:40:08]: <0x3409> Error interno MCP-ResetTimeout {fc6510a6}
+[04/13/23 11:40:08]: <0x2402> MCP communication disconnected {981edaa0}
+[04/13/23 11:40:09]: <0x2402> Mcp = TSimulated {b744e173}
+[04/13/23 11:40:09]: <0x340A> Mcp communication established {b94b1ceb}
+[04/13/23 11:40:10]: <0x1801> Modo de trabajo:automático. {0786cc45}
+[04/13/23 11:40:15]: <0x3407> Error interno MCP-NoAnswer: char 1 {06adb32c}
+[04/13/23 11:40:21]: <0x3409> Error interno MCP-ResetTimeout {6623b743}
+[04/13/23 11:40:21]: <0x2402> MCP communication disconnected {39744725}
+[04/13/23 11:40:22]: <0x2402> Mcp = TSimulated {7540c25d}
+[04/13/23 11:40:22]: <0x340A> Mcp communication established {0da3bd01}
+[04/13/23 11:40:23]: <0x1801> Modo de trabajo:automático. {416b6321}
+[04/13/23 11:40:28]: <0x3407> Error interno MCP-NoAnswer: char 1 {89517537}
+[04/13/23 11:40:34]: <0x3409> Error interno MCP-ResetTimeout {2ff8a955}
+[04/13/23 11:40:34]: <0x2402> MCP communication disconnected {552a781a}
+[04/13/23 11:40:35]: <0x2402> Mcp = TSimulated {f020258b}
+[04/13/23 11:40:35]: <0x340A> Mcp communication established {8db939c4}
+[04/13/23 11:40:36]: <0x1801> Modo de trabajo:automático. {aff665da}
+[04/13/23 11:40:41]: <0x3407> Error interno MCP-NoAnswer: char 1 {42e5265d}
+[04/13/23 11:40:47]: <0x3409> Error interno MCP-ResetTimeout {d5adefc6}
+[04/13/23 11:40:47]: <0x2402> MCP communication disconnected {c8c88e86}
+[04/13/23 11:40:48]: <0x2402> Mcp = TSimulated {861d1a0d}
+[04/13/23 11:40:48]: <0x340A> Mcp communication established {398a3cf6}
+[04/13/23 11:40:49]: <0x1801> Modo de trabajo:automático. {69cf5888}
+[04/13/23 11:40:54]: <0x3407> Error interno MCP-NoAnswer: char 1 {74d11627}
+[04/13/23 11:41:00]: <0x3409> Error interno MCP-ResetTimeout {4ac5b262}
+[04/13/23 11:41:00]: <0x2402> MCP communication disconnected {a9144a7b}
+[04/13/23 11:41:01]: <0x2402> Mcp = TSimulated {a5d89bfb}
+[04/13/23 11:41:01]: <0x340A> Mcp communication established {31efe2ba}
+[04/13/23 11:41:02]: <0x1801> Modo de trabajo:automático. {e3ea6455}
+[04/13/23 11:41:07]: <0x3407> Error interno MCP-NoAnswer: char 1 {f2942689}
+[04/13/23 11:41:13]: <0x3409> Error interno MCP-ResetTimeout {65d92e31}
+[04/13/23 11:41:13]: <0x2402> MCP communication disconnected {26d5465d}
+[04/13/23 11:41:14]: <0x2402> Mcp = TSimulated {f976f9e5}
+[04/13/23 11:41:14]: <0x340A> Mcp communication established {044bb5f9}
+[04/13/23 11:41:14]: <0x1801> Modo de trabajo:automático. {6dfc7e7a}
+[04/13/23 11:41:20]: <0x3407> Error interno MCP-NoAnswer: char 1 {e71b3ffc}
+[04/13/23 11:41:26]: <0x3409> Error interno MCP-ResetTimeout {5687da66}
+[04/13/23 11:41:26]: <0x2402> MCP communication disconnected {d131d1ce}
+[04/13/23 11:41:27]: <0x2402> Mcp = TSimulated {279c6e22}
+[04/13/23 11:41:27]: <0x340A> Mcp communication established {3d89d0a0}
+[04/13/23 11:41:28]: <0x1801> Modo de trabajo:automático. {66a5fd8a}
+[04/13/23 11:41:33]: <0x3407> Error interno MCP-NoAnswer: char 1 {38132b95}
+[04/13/23 11:41:39]: <0x3409> Error interno MCP-ResetTimeout {a7bf075f}
+[04/13/23 11:41:39]: <0x2402> MCP communication disconnected {603d8f7d}
+[04/13/23 11:41:40]: <0x2402> Mcp = TSimulated {280b122e}
+[04/13/23 11:41:40]: <0x340A> Mcp communication established {7c0085b2}
+[04/13/23 11:41:40]: <0x1801> Modo de trabajo:automático. {3f53f90d}
+[04/13/23 11:41:46]: <0x3407> Error interno MCP-NoAnswer: char 1 {ec49d08d}
+[04/13/23 11:41:52]: <0x3409> Error interno MCP-ResetTimeout {9822312b}
+[04/13/23 11:41:52]: <0x2402> MCP communication disconnected {3ca15e19}
+[04/13/23 11:41:53]: <0x2402> Mcp = TSimulated {c35f54be}
+[04/13/23 11:41:53]: <0x340A> Mcp communication established {aebcbb97}
+[04/13/23 11:41:53]: <0x1801> Modo de trabajo:automático. {baffd552}
+[04/13/23 11:41:59]: <0x3407> Error interno MCP-NoAnswer: char 1 {48c3f6b8}
+[04/13/23 11:42:05]: <0x3409> Error interno MCP-ResetTimeout {09d862a3}
+[04/13/23 11:42:05]: <0x2402> MCP communication disconnected {977d0733}
+[04/13/23 11:42:06]: <0x2402> Mcp = TSimulated {32441cf9}
+[04/13/23 11:42:06]: <0x340A> Mcp communication established {3ec57239}
+[04/13/23 11:42:06]: <0x1801> Modo de trabajo:automático. {5d99e393}
+[04/13/23 11:42:12]: <0x3407> Error interno MCP-NoAnswer: char 1 {640a43f4}
+[04/13/23 11:42:18]: <0x3409> Error interno MCP-ResetTimeout {9b9b2199}
+[04/13/23 11:42:18]: <0x2402> MCP communication disconnected {370ab2c8}
+[04/13/23 11:42:19]: <0x2402> Mcp = TSimulated {f663080b}
+[04/13/23 11:42:19]: <0x340A> Mcp communication established {de5eee75}
+[04/13/23 11:42:19]: <0x1801> Modo de trabajo:automático. {a941d0a8}
+[04/13/23 11:42:25]: <0x3407> Error interno MCP-NoAnswer: char 1 {c5dd870f}
+[04/13/23 11:42:31]: <0x3409> Error interno MCP-ResetTimeout {af99f413}
+[04/13/23 11:42:31]: <0x2402> MCP communication disconnected {7d395149}
+[04/13/23 11:42:32]: <0x2402> Mcp = TSimulated {0ce06e34}
+[04/13/23 11:42:32]: <0x340A> Mcp communication established {dfe644cf}
+[04/13/23 11:42:32]: <0x1801> Modo de trabajo:automático. {fdefb5a3}
+[04/13/23 11:42:38]: <0x3407> Error interno MCP-NoAnswer: char 1 {b7106ba2}
+[04/13/23 11:42:44]: <0x3409> Error interno MCP-ResetTimeout {836b8874}
+[04/13/23 11:42:44]: <0x2402> MCP communication disconnected {c59972fc}
+[04/13/23 11:42:45]: <0x2402> Mcp = TSimulated {643f6fcd}
+[04/13/23 11:42:45]: <0x340A> Mcp communication established {e0f23b8e}
+[04/13/23 11:42:45]: <0x1801> Modo de trabajo:automático. {15e7e23a}
+[04/13/23 11:42:50]: <0x3407> Error interno MCP-NoAnswer: char 1 {4fcc8861}
+[04/13/23 11:42:56]: <0x3409> Error interno MCP-ResetTimeout {d8810cb8}
+[04/13/23 11:42:56]: <0x2402> MCP communication disconnected {7bddaf97}
+[04/13/23 11:42:58]: <0x2402> Mcp = TSimulated {42716bcb}
+[04/13/23 11:42:58]: <0x340A> Mcp communication established {e39f0804}
+[04/13/23 11:42:58]: <0x1801> Modo de trabajo:automático. {4c4e8d52}
+[04/13/23 11:43:03]: <0x3407> Error interno MCP-NoAnswer: char 1 {62aa090c}
+[04/13/23 11:43:09]: <0x3409> Error interno MCP-ResetTimeout {094f78bf}
+[04/13/23 11:43:09]: <0x2402> MCP communication disconnected {53be3a01}
+[04/13/23 11:43:11]: <0x2402> Mcp = TSimulated {a4ea5645}
+[04/13/23 11:43:11]: <0x340A> Mcp communication established {f0e89b09}
+[04/13/23 11:43:11]: <0x1801> Modo de trabajo:automático. {4a9f92b0}
+[04/13/23 11:43:16]: <0x3407> Error interno MCP-NoAnswer: char 1 {44eb7685}
+[04/13/23 11:43:22]: <0x3409> Error interno MCP-ResetTimeout {6a374933}
+[04/13/23 11:43:22]: <0x2402> MCP communication disconnected {72456914}
+[04/13/23 11:43:24]: <0x2402> Mcp = TSimulated {502449d2}
+[04/13/23 11:43:24]: <0x340A> Mcp communication established {26db27e5}
+[04/13/23 11:43:24]: <0x1801> Modo de trabajo:automático. {d9c78abd}
+[04/13/23 11:43:29]: <0x3407> Error interno MCP-NoAnswer: char 1 {031e578c}
+[04/13/23 11:43:35]: <0x3409> Error interno MCP-ResetTimeout {a279560e}
+[04/13/23 11:43:35]: <0x2402> MCP communication disconnected {5a7141d2}
+[04/13/23 11:43:37]: <0x2402> Mcp = TSimulated {02531323}
+[04/13/23 11:43:37]: <0x340A> Mcp communication established {70509f31}
+[04/13/23 11:43:37]: <0x1801> Modo de trabajo:automático. {1a4575ee}
+[04/13/23 11:43:42]: <0x3407> Error interno MCP-NoAnswer: char 1 {cb2890b4}
+[04/13/23 11:43:48]: <0x3409> Error interno MCP-ResetTimeout {fd9fb0e1}
+[04/13/23 11:43:48]: <0x2402> MCP communication disconnected {56b4de50}
+[04/13/23 11:43:50]: <0x2402> Mcp = TSimulated {1adba061}
+[04/13/23 11:43:50]: <0x340A> Mcp communication established {186b67a0}
+[04/13/23 11:43:50]: <0x1801> Modo de trabajo:automático. {f0c8d4fd}
+[04/13/23 11:43:55]: <0x3407> Error interno MCP-NoAnswer: char 1 {4f87a77d}
+[04/13/23 11:44:01]: <0x3409> Error interno MCP-ResetTimeout {b206705e}
+[04/13/23 11:44:01]: <0x2402> MCP communication disconnected {5bdc4a62}
+[04/13/23 11:44:03]: <0x2402> Mcp = TSimulated {22fb5253}
+[04/13/23 11:44:03]: <0x340A> Mcp communication established {41b58a32}
+[04/13/23 11:44:03]: <0x1801> Modo de trabajo:automático. {354befdc}
+[04/13/23 11:44:08]: <0x3407> Error interno MCP-NoAnswer: char 1 {a18ab6be}
+[04/13/23 11:44:14]: <0x3409> Error interno MCP-ResetTimeout {bf30ee76}
+[04/13/23 11:44:14]: <0x2402> MCP communication disconnected {6f20aa61}
+[04/13/23 11:44:16]: <0x2402> Mcp = TSimulated {4ca8be66}
+[04/13/23 11:44:16]: <0x340A> Mcp communication established {96ad192e}
+[04/13/23 11:44:16]: <0x1801> Modo de trabajo:automático. {bbdef523}
+[04/13/23 11:44:21]: <0x3407> Error interno MCP-NoAnswer: char 1 {5cc5aaa9}
+[04/13/23 11:44:27]: <0x3409> Error interno MCP-ResetTimeout {5d4bd928}
+[04/13/23 11:44:27]: <0x2402> MCP communication disconnected {b793f8c0}
+[04/13/23 11:44:29]: <0x2402> Mcp = TSimulated {0e012c8f}
+[04/13/23 11:44:29]: <0x340A> Mcp communication established {4af29f63}
+[04/13/23 11:44:29]: <0x1801> Modo de trabajo:automático. {bec8d36b}
+[04/13/23 11:44:34]: <0x3407> Error interno MCP-NoAnswer: char 1 {3302379b}
+[04/13/23 11:44:40]: <0x3409> Error interno MCP-ResetTimeout {ded90fde}
+[04/13/23 11:44:40]: <0x2402> MCP communication disconnected {e3d4667f}
+[04/13/23 11:44:42]: <0x2402> Mcp = TSimulated {2f5be710}
+[04/13/23 11:44:42]: <0x340A> Mcp communication established {b5249532}
+[04/13/23 11:44:42]: <0x1801> Modo de trabajo:automático. {c23a5c33}
+[04/13/23 11:44:47]: <0x3407> Error interno MCP-NoAnswer: char 1 {450a9d52}
+[04/13/23 11:44:53]: <0x3409> Error interno MCP-ResetTimeout {e0305642}
+[04/13/23 11:44:53]: <0x2402> MCP communication disconnected {30ab8aba}
+[04/13/23 11:44:55]: <0x2402> Mcp = TSimulated {cd59d11c}
+[04/13/23 11:44:55]: <0x340A> Mcp communication established {93955c6d}
+[04/13/23 11:44:55]: <0x1801> Modo de trabajo:automático. {d8185766}
+[04/13/23 11:45:00]: <0x3407> Error interno MCP-NoAnswer: char 1 {a26d6688}
+[04/13/23 11:45:06]: <0x3409> Error interno MCP-ResetTimeout {8d5b6121}
+[04/13/23 11:45:06]: <0x2402> MCP communication disconnected {e4165961}
+[04/13/23 11:45:08]: <0x2402> Mcp = TSimulated {20170167}
+[04/13/23 11:45:08]: <0x340A> Mcp communication established {65f134f3}
+[04/13/23 11:45:08]: <0x1802> Modo de trabajo:manual. {c65b29fa}
+[04/13/23 11:45:13]: <0x2401> Saving controller context... {10700d65}
+[04/13/23 11:45:13]: <0x2402> Temperatura del controlador: 28°C {59ad7113}
+[04/13/23 11:45:13]: <0x2402> Temperatura de la CPU: 28°C {69f9cd32}
+[04/13/23 11:45:14]: <0x3407> Error interno MCP-NoAnswer: char 1 {aa403921}
+[04/13/23 11:45:20]: <0x3409> Error interno MCP-ResetTimeout {b7091fca}
+[04/13/23 11:45:20]: <0x2402> MCP communication disconnected {0bf6a160}
+[04/13/23 11:45:21]: <0x2402> Mcp = TSimulated {44f50045}
+[04/13/23 11:45:21]: <0x340A> Mcp communication established {ef4db258}
+[04/13/23 11:45:21]: <0x1802> Modo de trabajo:manual. {1239af45}
+[04/13/23 11:45:26]: <0x3407> Error interno MCP-NoAnswer: char 1 {b279d082}
+[04/13/23 11:45:32]: <0x3409> Error interno MCP-ResetTimeout {1a85cbac}
+[04/13/23 11:45:32]: <0x2402> MCP communication disconnected {d1cf0399}
+[04/13/23 11:45:34]: <0x2402> Mcp = TSimulated {ab06bd48}
+[04/13/23 11:45:34]: <0x340A> Mcp communication established {b0739c97}
+[04/13/23 11:45:34]: <0x1802> Modo de trabajo:manual. {3f6b8976}
+[04/13/23 11:45:39]: <0x3407> Error interno MCP-NoAnswer: char 1 {474a1be7}
+[04/13/23 11:45:45]: <0x3409> Error interno MCP-ResetTimeout {b9fd3384}
+[04/13/23 11:45:45]: <0x2402> MCP communication disconnected {aa1caba3}
+[04/13/23 11:45:47]: <0x2402> Mcp = TSimulated {745520c7}
+[04/13/23 11:45:47]: <0x340A> Mcp communication established {4aaeee9d}
+[04/13/23 11:45:47]: <0x1802> Modo de trabajo:manual. {3cb5b7e2}
+[04/13/23 11:45:52]: <0x3407> Error interno MCP-NoAnswer: char 1 {732dbae5}
+[04/13/23 11:45:58]: <0x3409> Error interno MCP-ResetTimeout {5597ecbf}
+[04/13/23 11:45:58]: <0x2402> MCP communication disconnected {5003c273}
+[04/13/23 11:46:00]: <0x2402> Mcp = TSimulated {877a5da2}
+[04/13/23 11:46:00]: <0x340A> Mcp communication established {fd6a569f}
+[04/13/23 11:46:00]: <0x1802> Modo de trabajo:manual. {76e3da58}
+[04/13/23 11:46:05]: <0x3407> Error interno MCP-NoAnswer: char 1 {0d755843}
+[04/13/23 11:46:11]: <0x3409> Error interno MCP-ResetTimeout {4b4bd7f2}
+[04/13/23 11:46:11]: <0x2402> MCP communication disconnected {eb30b6aa}
+[04/13/23 11:46:13]: <0x2402> Mcp = TSimulated {18a81fea}
+[04/13/23 11:46:13]: <0x340A> Mcp communication established {0b677c85}
+[04/13/23 11:46:13]: <0x1802> Modo de trabajo:manual. {147e313e}
+[04/13/23 11:46:18]: <0x3407> Error interno MCP-NoAnswer: char 1 {c6993878}
+[04/13/23 11:46:24]: <0x3409> Error interno MCP-ResetTimeout {382a41e0}
+[04/13/23 11:46:24]: <0x2402> MCP communication disconnected {f936efe3}
+[04/13/23 11:46:26]: <0x2402> Mcp = TSimulated {e56d25fc}
+[04/13/23 11:46:26]: <0x340A> Mcp communication established {728ff3ef}
+[04/13/23 11:46:26]: <0x1802> Modo de trabajo:manual. {cbb869ea}
+[04/13/23 11:46:31]: <0x3407> Error interno MCP-NoAnswer: char 1 {d2912754}
+[04/13/23 11:46:37]: <0x3409> Error interno MCP-ResetTimeout {0f8bd522}
+[04/13/23 11:46:37]: <0x2402> MCP communication disconnected {7134947e}
+[04/13/23 11:46:38]: <0x2402> Mcp = TSimulated {5548c823}
+[04/13/23 11:46:38]: <0x340A> Mcp communication established {f3d1d456}
+[04/13/23 11:46:39]: <0x1802> Modo de trabajo:manual. {83caaa80}
+[04/13/23 11:46:44]: <0x3407> Error interno MCP-NoAnswer: char 1 {a0210255}
+[04/13/23 11:46:50]: <0x3409> Error interno MCP-ResetTimeout {fd9887c3}
+[04/13/23 11:46:50]: <0x2402> MCP communication disconnected {372a074d}
+[04/13/23 11:46:51]: <0x2402> Mcp = TSimulated {70eb1a25}
+[04/13/23 11:46:51]: <0x340A> Mcp communication established {28aa535a}
+[04/13/23 11:46:52]: <0x1802> Modo de trabajo:manual. {8a88652e}
+[04/13/23 11:46:57]: <0x3407> Error interno MCP-NoAnswer: char 1 {77d067b4}
+[04/13/23 11:47:03]: <0x3409> Error interno MCP-ResetTimeout {cc8f7ac7}
+[04/13/23 11:47:03]: <0x2402> MCP communication disconnected {9aaafbe5}
+[04/13/23 11:47:04]: <0x2402> Mcp = TSimulated {07f97826}
+[04/13/23 11:47:04]: <0x340A> Mcp communication established {9853fe59}
+[04/13/23 11:47:05]: <0x1802> Modo de trabajo:manual. {5a8eac3c}
+[04/13/23 11:47:10]: <0x3407> Error interno MCP-NoAnswer: char 1 {2e899eb7}
+[04/13/23 11:47:16]: <0x3409> Error interno MCP-ResetTimeout {3450ccfb}
+[04/13/23 11:47:16]: <0x2402> MCP communication disconnected {064c0d21}
+[04/13/23 11:47:17]: <0x2402> Mcp = TSimulated {fdbe0b8b}
+[04/13/23 11:47:17]: <0x340A> Mcp communication established {87f9d19a}
+[04/13/23 11:47:18]: <0x1802> Modo de trabajo:manual. {8f36f905}
+[04/13/23 11:47:23]: <0x3407> Error interno MCP-NoAnswer: char 1 {1593e904}
+[04/13/23 11:47:29]: <0x3409> Error interno MCP-ResetTimeout {afa06c45}
+[04/13/23 11:47:29]: <0x2402> MCP communication disconnected {fa55cabf}
+[04/13/23 11:47:30]: <0x2402> Mcp = TSimulated {4a1a2d39}
+[04/13/23 11:47:30]: <0x340A> Mcp communication established {bf272b87}
+[04/13/23 11:47:31]: <0x1802> Modo de trabajo:manual. {d6309787}
+[04/13/23 11:47:36]: <0x3407> Error interno MCP-NoAnswer: char 1 {e0f3ddcc}
+[04/13/23 11:47:42]: <0x3409> Error interno MCP-ResetTimeout {0aa4bfbc}
+[04/13/23 11:47:42]: <0x2402> MCP communication disconnected {7f40bdb4}
+[04/13/23 11:47:43]: <0x2402> Mcp = TSimulated {92a51dbf}
+[04/13/23 11:47:43]: <0x340A> Mcp communication established {a4427dcb}
+[04/13/23 11:47:44]: <0x1802> Modo de trabajo:manual. {b2700137}
+[04/13/23 11:47:49]: <0x3407> Error interno MCP-NoAnswer: char 1 {05fc5bd9}
+[04/13/23 11:47:55]: <0x3409> Error interno MCP-ResetTimeout {339091d1}
+[04/13/23 11:47:55]: <0x2402> MCP communication disconnected {c25113be}
+[04/13/23 11:47:56]: <0x2402> Mcp = TSimulated {d405a796}
+[04/13/23 11:47:56]: <0x340A> Mcp communication established {685d2009}
+[04/13/23 11:47:57]: <0x1802> Modo de trabajo:manual. {6deb6470}
+[04/13/23 11:48:02]: <0x3407> Error interno MCP-NoAnswer: char 1 {4c9a8190}
+[04/13/23 11:48:08]: <0x3409> Error interno MCP-ResetTimeout {b80435e1}
+[04/13/23 11:48:08]: <0x2402> MCP communication disconnected {f1c52a52}
+[04/13/23 11:48:09]: <0x2402> Mcp = TSimulated {02f345b2}
+[04/13/23 11:48:09]: <0x340A> Mcp communication established {540c7e9b}
+[04/13/23 11:48:10]: <0x1802> Modo de trabajo:manual. {970de6bb}
+[04/13/23 11:48:15]: <0x3407> Error interno MCP-NoAnswer: char 1 {78a749b3}
+[04/13/23 11:48:21]: <0x3409> Error interno MCP-ResetTimeout {66d4a152}
+[04/13/23 11:48:21]: <0x2402> MCP communication disconnected {d4380b1a}
+[04/13/23 11:48:22]: <0x2402> Mcp = TSimulated {a03dbe17}
+[04/13/23 11:48:22]: <0x340A> Mcp communication established {74daa12f}
+[04/13/23 11:48:23]: <0x1802> Modo de trabajo:manual. {bbdf3571}
+[04/13/23 11:48:28]: <0x3407> Error interno MCP-NoAnswer: char 1 {641c6a67}
+[04/13/23 11:48:34]: <0x3409> Error interno MCP-ResetTimeout {05bf54c7}
+[04/13/23 11:48:34]: <0x2402> MCP communication disconnected {43d2f188}
+[04/13/23 11:48:35]: <0x2402> Mcp = TSimulated {b7e6ee89}
+[04/13/23 11:48:35]: <0x340A> Mcp communication established {7b5fce88}
+[04/13/23 11:48:36]: <0x1802> Modo de trabajo:manual. {d4384a39}
+[04/13/23 11:48:41]: <0x3407> Error interno MCP-NoAnswer: char 1 {f5633719}
+[04/13/23 11:48:47]: <0x3409> Error interno MCP-ResetTimeout {66d53a84}
+[04/13/23 11:48:47]: <0x2402> MCP communication disconnected {b8c81f9b}
+[04/13/23 11:48:48]: <0x2402> Mcp = TSimulated {99f8f1f4}
+[04/13/23 11:48:48]: <0x340A> Mcp communication established {f12a485c}
+[04/13/23 11:48:49]: <0x1802> Modo de trabajo:manual. {386ee690}
+[04/13/23 11:48:54]: <0x3407> Error interno MCP-NoAnswer: char 1 {eadaeeca}
+[04/13/23 11:49:00]: <0x3409> Error interno MCP-ResetTimeout {e115133c}
+[04/13/23 11:49:00]: <0x2402> MCP communication disconnected {b031ea07}
+[04/13/23 11:49:01]: <0x2402> Mcp = TSimulated {d061ffc5}
+[04/13/23 11:49:01]: <0x340A> Mcp communication established {b5ca8a57}
+[04/13/23 11:49:02]: <0x1802> Modo de trabajo:manual. {6af2be03}
+[04/13/23 11:49:07]: <0x3407> Error interno MCP-NoAnswer: char 1 {0c688e55}
+[04/13/23 11:49:13]: <0x3409> Error interno MCP-ResetTimeout {73f55fe9}
+[04/13/23 11:49:13]: <0x2402> MCP communication disconnected {b7def348}
+[04/13/23 11:49:14]: <0x2402> Mcp = TSimulated {20f5d189}
+[04/13/23 11:49:14]: <0x340A> Mcp communication established {66bdf1ba}
+[04/13/23 11:49:14]: <0x1802> Modo de trabajo:manual. {3ef0349e}
+[04/13/23 11:49:20]: <0x3407> Error interno MCP-NoAnswer: char 1 {c1d09e4a}
+[04/13/23 11:49:26]: <0x3409> Error interno MCP-ResetTimeout {1db188d5}
+[04/13/23 11:49:26]: <0x2402> MCP communication disconnected {98951cf3}
+[04/13/23 11:49:27]: <0x2402> Mcp = TSimulated {e6238403}
+[04/13/23 11:49:27]: <0x340A> Mcp communication established {14f13c03}
+[04/13/23 11:49:28]: <0x1802> Modo de trabajo:manual. {ea0a8693}
+[04/13/23 11:49:33]: <0x3407> Error interno MCP-NoAnswer: char 1 {2020e638}
+[04/13/23 11:49:39]: <0x3409> Error interno MCP-ResetTimeout {82d8b7fd}
+[04/13/23 11:49:39]: <0x2402> MCP communication disconnected {387fde68}
+[04/13/23 11:49:40]: <0x2402> Mcp = TSimulated {cb05a69a}
+[04/13/23 11:49:40]: <0x340A> Mcp communication established {1355704c}
+[04/13/23 11:49:40]: <0x1802> Modo de trabajo:manual. {83e23dff}
+[04/13/23 11:49:46]: <0x3407> Error interno MCP-NoAnswer: char 1 {9a20bbcc}
+[04/13/23 11:49:52]: <0x3409> Error interno MCP-ResetTimeout {8a485603}
+[04/13/23 11:49:52]: <0x2402> MCP communication disconnected {8ef9d401}
+[04/13/23 11:49:53]: <0x2402> Mcp = TSimulated {15fb90ba}
+[04/13/23 11:49:53]: <0x340A> Mcp communication established {c30d4d8c}
+[04/13/23 11:49:53]: <0x1802> Modo de trabajo:manual. {24800dd3}
+[04/13/23 11:49:59]: <0x3407> Error interno MCP-NoAnswer: char 1 {a630ee39}
+[04/13/23 11:50:05]: <0x3409> Error interno MCP-ResetTimeout {6102b092}
+[04/13/23 11:50:05]: <0x2402> MCP communication disconnected {67b7d549}
+[04/13/23 11:51:17]: ----------------------------------------------- {b5e33436}
+[04/13/23 11:51:17]: Registro iniciado (1048576) {7c771d9c}
+[04/13/23 11:51:21]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {68413c46}
+[04/13/23 11:51:21]: <0x0003> Cycle time set to 0.004s {93f63c12}
+[04/13/23 11:51:21]: <0x0003> Simulation cycle time set to 0.1s {d8eb2dad}
+[04/13/23 11:51:21]: <0x0002> Controller IP address could not be updated {025f5394}
+[04/13/23 11:51:21]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {747e8519}
+[04/13/23 11:51:21]: <0x0001> Error while trying to build User serial 2 {1d4f3613}
+[04/13/23 11:51:21]: <0x0002> Default user payload used. {3d9973f8}
+[04/13/23 11:51:21]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {53418115}
+[04/13/23 11:51:21]: <0x2401> Horas con potencia =8:37:14 {4f2a9f55}
+[04/13/23 11:51:21]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {940f50c1}
+[04/13/23 11:51:21]: <0x0003> Mcp = TSimulated {02fb8aa2}
+[04/13/23 11:51:21]: <0x340A> Mcp communication established {591baeef}
+[04/13/23 11:51:21]: <0x0003> COM-PC: server created on all interfaces [851] {1aec7775}
+[04/13/23 11:51:21]: <0x2402> History handler has been connected to IHM {ba5facac}
+[04/13/23 11:51:21]: <0x2401> System: s7.11.2 Feb 24 2020 {4898f521}
+[04/13/23 11:51:21]: <0x2401> Kernel: Unknown  {8eadf4c0}
+[04/13/23 11:51:21]: <0x2401> Configuration Version: c1.046  {b6450280}
+[04/13/23 11:51:21]: <0x2401> CPU: TEKNOR  {a014b486}
+[04/13/23 11:51:21]: <0x2401> Option testMode: enabled  {1f240461}
+[04/13/23 11:51:21]: <0x2401> Option VAL 3: enabled  {0fa4995e}
+[04/13/23 11:51:21]: <0x2401> N/S del controlador: : ?  {4f019a18}
+[04/13/23 11:51:21]: <0x2401> Brazo: tx60-S1-R4 suelo {65177942}
+[04/13/23 11:51:21]: <0x2401> N/S del brazo:: ?  {6f707d4e}
+[04/13/23 11:51:21]: <0x2401> Tipo de aceite:   {e36ef7b1}
+[04/13/23 11:51:21]: <0x2401> Nombre del robot:   {30cef4d3}
+[04/13/23 11:51:21]: <0x2401> EP: s7.11.2 Feb 24 2020 {006cd4dd}
+[04/13/23 11:51:21]: <0x2401> EP10: s7.11.2 Feb 24 2020 {d623839d}
+[04/13/23 11:51:21]: <0x2401> SCA: s7.11.2 Feb 24 2020 {44c9a3a3}
+[04/13/23 11:51:21]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {5c08154f}
+[04/13/23 11:51:21]: <0x2201> Nuevo perfil : default {6ec13816}
+[04/13/23 11:51:21]: <0x2401> End of controller initialization 0 {5093ab3d}
+[04/13/23 11:51:22]: <0x1802> Modo de trabajo:manual. {6676968e}
+[04/13/23 11:51:22]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {93644455}
+[04/13/23 11:51:33]: ----------------------------------------------- {d70731ac}
+[04/13/23 11:51:33]: Registro iniciado (1048576) {705d61b5}
+[04/13/23 11:51:38]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {23f71003}
+[04/13/23 11:51:38]: <0x0003> Cycle time set to 0.004s {d3454e90}
+[04/13/23 11:51:38]: <0x0003> Simulation cycle time set to 0.1s {6933ca82}
+[04/13/23 11:51:38]: <0x0002> Controller IP address could not be updated {94d7e127}
+[04/13/23 11:51:38]: <0x0003> Mcp = TSimulated {b75824ca}
+[04/13/23 11:51:38]: <0x340A> Mcp communication established {c79f1e65}
+[04/13/23 11:51:38]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {f77b6401}
+[04/13/23 11:51:38]: <0x0001> Error while trying to build User serial 2 {e4c5ac3c}
+[04/13/23 11:51:38]: <0x0002> Default user payload used. {93db641e}
+[04/13/23 11:51:38]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {c0f184a8}
+[04/13/23 11:51:38]: <0x2401> Horas con potencia =8:37:14 {89c3099a}
+[04/13/23 11:51:38]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {76c8c5d0}
+[04/13/23 11:51:38]: <0x0003> COM-PC: server created on all interfaces [851] {0b3ff9e6}
+[04/13/23 11:51:38]: <0x2402> History handler has been connected to IHM {218b94eb}
+[04/13/23 11:51:38]: <0x2401> System: s7.11.2 Feb 24 2020 {6e5918a2}
+[04/13/23 11:51:38]: <0x2401> Kernel: Unknown  {2c89adef}
+[04/13/23 11:51:38]: <0x2401> Configuration Version: c1.046  {ecda430f}
+[04/13/23 11:51:38]: <0x2401> CPU: TEKNOR  {3bd322ea}
+[04/13/23 11:51:38]: <0x2401> Option testMode: enabled  {4232671d}
+[04/13/23 11:51:38]: <0x2401> Option VAL 3: enabled  {72d4b99e}
+[04/13/23 11:51:38]: <0x2401> N/S del controlador: : ?  {77a36194}
+[04/13/23 11:51:38]: <0x2401> Brazo: tx60-S1-R4 suelo {f6f2f556}
+[04/13/23 11:51:38]: <0x2401> N/S del brazo:: ?  {5753e36d}
+[04/13/23 11:51:38]: <0x2401> Tipo de aceite:   {78f9beee}
+[04/13/23 11:51:38]: <0x2401> Nombre del robot:   {b687638a}
+[04/13/23 11:51:38]: <0x2401> EP: s7.11.2 Feb 24 2020 {7f3aa754}
+[04/13/23 11:51:38]: <0x2401> EP10: s7.11.2 Feb 24 2020 {2534a04c}
+[04/13/23 11:51:38]: <0x2401> SCA: s7.11.2 Feb 24 2020 {b7a5d2f5}
+[04/13/23 11:51:38]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {ce697b19}
+[04/13/23 11:51:38]: <0x2201> Nuevo perfil : default {2752428a}
+[04/13/23 11:51:38]: <0x2401> End of controller initialization 0 {26f236b2}
+[04/13/23 11:51:38]: <0x1802> Modo de trabajo:manual. {bd957e3a}
+[04/13/23 11:51:39]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {1a8c8995}
+[04/13/23 11:52:29]: <0x2402> COM-PC: create session 127.0.0.1 on port 50852 id=#43766016 {88c48b7d}
+[04/13/23 12:24:58]: <0x1803> Modo de trabajo:manual rápido. {e48fd16b}
+[04/13/23 12:24:59]: <0x1804> Modo de trabajo:remoto. {7229a8dd}
+[04/13/23 12:25:00]: <0x1801> Modo de trabajo:automático. {38b5bcf6}
+[04/13/23 12:25:00]: <0x5A03> Deadman validated {41b0fcc0}
+[04/13/23 12:25:00]: <0x1603> Habilitando la potencia del brazo... {f6cf48e6}
+[04/13/23 12:25:01]: <0x1601> Potencia del brazo habilitada. {64f5cae2}
+[04/13/23 12:25:08]: <0x2401> Saving controller context... {04a9468f}
+[04/13/23 12:25:08]: <0x2402> Temperatura del controlador: 28°C {0c859ef2}
+[04/13/23 12:25:08]: <0x2402> Temperatura de la CPU: 28°C {3c08b780}
+[04/13/23 12:25:16]: <0x2401> Saving controller context... {9773de7d}
+[04/13/23 12:25:37]: <0x2401> Saving controller context... (3) {bdaf3db7}
+[04/13/23 12:25:41]: <0x5A02> Deadman disabled. {1985a3ec}
+[04/13/23 12:25:41]: <0x5A03> Deadman validated {67c73145}
+[04/13/23 12:25:41]: <0x1604> Desactivación de la potencia del brazo... {79185620}
+[04/13/23 12:25:42]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {c4b84ea9}
+[04/13/23 12:25:45]: <0x2401> Saving controller context... {20c3266a}
+[04/13/23 12:25:57]: <0x5A01> Deadman enabled. {3c0daf6b}
+[04/13/23 12:40:20]: <0x2402> COM-PC: create session 127.0.0.1 on port 51381 id=#43766536 {148c1631}
+[04/13/23 12:40:21]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {7a3ed898}
+[04/13/23 12:40:21]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {6f1943d6}
+[04/13/23 12:40:22]: <0x5402> TestSuccionar Aplicación arrancada {0f538d1d}
+[04/13/23 12:40:23]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51381 id=#43766536 {e9673b92}
+[04/13/23 12:40:27]: <0x5A02> Deadman disabled. {8b2ee659}
+[04/13/23 12:40:27]: <0x5A03> Deadman validated {e4877022}
+[04/13/23 12:40:27]: <0x1603> Habilitando la potencia del brazo... {ada4a2a1}
+[04/13/23 12:40:28]: <0x1601> Potencia del brazo habilitada. {f0b2785f}
+[04/13/23 12:40:43]: <0x5A01> Deadman enabled. {6ddd259a}
+[04/13/23 12:40:51]: <0x5403> TestSuccionar Aplicación parada {cba13111}
+[04/13/23 13:10:38]: <0x2401> Saving controller context... {896199ea}
+[04/13/23 16:41:50]: <0x2401> Saving controller context... (7) {4a409bc9}
+[04/13/23 17:10:44]: <0x5A02> Deadman disabled. {0c943488}
+[04/13/23 17:10:44]: <0x5A03> Deadman validated {352b9adf}
+[04/13/23 17:10:45]: <0x1604> Desactivación de la potencia del brazo... {eee1cfbd}
+[04/13/23 17:10:46]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {66c973d3}
+[04/13/23 17:10:47]: <0x2401> Saving controller context... {f25fc920}
+[04/13/23 17:11:01]: <0x5A01> Deadman enabled. {595e5399}
+[04/13/23 17:30:14]: <0x5A02> Deadman disabled. {d9a4f43e}
+[04/13/23 17:30:14]: <0x5A03> Deadman validated {50e907f5}
+[04/13/23 17:30:14]: <0x1603> Habilitando la potencia del brazo... {5bdc4587}
+[04/13/23 17:30:15]: <0x1601> Potencia del brazo habilitada. {a4135dda}
+[04/13/23 17:30:21]: <0x2401> Saving controller context... {226127eb}
+[04/13/23 17:30:21]: <0x2402> COM-PC: create session 127.0.0.1 on port 56598 id=#43768408 {0e5674ae}
+[04/13/23 17:30:21]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {1b0a9c0d}
+[04/13/23 17:30:21]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {70e0955b}
+[04/13/23 17:30:22]: <0x5402> TestSuccionar Aplicación arrancada {305efd25}
+[04/13/23 17:30:22]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56598 id=#43768408 {303b6cbb}
+[04/13/23 17:30:29]: <0x2401> Saving controller context... {55c37e08}
+[04/13/23 17:30:49]: <0x2401> Saving controller context... (2) {0ceb670a}
+[04/13/23 17:30:50]: <0x5403> TestSuccionar Aplicación parada {6c4c9d95}
+[04/13/23 17:30:57]: <0x2401> Saving controller context... {f700fe3f}
+[04/13/23 17:31:05]: <0x2401> Saving controller context... (1) {cf1927fe}
+[04/13/23 17:31:10]: <0x5A01> Deadman enabled. {6c899593}
+[04/13/23 17:31:10]: <0x2401> Saving controller context... {8172e286}
+[04/13/23 17:31:46]: <0x2401> Saving controller context... (5) {ac8ba5d8}
+[04/13/23 17:31:46]: <0x2402> COM-PC: create session 127.0.0.1 on port 56598 id=#43768408 {aed6af48}
+[04/13/23 17:31:46]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {5bd4fd5a}
+[04/13/23 17:31:46]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {10399ef6}
+[04/13/23 17:31:47]: <0x5402> TestSuccionar Aplicación arrancada {1d774a6b}
+[04/13/23 17:31:47]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56598 id=#43768408 {dedf466f}
+[04/13/23 17:31:54]: <0x2401> Saving controller context... {12a307be}
+[04/13/23 17:32:01]: <0x2401> Saving controller context... (1) {61f6b6d4}
+[04/13/23 17:32:05]: <0x5403> TestSuccionar Aplicación parada {be856365}
+[04/13/23 17:32:09]: <0x2401> Saving controller context... {ffa8f2c9}
+[04/13/23 17:32:37]: <0x2401> Saving controller context... (4) {e98f1af2}
+[04/13/23 17:32:39]: <0x2402> COM-PC: create session 127.0.0.1 on port 56598 id=#43766536 {b6ff880e}
+[04/13/23 17:32:39]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {f77721bf}
+[04/13/23 17:32:39]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {42d29b02}
+[04/13/23 17:32:40]: <0x5402> TestSuccionar Aplicación arrancada {0e0f8a19}
+[04/13/23 17:32:40]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56598 id=#43766536 {04d1bdf4}
+[04/13/23 17:32:43]: <0x2401> Saving controller context... {74764e05}
+[04/13/23 17:32:58]: <0x2401> Saving controller context... (2) {455b8ea8}
+[04/13/23 17:32:59]: <0x5403> TestSuccionar Aplicación parada {6de7ca88}
+[04/13/23 17:33:03]: <0x5A02> Deadman disabled. {a96b9141}
+[04/13/23 17:33:03]: <0x5A03> Deadman validated {5f912ad0}
+[04/13/23 17:33:03]: <0x1604> Desactivación de la potencia del brazo... {62e6f5df}
+[04/13/23 17:33:04]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {15765845}
+[04/13/23 17:33:06]: <0x2401> Saving controller context... {becdc81b}
+[04/13/23 17:33:19]: <0x5A01> Deadman enabled. {5b3c825d}
+[04/13/23 18:02:38]: <0x2402> COM-PC: create session 127.0.0.1 on port 56665 id=#43767056 {8095ceab}
+[04/13/23 18:02:38]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a3544c49}
+[04/13/23 18:02:38]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {37ae5142}
+[04/13/23 18:02:38]: <0x5402> TestSuccionar Aplicación arrancada {d736a97c}
+[04/13/23 18:02:38]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56665 id=#43767056 {23478a3c}
+[04/13/23 18:02:45]: <0x5A02> Deadman disabled. {6ba375f6}
+[04/13/23 18:02:45]: <0x5A03> Deadman validated {f3734481}
+[04/13/23 18:02:47]: <0x2401> Saving controller context... {25a9a189}
+[04/13/23 18:02:49]: <0x5A02> Deadman disabled. {6fe123d2}
+[04/13/23 18:02:49]: <0x5A03> Deadman validated {8c3e55a7}
+[04/13/23 18:02:49]: <0x1603> Habilitando la potencia del brazo... {ab60b513}
+[04/13/23 18:02:50]: <0x1601> Potencia del brazo habilitada. {d2d2de30}
+[04/13/23 18:02:53]: <0x5403> TestSuccionar Aplicación parada {918c8bbd}
+[04/13/23 18:02:58]: <0x2402> COM-PC: create session 127.0.0.1 on port 57231 id=#43765808 {af3136a5}
+[04/13/23 18:02:58]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {80712ad8}
+[04/13/23 18:02:58]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {2c259637}
+[04/13/23 18:02:59]: <0x5402> TestSuccionar Aplicación arrancada {eee01175}
+[04/13/23 18:02:59]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57231 id=#43765808 {2f1695a2}
+[04/13/23 18:03:05]: <0x5A01> Deadman enabled. {c3fb15d6}
+[04/13/23 18:03:12]: <0x5403> TestSuccionar Aplicación parada {06443ec9}
+[04/13/23 18:29:26]: <0x2402> COM-PC: create session 127.0.0.1 on port 57231 id=#43766536 {6dc859e7}
+[04/13/23 18:29:26]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {6196e1ce}
+[04/13/23 18:29:26]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {64224225}
+[04/13/23 18:29:26]: <0x5402> TestSuccionar Aplicación arrancada {c1dd3018}
+[04/13/23 18:29:27]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57231 id=#43766536 {52cca723}
+[04/13/23 18:29:46]: <0x5403> TestSuccionar Aplicación parada {16e48a21}
+[04/13/23 18:29:51]: <0x2402> COM-PC: create session 127.0.0.1 on port 57231 id=#43767576 {4f7f2b2c}
+[04/13/23 18:29:51]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {557fe0b2}
+[04/13/23 18:29:51]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {26b63eef}
+[04/13/23 18:29:51]: <0x5402> TestSuccionar Aplicación arrancada {b6949078}
+[04/13/23 18:29:51]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57231 id=#43767576 {3844e892}
+[04/13/23 18:30:28]: <0x5403> TestSuccionar Aplicación parada {1e76e6cd}
+[04/13/23 18:30:55]: <0x2402> COM-PC: create session 127.0.0.1 on port 57231 id=#43766536 {40466010}
+[04/13/23 18:30:55]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {b94c50fb}
+[04/13/23 18:30:55]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {61963fe0}
+[04/13/23 18:30:55]: <0x5402> TestSuccionar Aplicación arrancada {6d138b79}
+[04/13/23 18:30:55]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57231 id=#43766536 {b158c2b6}
+[04/13/23 18:31:11]: <0x5403> TestSuccionar Aplicación parada {3cc963df}
+[04/13/23 18:31:33]: <0x2402> COM-PC: create session 127.0.0.1 on port 57231 id=#43766536 {cce96e20}
+[04/13/23 18:31:33]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {70c7f953}
+[04/13/23 18:31:33]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {2c30418d}
+[04/13/23 18:31:33]: <0x5402> TestSuccionar Aplicación arrancada {5b93861d}
+[04/13/23 18:31:34]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57231 id=#43766536 {85cb6e8e}
+[04/13/23 18:31:47]: <0x5403> TestSuccionar Aplicación parada {5af39793}
+[04/13/23 18:33:00]: <0x2401> Saving controller context... {36cd3e92}
+[04/13/23 19:33:36]: <0x2401> Saving controller context... (2) {be7a24ba}
+[04/13/23 19:39:19]: <0x2402> COM-PC: create session 127.0.0.1 on port 57231 id=#43766536 {da3c758b}
+[04/13/23 19:39:19]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {d4f280cb}
+[04/13/23 19:39:19]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {b973469c}
+[04/13/23 19:39:19]: <0x5402> TestSuccionar Aplicación arrancada {d1ad360b}
+[04/13/23 19:39:19]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57231 id=#43766536 {9a7d336b}
+[04/13/23 19:39:32]: <0x5403> TestSuccionar Aplicación parada {b3d854ef}
+[04/13/23 19:40:05]: <0x2402> COM-PC: create session 127.0.0.1 on port 57231 id=#43768408 {c64657c7}
+[04/13/23 19:40:05]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {ac1ed14c}
+[04/13/23 19:40:05]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {20c37d59}
+[04/13/23 19:40:05]: <0x5402> TestSuccionar Aplicación arrancada {631dfb36}
+[04/13/23 19:40:05]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57231 id=#43768408 {8695af1e}
+[04/13/23 19:40:18]: <0x5403> TestSuccionar Aplicación parada {81a8eb86}
+[04/13/23 19:46:55]: <0x2402> COM-PC: create session 127.0.0.1 on port 57231 id=#43767576 {430539f5}
+[04/13/23 19:46:55]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {fe3e1cea}
+[04/13/23 19:46:55]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {73ea25a8}
+[04/13/23 19:46:55]: <0x5402> TestSuccionar Aplicación arrancada {3b127699}
+[04/13/23 19:46:55]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57231 id=#43767576 {34f4ade8}
+[04/13/23 19:47:08]: <0x5403> TestSuccionar Aplicación parada {0f91f256}
+[04/13/23 19:47:32]: <0x2402> COM-PC: create session 127.0.0.1 on port 57231 id=#43766536 {e87bb45a}
+[04/13/23 19:47:32]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {c3fb7c8f}
+[04/13/23 19:47:32]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {edbc27cb}
+[04/13/23 19:47:32]: <0x5402> TestSuccionar Aplicación arrancada {148342c7}
+[04/13/23 19:47:32]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57231 id=#43766536 {8f5ab6cb}
+[04/13/23 19:47:46]: <0x5403> TestSuccionar Aplicación parada {0fb255d5}
+[04/13/23 19:53:18]: <0x5A02> Deadman disabled. {5238c89d}
+[04/13/23 19:53:18]: <0x5A03> Deadman validated {827ca5ba}
+[04/13/23 19:53:19]: <0x1604> Desactivación de la potencia del brazo... {aaecdb23}
+[04/13/23 19:53:20]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {a1bcf6f4}
+[04/13/23 19:53:25]: <0x2401> Saving controller context... {b8275755}
+[04/13/23 19:53:34]: <0x5A01> Deadman enabled. {0c295c3c}
+[04/13/23 20:34:27]: <0x2402> COM-PC: create session 127.0.0.1 on port 59203 id=#43767680 {1a4a901c}
+[04/13/23 20:34:27]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {7ea6c39a}
+[04/13/23 20:34:27]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {1c6df7a2}
+[04/13/23 20:34:28]: <0x5402> TestSuccionar Aplicación arrancada {3a105ef3}
+[04/13/23 20:34:28]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59203 id=#43767680 {1df3f588}
+[04/13/23 20:34:34]: <0x5A02> Deadman disabled. {a2a56c44}
+[04/13/23 20:34:34]: <0x5A03> Deadman validated {79254eec}
+[04/13/23 20:34:34]: <0x1603> Habilitando la potencia del brazo... {f5a40712}
+[04/13/23 20:34:34]: <0x1601> Potencia del brazo habilitada. {e8b390fa}
+[04/13/23 20:34:48]: <0x5403> TestSuccionar Aplicación parada {0597bc4b}
+[04/13/23 20:34:50]: <0x5A01> Deadman enabled. {231aaa49}
+[04/13/23 20:34:59]: <0x5A02> Deadman disabled. {574b934b}
+[04/13/23 20:34:59]: <0x5A03> Deadman validated {88282d53}
+[04/13/23 20:34:59]: <0x1604> Desactivación de la potencia del brazo... {86ac8157}
+[04/13/23 20:35:01]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {3947d10f}
+[04/13/23 20:35:03]: <0x2401> Saving controller context... {570ba373}
+[04/13/23 20:35:15]: <0x5A01> Deadman enabled. {8c05aacf}
+[04/13/23 20:38:07]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50852 id=#43766016 {0a01bd3e}
+[04/13/23 20:46:42]: <0x2402> COM-PC: create session 127.0.0.1 on port 60060 id=#43768408 {2fdc480a}
+[04/13/23 20:46:43]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0dd49d34}
+[04/13/23 20:46:43]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {512aa266}
+[04/13/23 20:46:43]: <0x5402> TestSuccionar Aplicación arrancada {61864ade}
+[04/13/23 20:46:43]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60060 id=#43768408 {8a948984}
+[04/13/23 20:46:51]: <0x5A02> Deadman disabled. {47126e65}
+[04/13/23 20:46:51]: <0x5A03> Deadman validated {fecf90dc}
+[04/13/23 20:46:51]: <0x1603> Habilitando la potencia del brazo... {addcd5d2}
+[04/13/23 20:46:52]: <0x1601> Potencia del brazo habilitada. {7209a05b}
+[04/13/23 20:47:07]: <0x5A01> Deadman enabled. {13f3db52}
+[04/13/23 20:47:10]: <0x2402> COM-PC: create session 127.0.0.1 on port 60071 id=#43766432 {15d3fb47}
+[04/13/23 20:47:11]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0b25dc56}
+[04/13/23 20:47:11]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {fcc9f357}
+[04/13/23 20:47:11]: <0x5403> TestSuccionar Aplicación parada {dc7dcaea}
+[04/13/23 20:47:11]: <0x5402> TestSuccionar Aplicación arrancada {9e417ada}
+[04/13/23 20:47:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60071 id=#43766432 {4d55d775}
+[04/13/23 20:47:26]: <0x5403> TestSuccionar Aplicación parada {1755f37a}
+[04/13/23 20:47:41]: <0x2402> COM-PC: create session 127.0.0.1 on port 60084 id=#43765704 {2ad2ec63}
+[04/13/23 20:47:41]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a532c098}
+[04/13/23 20:47:41]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {ac68fae1}
+[04/13/23 20:47:41]: <0x5402> TestSuccionar Aplicación arrancada {7b51658b}
+[04/13/23 20:47:41]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60084 id=#43765704 {6a4a78b5}
+[04/13/23 20:47:47]: <0x5403> TestSuccionar Aplicación parada {ae9e5d88}
+[04/13/23 20:48:34]: <0x2402> MCP communication disconnected {1fa7ea0d}
+[04/13/23 20:48:34]: <0x1627> Desactivación de la potencia del brazo: cambio del modo de trabajo. {3b0b876f}
+[04/13/23 20:48:34]: <0x1604> Desactivación de la potencia del brazo... {f26811f1}
+[04/13/23 20:48:35]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {95d53c07}
+[04/13/23 20:48:40]: <0x2401> Saving controller context... {0a7825dd}
+[04/14/23 13:29:26]: ----------------------------------------------- {ac696702}
+[04/14/23 13:29:26]: Registro iniciado (1048576) {9c244adf}
+[04/14/23 13:29:30]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {a1268073}
+[04/14/23 13:29:30]: <0x0003> Cycle time set to 0.004s {a4cbfb6b}
+[04/14/23 13:29:30]: <0x0003> Simulation cycle time set to 0.1s {dabaccda}
+[04/14/23 13:29:30]: <0x0002> Controller IP address could not be updated {f25a138c}
+[04/14/23 13:29:30]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {e92d99c8}
+[04/14/23 13:29:30]: <0x0001> Error while trying to build User serial 2 {3be3ed6f}
+[04/14/23 13:29:30]: <0x0002> Default user payload used. {ae2d5283}
+[04/14/23 13:29:30]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {1c467a35}
+[04/14/23 13:29:30]: <0x2401> Horas con potencia =14:31:36 {0854ff66}
+[04/14/23 13:29:30]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {a0c82def}
+[04/14/23 13:29:31]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {ce07dc87}
+[04/14/23 13:29:32]: <0x0003> COM-PC: server created on all interfaces [851] {26bb8c47}
+[04/14/23 13:29:33]: <0x2402> History handler has been connected to IHM {35939ef2}
+[04/14/23 13:29:33]: <0x2401> System: s7.11.2 Feb 24 2020 {cfb9b10f}
+[04/14/23 13:29:33]: <0x2401> Kernel: Unknown  {3c5ba587}
+[04/14/23 13:29:33]: <0x2401> Configuration Version: c1.046  {31adcc4d}
+[04/14/23 13:29:33]: <0x2401> CPU: TEKNOR  {bae5c801}
+[04/14/23 13:29:33]: <0x2401> Option testMode: enabled  {a4082419}
+[04/14/23 13:29:33]: <0x2401> Option VAL 3: enabled  {23775fd2}
+[04/14/23 13:29:33]: <0x2401> N/S del controlador: : ?  {ac8a40ee}
+[04/14/23 13:29:33]: <0x2401> Brazo: tx60-S1-R4 suelo {4d4bddb8}
+[04/14/23 13:29:33]: <0x2401> N/S del brazo:: ?  {ccaf7d6e}
+[04/14/23 13:29:33]: <0x2401> Tipo de aceite:   {049c6baa}
+[04/14/23 13:29:33]: <0x2401> Nombre del robot:   {b0370dcc}
+[04/14/23 13:29:33]: <0x2401> EP: s7.11.2 Feb 24 2020 {196efb9a}
+[04/14/23 13:29:33]: <0x2401> EP10: s7.11.2 Feb 24 2020 {97a3cddd}
+[04/14/23 13:29:33]: <0x2401> SCA: s7.11.2 Feb 24 2020 {00029e78}
+[04/14/23 13:29:33]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {1c7ed4a4}
+[04/14/23 13:29:33]: <0x2201> Nuevo perfil : default {787ff4f7}
+[04/14/23 13:29:33]: <0x2401> End of controller initialization 0 {331c9405}
+[04/14/23 13:29:38]: <0x2402> Mcp = TSimulated {c98a2fc6}
+[04/14/23 13:29:38]: <0x340A> Mcp communication established {73b9aa96}
+[04/14/23 13:29:39]: <0x1801> Modo de trabajo:automático. {d12aeb76}
+[04/14/23 13:45:14]: <0x2402> COM-PC: create session 127.0.0.1 on port 49922 id=#42127616 {631e7bd7}
+[04/14/23 13:48:35]: <0x5A03> Deadman validated {ae97583b}
+[04/14/23 13:48:35]: <0x1603> Habilitando la potencia del brazo... {369b5628}
+[04/14/23 13:48:35]: <0x1601> Potencia del brazo habilitada. {1a6c98ec}
+[04/14/23 13:48:40]: <0x2401> Saving controller context... {6ebcf700}
+[04/14/23 13:48:40]: <0x2402> Temperatura del controlador: 28°C {be4f2b15}
+[04/14/23 13:48:40]: <0x2402> Temperatura de la CPU: 28°C {8e86b7d4}
+[04/14/23 13:48:44]: <0x2402> COM-PC: create session 127.0.0.1 on port 49982 id=#42128136 {f537a54e}
+[04/14/23 13:48:45]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {ae0ac38e}
+[04/14/23 13:48:45]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {a480480d}
+[04/14/23 13:48:45]: <0x5402> TestSuccionar Aplicación arrancada {383ff036}
+[04/14/23 13:48:46]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 49982 id=#42128136 {45f7efcc}
+[04/14/23 13:48:48]: <0x2401> Saving controller context... {278888f1}
+[04/14/23 13:49:01]: <0x2401> Saving controller context... (1) {2500b77f}
+[04/14/23 13:49:05]: <0x5403> TestSuccionar Aplicación parada {525c4d40}
+[04/14/23 13:49:08]: <0x2401> Saving controller context... {e86cd2e8}
+[04/14/23 13:49:09]: <0x2402> COM-PC: create session 127.0.0.1 on port 49982 id=#42129696 {79e3b2c0}
+[04/14/23 13:49:10]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a0c77acb}
+[04/14/23 13:49:10]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {d3dbfe8c}
+[04/14/23 13:49:10]: <0x5402> TestSuccionar Aplicación arrancada {3b57c766}
+[04/14/23 13:49:10]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 49982 id=#42129696 {4ebd6028}
+[04/14/23 13:49:21]: <0x2401> Saving controller context... {462c900d}
+[04/14/23 13:49:31]: <0x5A01> Deadman enabled. {f72d23d0}
+[04/14/23 13:49:37]: <0x2401> Saving controller context... {a29713f6}
+[04/14/23 13:50:00]: <0x2401> Saving controller context... (3) {f82f70cb}
+[04/14/23 13:50:03]: <0x5403> TestSuccionar Aplicación parada {bea3f94a}
+[04/14/23 13:50:06]: <0x2401> Saving controller context... {161c8f7d}
+[04/14/23 13:51:13]: <0x2401> Saving controller context... (9) {929f39f1}
+[04/14/23 13:51:17]: <0x5A02> Deadman disabled. {71c6e0a7}
+[04/14/23 13:51:17]: <0x5A03> Deadman validated {adc7fb9e}
+[04/14/23 13:51:17]: <0x1604> Desactivación de la potencia del brazo... {61433938}
+[04/14/23 13:51:18]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {fa1966d9}
+[04/14/23 13:51:21]: <0x2401> Saving controller context... {729412f6}
+[04/14/23 13:51:33]: <0x5A01> Deadman enabled. {f7fb0ba2}
+[04/14/23 14:07:24]: <0x2402> COM-PC: create session 127.0.0.1 on port 50031 id=#42127096 {f9df7e14}
+[04/14/23 14:07:24]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a6580dad}
+[04/14/23 14:07:24]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {289df784}
+[04/14/23 14:07:25]: <0x2402> COM-PC: create session 127.0.0.1 on port 50031 id=#42128240 {93f83e9b}
+[04/14/23 14:07:25]: <0x5402> TestSuccionar Aplicación arrancada {6bc77dd8}
+[04/14/23 14:07:25]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50031 id=#42127096 {5eafe491}
+[04/14/23 14:07:27]: <0x2402> MCP communication disconnected {9d2813dc}
+[04/14/23 14:07:30]: <0x2402> Mcp = TSimulated {e03a6174}
+[04/14/23 14:07:30]: <0x340A> Mcp communication established {0f3a43ba}
+[04/14/23 14:07:30]: <0x5A02> Deadman disabled. {21f12fb0}
+[04/14/23 14:07:30]: <0x1801> Modo de trabajo:automático. {10f8a436}
+[04/14/23 14:08:21]: <0x5A03> Deadman validated {347b5b41}
+[04/14/23 14:08:21]: <0x1603> Habilitando la potencia del brazo... {1a041b5f}
+[04/14/23 14:08:22]: <0x1601> Potencia del brazo habilitada. {03902a5d}
+[04/14/23 14:08:37]: <0x5A01> Deadman enabled. {b8a932d4}
+[04/14/23 14:26:52]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50031 id=#42128240 {e609ff6a}
+[04/14/23 14:26:53]: <0x2402> MCP communication disconnected {56856011}
+[04/14/23 14:26:54]: <0x1627> Desactivación de la potencia del brazo: cambio del modo de trabajo. {7b57f455}
+[04/14/23 14:26:54]: <0x1604> Desactivación de la potencia del brazo... {d0d742bc}
+[04/14/23 14:26:55]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {108a8910}
+[04/14/23 14:26:56]: <0x2402> Mcp = TSimulated {f399dd00}
+[04/14/23 14:26:56]: <0x2401> Saving controller context... {30d99691}
+[04/14/23 14:26:58]: <0x340A> Mcp communication established {e44965af}
+[04/14/23 14:26:58]: <0x5A02> Deadman disabled. {320f4182}
+[04/14/23 14:26:58]: <0x1801> Modo de trabajo:automático. {3fadc5e7}
+[04/14/23 14:27:06]: <0x2402> COM-PC: create session 127.0.0.1 on port 50921 id=#42127824 {cef876e0}
+[04/14/23 14:27:07]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {45909452}
+[04/14/23 14:27:07]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {a2c45172}
+[04/14/23 14:27:07]: <0x5403> TestSuccionar Aplicación parada {05eb41a8}
+[04/14/23 14:27:07]: <0x2402> COM-PC: create session 127.0.0.1 on port 50921 id=#42129800 {6c9e0cb6}
+[04/14/23 14:27:07]: <0x5402> TestSuccionar Aplicación arrancada {88e32d6b}
+[04/14/23 14:27:07]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50921 id=#42127824 {fba4e76b}
+[04/14/23 14:27:08]: <0x2402> MCP communication disconnected {918819c5}
+[04/14/23 14:27:11]: <0x2402> Mcp = TSimulated {8d036866}
+[04/14/23 14:27:11]: <0x340A> Mcp communication established {653376ab}
+[04/14/23 14:27:11]: <0x1801> Modo de trabajo:automático. {ec4071cf}
+[04/14/23 14:27:21]: <0x5A03> Deadman validated {1bedfd42}
+[04/14/23 14:27:21]: <0x1603> Habilitando la potencia del brazo... {01130392}
+[04/14/23 14:27:21]: <0x1601> Potencia del brazo habilitada. {bee207fb}
+[04/14/23 14:27:37]: <0x5A01> Deadman enabled. {13e95a7b}
+[04/14/23 14:27:57]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50921 id=#42129800 {2001c4fd}
+[04/14/23 14:27:59]: <0x2402> MCP communication disconnected {65f85580}
+[04/14/23 14:27:59]: <0x1627> Desactivación de la potencia del brazo: cambio del modo de trabajo. {0ee300b0}
+[04/14/23 14:27:59]: <0x1604> Desactivación de la potencia del brazo... {9da658a7}
+[04/14/23 14:28:01]: <0x2402> Mcp = TSimulated {8102f63c}
+[04/14/23 14:28:01]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {27d29f4c}
+[04/14/23 14:28:02]: <0x340A> Mcp communication established {516b7f43}
+[04/14/23 14:28:02]: <0x5A02> Deadman disabled. {1d220de8}
+[04/14/23 14:28:02]: <0x1801> Modo de trabajo:automático. {9232bea6}
+[04/14/23 14:28:03]: <0x2401> Saving controller context... {ec0de9d0}
+[04/14/23 14:28:15]: <0x2402> COM-PC: create session 127.0.0.1 on port 50988 id=#42128136 {db721ab4}
+[04/14/23 14:28:15]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {3530b861}
+[04/14/23 14:28:15]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {01b0089f}
+[04/14/23 14:28:15]: <0x5403> TestSuccionar Aplicación parada {6217f372}
+[04/14/23 14:28:15]: <0x2402> COM-PC: create session 127.0.0.1 on port 50988 id=#42127096 {01d2f09e}
+[04/14/23 14:28:15]: <0x5402> TestSuccionar Aplicación arrancada {123edae4}
+[04/14/23 14:28:15]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50988 id=#42128136 {216b1717}
+[04/14/23 14:28:17]: <0x2402> MCP communication disconnected {0ea2ec34}
+[04/14/23 14:28:20]: <0x2402> Mcp = TSimulated {a3a039fe}
+[04/14/23 14:28:20]: <0x340A> Mcp communication established {90329afd}
+[04/14/23 14:28:20]: <0x1801> Modo de trabajo:automático. {4a78d6b2}
+[04/14/23 14:32:25]: <0x5A03> Deadman validated {852a1df1}
+[04/14/23 14:32:26]: <0x1603> Habilitando la potencia del brazo... {1fb0d365}
+[04/14/23 14:32:26]: <0x1601> Potencia del brazo habilitada. {ff9db36b}
+[04/14/23 14:32:42]: <0x5A01> Deadman enabled. {e3173252}
+[04/14/23 14:33:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50988 id=#42127096 {31c2c9c2}
+[04/14/23 14:33:05]: <0x2402> MCP communication disconnected {6970c237}
+[04/14/23 14:33:05]: <0x1627> Desactivación de la potencia del brazo: cambio del modo de trabajo. {86663b14}
+[04/14/23 14:33:05]: <0x1604> Desactivación de la potencia del brazo... {e1fd7ff7}
+[04/14/23 14:33:06]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {89d6f266}
+[04/14/23 14:33:07]: <0x2401> Saving controller context... {03a6b3ce}
+[04/14/23 14:33:08]: <0x2402> Mcp = TSimulated {7a80e76b}
+[04/14/23 14:33:10]: <0x340A> Mcp communication established {42442362}
+[04/14/23 14:33:10]: <0x5A02> Deadman disabled. {cf4fb12b}
+[04/14/23 14:33:10]: <0x1801> Modo de trabajo:automático. {5cce3f8d}
+[04/14/23 14:33:55]: <0x2402> COM-PC: create session 127.0.0.1 on port 51170 id=#42129592 {c343243c}
+[04/14/23 14:33:55]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {654db697}
+[04/14/23 14:33:55]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {d96a33e8}
+[04/14/23 14:33:55]: <0x5403> TestSuccionar Aplicación parada {8dd42f91}
+[04/14/23 14:33:56]: <0x2402> COM-PC: create session 127.0.0.1 on port 51189 id=#42128240 {6639b987}
+[04/14/23 14:33:56]: <0x5402> TestSuccionar Aplicación arrancada {9a59399d}
+[04/14/23 14:33:56]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51170 id=#42129592 {46e000f6}
+[04/14/23 14:33:58]: <0x2402> MCP communication disconnected {80fac1da}
+[04/14/23 14:34:00]: <0x2402> Mcp = TSimulated {209ff49a}
+[04/14/23 14:34:00]: <0x340A> Mcp communication established {75fbebc9}
+[04/14/23 14:34:01]: <0x1801> Modo de trabajo:automático. {d809d1f0}
+[04/14/23 14:34:06]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51189 id=#42128240 {43fb280c}
+[04/14/23 14:34:06]: <0x2402> MCP communication disconnected {9f5ceb75}
+[04/14/23 14:34:09]: <0x2402> Mcp = TSimulated {3036448e}
+[04/14/23 14:34:11]: <0x340A> Mcp communication established {50748338}
+[04/14/23 14:34:11]: <0x1801> Modo de trabajo:automático. {d0c501c5}
+[04/14/23 14:34:32]: <0x2402> COM-PC: create session 127.0.0.1 on port 51170 id=#42127824 {d7af4684}
+[04/14/23 14:34:32]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {6b27535b}
+[04/14/23 14:34:32]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {f9118ee4}
+[04/14/23 14:34:32]: <0x5403> TestSuccionar Aplicación parada {bcdce71b}
+[04/14/23 14:34:33]: <0x2402> COM-PC: create session 127.0.0.1 on port 51170 id=#42128136 {28395695}
+[04/14/23 14:34:33]: <0x5402> TestSuccionar Aplicación arrancada {c519028a}
+[04/14/23 14:34:33]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51170 id=#42127824 {08af2b49}
+[04/14/23 14:34:33]: <0x2402> MCP communication disconnected {856b9405}
+[04/14/23 14:34:37]: <0x2402> Mcp = TSimulated {c9dfbe75}
+[04/14/23 14:34:37]: <0x340A> Mcp communication established {e9fd41a5}
+[04/14/23 14:34:38]: <0x1801> Modo de trabajo:automático. {3f8248ce}
+[04/14/23 14:34:48]: <0x5A03> Deadman validated {1ebe2cee}
+[04/14/23 14:34:48]: <0x1603> Habilitando la potencia del brazo... {f10863ec}
+[04/14/23 14:34:49]: <0x1601> Potencia del brazo habilitada. {7a4173e1}
+[04/14/23 14:35:04]: <0x5A01> Deadman enabled. {83e1096d}
+[04/14/23 14:36:07]: <0x5403> TestSuccionar Aplicación parada {aa0a0331}
+[04/14/23 14:36:25]: <0x5A02> Deadman disabled. {72efed7b}
+[04/14/23 14:36:25]: <0x5A03> Deadman validated {94e60bc3}
+[04/14/23 14:36:25]: <0x1604> Desactivación de la potencia del brazo... {94fa9c7b}
+[04/14/23 14:36:27]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {e4b1b9a6}
+[04/14/23 14:36:30]: <0x2401> Saving controller context... {dd5ce216}
+[04/14/23 14:36:41]: <0x5A01> Deadman enabled. {69505889}
+[04/14/23 14:37:07]: <0x5A02> Deadman disabled. {f2a2e3f5}
+[04/14/23 14:37:07]: <0x5A03> Deadman validated {386139bc}
+[04/14/23 14:37:07]: <0x1603> Habilitando la potencia del brazo... {8f498b4d}
+[04/14/23 14:37:08]: <0x1601> Potencia del brazo habilitada. {fab64d4e}
+[04/14/23 14:37:11]: <0x2401> Saving controller context... {d9757642}
+[04/14/23 14:37:14]: <0x2402> COM-PC: create session 127.0.0.1 on port 51228 id=#42129592 {f41b7f65}
+[04/14/23 14:37:14]: <0x5402> TestSuccionar Aplicación arrancada {eddaba70}
+[04/14/23 14:37:14]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51228 id=#42129592 {d4251358}
+[04/14/23 14:37:17]: <0x2401> Saving controller context... {d8675f27}
+[04/14/23 14:37:40]: <0x2401> Saving controller context... (3) {4bdec7c0}
+[04/14/23 14:37:40]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51170 id=#42128136 {c64738ae}
+[04/14/23 14:37:42]: <0x2402> MCP communication disconnected {4cc56641}
+[04/14/23 14:37:42]: <0x1627> Desactivación de la potencia del brazo: cambio del modo de trabajo. {ecec78d4}
+[04/14/23 14:37:42]: <0x1604> Desactivación de la potencia del brazo... {fba2a988}
+[04/14/23 14:37:44]: <0x2402> Mcp = TSimulated {c68b407a}
+[04/14/23 14:37:45]: <0x2401> Saving controller context... {b104aab2}
+[04/14/23 14:37:46]: <0x340A> Mcp communication established {1b125323}
+[04/14/23 14:37:46]: <0x5A02> Deadman disabled. {fffaa843}
+[04/14/23 14:37:48]: <0x1801> Modo de trabajo:automático. {c4145fcd}
+[04/14/23 14:37:48]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {4b0f4333}
+[04/14/23 14:37:51]: <0x2402> COM-PC: create session 127.0.0.1 on port 51228 id=#42127096 {368641d4}
+[04/14/23 14:37:51]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {1c574b95}
+[04/14/23 14:37:51]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {37f9e02a}
+[04/14/23 14:37:51]: <0x5403> TestSuccionar Aplicación parada {ee796dc3}
+[04/14/23 14:37:51]: <0x5402> TestSuccionar Aplicación arrancada {19a26429}
+[04/14/23 14:37:51]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51228 id=#42127096 {66fd588b}
+[04/14/23 14:37:56]: <0x5A03> Deadman validated {f2b1b5df}
+[04/14/23 14:37:59]: <0x5A02> Deadman disabled. {b6c4e9c9}
+[04/14/23 14:37:59]: <0x5A03> Deadman validated {5917aa1f}
+[04/14/23 14:37:59]: <0x1603> Habilitando la potencia del brazo... {537389d7}
+[04/14/23 14:38:01]: <0x1601> Potencia del brazo habilitada. {6c88b1c6}
+[04/14/23 14:38:06]: <0x2401> Saving controller context... {6d7b862a}
+[04/14/23 14:38:35]: <0x2401> Saving controller context... (2) {0bbf046a}
+[04/14/23 14:38:37]: <0x5403> TestSuccionar Aplicación parada {57d032bb}
+[04/14/23 14:38:40]: <0x2401> Saving controller context... {216668fb}
+[04/14/23 14:38:48]: <0x2401> Saving controller context... (1) {d4db3067}
+[04/14/23 14:38:51]: <0x5A02> Deadman disabled. {ae37ca54}
+[04/14/23 14:38:51]: <0x5A03> Deadman validated {427a395b}
+[04/14/23 14:38:51]: <0x1604> Desactivación de la potencia del brazo... {e3b7de58}
+[04/14/23 14:38:52]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {a8f3923e}
+[04/14/23 14:38:56]: <0x2401> Saving controller context... {241e7760}
+[04/14/23 14:39:07]: <0x5A01> Deadman enabled. {38f7c4e4}
+[04/14/23 17:17:39]: <0x2402> MCP communication disconnected {042f404e}
+[04/14/23 17:17:43]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 49922 id=#42127616 {309620a4}

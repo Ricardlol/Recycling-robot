@@ -14,6 +14,7 @@
     waitEndMove()
     movel(pApprBins, tToolSuccion, mNomSpeed)
     waitEndMove()
+    clearBuffer(sSioOrdenador)
     nConnection = sioGet(SocketComputer, nRecvData)
     delay(5)
     if nConnection == 1

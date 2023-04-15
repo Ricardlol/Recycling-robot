@@ -9,13 +9,17 @@
   waitEndMove()
   do
     // Leo caracter
-    nTest = sioGet(sSioOrdenador, l_nNumero)
+    clearBuffer(sSioOrdenador)
+    sioSet(sSioOrdenador, l_nNumero)
     delay(5)
+    nTest = sioGet(sSioOrdenador, l_nNumero)
     put("Test :")
     put(nTest)
     put(" L_nNumero :")
     put(l_nNumero)
     putln(" ")
+    
+    sioSet(sSioOrdenador, l_nNumero)
     
     
   until l_nNumero == 13

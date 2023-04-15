@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="start">
+    <Code><![CDATA[begin
+  movej(JApproach1,tToolSuccion, mNomSpeed)
+  waitEndMove()
+  movej(jGetCinta, tToolSuccion, mNomSpeed)
+  waitEndMove()
+  open(tToolSuccion)
+  waitEndMove()
+  movej(pApprBins, tToolSuccion, mNomSpeed)
+  waitEndMove()
+  close(tToolSuccion)
+  waitEndMove()
+end]]></Code>
+  </Program>
+</Programs>
