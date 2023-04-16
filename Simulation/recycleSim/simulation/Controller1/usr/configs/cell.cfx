@@ -64,5 +64,5 @@
   <String name="T2_key" value="valve2" />
   <String name="T3_key" value="" />
   <String name="defaultUser" value="default" />
-  <Float name="monitorSpeed" value="25" />
+  <Float name="monitorSpeed" value="50" />
 </cell>

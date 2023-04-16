@@ -9,10 +9,10 @@
     <Nodes>
       <Node Path="simulation" IsExpanded="true" />
       <Node Path="simulation\Controller1" IsExpanded="true" />
-      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx" IsExpanded="true" />
-      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx\jointRx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Tester#Tester.pjx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Tester#Tester.pjx\jointRx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Tester#Tester.pjx\pointRx" IsExpanded="true" />
       <Node Path="simulation\Controller1\Disk:##Tester#Tester.pjx\sio" IsExpanded="true" />
-      <Node Path="simulation\Controller1\Disk:##TestSuccionar#TestSuccionar.pjx" IsExpanded="true" />
       <Node Path="simulation\Controller1\Disk:##TestSuccionar#TestSuccionar.pjx\jointRx" IsExpanded="true" />
       <Node Path="simulation\Controller1\Disk:##TestSuccionar#TestSuccionar.pjx\tool" IsExpanded="true" />
     </Nodes>
@@ -21,8 +21,7 @@
     <Nodes>
       <Node Path="simulation" IsExpanded="true" />
       <Node Path="simulation\Controller1" IsExpanded="true" />
-      <Node Path="simulation\Controller1\Disk:##Tester#Tester.pjx\start" IsExpanded="true" />
-      <Node Path="simulation\Controller1\Disk:##TestSuccionar#TestSuccionar.pjx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Tester#Tester.pjx" IsExpanded="true" />
     </Nodes>
   </Option>
   <Option Name="GeometryView">
@@ -40,6 +39,7 @@
   <Option Name="Watches">
     <Watches>
       <ExpressionWatch>tToolSuccion</ExpressionWatch>
+      <ExpressionWatch>l_nNumero</ExpressionWatch>
     </Watches>
   </Option>
   <Option Name="CatalogLayout">
