@@ -10,7 +10,6 @@
   do
     // Leo caracter
     clearBuffer(sSioOrdenador)
-    sioSet(sSioOrdenador, l_nNumero)
     delay(5)
     nTest = sioGet(sSioOrdenador, l_nNumero)
     put("Test :")
