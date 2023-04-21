@@ -3,7 +3,7 @@
   <Program name="start">
     <Code><![CDATA[begin
   taskCreate "screen", 1, pantalla()
-  call MoveRobot()
+  taskCreate "move", 1,MoveRobot()
 end]]></Code>
   </Program>
 </Programs>

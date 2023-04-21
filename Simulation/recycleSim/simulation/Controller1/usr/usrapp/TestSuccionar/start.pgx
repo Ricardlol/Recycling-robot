@@ -6,11 +6,11 @@
   waitEndMove()
   movej(jGetCinta, tToolSuccion, mNomSpeed)
   waitEndMove()
-  open(tToolSuccion)
+  close(tToolSuccion)
   waitEndMove()
   movej(pApprBins, tToolSuccion, mNomSpeed)
   waitEndMove()
-  close(tToolSuccion)
+  open(tToolSuccion)
   waitEndMove()
 end]]></Code>
   </Program>

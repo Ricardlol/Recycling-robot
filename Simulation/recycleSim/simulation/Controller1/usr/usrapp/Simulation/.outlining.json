@@ -2,11 +2,6 @@
   "programs": [
     {
       "mode": 3,
-      "name": "start",
-      "nodes": []
-    },
-    {
-      "mode": 3,
       "name": "pantalla",
       "nodes": [
         {
@@ -86,6 +81,11 @@
           "isCollapsed": false
         }
       ]
+    },
+    {
+      "mode": 3,
+      "name": "start",
+      "nodes": []
     }
   ]
 }

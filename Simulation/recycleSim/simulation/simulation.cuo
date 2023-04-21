@@ -9,16 +9,16 @@
     <Nodes>
       <Node Path="simulation" IsExpanded="true" />
       <Node Path="simulation\Controller1" IsExpanded="true" />
-      <Node Path="simulation\Controller1\Disk:##Tester#Tester.pjx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx\tool" IsExpanded="true" />
       <Node Path="simulation\Controller1\Disk:##TestSuccionar#TestSuccionar.pjx\jointRx" IsExpanded="true" />
-      <Node Path="simulation\Controller1\Disk:##TestSuccionar#TestSuccionar.pjx\tool" IsExpanded="true" />
     </Nodes>
   </Option>
   <Option Name="CellExplorer">
     <Nodes>
       <Node Path="simulation" IsExpanded="true" />
       <Node Path="simulation\Controller1" IsExpanded="true" />
-      <Node Path="simulation\Controller1\Disk:##Tester#Tester.pjx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx" IsExpanded="true" />
     </Nodes>
   </Option>
   <Option Name="GeometryView">

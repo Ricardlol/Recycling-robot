@@ -4301,3 +4301,458 @@ Mcp = connected
 [04/17/23 12:16:24]: <0x2402> MCP communication disconnected {39d7f902}
 [04/17/23 12:16:25]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 49710 id=#48092536 {4eba5a18}
 [04/17/23 12:16:25]: <0x2402> COM-PC: create session 127.0.0.1 on port 50161 id=#48091184 {5e14787b}
+[04/21/23 16:36:24]: ----------------------------------------------- {025b5951}
+[04/21/23 16:36:24]: Registro iniciado (1048576) {2cc81391}
+[04/21/23 16:36:29]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {0a200b84}
+[04/21/23 16:36:29]: <0x0003> Cycle time set to 0.004s {6bdf292d}
+[04/21/23 16:36:29]: <0x0003> Simulation cycle time set to 0.1s {23318987}
+[04/21/23 16:36:29]: <0x0002> Controller IP address could not be updated {01c066cd}
+[04/21/23 16:36:29]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {4ac413f1}
+[04/21/23 16:36:29]: <0x0001> Error while trying to build User serial 2 {f4a944bc}
+[04/21/23 16:36:29]: <0x0002> Default user payload used. {ad157bb4}
+[04/21/23 16:36:29]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {a10b1ef2}
+[04/21/23 16:36:29]: <0x2401> Horas con potencia =15:14:37 {4149a272}
+[04/21/23 16:36:29]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {4b446a0c}
+[04/21/23 16:36:30]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {ae112363}
+[04/21/23 16:36:30]: <0x0003> COM-PC: server created on all interfaces [851] {30d96a2d}
+[04/21/23 16:36:32]: <0x2402> History handler has been connected to IHM {a0adf32a}
+[04/21/23 16:36:32]: <0x2401> System: s7.11.2 Feb 24 2020 {c936806b}
+[04/21/23 16:36:32]: <0x2401> Kernel: Unknown  {6a8a6baf}
+[04/21/23 16:36:32]: <0x2401> Configuration Version: c1.046  {a908759c}
+[04/21/23 16:36:32]: <0x2401> CPU: TEKNOR  {6505a0fe}
+[04/21/23 16:36:32]: <0x2401> Option testMode: enabled  {5cb4f613}
+[04/21/23 16:36:32]: <0x2401> Option VAL 3: enabled  {4cc689a2}
+[04/21/23 16:36:32]: <0x2401> N/S del controlador: : ?  {8ac5f38c}
+[04/21/23 16:36:32]: <0x2401> Brazo: tx60-S1-R4 suelo {2d256487}
+[04/21/23 16:36:32]: <0x2401> N/S del brazo:: ?  {aa3cd46e}
+[04/21/23 16:36:32]: <0x2401> Tipo de aceite:   {bc933c8d}
+[04/21/23 16:36:32]: <0x2401> Nombre del robot:   {053a5444}
+[04/21/23 16:36:32]: <0x2401> EP: s7.11.2 Feb 24 2020 {2cfbe56b}
+[04/21/23 16:36:32]: <0x2401> EP10: s7.11.2 Feb 24 2020 {c05ff018}
+[04/21/23 16:36:32]: <0x2401> SCA: s7.11.2 Feb 24 2020 {edd0f8c9}
+[04/21/23 16:36:32]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {41550746}
+[04/21/23 16:36:32]: <0x2201> Nuevo perfil : default {58de24d3}
+[04/21/23 16:36:32]: <0x2401> End of controller initialization 0 {418fed54}
+[04/21/23 16:36:37]: <0x2402> Mcp = TSimulated {65f4c663}
+[04/21/23 16:36:37]: <0x340A> Mcp communication established {269fe44c}
+[04/21/23 16:36:37]: <0x1801> Modo de trabajo:automático. {01ca2991}
+[04/21/23 16:36:37]: <0x2401> Saving controller context... {5387688d}
+[04/21/23 16:36:37]: <0x2402> Temperatura del controlador: 28°C {f9c4eae4}
+[04/21/23 16:36:37]: <0x2402> Temperatura de la CPU: 28°C {8946978d}
+[04/21/23 17:12:14]: <0x2402> COM-PC: create session 127.0.0.1 on port 50117 id=#49467232 {c083809e}
+[04/21/23 17:12:15]: <0x5A03> Deadman validated {01841972}
+[04/21/23 17:12:15]: <0x1603> Habilitando la potencia del brazo... {439ba3b0}
+[04/21/23 17:12:15]: <0x1601> Potencia del brazo habilitada. {657ddfc1}
+[04/21/23 17:12:20]: <0x2401> Saving controller context... {0df81ea4}
+[04/21/23 17:13:05]: <0x2401> Saving controller context... (6) {03a58196}
+[04/21/23 17:13:10]: <0x5A01> Deadman enabled. {62161c35}
+[04/21/23 17:13:13]: <0x2401> Saving controller context... {4798179f}
+[04/21/23 17:14:10]: <0x2401> Saving controller context... (8) {48fbf39b}
+[04/21/23 17:14:12]: <0x2402> COM-PC: create session 127.0.0.1 on port 50118 id=#49467128 {b6cf3db5}
+[04/21/23 17:14:14]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {acdaf359}
+[04/21/23 17:14:14]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {22468821}
+[04/21/23 17:14:14]: <0x5402> TestSuccionar Aplicación arrancada {6281e258}
+[04/21/23 17:14:15]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50118 id=#49467128 {05e683f7}
+[04/21/23 17:14:15]: <0x2401> Saving controller context... {b70818af}
+[04/21/23 17:14:30]: <0x2401> Saving controller context... (2) {7a4561c2}
+[04/21/23 17:14:32]: <0x2402> COM-PC: create session 127.0.0.1 on port 50118 id=#49468064 {ddfc0760}
+[04/21/23 17:14:32]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {5721b905}
+[04/21/23 17:14:32]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {4894f403}
+[04/21/23 17:14:32]: <0x5403> TestSuccionar Aplicación parada {b263910e}
+[04/21/23 17:14:33]: <0x5402> TestSuccionar Aplicación arrancada {4a10f1f3}
+[04/21/23 17:14:33]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50118 id=#49468064 {c7e94f94}
+[04/21/23 17:14:38]: <0x2401> Saving controller context... {fc1ceba2}
+[04/21/23 17:14:43]: <0x2401> Saving controller context... (1) {14ca861a}
+[04/21/23 17:14:48]: <0x5403> TestSuccionar Aplicación parada {456f9054}
+[04/21/23 17:14:51]: <0x2401> Saving controller context... {3cda8cc0}
+[04/21/23 17:15:07]: <0x2401> Saving controller context... (2) {f044f4bb}
+[04/21/23 17:15:10]: <0x2402> COM-PC: create session 127.0.0.1 on port 50118 id=#49468064 {a3c4e154}
+[04/21/23 17:15:10]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a0cf2b10}
+[04/21/23 17:15:10]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {ef6d6531}
+[04/21/23 17:15:11]: <0x5402> TestSuccionar Aplicación arrancada {82a3afbc}
+[04/21/23 17:15:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50118 id=#49468064 {a2175923}
+[04/21/23 17:15:14]: <0x2401> Saving controller context... {381d38af}
+[04/21/23 17:16:40]: <0x2401> Saving controller context... (12) {70e669de}
+[04/21/23 17:16:46]: <0x5A02> Deadman disabled. {f3c27801}
+[04/21/23 17:16:46]: <0x5A03> Deadman validated {6abff7d7}
+[04/21/23 17:16:47]: <0x1604> Desactivación de la potencia del brazo... {c06f1960}
+[04/21/23 17:16:48]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {dd22dd5e}
+[04/21/23 17:16:50]: <0x2401> Saving controller context... {560f7570}
+[04/21/23 17:16:51]: <0x5A02> Deadman disabled. {b0e68601}
+[04/21/23 17:16:51]: <0x5A03> Deadman validated {56294f71}
+[04/21/23 17:16:51]: <0x1603> Habilitando la potencia del brazo... {191e5b6f}
+[04/21/23 17:16:52]: <0x1601> Potencia del brazo habilitada. {f79a3b75}
+[04/21/23 17:16:52]: <0x3F1B> Modo de movimiento manual: Connect {cd0934b8}
+[04/21/23 17:16:57]: <0x2402> COM-PC: create session 127.0.0.1 on port 50207 id=#49467024 {34964e07}
+[04/21/23 17:16:57]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {8102e0a3}
+[04/21/23 17:16:57]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {2ff10dd5}
+[04/21/23 17:16:57]: <0x3F1B> Modo de movimiento manual: Disabled {3035fc94}
+[04/21/23 17:16:57]: <0x5403> TestSuccionar Aplicación parada {c64a14a4}
+[04/21/23 17:16:57]: <0x3F10> Fin del movimiento de conexión. {5e2102a5}
+[04/21/23 17:16:58]: <0x5402> TestSuccionar Aplicación arrancada {72e44e03}
+[04/21/23 17:16:58]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50207 id=#49467024 {161e49e3}
+[04/21/23 17:17:01]: <0x2401> Saving controller context... {bc1851cf}
+[04/21/23 17:17:17]: <0x2401> Saving controller context... (2) {b45b0645}
+[04/21/23 17:17:20]: <0x5403> TestSuccionar Aplicación parada {e9942933}
+[04/21/23 17:17:25]: <0x2401> Saving controller context... {84fa7579}
+[04/21/23 17:17:28]: <0x2402> COM-PC: create session 127.0.0.1 on port 50207 id=#49469520 {1f60aa37}
+[04/21/23 17:17:28]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {01e23d41}
+[04/21/23 17:17:28]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {6e3c7828}
+[04/21/23 17:17:28]: <0x5402> TestSuccionar Aplicación arrancada {cca2311c}
+[04/21/23 17:17:28]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50207 id=#49469520 {3958a381}
+[04/21/23 17:17:33]: <0x2401> Saving controller context... {e582f75d}
+[04/21/23 17:17:41]: <0x2401> Saving controller context... (1) {43e62966}
+[04/21/23 17:17:47]: <0x5A01> Deadman enabled. {10aa0252}
+[04/21/23 17:17:48]: <0x5403> TestSuccionar Aplicación parada {d6ef4a2a}
+[04/21/23 17:17:48]: <0x2401> Saving controller context... {bc39e59a}
+[04/21/23 17:17:54]: <0x2401> Saving controller context... (1) {0bf9bac7}
+[04/21/23 17:17:59]: <0x5A02> Deadman disabled. {070b9780}
+[04/21/23 17:17:59]: <0x5A03> Deadman validated {305ba73e}
+[04/21/23 17:18:00]: <0x1604> Desactivación de la potencia del brazo... {11b21c65}
+[04/21/23 17:18:01]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {c12619c4}
+[04/21/23 17:18:04]: <0x2401> Saving controller context... {6bbfb10a}
+[04/21/23 17:18:16]: <0x5A01> Deadman enabled. {b59d99d5}
+[04/21/23 17:19:02]: <0x2402> COM-PC: create session 127.0.0.1 on port 50255 id=#49467024 {8866ba4d}
+[04/21/23 17:19:02]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {115b15f3}
+[04/21/23 17:19:02]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {d751baa5}
+[04/21/23 17:19:03]: <0x5402> TestSuccionar Aplicación arrancada {eec0df78}
+[04/21/23 17:19:03]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50255 id=#49467024 {715eefc9}
+[04/21/23 17:19:07]: <0x5A02> Deadman disabled. {3d233b12}
+[04/21/23 17:19:07]: <0x5A03> Deadman validated {2b1db4b1}
+[04/21/23 17:19:07]: <0x1603> Habilitando la potencia del brazo... {1c1cbdb6}
+[04/21/23 17:19:08]: <0x1601> Potencia del brazo habilitada. {971e3a2a}
+[04/21/23 17:19:11]: <0x5403> TestSuccionar Aplicación parada {63816dba}
+[04/21/23 17:19:24]: <0x5A01> Deadman enabled. {dedb3901}
+[04/21/23 17:19:37]: <0x2402> COM-PC: create session 127.0.0.1 on port 50260 id=#49468584 {54f88051}
+[04/21/23 17:19:37]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {8e87b765}
+[04/21/23 17:19:37]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {b78df75a}
+[04/21/23 17:19:38]: <0x2401> Saving controller context... {1dac1263}
+[04/21/23 17:19:38]: <0x5402> TestSuccionar Aplicación arrancada {92e92854}
+[04/21/23 17:19:38]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50260 id=#49468584 {14d0221c}
+[04/21/23 17:19:45]: <0x2401> Saving controller context... {2a09e453}
+[04/21/23 17:19:53]: <0x2401> Saving controller context... (1) {13a5a015}
+[04/21/23 17:19:55]: <0x5A02> Deadman disabled. {c6fb5344}
+[04/21/23 17:19:55]: <0x5A03> Deadman validated {00f9e592}
+[04/21/23 17:19:57]: <0x5A02> Deadman disabled. {4787411f}
+[04/21/23 17:19:57]: <0x5A03> Deadman validated {3a750940}
+[04/21/23 17:19:58]: <0x1604> Desactivación de la potencia del brazo... {7f7be0af}
+[04/21/23 17:19:59]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {b0226f03}
+[04/21/23 17:20:01]: <0x2401> Saving controller context... {f0adb1da}
+[04/21/23 17:20:13]: <0x5A01> Deadman enabled. {3c47b942}
+[04/21/23 17:20:25]: <0x2402> COM-PC: create session 127.0.0.1 on port 50287 id=#49468584 {8bdb6bee}
+[04/21/23 17:20:25]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {feacd892}
+[04/21/23 17:20:25]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {354dce14}
+[04/21/23 17:20:25]: <0x5403> TestSuccionar Aplicación parada {fa5c9e83}
+[04/21/23 17:20:26]: <0x5402> TestSuccionar Aplicación arrancada {68b586ac}
+[04/21/23 17:20:26]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50287 id=#49468584 {59fc480a}
+[04/21/23 17:20:28]: <0x5A02> Deadman disabled. {bbf6d0d3}
+[04/21/23 17:20:28]: <0x5A03> Deadman validated {0cff507a}
+[04/21/23 17:20:28]: <0x1603> Habilitando la potencia del brazo... {46152bd9}
+[04/21/23 17:20:29]: <0x1601> Potencia del brazo habilitada. {555a76aa}
+[04/21/23 17:20:33]: <0x5403> TestSuccionar Aplicación parada {4b2da6c3}
+[04/21/23 17:20:50]: <0x2402> COM-PC: create session 127.0.0.1 on port 50293 id=#49468584 {f63a2ab3}
+[04/21/23 17:20:50]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {d54b8ff9}
+[04/21/23 17:20:50]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {e5fce4c4}
+[04/21/23 17:20:50]: <0x5402> TestSuccionar Aplicación arrancada {e9e4d285}
+[04/21/23 17:20:50]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50293 id=#49468584 {36a3075a}
+[04/21/23 17:20:53]: <0x2401> Saving controller context... {49c370fb}
+[04/21/23 17:20:56]: <0x5A01> Deadman enabled. {266270f7}
+[04/21/23 17:21:06]: <0x2401> Saving controller context... {9e438cbc}
+[04/21/23 17:21:12]: <0x5403> TestSuccionar Aplicación parada {25025c49}
+[04/21/23 17:21:14]: <0x2401> Saving controller context... {fc04e0d1}
+[04/21/23 17:21:21]: <0x1604> Desactivación de la potencia del brazo... {af56c1f5}
+[04/21/23 17:21:22]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {b5a88bd8}
+[04/21/23 17:21:24]: <0x2401> Saving controller context... {b4c2ca35}
+[04/21/23 17:23:22]: <0x5A02> Deadman disabled. {3fa4f17d}
+[04/21/23 17:23:22]: <0x5A03> Deadman validated {233672cc}
+[04/21/23 17:23:22]: <0x1603> Habilitando la potencia del brazo... {9c7fe497}
+[04/21/23 17:23:22]: <0x1601> Potencia del brazo habilitada. {d5b5ab52}
+[04/21/23 17:23:27]: <0x2401> Saving controller context... {503c35c1}
+[04/21/23 17:23:30]: <0x2402> COM-PC: create session 127.0.0.1 on port 50364 id=#49467336 {49441f84}
+[04/21/23 17:23:30]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {2edb5b9e}
+[04/21/23 17:23:30]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {e0a44876}
+[04/21/23 17:23:30]: <0x5402> TestSuccionar Aplicación arrancada {c945d858}
+[04/21/23 17:23:30]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50364 id=#49467336 {3ec8b6c1}
+[04/21/23 17:23:35]: <0x2401> Saving controller context... {ca2464a2}
+[04/21/23 17:23:48]: <0x2401> Saving controller context... (2) {9becfef2}
+[04/21/23 17:23:51]: <0x5403> TestSuccionar Aplicación parada {146b5e47}
+[04/21/23 17:23:56]: <0x2401> Saving controller context... {15203613}
+[04/21/23 17:24:12]: <0x2401> Saving controller context... (2) {98649317}
+[04/21/23 17:24:18]: <0x5A01> Deadman enabled. {b33ec699}
+[04/21/23 17:24:19]: <0x2401> Saving controller context... {6662dd5e}
+[04/21/23 17:24:33]: <0x2401> Saving controller context... (2) {f4a5504d}
+[04/21/23 17:24:36]: <0x2402> COM-PC: create session 127.0.0.1 on port 50364 id=#49467336 {4ab25d34}
+[04/21/23 17:24:36]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {c2da0944}
+[04/21/23 17:24:36]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c52c6fc1}
+[04/21/23 17:24:37]: <0x5402> TestSuccionar Aplicación arrancada {eabc0bc3}
+[04/21/23 17:24:37]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50364 id=#49467336 {ae4c3e5c}
+[04/21/23 17:24:44]: <0x2401> Saving controller context... {fa164da0}
+[04/21/23 17:25:05]: <0x2401> Saving controller context... (2) {b61774b3}
+[04/21/23 17:25:13]: <0x5403> TestSuccionar Aplicación parada {0f85f488}
+[04/21/23 17:25:20]: <0x2401> Saving controller context... {c1cb030b}
+[04/21/23 17:26:11]: <0x2401> Saving controller context... (7) {abbfa8e6}
+[04/21/23 17:26:14]: <0x5A02> Deadman disabled. {78cd17b0}
+[04/21/23 17:26:14]: <0x5A03> Deadman validated {a9cb2918}
+[04/21/23 17:26:19]: <0x5A02> Deadman disabled. {17cab82a}
+[04/21/23 17:26:20]: <0x5A03> Deadman validated {489e79c4}
+[04/21/23 17:26:20]: <0x1604> Desactivación de la potencia del brazo... {d116ecb9}
+[04/21/23 17:26:21]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {f9d8d8ff}
+[04/21/23 17:26:24]: <0x2401> Saving controller context... {67921b1a}
+[04/21/23 17:26:25]: <0x5A02> Deadman disabled. {be48f362}
+[04/21/23 17:26:25]: <0x5A03> Deadman validated {c53f553b}
+[04/21/23 17:26:25]: <0x1603> Habilitando la potencia del brazo... {e0c4caa5}
+[04/21/23 17:26:26]: <0x1601> Potencia del brazo habilitada. {b2c88dc2}
+[04/21/23 17:26:37]: <0x2401> Saving controller context... {7cfee232}
+[04/21/23 17:27:18]: <0x2401> Saving controller context... (6) {558e95c9}
+[04/21/23 17:27:21]: <0x5A01> Deadman enabled. {63dc230d}
+[04/21/23 17:27:26]: <0x2401> Saving controller context... {76f69df6}
+[04/21/23 17:31:27]: <0x2401> Saving controller context... (33) {0e8cfe99}
+[04/21/23 17:31:32]: <0x2402> COM-PC: create session 127.0.0.1 on port 50427 id=#49468064 {435681f6}
+[04/21/23 17:31:32]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {94b476bf}
+[04/21/23 17:31:32]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {34737c78}
+[04/21/23 17:31:32]: <0x5402> TestSuccionar Aplicación arrancada {c0ff90e7}
+[04/21/23 17:31:32]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50427 id=#49468064 {d668e4ef}
+[04/21/23 17:31:33]: <0x2401> Saving controller context... {75df7283}
+[04/21/23 17:31:48]: <0x5403> TestSuccionar Aplicación parada {11fd6eb2}
+[04/21/23 17:31:48]: <0x2401> Saving controller context... {272ae0bd}
+[04/21/23 17:31:55]: <0x2402> COM-PC: create session 127.0.0.1 on port 50522 id=#49467336 {a0e5bd6e}
+[04/21/23 17:31:55]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {2afb586d}
+[04/21/23 17:31:55]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {6a30f7fc}
+[04/21/23 17:31:56]: <0x5402> TestSuccionar Aplicación arrancada {b7a1f516}
+[04/21/23 17:31:56]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50522 id=#49467336 {349498bf}
+[04/21/23 17:31:56]: <0x2401> Saving controller context... {03ece7dd}
+[04/21/23 17:46:33]: <0x2401> Saving controller context... (116) {7ad6df9d}
+[04/21/23 17:46:38]: <0x5A02> Deadman disabled. {9d90f077}
+[04/21/23 17:46:38]: <0x5A03> Deadman validated {56758137}
+[04/21/23 17:46:54]: <0x5A01> Deadman enabled. {57cc5213}
+[04/21/23 17:57:42]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49467024 {3cc5b2ce}
+[04/21/23 17:57:42]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {56858598}
+[04/21/23 17:57:42]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {4a23ff5d}
+[04/21/23 17:57:42]: <0x5403> TestSuccionar Aplicación parada {5f729f2e}
+[04/21/23 17:57:42]: <0x5402> TestSuccionar Aplicación arrancada {619ee1d6}
+[04/21/23 17:57:42]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49467024 {ce5480e6}
+[04/21/23 17:58:09]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49467024 {cdf56b93}
+[04/21/23 17:58:09]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {7014c409}
+[04/21/23 17:58:09]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {db2e9396}
+[04/21/23 17:58:09]: <0x5403> TestSuccionar Aplicación parada {2934d868}
+[04/21/23 17:58:09]: <0x5402> TestSuccionar Aplicación arrancada {21d9496f}
+[04/21/23 17:58:09]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49467024 {8ae49132}
+[04/21/23 17:58:15]: <0x2401> Saving controller context... {636b6e12}
+[04/21/23 17:59:48]: <0x2401> Saving controller context... (12) {95b6392d}
+[04/21/23 17:59:53]: <0x5403> TestSuccionar Aplicación parada {3d71845a}
+[04/21/23 17:59:56]: <0x2401> Saving controller context... {6808799f}
+[04/21/23 18:00:00]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49467336 {2fb5db54}
+[04/21/23 18:00:00]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {79ea7e77}
+[04/21/23 18:00:00]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {4c2215c9}
+[04/21/23 18:00:00]: <0x5402> TestSuccionar Aplicación arrancada {f8d2355a}
+[04/21/23 18:00:00]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49467336 {cf500e89}
+[04/21/23 18:00:04]: <0x2401> Saving controller context... {9e144e23}
+[04/21/23 18:01:05]: <0x2401> Saving controller context... (9) {3fcdfe40}
+[04/21/23 18:01:09]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49468064 {37663b1c}
+[04/21/23 18:01:09]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {e4ea9bbc}
+[04/21/23 18:01:09]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c21ff0f4}
+[04/21/23 18:01:09]: <0x5403> TestSuccionar Aplicación parada {12b3992a}
+[04/21/23 18:01:10]: <0x5402> TestSuccionar Aplicación arrancada {964e3f0d}
+[04/21/23 18:01:10]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49468064 {9fbf580c}
+[04/21/23 18:01:13]: <0x2401> Saving controller context... {5b556bde}
+[04/21/23 18:01:29]: <0x2401> Saving controller context... (2) {1188fb9e}
+[04/21/23 18:01:31]: <0x5403> TestSuccionar Aplicación parada {bb5177c7}
+[04/21/23 18:01:34]: <0x2401> Saving controller context... {09033388}
+[04/21/23 18:08:05]: <0x2401> Saving controller context... (55) {d88c4208}
+[04/21/23 18:08:11]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49469208 {46c252e2}
+[04/21/23 18:08:11]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {e9a7a0d0}
+[04/21/23 18:08:11]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {e5623db4}
+[04/21/23 18:08:11]: <0x5402> TestSuccionar Aplicación arrancada {f0e9681b}
+[04/21/23 18:08:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49469208 {0618a3f3}
+[04/21/23 18:08:13]: <0x2401> Saving controller context... {440ade2c}
+[04/21/23 18:08:57]: <0x2401> Saving controller context... (6) {5af8bda5}
+[04/21/23 18:08:59]: <0x5403> TestSuccionar Aplicación parada {302c4a4c}
+[04/21/23 18:09:02]: <0x2401> Saving controller context... {ae2c1c77}
+[04/21/23 18:09:31]: <0x2401> Saving controller context... (4) {c8a65b7e}
+[04/21/23 18:09:31]: <0x5A02> Deadman disabled. {6f67fc58}
+[04/21/23 18:09:31]: <0x5A03> Deadman validated {cd9a755a}
+[04/21/23 18:09:32]: <0x1604> Desactivación de la potencia del brazo... {0d1a5927}
+[04/21/23 18:09:33]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {99a3961a}
+[04/21/23 18:09:36]: <0x2401> Saving controller context... {c59f334a}
+[04/21/23 18:09:48]: <0x5A01> Deadman enabled. {4c9eda5f}
+[04/21/23 18:10:29]: <0x5A02> Deadman disabled. {3fbb7616}
+[04/21/23 18:10:29]: <0x5A03> Deadman validated {1ac2fc4e}
+[04/21/23 18:10:30]: <0x1603> Habilitando la potencia del brazo... {c6dddf19}
+[04/21/23 18:10:30]: <0x1601> Potencia del brazo habilitada. {4b876ff5}
+[04/21/23 18:10:36]: <0x2401> Saving controller context... {7f183f70}
+[04/21/23 18:11:24]: <0x2401> Saving controller context... (7) {07b81b8c}
+[04/21/23 18:11:25]: <0x5A01> Deadman enabled. {0f0990bd}
+[04/21/23 18:11:32]: <0x2401> Saving controller context... {7ad0958f}
+[04/21/23 18:26:11]: <0x2401> Saving controller context... (124) {90c869fc}
+[04/21/23 18:26:14]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49467024 {b0f1948b}
+[04/21/23 18:26:14]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {5ae86cf9}
+[04/21/23 18:26:15]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {1bce9d05}
+[04/21/23 18:26:15]: <0x5402> TestSuccionar Aplicación arrancada {895cbb78}
+[04/21/23 18:26:15]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49467024 {99d65e65}
+[04/21/23 18:26:16]: <0x2401> Saving controller context... {ce06b2ea}
+[04/21/23 18:26:39]: <0x2401> Saving controller context... (3) {a838acbc}
+[04/21/23 18:26:44]: <0x5403> TestSuccionar Aplicación parada {65efff98}
+[04/21/23 18:26:44]: <0x2401> Saving controller context... {a1cd138d}
+[04/21/23 18:26:52]: <0x2401> Saving controller context... (1) {1f946e3a}
+[04/21/23 18:26:52]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49467336 {043e8769}
+[04/21/23 18:26:52]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {c791583c}
+[04/21/23 18:26:52]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {351ad049}
+[04/21/23 18:26:53]: <0x5402> TestSuccionar Aplicación arrancada {4df03992}
+[04/21/23 18:26:53]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49467336 {639b8f68}
+[04/21/23 18:27:00]: <0x2401> Saving controller context... {e1a80f6d}
+[04/21/23 18:27:08]: <0x2401> Saving controller context... (1) {562d3a4b}
+[04/21/23 18:27:13]: <0x5A02> Deadman disabled. {138aa462}
+[04/21/23 18:27:13]: <0x5A03> Deadman validated {90f266b2}
+[04/21/23 18:27:14]: <0x1604> Desactivación de la potencia del brazo... {cd115ec7}
+[04/21/23 18:27:15]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {e6e56590}
+[04/21/23 18:27:15]: <0x2401> Saving controller context... {fb867edb}
+[04/21/23 18:27:30]: <0x5A01> Deadman enabled. {9fd7b281}
+[04/21/23 18:27:49]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49469624 {d935bd7a}
+[04/21/23 18:27:49]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {5ddbd7d1}
+[04/21/23 18:27:49]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {3c6a5c38}
+[04/21/23 18:27:49]: <0x5403> TestSuccionar Aplicación parada {9a47cd34}
+[04/21/23 18:27:49]: <0x5402> TestSuccionar Aplicación arrancada {1e62a570}
+[04/21/23 18:27:49]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49469624 {a9d26329}
+[04/21/23 18:27:53]: <0x5A02> Deadman disabled. {5292c3ed}
+[04/21/23 18:27:53]: <0x5A03> Deadman validated {2dd1b3a4}
+[04/21/23 18:27:54]: <0x1603> Habilitando la potencia del brazo... {99070458}
+[04/21/23 18:27:54]: <0x1601> Potencia del brazo habilitada. {af43e688}
+[04/21/23 18:27:59]: <0x5403> TestSuccionar Aplicación parada {a224ce88}
+[04/21/23 18:28:09]: <0x5A02> Deadman disabled. {579aa871}
+[04/21/23 18:28:09]: <0x5A03> Deadman validated {c32c9777}
+[04/21/23 18:28:12]: <0x5A02> Deadman disabled. {90a1ad54}
+[04/21/23 18:28:12]: <0x5A03> Deadman validated {adf20c4e}
+[04/21/23 18:28:12]: <0x1604> Desactivación de la potencia del brazo... {5360b208}
+[04/21/23 18:28:13]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {dccb9c8e}
+[04/21/23 18:28:15]: <0x2401> Saving controller context... {bd2d7fd6}
+[04/21/23 18:28:26]: <0x1603> Habilitando la potencia del brazo... {79cb46ab}
+[04/21/23 18:28:26]: <0x1601> Potencia del brazo habilitada. {9a756371}
+[04/21/23 18:28:30]: <0x5A01> Deadman enabled. {2fcf6e39}
+[04/21/23 18:28:32]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49468584 {b17e9dd2}
+[04/21/23 18:28:32]: <0x2401> Saving controller context... {8eb2dae1}
+[04/21/23 18:28:33]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {b0210e7d}
+[04/21/23 18:28:33]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {4bca0168}
+[04/21/23 18:28:33]: <0x5402> TestSuccionar Aplicación arrancada {49e5eda1}
+[04/21/23 18:28:33]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49468584 {27fd6181}
+[04/21/23 18:28:38]: <0x2401> Saving controller context... {2d9bba50}
+[04/21/23 18:29:01]: <0x2401> Saving controller context... (3) {6088d2f6}
+[04/21/23 18:29:03]: <0x5403> TestSuccionar Aplicación parada {8309c5e2}
+[04/21/23 18:29:06]: <0x2401> Saving controller context... {aefd58ef}
+[04/21/23 18:29:21]: <0x2401> Saving controller context... (2) {ae9595be}
+[04/21/23 18:29:24]: <0x5A02> Deadman disabled. {0d300ae9}
+[04/21/23 18:29:24]: <0x5A03> Deadman validated {e82ceeb0}
+[04/21/23 18:29:24]: <0x1604> Desactivación de la potencia del brazo... {591f58f8}
+[04/21/23 18:29:25]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {8c87c8b1}
+[04/21/23 18:29:27]: <0x2401> Saving controller context... {106ff3c0}
+[04/21/23 18:29:40]: <0x5A01> Deadman enabled. {5a4dd579}
+[04/21/23 18:29:51]: <0x5A02> Deadman disabled. {ff3d5796}
+[04/21/23 18:29:51]: <0x5A03> Deadman validated {23e5613a}
+[04/21/23 18:29:51]: <0x1603> Habilitando la potencia del brazo... {640f2233}
+[04/21/23 18:29:52]: <0x1601> Potencia del brazo habilitada. {34f95f9f}
+[04/21/23 18:29:56]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49469312 {72f3287a}
+[04/21/23 18:29:56]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {d812a1ea}
+[04/21/23 18:29:56]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {deeab1d9}
+[04/21/23 18:29:57]: <0x5402> TestSuccionar Aplicación arrancada {3f7653ae}
+[04/21/23 18:29:57]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49469312 {af5e1adf}
+[04/21/23 18:30:00]: <0x2401> Saving controller context... {ed723400}
+[04/21/23 18:30:41]: <0x2401> Saving controller context... (6) {0d820540}
+[04/21/23 18:30:47]: <0x5A01> Deadman enabled. {00bedc8c}
+[04/21/23 18:30:49]: <0x2401> Saving controller context... {12f624b9}
+[04/21/23 18:30:56]: <0x2401> Saving controller context... (1) {fb36c17c}
+[04/21/23 18:30:58]: <0x1604> Desactivación de la potencia del brazo... {cdea5401}
+[04/21/23 18:30:59]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {0db5e8f6}
+[04/21/23 18:31:02]: <0x2401> Saving controller context... {3ce786ef}
+[04/21/23 18:31:13]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49469520 {39568775}
+[04/21/23 18:31:13]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {65a42fb7}
+[04/21/23 18:31:13]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {6ded0e6e}
+[04/21/23 18:31:13]: <0x5403> TestSuccionar Aplicación parada {f234b313}
+[04/21/23 18:31:14]: <0x5402> TestSuccionar Aplicación arrancada {e70be7df}
+[04/21/23 18:31:14]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49469520 {b788e725}
+[04/21/23 18:31:21]: <0x5A02> Deadman disabled. {239a4001}
+[04/21/23 18:31:21]: <0x5A03> Deadman validated {4b7861a8}
+[04/21/23 18:31:21]: <0x1603> Habilitando la potencia del brazo... {a7af217a}
+[04/21/23 18:31:21]: <0x1601> Potencia del brazo habilitada. {83308fbf}
+[04/21/23 18:31:37]: <0x5A01> Deadman enabled. {24442ec4}
+[04/21/23 18:31:55]: <0x2401> Saving controller context... {f920f7e0}
+[04/21/23 18:46:30]: <0x2401> Saving controller context... (125) {5a4e52bb}
+[04/21/23 18:46:35]: <0x5A02> Deadman disabled. {bbef6d77}
+[04/21/23 18:46:35]: <0x5A03> Deadman validated {e9fcb180}
+[04/21/23 18:46:36]: <0x1604> Desactivación de la potencia del brazo... {4faf80d1}
+[04/21/23 18:46:37]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {c6ba4dec}
+[04/21/23 18:46:40]: <0x2401> Saving controller context... {482aad20}
+[04/21/23 18:46:52]: <0x5A01> Deadman enabled. {65e91be3}
+[04/21/23 18:51:20]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49467024 {ef426c7c}
+[04/21/23 18:51:20]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {1a9b698f}
+[04/21/23 18:51:20]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {b8947a29}
+[04/21/23 18:51:20]: <0x5403> TestSuccionar Aplicación parada {88450552}
+[04/21/23 18:51:21]: <0x5402> TestSuccionar Aplicación arrancada {ee20fe2a}
+[04/21/23 18:51:21]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49467024 {d784b1dd}
+[04/21/23 18:51:26]: <0x1603> Habilitando la potencia del brazo... {9fc3f79f}
+[04/21/23 18:51:26]: <0x1601> Potencia del brazo habilitada. {8b9fee28}
+[04/21/23 18:51:53]: <0x5403> TestSuccionar Aplicación parada {8db1ec3a}
+[04/21/23 18:52:00]: <0x2401> Saving controller context... {1aefc12c}
+[04/21/23 18:52:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49467024 {6c19570f}
+[04/21/23 18:52:04]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {bdc413c8}
+[04/21/23 18:52:04]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {9f433e1a}
+[04/21/23 18:52:04]: <0x5402> TestSuccionar Aplicación arrancada {b74a316f}
+[04/21/23 18:52:05]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49467024 {ce34bd88}
+[04/21/23 18:52:08]: <0x2401> Saving controller context... {ac288a7b}
+[04/21/23 18:53:12]: <0x2401> Saving controller context... (7) {03f6b97f}
+[04/21/23 18:53:20]: <0x5403> TestSuccionar Aplicación parada {510475cf}
+[04/21/23 18:53:32]: <0x2401> Saving controller context... {4eda7776}
+[04/21/23 18:54:08]: <0x2401> Saving controller context... (5) {f01a7de5}
+[04/21/23 18:54:11]: <0x2402> COM-PC: create session 127.0.0.1 on port 51035 id=#49468584 {c2abdc3a}
+[04/21/23 18:54:11]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {f164a01c}
+[04/21/23 18:54:11]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {3ef21e7a}
+[04/21/23 18:54:12]: <0x5402> TestSuccionar Aplicación arrancada {cc223972}
+[04/21/23 18:54:12]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51035 id=#49468584 {6c44effc}
+[04/21/23 18:54:13]: <0x2401> Saving controller context... {108f0c4d}
+[04/21/23 18:54:34]: <0x2401> Saving controller context... (1) {a3edcd56}
+[04/21/23 18:54:34]: <0x5A02> Deadman disabled. {45475431}
+[04/21/23 18:54:34]: <0x5A03> Deadman validated {6ade8e38}
+[04/21/23 18:54:35]: <0x1604> Desactivación de la potencia del brazo... {c3f27aa8}
+[04/21/23 18:54:36]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {931942be}
+[04/21/23 18:54:39]: <0x2401> Saving controller context... {71a89ddd}
+[04/21/23 18:54:50]: <0x5A01> Deadman enabled. {56b4acf5}
+[04/21/23 18:56:27]: <0x5A02> Deadman disabled. {54c904fc}
+[04/21/23 18:56:27]: <0x5A03> Deadman validated {e0c2f694}
+[04/21/23 18:56:27]: <0x1603> Habilitando la potencia del brazo... {e6c99764}
+[04/21/23 18:56:27]: <0x1601> Potencia del brazo habilitada. {dff4b1f6}
+[04/21/23 18:56:28]: <0x3F1B> Modo de movimiento manual: Connect {b026b00e}
+[04/21/23 18:56:36]: <0x2401> Saving controller context... {b343ba3e}
+[04/21/23 18:56:42]: <0x2401> Saving controller context... (1) {8a21b6e6}
+[04/21/23 18:56:42]: <0x2402> COM-PC: create session 127.0.0.1 on port 52193 id=#49467648 {f515ac03}
+[04/21/23 18:56:43]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {c88469c3}
+[04/21/23 18:56:43]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {64d10237}
+[04/21/23 18:56:43]: <0x3F1B> Modo de movimiento manual: Disabled {61cf3f94}
+[04/21/23 18:56:43]: <0x5403> TestSuccionar Aplicación parada {752124e0}
+[04/21/23 18:56:43]: <0x3F10> Fin del movimiento de conexión. {a8d7e5b5}
+[04/21/23 18:56:43]: <0x5402> TestSuccionar Aplicación arrancada {6c8f7d5f}
+[04/21/23 18:56:43]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 52193 id=#49467648 {0da296a4}
+[04/21/23 18:57:05]: <0x2401> Saving controller context... {338aae1e}
+[04/21/23 18:57:21]: <0x2401> Saving controller context... (2) {69c0d5d7}
+[04/21/23 18:57:23]: <0x5A01> Deadman enabled. {8eace103}
+[04/21/23 18:57:26]: <0x2401> Saving controller context... {7525101a}
+[04/21/23 18:57:42]: <0x2401> Saving controller context... (2) {96744fc6}
+[04/21/23 18:57:50]: <0x5A02> Deadman disabled. {29f0877b}
+[04/21/23 18:57:50]: <0x5A03> Deadman validated {64b78eac}
+[04/21/23 18:57:50]: <0x2401> Saving controller context... {65a04172}
+[04/21/23 18:58:06]: <0x5A01> Deadman enabled. {311ee314}
+[04/21/23 18:58:48]: <0x5403> TestSuccionar Aplicación parada {1bc06795}
+[04/21/23 18:58:56]: <0x2401> Saving controller context... {4cde96ea}
+[04/21/23 18:59:00]: <0x2402> COM-PC: create session 127.0.0.1 on port 52224 id=#49467336 {dcbf35f5}
+[04/21/23 18:59:00]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {02f112ae}
+[04/21/23 18:59:00]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {dfb4f604}
+[04/21/23 18:59:00]: <0x5402> TestSuccionar Aplicación arrancada {823adf4c}
+[04/21/23 18:59:00]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 52224 id=#49467336 {ab2ad10a}
+[04/21/23 18:59:04]: <0x2401> Saving controller context... {f47a84ae}
+[04/21/23 18:59:26]: <0x2401> Saving controller context... (2) {fb3eb279}
+[04/21/23 18:59:37]: <0x5403> TestSuccionar Aplicación parada {35acf7b6}
+[04/21/23 18:59:37]: <0x2401> Saving controller context... {d4a08241}
+[04/21/23 19:14:34]: <0x2401> Saving controller context... (125) {e42d09b8}
+[04/21/23 19:14:36]: <0x1604> Desactivación de la potencia del brazo... {bef27e7f}
+[04/21/23 19:14:37]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {4215c650}
+[04/21/23 19:14:40]: <0x2401> Saving controller context... {aa195fd5}
+[04/21/23 20:25:41]: <0x2402> MCP communication disconnected {0a118200}
+[04/21/23 20:25:43]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50117 id=#49467232 {aff24bb9}
+[04/21/23 20:25:43]: <0x2402> COM-PC: create session 127.0.0.1 on port 52506 id=#49467440 {bf097a0b}
