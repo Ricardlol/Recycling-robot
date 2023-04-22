@@ -4756,3 +4756,42 @@ Mcp = connected
 [04/21/23 20:25:41]: <0x2402> MCP communication disconnected {0a118200}
 [04/21/23 20:25:43]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50117 id=#49467232 {aff24bb9}
 [04/21/23 20:25:43]: <0x2402> COM-PC: create session 127.0.0.1 on port 52506 id=#49467440 {bf097a0b}
+[04/22/23 12:07:26]: ----------------------------------------------- {1cd2c02f}
+[04/22/23 12:07:26]: Registro iniciado (1048576) {58d87346}
+[04/22/23 12:07:31]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {ddcfb8ca}
+[04/22/23 12:07:31]: <0x0003> Cycle time set to 0.004s {a163f39b}
+[04/22/23 12:07:31]: <0x0003> Simulation cycle time set to 0.1s {abc6624d}
+[04/22/23 12:07:31]: <0x0002> Controller IP address could not be updated {3674a9df}
+[04/22/23 12:07:31]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {fb85a3a5}
+[04/22/23 12:07:31]: <0x0001> Error while trying to build User serial 2 {58cf8e6b}
+[04/22/23 12:07:31]: <0x0002> Default user payload used. {7dcba579}
+[04/22/23 12:07:31]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {f23edbd5}
+[04/22/23 12:07:31]: <0x2401> Horas con potencia =15:51:11 {edee0a7b}
+[04/22/23 12:07:31]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {f3ae6965}
+[04/22/23 12:07:32]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {873c1169}
+[04/22/23 12:07:34]: <0x0003> COM-PC: server created on all interfaces [851] {12d8e190}
+[04/22/23 12:07:35]: <0x2402> History handler has been connected to IHM {e5b133d2}
+[04/22/23 12:07:35]: <0x2401> System: s7.11.2 Feb 24 2020 {bbb35406}
+[04/22/23 12:07:35]: <0x2401> Kernel: Unknown  {4c8e85ff}
+[04/22/23 12:07:35]: <0x2401> Configuration Version: c1.046  {05ea4710}
+[04/22/23 12:07:35]: <0x2401> CPU: TEKNOR  {8c69cf7a}
+[04/22/23 12:07:35]: <0x2401> Option testMode: enabled  {d93c707b}
+[04/22/23 12:07:35]: <0x2401> Option VAL 3: enabled  {5e865b2a}
+[04/22/23 12:07:35]: <0x2401> N/S del controlador: : ?  {84fd0452}
+[04/22/23 12:07:35]: <0x2401> Brazo: tx60-S1-R4 suelo {c0a26d0c}
+[04/22/23 12:07:35]: <0x2401> N/S del brazo:: ?  {e41abebc}
+[04/22/23 12:07:35]: <0x2401> Tipo de aceite:   {9ffb7745}
+[04/22/23 12:07:35]: <0x2401> Nombre del robot:   {bb5846f2}
+[04/22/23 12:07:35]: <0x2401> EP: s7.11.2 Feb 24 2020 {94955a2f}
+[04/22/23 12:07:35]: <0x2401> EP10: s7.11.2 Feb 24 2020 {593b3870}
+[04/22/23 12:07:35]: <0x2401> SCA: s7.11.2 Feb 24 2020 {4e944b03}
+[04/22/23 12:07:35]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {bfe657dd}
+[04/22/23 12:07:35]: <0x2201> Nuevo perfil : default {dc60f804}
+[04/22/23 12:07:35]: <0x2401> End of controller initialization 0 {c2b506ac}
+[04/22/23 12:07:40]: <0x2402> Mcp = TSimulated {8493f900}
+[04/22/23 12:07:40]: <0x340A> Mcp communication established {94babf06}
+[04/22/23 12:07:41]: <0x1801> Modo de trabajo:automático. {8f073b9c}
+[04/22/23 18:59:15]: <0x2402> COM-PC: create session 127.0.0.1 on port 50979 id=#42195648 {790d346d}
+[04/22/23 19:29:45]: <0x2402> MCP communication disconnected {09a39a50}
+[04/22/23 19:29:51]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50979 id=#42195648 {d0a70dd4}
+[04/22/23 19:29:51]: <0x2402> COM-PC: create session 127.0.0.1 on port 51392 id=#42194920 {c015a276}
