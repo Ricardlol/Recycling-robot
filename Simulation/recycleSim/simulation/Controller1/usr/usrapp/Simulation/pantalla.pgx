@@ -32,7 +32,7 @@
     
     gotoxy(sMonitor, 0,6)
     put(sMonitor, nkey)
-  until bStop == false
+  until bStop == true
 end]]></Code>
   </Program>
 </Programs>

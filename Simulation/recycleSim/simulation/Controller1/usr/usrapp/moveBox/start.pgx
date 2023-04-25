@@ -2,8 +2,7 @@
 <Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
   <Program name="start">
     <Code><![CDATA[begin
-  taskCreate "screen", 1, pantalla()
-  call moveRobot()
+  
 end]]></Code>
   </Program>
 </Programs>

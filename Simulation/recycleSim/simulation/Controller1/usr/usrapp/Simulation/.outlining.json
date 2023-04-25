@@ -2,11 +2,16 @@
   "programs": [
     {
       "mode": 3,
+      "name": "start",
+      "nodes": []
+    },
+    {
+      "mode": 3,
       "name": "pantalla",
       "nodes": [
         {
           "start": 135,
-          "end": 687,
+          "end": 686,
           "isCollapsed": false
         },
         {
@@ -38,54 +43,49 @@
     },
     {
       "mode": 3,
-      "name": "MoveRobot",
+      "name": "moveRobot",
       "nodes": [
         {
-          "start": 126,
-          "end": 1046,
+          "start": 182,
+          "end": 1262,
           "isCollapsed": false
         },
         {
-          "start": 398,
-          "end": 1026,
+          "start": 619,
+          "end": 1239,
           "isCollapsed": false
         },
         {
-          "start": 424,
-          "end": 963,
+          "start": 645,
+          "end": 1184,
           "isCollapsed": false
         },
         {
-          "start": 449,
-          "end": 547,
+          "start": 670,
+          "end": 768,
           "isCollapsed": false
         },
         {
-          "start": 556,
-          "end": 652,
+          "start": 777,
+          "end": 873,
           "isCollapsed": false
         },
         {
-          "start": 661,
-          "end": 758,
+          "start": 882,
+          "end": 979,
           "isCollapsed": false
         },
         {
-          "start": 767,
-          "end": 864,
+          "start": 988,
+          "end": 1085,
           "isCollapsed": false
         },
         {
-          "start": 873,
-          "end": 947,
+          "start": 1094,
+          "end": 1168,
           "isCollapsed": false
         }
       ]
-    },
-    {
-      "mode": 3,
-      "name": "start",
-      "nodes": []
     }
   ]
 }

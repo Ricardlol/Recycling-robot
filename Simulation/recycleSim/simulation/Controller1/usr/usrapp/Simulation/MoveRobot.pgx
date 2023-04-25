@@ -1,22 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
-  <Program name="MoveRobot">
+  <Program name="moveRobot">
     <Code><![CDATA[begin
   movej(JHome,tToolSuccion, mNomSpeed)
   waitEndMove()
   movej(JApproach1,tToolSuccion, mNomSpeed)
   waitEndMove()
+  movel(pTable,tToolSuccion, mNomSpeed)
+  waitEndMove()
   
   do
-    open(tToolSuccion)
+    movej(jAproachCinta, tToolSuccion, mNomSpeed)
+    waitEndMove()
+    movej(jGetCinta, tToolSuccion, mNomSpeed)
+    waitEndMove()
+    close(tToolSuccion)
     waitEndMove()
     movej(jGetCinta, tToolSuccion, mNomSpeed)
     waitEndMove()
     movel(pApprBins, tToolSuccion, mNomSpeed)
     waitEndMove()
-    clearBuffer(sSioOrdenador)
-    nConnection = sioGet(SocketComputer, nRecvData)
+    clearBuffer(SocketComputer)
     delay(5)
+    sioSet(SocketComputer, 82)
+    nConnection = sioGet(SocketComputer, nRecvData)
     if nConnection == 1
       switch nRecvData
         case 48
@@ -39,11 +46,10 @@
           putln(sMonitor, "Bin selected no correct")
         break
       endSwitch
-      close(tToolSuccion)
-      
+      open(tToolSuccion)
       waitEndMove()
     endIf
-  until nkey == 278
+  until bStop == false
 end]]></Code>
   </Program>
 </Programs>

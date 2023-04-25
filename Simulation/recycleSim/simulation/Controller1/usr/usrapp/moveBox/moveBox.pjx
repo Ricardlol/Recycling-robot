@@ -6,7 +6,7 @@
     <Program file="stop.pgx" />
   </Programs>
   <Database>
-    <Data file="Tester.dtx" />
+    <Data file="moveBox.dtx" />
   </Database>
   <Libraries />
 </Project>

@@ -6,12 +6,12 @@
 			</ToolWindowContainer>
 		</AutoHideTabStrip>
 	</AutoHideHost>
-	<Content xsi:type="SplitContainer" Orientation="Vertical" DockedSize="1560.04,660">
+	<Content xsi:type="SplitContainer" Orientation="Vertical" DockedSize="1562.04,662">
 		<UIElement xsi:type="SplitContainer" Orientation="Horizontal" DockedSize="1565,876">
 			<UIElement xsi:type="SplitContainer" Orientation="Vertical" DockedSize="1169,876">
 				<UIElement xsi:type="Workspace">
 					<Content xsi:type="TabbedMdiHost">
-						<Content xsi:type="TabbedMdiContainer" DockedSize="1586,660" SelectedWindowUniqueId="d68fd6c3-faa2-4733-ab59-b7207d99febe" />
+						<Content xsi:type="TabbedMdiContainer" DockedSize="1562.04,662" SelectedWindowUniqueId="b50ed8e7-73f7-4c32-bda5-e5ef99d47a9b" />
 					</Content>
 				</UIElement>
 				<UIElement xsi:type="SplitContainer" Orientation="Horizontal" DockedSize="200,285">
