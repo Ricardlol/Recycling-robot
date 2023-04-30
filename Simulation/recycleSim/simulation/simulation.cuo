@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CellUserOptions>
+  <Controller Name="Controller1">
+    <Application>Disk://TestSuccionar/TestSuccionar.pjx</Application>
+    <Application>Disk://test/test.pjx</Application>
+    <Application>Disk://moveBox/moveBox.pjx</Application>
+    <Application>Disk://Simulation/Simulation.pjx</Application>
+  </Controller>
+  <Option Name="DataTreeView">
+    <Nodes>
+      <Node Path="simulation" IsExpanded="true" />
+      <Node Path="simulation\Controller1" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx\num" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##TestSuccionar#TestSuccionar.pjx\jointRx" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="CellExplorer">
+    <Nodes>
+      <Node Path="simulation" IsExpanded="true" />
+      <Node Path="simulation\Controller1" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="GeometryView">
+    <Nodes>
+      <Node Path="simulation" IsExpanded="true" />
+      <Node Path="simulation\Controller1" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="Breakpoints">
+    <Breakpoints />
+  </Option>
+  <Option Name="IOsControlPanel">
+    <Ios />
+  </Option>
+  <Option Name="Watches">
+    <Watches>
+      <ExpressionWatch>nkey</ExpressionWatch>
+      <ExpressionWatch>bStop</ExpressionWatch>
+    </Watches>
+  </Option>
+  <Option Name="CatalogLayout">
+    <Layout>PFh0cmFTZXJpYWxpemVyIHZlcnNpb249IjEuMCIgYXBwbGljYXRpb249IkdyaWRDb250cm9sIj4NCiAgPHByb3BlcnR5IG5hbWU9IiNMYXlvdXRWZXJzaW9uIiBpc251bGw9InRydWUiIC8+DQogIDxwcm9wZXJ0eSBuYW1lPSIkR3JpZENvbnRyb2wiIGlza2V5PSJ0cnVlIiB2YWx1ZT0iR3JpZENvbnRyb2wiPg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJVc2VGaWVsZE5hbWVGb3JTZXJpYWxpemF0aW9uIj50cnVlPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iR3JvdXBDb3VudCI+MTwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9Ikdyb3VwU3VtbWFyeSIgaXNrZXk9InRydWUiIHZhbHVlPSIwIiAvPg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJTb3J0SW5mbyIgaXNrZXk9InRydWUiIHZhbHVlPSIxIj4NCiAgICAgIDxwcm9wZXJ0eSBuYW1lPSJJdGVtMSIgaXNudWxsPSJ0cnVlIiBpc2tleT0idHJ1ZSI+DQogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJGaWVsZE5hbWUiPlR5cGU8L3Byb3BlcnR5Pg0KICAgICAgICA8cHJvcGVydHkgbmFtZT0iU29ydE9yZGVyIj5Bc2NlbmRpbmc8L3Byb3BlcnR5Pg0KICAgICAgICA8cHJvcGVydHkgbmFtZT0iTWVyZ2VXaXRoUHJldmlvdXNHcm91cCI+ZmFsc2U8L3Byb3BlcnR5Pg0KICAgICAgPC9wcm9wZXJ0eT4NCiAgICA8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJDb2x1bW5zIiBpc2tleT0idHJ1ZSIgdmFsdWU9IjQiPg0KICAgICAgPHByb3BlcnR5IG5hbWU9Ikl0ZW0xIiBpc251bGw9InRydWUiIGlza2V5PSJ0cnVlIj4NCiAgICAgICAgPHByb3BlcnR5IG5hbWU9IkdyaWRSb3ciPjA8L3Byb3BlcnR5Pg0KICAgICAgICA8cHJvcGVydHkgbmFtZT0iRmllbGROYW1lIj5UeXBlPC9wcm9wZXJ0eT4NCiAgICAgICAgPHByb3BlcnR5IG5hbWU9Ik5hbWUiPlR5cGVDb2x1bW48L3Byb3BlcnR5Pg0KICAgICAgICA8cHJvcGVydHkgbmFtZT0iVmlzaWJsZUluZGV4Ij4wPC9wcm9wZXJ0eT4NCiAgICAgICAgPHByb3BlcnR5IG5hbWU9IkFjdHVhbFdpZHRoIj5OYU48L3Byb3BlcnR5Pg0KICAgICAgPC9wcm9wZXJ0eT4NCiAgICAgIDxwcm9wZXJ0eSBuYW1lPSJJdGVtMiIgaXNudWxsPSJ0cnVlIiBpc2tleT0idHJ1ZSI+DQogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJHcmlkUm93Ij4wPC9wcm9wZXJ0eT4NCiAgICAgICAgPHByb3BlcnR5IG5hbWU9IkZpZWxkTmFtZSI+U291cmNlTmFtZTwvcHJvcGVydHk+DQogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJOYW1lIj5Tb3VyY2VDb2x1bW48L3Byb3BlcnR5Pg0KICAgICAgICA8cHJvcGVydHkgbmFtZT0iVmlzaWJsZUluZGV4Ij4xPC9wcm9wZXJ0eT4NCiAgICAgICAgPHByb3BlcnR5IG5hbWU9IkFjdHVhbFdpZHRoIj5OYU48L3Byb3BlcnR5Pg0KICAgICAgPC9wcm9wZXJ0eT4NCiAgICAgIDxwcm9wZXJ0eSBuYW1lPSJJdGVtMyIgaXNudWxsPSJ0cnVlIiBpc2tleT0idHJ1ZSI+DQogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJHcmlkUm93Ij4wPC9wcm9wZXJ0eT4NCiAgICAgICAgPHByb3BlcnR5IG5hbWU9IkZpZWxkTmFtZSI+T3JpZ2luPC9wcm9wZXJ0eT4NCiAgICAgICAgPHByb3BlcnR5IG5hbWU9Ik5hbWUiPk9yaWdpbkNvbHVtbjwvcHJvcGVydHk+DQogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJWaXNpYmxlSW5kZXgiPjI8L3Byb3BlcnR5Pg0KICAgICAgICA8cHJvcGVydHkgbmFtZT0iQWN0dWFsV2lkdGgiPk5hTjwvcHJvcGVydHk+DQogICAgICA8L3Byb3BlcnR5Pg0KICAgICAgPHByb3BlcnR5IG5hbWU9Ikl0ZW00IiBpc251bGw9InRydWUiIGlza2V5PSJ0cnVlIj4NCiAgICAgICAgPHByb3BlcnR5IG5hbWU9IkdyaWRSb3ciPjA8L3Byb3BlcnR5Pg0KICAgICAgICA8cHJvcGVydHkgbmFtZT0iRmllbGROYW1lIj5OYW1lPC9wcm9wZXJ0eT4NCiAgICAgICAgPHByb3BlcnR5IG5hbWU9Ik5hbWUiPk5hbWVDb2x1bW48L3Byb3BlcnR5Pg0KICAgICAgICA8cHJvcGVydHkgbmFtZT0iVmlzaWJsZUluZGV4Ij4zPC9wcm9wZXJ0eT4NCiAgICAgICAgPHByb3BlcnR5IG5hbWU9IkFjdHVhbFdpZHRoIj5OYU48L3Byb3BlcnR5Pg0KICAgICAgPC9wcm9wZXJ0eT4NCiAgICA8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJWaWV3IiBpc251bGw9InRydWUiIGlza2V5PSJ0cnVlIj4NCiAgICAgIDxwcm9wZXJ0eSBuYW1lPSJGaXhlZFNpemUiPjE0MDwvcHJvcGVydHk+DQogICAgICA8cHJvcGVydHkgbmFtZT0iU2hvd0dyb3VwUGFuZWwiPmZhbHNlPC9wcm9wZXJ0eT4NCiAgICAgIDxwcm9wZXJ0eSBuYW1lPSJDb2x1bW5DaG9vc2VyU3RhdGUiIGlzbnVsbD0idHJ1ZSIgaXNrZXk9InRydWUiIC8+DQogICAgPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iVG90YWxTdW1tYXJ5IiBpc2tleT0idHJ1ZSIgdmFsdWU9IjAiIC8+DQogICAgPHByb3BlcnR5IG5hbWU9Ik1SVUZpbHRlcnMiIGlza2V5PSJ0cnVlIiB2YWx1ZT0iMCIgLz4NCiAgICA8cHJvcGVydHkgbmFtZT0iTVJVRmlsdGVyTGlzdCIgaXNrZXk9InRydWUiIHZhbHVlPSIwIiAvPg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJHcm91cFN1bW1hcnlTb3J0SW5mbyIgaXNrZXk9InRydWUiIHZhbHVlPSIwIiAvPg0KICA8L3Byb3BlcnR5Pg0KPC9YdHJhU2VyaWFsaXplcj4=</Layout>
+  </Option>
+  <Option Name="ControlPad">
+    <Configurations ActiveConfiguration="configuration1">
+      <Configuration Name="configuration1">
+        <ControllerConfigurations>
+          <ControllerConfiguration Name="Controller1" TracesColor="#FF1E90FF" />
+        </ControllerConfigurations>
+      </Configuration>
+    </Configurations>
+  </Option>
+  <Option Name="IO States" />
+  <Option Name="Safety">
+    <Safeties />
+  </Option>
+</CellUserOptions>

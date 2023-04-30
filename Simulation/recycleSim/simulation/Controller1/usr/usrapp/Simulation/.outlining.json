@@ -1,0 +1,102 @@
+﻿{
+  "programs": [
+    {
+      "mode": 3,
+      "name": "start",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "pantalla",
+      "nodes": [
+        {
+          "start": 135,
+          "end": 548,
+          "isCollapsed": false
+        },
+        {
+          "start": 227,
+          "end": 535,
+          "isCollapsed": false
+        },
+        {
+          "start": 252,
+          "end": 315,
+          "isCollapsed": false
+        },
+        {
+          "start": 322,
+          "end": 454,
+          "isCollapsed": false
+        },
+        {
+          "start": 461,
+          "end": 521,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "statesRobot",
+      "nodes": [
+        {
+          "start": 8,
+          "end": 164,
+          "isCollapsed": false
+        },
+        {
+          "start": 43,
+          "end": 142,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "moveRobot",
+      "nodes": [
+        {
+          "start": 182,
+          "end": 1253,
+          "isCollapsed": false
+        },
+        {
+          "start": 620,
+          "end": 1240,
+          "isCollapsed": false
+        },
+        {
+          "start": 646,
+          "end": 1185,
+          "isCollapsed": false
+        },
+        {
+          "start": 671,
+          "end": 769,
+          "isCollapsed": false
+        },
+        {
+          "start": 778,
+          "end": 874,
+          "isCollapsed": false
+        },
+        {
+          "start": 883,
+          "end": 980,
+          "isCollapsed": false
+        },
+        {
+          "start": 989,
+          "end": 1086,
+          "isCollapsed": false
+        },
+        {
+          "start": 1095,
+          "end": 1169,
+          "isCollapsed": false
+        }
+      ]
+    }
+  ]
+}

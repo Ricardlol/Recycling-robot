@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Data/2">
+  <Datas>
+    <Data name="mNomSpeed" access="private" xsi:type="array" type="mdesc" size="1" />
+    <Data name="SocketComputer" access="private" xsi:type="array" type="sio" size="1">
+      <Value key="0" link="Socket\Feedback" />
+    </Data>
+    <Data name="tToolSuccion" access="private" xsi:type="array" type="tool" size="1">
+      <Value key="0" z="110" fatherId="flange[0]" ioLink="valve2" />
+    </Data>
+    <Data name="nConnection" access="private" xsi:type="array" type="num" size="1" />
+    <Data name="nRecvData" access="private" xsi:type="array" type="num" size="1" />
+    <Data name="JApproach1" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j2="9" j3="75" j5="93" />
+    </Data>
+    <Data name="JHome" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j3="0.6" />
+    </Data>
+    <Data name="sMonitor" access="private" xsi:type="array" type="screen" size="1" />
+    <Data name="l_nRetVal" access="private" xsi:type="array" type="num" size="1" />
+    <Data name="pApprBins" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="488.533117374584" y="-4.31537939334066" z="79.7509349968276" rx="-179.999994995315" ry="-0.671274884561614" rz="0.0461961759228383" fatherId="world[0]" />
+    </Data>
+    <Data name="pBinYellow" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="537" y="-223" z="-169" ry="-180" rz="78" fatherId="world[0]" />
+    </Data>
+    <Data name="pBinBlue" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="537" y="-65" z="-169" ry="-180" rz="78" fatherId="world[0]" />
+    </Data>
+    <Data name="pBinGreen" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="537" y="80" z="-169" ry="-180" rz="78" fatherId="world[0]" />
+    </Data>
+    <Data name="pBinBrown" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="537" y="240" z="-169" ry="-180" rz="78" fatherId="world[0]" />
+    </Data>
+    <Data name="jGetCinta" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j1="-85" j2="70" j3="55" j5="56" />
+    </Data>
+    <Data name="bStop" access="private" xsi:type="array" type="bool" size="1" />
+    <Data name="nkey" access="private" xsi:type="array" type="num" size="1" />
+    <Data name="jAproachCinta" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j1="-82" j2="60" j3="56.5" j5="65" />
+    </Data>
+    <Data name="pTable" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="256.13" y="-12.37" z="-7.47" ry="-180" rz="0.046191606806918" fatherId="world[0]" />
+    </Data>
+    <Data name="tToolGripper" access="private" xsi:type="array" type="tool" size="1">
+      <Value key="0" z="115" fatherId="flange[0]" ioLink="valve1" />
+    </Data>
+    <Data name="sSocketPLC" access="private" xsi:type="array" type="sio" size="1">
+      <Value key="0" link="Socket\PLClient" />
+    </Data>
+    <Data name="nRecvPLC" access="private" xsi:type="array" type="num" size="1" />
+  </Datas>
+</Database>
