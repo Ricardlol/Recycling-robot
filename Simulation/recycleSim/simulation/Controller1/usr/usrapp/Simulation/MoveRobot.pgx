@@ -2,54 +2,56 @@
 <Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
   <Program name="moveRobot">
     <Code><![CDATA[begin
-  movej(JHome,tToolSuccion, mNomSpeed)
+  movej(JHome,tToolGripper, mNomSpeed)
   waitEndMove()
-  movej(JApproach1,tToolSuccion, mNomSpeed)
+  movej(JApproach1,tToolGripper, mNomSpeed)
   waitEndMove()
-  movel(pTable,tToolSuccion, mNomSpeed)
+  movel(pTable,tToolGripper, mNomSpeed)
   waitEndMove()
   
   do
-    movej(jAproachCinta, tToolSuccion, mNomSpeed)
+    wait(sioGet(sSocketPLC, nRecvPLC)==1)
+    sioSet(SocketComputer, 82)
+    movej(jAproachCinta, tToolGripper, mNomSpeed)
     waitEndMove()
-    movej(jGetCinta, tToolSuccion, mNomSpeed)
+    movej(jGetCinta, tToolGripper, mNomSpeed)
     waitEndMove()
-    close(tToolSuccion)
+    delay(5)
+    close(tToolGripper)
     waitEndMove()
-    movej(jGetCinta, tToolSuccion, mNomSpeed)
-    waitEndMove()
-    movel(pApprBins, tToolSuccion, mNomSpeed)
+    movel(pApprBins, tToolGripper, mNomSpeed)
     waitEndMove()
     clearBuffer(SocketComputer)
     delay(5)
-    sioSet(SocketComputer, 82)
+    
+    
     nConnection = sioGet(SocketComputer, nRecvData)
     if nConnection == 1
       switch nRecvData
         case 48
-          movel(pBinYellow, tToolSuccion, mNomSpeed)
+          movel(pBinYellow, tToolGripper, mNomSpeed)
           waitEndMove()
         break
         case 49
-          movel(pBinBlue, tToolSuccion, mNomSpeed)
+          movel(pBinBlue, tToolGripper, mNomSpeed)
           waitEndMove()
         break
         case 50
-          movel(pBinGreen, tToolSuccion, mNomSpeed)
+          movel(pBinGreen, tToolGripper, mNomSpeed)
           waitEndMove()
         break
         case 51
-          movel(pBinBrown, tToolSuccion, mNomSpeed)
+          movel(pBinBrown, tToolGripper, mNomSpeed)
           waitEndMove()
         break
         default
           putln(sMonitor, "Bin selected no correct")
         break
       endSwitch
-      open(tToolSuccion)
+      open(tToolGripper)
       waitEndMove()
     endIf
-  until bStop == false
+  until 1==1
 end]]></Code>
   </Program>
 </Programs>

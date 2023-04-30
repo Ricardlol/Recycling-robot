@@ -24,15 +24,7 @@
         put(sMonitor, "Connection lose")
       break
     endSwitch
-    nkey = getKey()
-    
-    if(nkey == 278)
-      bStop = true
-    endIf
-    
-    gotoxy(sMonitor, 0,6)
-    put(sMonitor, nkey)
-  until bStop == true
+  until 1==1
 end]]></Code>
   </Program>
 </Programs>

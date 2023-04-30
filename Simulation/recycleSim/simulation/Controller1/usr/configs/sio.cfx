@@ -12,10 +12,27 @@
     <String name="comMode" value="RS232" />
     <String name="flowControl" value="none" />
   </serialPort>
+  <socketClt>
+    <String name="name" value="PLClient" />
+    <String name="desc" value="" />
+    <Inet name="serverIp" value="127.0.0.1" />
+    <Uint name="portNumber" value="1000" />
+    <Int name="endOfString" value="13" />
+    <Float name="timeOut" value="5" />
+    <Bool name="nagle" value="false" />
+  </socketClt>
   <socketSrv>
     <String name="name" value="Feedback" />
     <String name="desc" value="" />
     <Uint name="portNumber" value="11002" />
+    <Int name="endOfString" value="13" />
+    <Float name="timeOut" value="-1" />
+    <Bool name="nagle" value="false" />
+  </socketSrv>
+  <socketSrv>
+    <String name="name" value="PLC" />
+    <String name="desc" value="" />
+    <Uint name="portNumber" value="11005" />
     <Int name="endOfString" value="13" />
     <Float name="timeOut" value="-1" />
     <Bool name="nagle" value="false" />
