@@ -18,24 +18,28 @@ takeFoto = False
 stopProgram = False
 
 while not(stopProgram):
+    while not(takeFoto):
+        data = sock.recv(16)
+        if data == "R":
+            takeFoto = True
+    leido, frame = cap.read()
 
-    if takeFoto:
-        leido, frame = cap.read()
+    if leido:
+        nameFoto = "../img/"+str(uuid.uuid4()) + ".png" # uuid4 regresa un objeto, no una cadena. Por eso lo convertimos
+        cv2.imwrite(nameFoto, frame)
+        resultClass = model.classifyImage(names_class, nameFoto)
 
-        if leido:
-            nameFoto = "../img/"+str(uuid.uuid4()) + ".png" # uuid4 regresa un objeto, no una cadena. Por eso lo convertimos
-            cv2.imwrite(nameFoto, frame)
-            resultClass = model.classifyImage(names_class, nameFoto)
+        print("Foto tomada correctamente con el nombre {}".format(nameFoto))
 
-            print("Foto tomada correctamente con el nombre {}".format(nameFoto))
+        message = bytes(resultClass)
+        print('sending {!r}'.format(message))
+        sock.sendall(message)
 
-            message = bytes(resultClass)
-            print('sending {!r}'.format(message))
-            sock.sendall(message)
+    else:
+        print("Error al acceder a la cámara")
+        stopProgram = True
+    takeFoto = False
 
-        else:
-            print("Error al acceder a la cámara")
-            stopProgram = True
 cap.release()
 sock.close()
 
