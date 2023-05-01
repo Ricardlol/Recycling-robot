@@ -17,8 +17,24 @@
       break
       case 1
         put(sMonitor, "Connected succesful")
-        putln(sMonitor,"Go to bin")
-        put(sMonitor, nRecvData)
+        putln(sMonitor,"Go to bin: ")
+        switch nRecvData
+          case 48
+            put(sMonitor, "Yellow")
+          break
+          case 49
+           put(sMonitor, "Blue")
+          break
+        case 50
+          put(sMonitor, "Green")
+        break
+        case 51
+          put(sMonitor, "Brown")
+        break
+        default
+          putln(sMonitor, "Bin selected no correct")
+        break
+      endSwitch
       break
       default
         put(sMonitor, "Connection lose")

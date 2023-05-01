@@ -10,6 +10,7 @@
   waitEndMove()
   
   do
+    clearBuffer(sSocketPLC)
     wait(sioGet(sSocketPLC, nRecvPLC)==1)
     sioSet(SocketComputer, 82)
     movej(jAproachCinta, tToolGripper, mNomSpeed)
@@ -23,8 +24,6 @@
     waitEndMove()
     clearBuffer(SocketComputer)
     delay(5)
-    
-    
     nConnection = sioGet(SocketComputer, nRecvData)
     if nConnection == 1
       switch nRecvData
