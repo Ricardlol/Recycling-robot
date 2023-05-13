@@ -2,16 +2,12 @@
 <CellUserOptions>
   <Controller Name="Controller1">
     <Application>Disk://TestSuccionar/TestSuccionar.pjx</Application>
-    <Application>Disk://test/test.pjx</Application>
-    <Application>Disk://moveBox/moveBox.pjx</Application>
     <Application>Disk://Simulation/Simulation.pjx</Application>
   </Controller>
   <Option Name="DataTreeView">
     <Nodes>
       <Node Path="simulation" IsExpanded="true" />
       <Node Path="simulation\Controller1" IsExpanded="true" />
-      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx" IsExpanded="true" />
-      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx\num" IsExpanded="true" />
       <Node Path="simulation\Controller1\Disk:##TestSuccionar#TestSuccionar.pjx\jointRx" IsExpanded="true" />
     </Nodes>
   </Option>

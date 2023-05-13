@@ -5,6 +5,7 @@
     <Program file="moveRobot.pgx" />
     <Program file="pantalla.pgx" />
     <Program file="start.pgx" />
+    <Program file="startingSockets.pgx" />
     <Program file="statesRobot.pgx" />
     <Program file="stop.pgx" />
   </Programs>

@@ -29,12 +29,4 @@
     <Float name="timeOut" value="-1" />
     <Bool name="nagle" value="false" />
   </socketSrv>
-  <socketSrv>
-    <String name="name" value="PLC" />
-    <String name="desc" value="" />
-    <Uint name="portNumber" value="11005" />
-    <Int name="endOfString" value="13" />
-    <Float name="timeOut" value="-1" />
-    <Bool name="nagle" value="false" />
-  </socketSrv>
 </sio>

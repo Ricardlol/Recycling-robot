@@ -2,55 +2,50 @@
 <Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
   <Program name="moveRobot">
     <Code><![CDATA[begin
-  movej(JHome,tToolGripper, mNomSpeed)
+  movej(JHome,tToolSuccion, mNomSpeed)
   waitEndMove()
-  movej(JApproach1,tToolGripper, mNomSpeed)
+  movej(JApproach1,tToolSuccion, mNomSpeed)
   waitEndMove()
-  movel(pTable,tToolGripper, mNomSpeed)
-  waitEndMove()
-  
   do
-    clearBuffer(sSocketPLC)
-    wait(sioGet(sSocketPLC, nRecvPLC)==1)
-    sioSet(SocketComputer, 82)
-    movej(jAproachCinta, tToolGripper, mNomSpeed)
+    movel(pTable,tToolSuccion, mNomSpeed)
     waitEndMove()
-    movej(jGetCinta, tToolGripper, mNomSpeed)
-    waitEndMove()
-    delay(5)
-    close(tToolGripper)
-    waitEndMove()
-    movel(pApprBins, tToolGripper, mNomSpeed)
-    waitEndMove()
-    clearBuffer(SocketComputer)
-    delay(5)
-    nConnection = sioGet(SocketComputer, nRecvData)
-    if nConnection == 1
-      switch nRecvData
-        case 48
-          movel(pBinYellow, tToolGripper, mNomSpeed)
-          waitEndMove()
-        break
-        case 49
-          movel(pBinBlue, tToolGripper, mNomSpeed)
-          waitEndMove()
-        break
-        case 50
-          movel(pBinGreen, tToolGripper, mNomSpeed)
-          waitEndMove()
-        break
-        case 51
-          movel(pBinBrown, tToolGripper, mNomSpeed)
-          waitEndMove()
-        break
-        default
-          putln(sMonitor, "Bin selected no correct")
-        break
-      endSwitch
-      open(tToolGripper)
+    sioGet(sPlc, nRecvPLC)
+    if nRecvPLC == 100
+      sioSet(sSocket, 82)
+      movej(jAproachCinta, tToolSuccion, mNomSpeed)
+      waitEndMove()
+      movej(jGetCinta, tToolSuccion, mNomSpeed)
+      waitEndMove()
+      close(tToolSuccion)
+      waitEndMove()
+      movel(pApprBins, tToolSuccion, mNomSpeed)
+      waitEndMove()
+      nConnection = sioGet(sSocket, nRecvData)
+    switch nRecvData
+      case 48
+        movel(pBinYellow, tToolSuccion, mNomSpeed)
+        waitEndMove()
+      break
+      case 49
+        movel(pBinBlue, tToolSuccion, mNomSpeed)
+        waitEndMove()
+      break
+      case 50
+        movel(pBinGreen, tToolSuccion, mNomSpeed)
+        waitEndMove()
+      break
+      case 51
+        movel(pBinBrown, tToolSuccion, mNomSpeed)
+        waitEndMove()
+      break
+      default
+        putln("Bin selected no correct")
+      break
+    endSwitch
+      open(tToolSuccion)
       waitEndMove()
     endIf
-  until 1==1
+  until 1==2
 end]]></Code>
   </Program>
 </Programs>

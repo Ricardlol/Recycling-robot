@@ -2,20 +2,25 @@
 <Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
   <Program name="statesRobot">
     <Code><![CDATA[begin
+  bStop = false
   do
-    nkey = getKey(sMonitor)
+    nkey = getKey()
     if(nkey == 278)
       bStop = true
+      userPage()
+      cls()
+      gotoxy(14,6)
+      put("FINAL PROGRAM")
       taskKill("moveRobot")
-      taskKill("pantalla")
+      taskKill("screen")
+      taskKill("obatinValues")
+      wait(taskStatus("moveRobot") == -1)
+      wait(taskStatus("screen") == -1)
+      wait(taskStatus("obatinValues") == -1)
     endIf
   until bStop == true
   
-  wait(taskStatus("moveRobot") == -1)
-  wait(taskStatus("screen") == -1)
-  cls(sMonitor)
-  gotoxy(sMonitor ,14,6)
-  put(sMonitor,"FINAL PROGRAM")
+  
 end]]></Code>
   </Program>
 </Programs>

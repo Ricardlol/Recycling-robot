@@ -2,7 +2,7 @@
 <Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Data/2">
   <Datas>
     <Data name="mNomSpeed" access="private" xsi:type="array" type="mdesc" size="1" />
-    <Data name="SocketComputer" access="private" xsi:type="array" type="sio" size="1">
+    <Data name="sSocket" access="private" xsi:type="array" type="sio" size="1">
       <Value key="0" link="Socket\Feedback" />
     </Data>
     <Data name="tToolSuccion" access="private" xsi:type="array" type="tool" size="1">
@@ -47,7 +47,7 @@
     <Data name="tToolGripper" access="private" xsi:type="array" type="tool" size="1">
       <Value key="0" z="115" fatherId="flange[0]" ioLink="valve1" />
     </Data>
-    <Data name="sSocketPLC" access="private" xsi:type="array" type="sio" size="1">
+    <Data name="sPlc" access="private" xsi:type="array" type="sio" size="1">
       <Value key="0" link="Socket\PLClient" />
     </Data>
     <Data name="nRecvPLC" access="private" xsi:type="array" type="num" size="1" />

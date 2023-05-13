@@ -167,6 +167,7 @@ class modelsDenseNet121:
         print(self.testData.class_indices)
 
     def testing(self, classes):
+
         img_test = "./dataset/test/organic/organic (31).jpg"
         img = tf.image.decode_jpeg(tf.io.read_file(img_test), channels=3)
         dimension = np.expand_dims(img, axis=0)
@@ -201,6 +202,7 @@ class modelsDenseNet121:
         plt.show()
 
     def classifyImage(self, classes, nameFile):
+
         img = Image.open(nameFile)
 
         imgResize = img.resize((224, 224), Image.BILINEAR)
@@ -209,17 +211,21 @@ class modelsDenseNet121:
         imgDimension = np.expand_dims(dimension, axis=0)
 
         results = self.model_prepro.predict(imgDimension)
-        classResult = 0
+        classResult = b'0'
 
         if classes[np.argmax(results)] == "yellow":
-             classResult = 0
+             classResult = b'0'
         elif classes[np.argmax(results)] == "blue":
-             classResult = 1
+             classResult = b'1'
         elif classes[np.argmax(results)] == "green":
-            classResult = 2
+            classResult = b'2'
         else:
-            classResult = 3
+            classResult = b'3'
 
+        plt.imshow(img)
+        plt.title(
+            "Class: " + classes[np.argmax(results)] + ' ' + str(round(results[0, np.argmax(results)] * 100, 2)) + '%')
+        plt.show()
         return classResult
 
 

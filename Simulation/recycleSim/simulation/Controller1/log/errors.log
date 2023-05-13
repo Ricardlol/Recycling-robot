@@ -6112,3 +6112,1123 @@ Mcp = connected
 [05/01/23 11:18:33]: <0x340A> Mcp communication established {402b0798}
 [05/01/23 11:18:33]: <0x1801> Modo de trabajo:automático. {ce982363}
 [05/01/23 17:31:02]: <0x2402> MCP communication disconnected {e787aa00}
+[05/02/23 12:01:47]: ----------------------------------------------- {f6a214ed}
+[05/02/23 12:01:47]: Registro iniciado (1048576) {7b5c3f0c}
+[05/02/23 12:01:52]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {9b5f9df7}
+[05/02/23 12:01:52]: <0x0003> Cycle time set to 0.004s {969dcecf}
+[05/02/23 12:01:52]: <0x0003> Simulation cycle time set to 0.1s {4ad6803e}
+[05/02/23 12:01:52]: <0x0002> Controller IP address could not be updated {3af3506c}
+[05/02/23 12:01:52]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {eaa10e5e}
+[05/02/23 12:01:52]: <0x0001> Error while trying to build User serial 2 {ba855b3f}
+[05/02/23 12:01:52]: <0x0002> Default user payload used. {4b4f8328}
+[05/02/23 12:01:52]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {85f73d2c}
+[05/02/23 12:01:52]: <0x2401> Horas con potencia =17:24:01 {ef3670d1}
+[05/02/23 12:01:52]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {5dab73fe}
+[05/02/23 12:01:53]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {a69110c8}
+[05/02/23 12:01:54]: <0x0003> COM-PC: server created on all interfaces [851] {93bbc71d}
+[05/02/23 12:01:55]: <0x2402> History handler has been connected to IHM {9b84b375}
+[05/02/23 12:01:55]: <0x2401> System: s7.11.2 Feb 24 2020 {e26146ce}
+[05/02/23 12:01:55]: <0x2401> Kernel: Unknown  {db6dc04a}
+[05/02/23 12:01:55]: <0x2401> Configuration Version: c1.046  {69d9aea1}
+[05/02/23 12:01:55]: <0x2401> CPU: TEKNOR  {c3a65475}
+[05/02/23 12:01:55]: <0x2401> Option testMode: enabled  {4b58801d}
+[05/02/23 12:01:55]: <0x2401> Option VAL 3: enabled  {7b43244f}
+[05/02/23 12:01:55]: <0x2401> N/S del controlador: : ?  {77e3e8dd}
+[05/02/23 12:01:55]: <0x2401> Brazo: tx60-S1-R4 suelo {49c18611}
+[05/02/23 12:01:55]: <0x2401> N/S del brazo:: ?  {97191b89}
+[05/02/23 12:01:55]: <0x2401> Tipo de aceite:   {ffa987ed}
+[05/02/23 12:01:55]: <0x2401> Nombre del robot:   {9576c658}
+[05/02/23 12:01:55]: <0x2401> EP: s7.11.2 Feb 24 2020 {69a8e359}
+[05/02/23 12:01:55]: <0x2401> EP10: s7.11.2 Feb 24 2020 {50e77206}
+[05/02/23 12:01:55]: <0x2401> SCA: s7.11.2 Feb 24 2020 {27b4ed5c}
+[05/02/23 12:01:55]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {66dd0096}
+[05/02/23 12:01:55]: <0x2201> Nuevo perfil : default {f5432620}
+[05/02/23 12:01:55]: <0x2401> End of controller initialization 0 {228e4bd5}
+[05/02/23 12:02:01]: <0x2401> Saving controller context... {f03f44e2}
+[05/02/23 12:02:01]: <0x2402> Temperatura del controlador: 28°C {de5140ce}
+[05/02/23 12:02:01]: <0x2402> Temperatura de la CPU: 28°C {aedb8fcc}
+[05/02/23 12:02:10]: <0x2402> Mcp = TSimulated {78b3f180}
+[05/02/23 12:02:10]: <0x340A> Mcp communication established {c5bc3cc1}
+[05/02/23 12:02:11]: <0x1801> Modo de trabajo:automático. {f1923ede}
+[05/02/23 12:02:20]: <0x2402> MCP communication disconnected {cf247826}
+[05/02/23 12:02:22]: ----------------------------------------------- {8e4eae7e}
+[05/02/23 12:02:22]: Registro iniciado (1048576) {2bc68441}
+[05/02/23 12:02:26]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {bbf27e25}
+[05/02/23 12:02:26]: <0x0003> Cycle time set to 0.004s {bd41f677}
+[05/02/23 12:02:26]: <0x0003> Simulation cycle time set to 0.1s {ec92424d}
+[05/02/23 12:02:26]: <0x0002> Controller IP address could not be updated {4e936793}
+[05/02/23 12:02:26]: <0x0003> Mcp = TSimulated {eb3776c7}
+[05/02/23 12:02:26]: <0x340A> Mcp communication established {47e375e8}
+[05/02/23 12:02:26]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {4f0ef2f0}
+[05/02/23 12:02:26]: <0x0001> Error while trying to build User serial 2 {fbe38018}
+[05/02/23 12:02:26]: <0x0002> Default user payload used. {3f98eebd}
+[05/02/23 12:02:26]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {f91b24b6}
+[05/02/23 12:02:26]: <0x2401> Horas con potencia =17:24:01 {cd919fc7}
+[05/02/23 12:02:26]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {8791b69e}
+[05/02/23 12:02:26]: <0x0003> COM-PC: server created on all interfaces [851] {ecdf5c13}
+[05/02/23 12:02:26]: <0x2402> History handler has been connected to IHM {eeb06b6c}
+[05/02/23 12:02:26]: <0x2401> System: s7.11.2 Feb 24 2020 {3b1de45a}
+[05/02/23 12:02:26]: <0x2401> Kernel: Unknown  {b5be7392}
+[05/02/23 12:02:26]: <0x2401> Configuration Version: c1.046  {d5d71992}
+[05/02/23 12:02:26]: <0x2401> CPU: TEKNOR  {f486a124}
+[05/02/23 12:02:26]: <0x2401> Option testMode: enabled  {e647417a}
+[05/02/23 12:02:26]: <0x2401> Option VAL 3: enabled  {f64580c5}
+[05/02/23 12:02:26]: <0x2401> N/S del controlador: : ?  {15df4215}
+[05/02/23 12:02:26]: <0x2401> Brazo: tx60-S1-R4 suelo {98563033}
+[05/02/23 12:02:26]: <0x2401> N/S del brazo:: ?  {c3d800bb}
+[05/02/23 12:02:26]: <0x2401> Tipo de aceite:   {85875f95}
+[05/02/23 12:02:26]: <0x2401> Nombre del robot:   {6dccbbce}
+[05/02/23 12:02:26]: <0x2401> EP: s7.11.2 Feb 24 2020 {d32f6908}
+[05/02/23 12:02:26]: <0x2401> EP10: s7.11.2 Feb 24 2020 {f2c7a380}
+[05/02/23 12:02:26]: <0x2401> SCA: s7.11.2 Feb 24 2020 {2633d28e}
+[05/02/23 12:02:26]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {b45a9160}
+[05/02/23 12:02:26]: <0x2201> Nuevo perfil : default {c3e0da70}
+[05/02/23 12:02:27]: <0x2401> End of controller initialization 0 {9b793823}
+[05/02/23 12:02:27]: <0x1801> Modo de trabajo:automático. {3f22bdf6}
+[05/02/23 12:02:27]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {30300065}
+[05/02/23 12:11:19]: <0x2402> COM-PC: create session 127.0.0.1 on port 51581 id=#49915688 {f59be8d9}
+[05/02/23 12:48:05]: <0x2401> Saving controller context... {953e9882}
+[05/02/23 12:48:06]: <0x2402> Temperatura del controlador: 28°C {fa94322f}
+[05/02/23 12:48:06]: <0x2402> Temperatura de la CPU: 28°C {ca58f89b}
+[05/02/23 12:48:11]: <0x2401> Saving controller context... {b9504785}
+[05/02/23 13:32:37]: <0x2401> Saving controller context... (14) {d6444f89}
+[05/02/23 13:33:44]: <0x2402> MCP communication disconnected {0521a7bd}
+[05/02/23 13:33:46]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51581 id=#49915688 {6659f465}
+[05/02/23 13:33:46]: <0x2402> COM-PC: create session 127.0.0.1 on port 51583 id=#49917768 {16ddf071}
+[05/02/23 16:51:02]: ----------------------------------------------- {195651d5}
+[05/02/23 16:51:02]: Registro iniciado (1048576) {0b15d1df}
+[05/02/23 16:51:08]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {7a79ea20}
+[05/02/23 16:51:08]: <0x0003> Cycle time set to 0.004s {7048b3a7}
+[05/02/23 16:51:08]: <0x0003> Simulation cycle time set to 0.1s {879430ce}
+[05/02/23 16:51:08]: <0x0002> Controller IP address could not be updated {9feb53bc}
+[05/02/23 16:51:08]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {b14950ad}
+[05/02/23 16:51:08]: <0x0001> Error while trying to build User serial 2 {8e67188a}
+[05/02/23 16:51:08]: <0x0002> Default user payload used. {d435bafd}
+[05/02/23 16:51:08]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {cd472d8c}
+[05/02/23 16:51:08]: <0x2401> Horas con potencia =17:24:01 {2fe00817}
+[05/02/23 16:51:08]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {4bc5e8f3}
+[05/02/23 16:51:09]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {24b721ec}
+[05/02/23 16:51:11]: <0x0003> COM-PC: server created on all interfaces [851] {30a9a32a}
+[05/02/23 16:51:14]: <0x2402> History handler has been connected to IHM {4f510e43}
+[05/02/23 16:51:14]: <0x2401> System: s7.11.2 Feb 24 2020 {6b390c47}
+[05/02/23 16:51:14]: <0x2401> Kernel: Unknown  {870563aa}
+[05/02/23 16:51:14]: <0x2401> Configuration Version: c1.046  {6a23b89a}
+[05/02/23 16:51:14]: <0x2401> CPU: TEKNOR  {92b6e07a}
+[05/02/23 16:51:14]: <0x2401> Option testMode: enabled  {8e469650}
+[05/02/23 16:51:14]: <0x2401> Option VAL 3: enabled  {9ee89680}
+[05/02/23 16:51:14]: <0x2401> N/S del controlador: : ?  {ff9936cb}
+[05/02/23 16:51:14]: <0x2401> Brazo: tx60-S1-R4 suelo {2f4e9ba8}
+[05/02/23 16:51:14]: <0x2401> N/S del brazo:: ?  {df71d580}
+[05/02/23 16:51:14]: <0x2401> Tipo de aceite:   {c9ceb510}
+[05/02/23 16:51:14]: <0x2401> Nombre del robot:   {ae253ace}
+[05/02/23 16:51:14]: <0x2401> EP: s7.11.2 Feb 24 2020 {cb24a482}
+[05/02/23 16:51:14]: <0x2401> EP10: s7.11.2 Feb 24 2020 {d2177c16}
+[05/02/23 16:51:14]: <0x2401> SCA: s7.11.2 Feb 24 2020 {c902b849}
+[05/02/23 16:51:14]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {835c5aa2}
+[05/02/23 16:51:14]: <0x2201> Nuevo perfil : default {848f6191}
+[05/02/23 16:51:14]: <0x2401> End of controller initialization 0 {e5f3ac7e}
+[05/02/23 16:51:20]: <0x2401> Saving controller context... {af5411bb}
+[05/02/23 16:51:20]: <0x2402> Temperatura del controlador: 28°C {2a28b442}
+[05/02/23 16:51:20]: <0x2402> Temperatura de la CPU: 28°C {3ac31ce5}
+[05/02/23 16:51:44]: <0x2402> Mcp = TSimulated {34667c41}
+[05/02/23 16:51:44]: <0x340A> Mcp communication established {3381484c}
+[05/02/23 16:51:44]: <0x1801> Modo de trabajo:automático. {901a4038}
+[05/02/23 16:54:15]: <0x2402> COM-PC: create session 127.0.0.1 on port 50152 id=#43165584 {f9716628}
+[05/02/23 17:55:17]: <0x5A03> Deadman validated {045f6a95}
+[05/02/23 17:55:17]: <0x1603> Habilitando la potencia del brazo... {727e1693}
+[05/02/23 17:55:17]: <0x1601> Potencia del brazo habilitada. {2675d52b}
+[05/02/23 17:55:26]: <0x2401> Saving controller context... {66af53a7}
+[05/02/23 17:55:34]: <0x2402> MCP communication disconnected {27a2064d}
+[05/02/23 17:55:34]: <0x1627> Desactivación de la potencia del brazo: cambio del modo de trabajo. {f773206f}
+[05/02/23 17:55:34]: <0x1604> Desactivación de la potencia del brazo... {755b815c}
+[05/02/23 17:55:36]: <0x2401> Saving controller context... {75ebbd75}
+[05/02/23 17:55:37]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {891cca7e}
+[05/02/23 17:56:16]: <0x2402> COM-PC: create session 127.0.0.1 on port 51206 id=#43166312 {406cdd68}
+[05/02/23 17:56:18]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {7ffc7ace}
+[05/02/23 17:56:18]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {13faba29}
+[05/02/23 17:56:20]: <0x5402> Simulation Aplicación arrancada {d6031c2b}
+[05/02/23 17:56:20]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51206 id=#43166312 {00fe07f4}
+[05/02/23 17:56:22]: <0x2402> Mcp = TSimulated {54bbc552}
+[05/02/23 17:56:22]: <0x340A> Mcp communication established {b0cff6ae}
+[05/02/23 17:56:22]: <0x5A02> Deadman disabled. {4f714070}
+[05/02/23 17:56:23]: <0x1801> Modo de trabajo:automático. {d34b37d0}
+[05/02/23 18:03:31]: <0x5A03> Deadman validated {64d80e05}
+[05/02/23 18:03:31]: <0x1603> Habilitando la potencia del brazo... {95126b72}
+[05/02/23 18:03:33]: <0x1601> Potencia del brazo habilitada. {02c8a60e}
+[05/02/23 18:03:43]: <0x2401> Saving controller context... {0985885d}
+[05/02/23 18:04:40]: <0x2401> Saving controller context... (6) {d8d6ed34}
+[05/02/23 18:04:40]: <0x5A01> Deadman enabled. {60e299cd}
+[05/02/23 18:04:48]: <0x2401> Saving controller context... {9d614717}
+[05/02/23 18:07:45]: <0x2401> Saving controller context... (22) {6ba69f04}
+[05/02/23 18:07:54]: <0x2402> COM-PC: create session 127.0.0.1 on port 51432 id=#43165168 {6cd4952d}
+[05/02/23 18:07:54]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a7b0d933}
+[05/02/23 18:07:54]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {65665f6f}
+[05/02/23 18:07:55]: <0x5403> Simulation Aplicación parada {467c421f}
+[05/02/23 18:07:55]: <0x5402> Simulation Aplicación arrancada {73f3810b}
+[05/02/23 18:07:56]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51432 id=#43165168 {7810b932}
+[05/02/23 18:07:56]: <0x2401> Saving controller context... {2902ce5f}
+[05/02/23 18:09:43]: <0x2401> Saving controller context... (13) {7ec09a5d}
+[05/02/23 18:09:49]: <0x2402> COM-PC: create session 127.0.0.1 on port 51206 id=#43166312 {e611152e}
+[05/02/23 18:09:49]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {990975fe}
+[05/02/23 18:09:49]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {e463498b}
+[05/02/23 18:09:49]: <0x5403> Simulation Aplicación parada {45f61ae5}
+[05/02/23 18:09:50]: <0x5402> Simulation Aplicación arrancada {d0040ce3}
+[05/02/23 18:09:50]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51206 id=#43166312 {55fe60b1}
+[05/02/23 18:09:55]: <0x2401> Saving controller context... {4859ee77}
+[05/02/23 18:20:24]: <0x2401> Saving controller context... (81) {68000f51}
+[05/02/23 18:20:30]: <0x1A03> Evento de sistema INTERFACE-Stopped  (Panel de control) {44d3c272}
+[05/02/23 18:20:30]: <0x1A04> Evento de sistema INTERFACE-Stopped  (Panel de control). 2 eventos perdidos. {9399fb12}
+[05/02/23 18:20:37]: <0x2401> Saving controller context... {4979c2bc}
+[05/03/23 09:13:48]: ----------------------------------------------- {527f752d}
+[05/03/23 09:13:48]: Registro iniciado (1048576) {e87432bc}
+[05/03/23 09:13:53]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {4a08791a}
+[05/03/23 09:13:53]: <0x0003> Cycle time set to 0.004s {de89ddb4}
+[05/03/23 09:13:53]: <0x0003> Simulation cycle time set to 0.1s {5650bb5a}
+[05/03/23 09:13:53]: <0x0002> Controller IP address could not be updated {c5db51b5}
+[05/03/23 09:13:53]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {dd5945ec}
+[05/03/23 09:13:53]: <0x0001> Error while trying to build User serial 2 {18db1755}
+[05/03/23 09:13:53]: <0x0002> Default user payload used. {18209236}
+[05/03/23 09:13:53]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {2a28f036}
+[05/03/23 09:13:53]: <0x2401> Horas con potencia =17:30:09 {20d5f6dd}
+[05/03/23 09:13:53]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {5e059db1}
+[05/03/23 09:13:54]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {411c246f}
+[05/03/23 09:13:54]: <0x0003> COM-PC: server created on all interfaces [851] {699025ba}
+[05/03/23 09:13:55]: <0x2402> History handler has been connected to IHM {f8927f2a}
+[05/03/23 09:13:55]: <0x2401> System: s7.11.2 Feb 24 2020 {6dda411e}
+[05/03/23 09:13:55]: <0x2401> Kernel: Unknown  {0ce59209}
+[05/03/23 09:13:55]: <0x2401> Configuration Version: c1.046  {aaa6b55b}
+[05/03/23 09:13:55]: <0x2401> CPU: TEKNOR  {25c8d501}
+[05/03/23 09:13:55]: <0x2401> Option testMode: enabled  {31622f42}
+[05/03/23 09:13:55]: <0x2401> Option VAL 3: enabled  {41c4b387}
+[05/03/23 09:13:55]: <0x2401> N/S del controlador: : ?  {ba051819}
+[05/03/23 09:13:55]: <0x2401> Brazo: tx60-S1-R4 suelo {ea8ede41}
+[05/03/23 09:13:55]: <0x2401> N/S del brazo:: ?  {9533d15e}
+[05/03/23 09:13:55]: <0x2401> Tipo de aceite:   {30ebffc0}
+[05/03/23 09:13:55]: <0x2401> Nombre del robot:   {aa5a03dd}
+[05/03/23 09:13:55]: <0x2401> EP: s7.11.2 Feb 24 2020 {91207504}
+[05/03/23 09:13:55]: <0x2401> EP10: s7.11.2 Feb 24 2020 {7e66b062}
+[05/03/23 09:13:55]: <0x2401> SCA: s7.11.2 Feb 24 2020 {c25fba49}
+[05/03/23 09:13:55]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {5edbd962}
+[05/03/23 09:13:55]: <0x2201> Nuevo perfil : default {4ce737a3}
+[05/03/23 09:13:56]: <0x2401> End of controller initialization 0 {b3b71783}
+[05/03/23 09:14:23]: <0x2402> Mcp = TSimulated {b351e777}
+[05/03/23 09:14:23]: <0x340A> Mcp communication established {ffe07bac}
+[05/03/23 09:14:24]: <0x1801> Modo de trabajo:automático. {1d99e026}
+[05/03/23 09:15:24]: <0x2402> MCP communication disconnected {e6c852ba}
+[05/03/23 09:15:25]: ----------------------------------------------- {af1fdffa}
+[05/03/23 09:15:25]: Registro iniciado (1048576) {72cf18c5}
+[05/03/23 09:15:29]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {aa11699b}
+[05/03/23 09:15:29]: <0x0003> Cycle time set to 0.004s {661aa8c4}
+[05/03/23 09:15:29]: <0x0003> Simulation cycle time set to 0.1s {3458e34a}
+[05/03/23 09:15:29]: <0x0002> Controller IP address could not be updated {8efba230}
+[05/03/23 09:15:29]: <0x0003> Mcp = TSimulated {37cd07ba}
+[05/03/23 09:15:29]: <0x340A> Mcp communication established {26d822ec}
+[05/03/23 09:15:29]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {8437ff28}
+[05/03/23 09:15:29]: <0x0001> Error while trying to build User serial 2 {687510d8}
+[05/03/23 09:15:29]: <0x0002> Default user payload used. {a4ddc822}
+[05/03/23 09:15:29]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {855e1355}
+[05/03/23 09:15:29]: <0x2401> Horas con potencia =17:30:09 {40622b04}
+[05/03/23 09:15:29]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {50012600}
+[05/03/23 09:15:29]: <0x0003> COM-PC: server created on all interfaces [851] {c7252e14}
+[05/03/23 09:15:29]: <0x2402> History handler has been connected to IHM {08036933}
+[05/03/23 09:15:29]: <0x2401> System: s7.11.2 Feb 24 2020 {eea1d7ee}
+[05/03/23 09:15:29]: <0x2401> Kernel: Unknown  {ad6c4e49}
+[05/03/23 09:15:29]: <0x2401> Configuration Version: c1.046  {b8cd8ad8}
+[05/03/23 09:15:29]: <0x2401> CPU: TEKNOR  {1b5384d9}
+[05/03/23 09:15:29]: <0x2401> Option testMode: enabled  {facd9349}
+[05/03/23 09:15:29]: <0x2401> Option VAL 3: enabled  {ca779aa4}
+[05/03/23 09:15:29]: <0x2401> N/S del controlador: : ?  {68942430}
+[05/03/23 09:15:29]: <0x2401> Brazo: tx60-S1-R4 suelo {6ece5873}
+[05/03/23 09:15:29]: <0x2401> N/S del brazo:: ?  {0821c9eb}
+[05/03/23 09:15:29]: <0x2401> Tipo de aceite:   {20161915}
+[05/03/23 09:15:29]: <0x2401> Nombre del robot:   {73a2b2bf}
+[05/03/23 09:15:29]: <0x2401> EP: s7.11.2 Feb 24 2020 {141e4fa6}
+[05/03/23 09:15:29]: <0x2401> EP10: s7.11.2 Feb 24 2020 {e8891c4e}
+[05/03/23 09:15:29]: <0x2401> SCA: s7.11.2 Feb 24 2020 {2eb33c24}
+[05/03/23 09:15:29]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {ae15c3c6}
+[05/03/23 09:15:29]: <0x2201> Nuevo perfil : default {ea36db30}
+[05/03/23 09:15:29]: <0x2401> End of controller initialization 0 {01612841}
+[05/03/23 09:15:30]: <0x1801> Modo de trabajo:automático. {1173b652}
+[05/03/23 09:15:30]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {e0a61b60}
+[05/03/23 09:18:03]: <0x2402> COM-PC: create session 127.0.0.1 on port 50380 id=#51882080 {3d18ea56}
+[05/03/23 09:21:13]: <0x2402> MCP communication disconnected {21dce360}
+[05/03/23 09:21:14]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50380 id=#51882080 {3496c0b9}
+[05/03/23 09:21:14]: <0x2402> COM-PC: create session 127.0.0.1 on port 50385 id=#51880936 {2490f658}
+[05/03/23 09:21:37]: ----------------------------------------------- {685e94f7}
+[05/03/23 09:21:37]: Registro iniciado (1048576) {b20090d8}
+[05/03/23 09:21:41]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {87034033}
+[05/03/23 09:21:41]: <0x0003> Cycle time set to 0.004s {1d8ca9f8}
+[05/03/23 09:21:41]: <0x0003> Simulation cycle time set to 0.1s {51913239}
+[05/03/23 09:21:41]: <0x0002> Controller IP address could not be updated {8ef41978}
+[05/03/23 09:21:41]: <0x0003> Mcp = TSimulated {8f71dbaf}
+[05/03/23 09:21:41]: <0x340A> Mcp communication established {542b4649}
+[05/03/23 09:21:41]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {5c80ac4a}
+[05/03/23 09:21:41]: <0x0001> Error while trying to build User serial 2 {b3b5ae7a}
+[05/03/23 09:21:41]: <0x0002> Default user payload used. {140d953c}
+[05/03/23 09:21:41]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {0b499df7}
+[05/03/23 09:21:41]: <0x2401> Horas con potencia =17:30:09 {ed85542d}
+[05/03/23 09:21:41]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {e0f2676a}
+[05/03/23 09:21:42]: <0x0003> COM-PC: server created on all interfaces [851] {189f66a3}
+[05/03/23 09:21:42]: <0x2402> History handler has been connected to IHM {7953cb1a}
+[05/03/23 09:21:42]: <0x2401> System: s7.11.2 Feb 24 2020 {252f4647}
+[05/03/23 09:21:42]: <0x2401> Kernel: Unknown  {54084c76}
+[05/03/23 09:21:42]: <0x2401> Configuration Version: c1.046  {d4c2b764}
+[05/03/23 09:21:42]: <0x2401> CPU: TEKNOR  {d6a15ac7}
+[05/03/23 09:21:42]: <0x2401> Option testMode: enabled  {4ae41ebb}
+[05/03/23 09:21:42]: <0x2401> Option VAL 3: enabled  {5ae43c04}
+[05/03/23 09:21:42]: <0x2401> N/S del controlador: : ?  {de929c86}
+[05/03/23 09:21:42]: <0x2401> Brazo: tx60-S1-R4 suelo {1674283d}
+[05/03/23 09:21:42]: <0x2401> N/S del brazo:: ?  {fe149da1}
+[05/03/23 09:21:42]: <0x2401> Tipo de aceite:   {2894b45b}
+[05/03/23 09:21:42]: <0x2401> Nombre del robot:   {22b6141f}
+[05/03/23 09:21:42]: <0x2401> EP: s7.11.2 Feb 24 2020 {b62f1c71}
+[05/03/23 09:21:42]: <0x2401> EP10: s7.11.2 Feb 24 2020 {f0b15b33}
+[05/03/23 09:21:42]: <0x2401> SCA: s7.11.2 Feb 24 2020 {db005c64}
+[05/03/23 09:21:42]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {86a6de99}
+[05/03/23 09:21:42]: <0x2201> Nuevo perfil : default {4e9c8e0b}
+[05/03/23 09:21:42]: <0x2401> End of controller initialization 0 {0abf1dfe}
+[05/03/23 09:21:42]: <0x1801> Modo de trabajo:automático. {b575f524}
+[05/03/23 09:21:43]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {8d62164f}
+[05/03/23 09:21:51]: <0x2402> COM-PC: create session 127.0.0.1 on port 50484 id=#45590936 {6d20ffb1}
+[05/03/23 11:47:12]: <0x2402> COM-PC: create session 127.0.0.1 on port 50487 id=#45591040 {0cb615a8}
+[05/03/23 11:47:22]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {20227e90}
+[05/03/23 11:47:22]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {114f117d}
+[05/03/23 11:47:25]: <0x5402> Simulation Aplicación arrancada {91d93a4a}
+[05/03/23 11:47:26]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50487 id=#45591040 {6d10f0c4}
+[05/03/23 12:58:46]: <0x2402> MCP communication disconnected {b0001435}
+[05/03/23 12:58:47]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50484 id=#45590936 {22ffac36}
+[05/03/23 12:58:47]: <0x2402> COM-PC: create session 127.0.0.1 on port 54869 id=#45592288 {12ffedf8}
+[05/03/23 15:43:46]: ----------------------------------------------- {7937942f}
+[05/03/23 15:43:46]: Registro iniciado (1048576) {ec66f59a}
+[05/03/23 15:43:50]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {21a5acd7}
+[05/03/23 15:43:50]: <0x0003> Cycle time set to 0.004s {0fb53faa}
+[05/03/23 15:43:50]: <0x0003> Simulation cycle time set to 0.1s {6cd94981}
+[05/03/23 15:43:50]: <0x0002> Controller IP address could not be updated {2b2789ac}
+[05/03/23 15:43:50]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {e99c0b26}
+[05/03/23 15:43:50]: <0x0001> Error while trying to build User serial 2 {5ded31ad}
+[05/03/23 15:43:50]: <0x0002> Default user payload used. {2a92efe0}
+[05/03/23 15:43:50]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {11172e58}
+[05/03/23 15:43:50]: <0x2401> Horas con potencia =17:30:09 {0b501790}
+[05/03/23 15:43:50]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {99fc9f6d}
+[05/03/23 15:43:51]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {1ad5add2}
+[05/03/23 15:43:52]: <0x0003> COM-PC: server created on all interfaces [851] {65081caa}
+[05/03/23 15:43:53]: <0x2402> History handler has been connected to IHM {79ce7ac3}
+[05/03/23 15:43:53]: <0x2401> System: s7.11.2 Feb 24 2020 {bc92e14c}
+[05/03/23 15:43:53]: <0x2401> Kernel: Unknown  {97c41e09}
+[05/03/23 15:43:53]: <0x2401> Configuration Version: c1.046  {efe1e1eb}
+[05/03/23 15:43:53]: <0x2401> CPU: TEKNOR  {abb81a57}
+[05/03/23 15:43:53]: <0x2401> Option testMode: enabled  {0015fb6d}
+[05/03/23 15:43:53]: <0x2401> Option VAL 3: enabled  {709ae9b3}
+[05/03/23 15:43:53]: <0x2401> N/S del controlador: : ?  {dee1ffe1}
+[05/03/23 15:43:53]: <0x2401> Brazo: tx60-S1-R4 suelo {4c9b0c6d}
+[05/03/23 15:43:53]: <0x2401> N/S del brazo:: ?  {fe875d2a}
+[05/03/23 15:43:53]: <0x2401> Tipo de aceite:   {8dbf130e}
+[05/03/23 15:43:53]: <0x2401> Nombre del robot:   {5efa9fe6}
+[05/03/23 15:43:53]: <0x2401> EP: s7.11.2 Feb 24 2020 {28cf8327}
+[05/03/23 15:43:53]: <0x2401> EP10: s7.11.2 Feb 24 2020 {bafb10ac}
+[05/03/23 15:43:53]: <0x2401> SCA: s7.11.2 Feb 24 2020 {07c51a38}
+[05/03/23 15:43:53]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {ea9aac60}
+[05/03/23 15:43:53]: <0x2201> Nuevo perfil : default {a7fec184}
+[05/03/23 15:43:54]: <0x2401> End of controller initialization 0 {80696bf9}
+[05/03/23 15:44:07]: <0x2402> Mcp = TSimulated {0829b6f4}
+[05/03/23 15:44:07]: <0x340A> Mcp communication established {3c0f2d93}
+[05/03/23 15:44:08]: <0x1801> Modo de trabajo:automático. {a7fb0bcb}
+[05/03/23 15:55:37]: <0x2402> COM-PC: create session 127.0.0.1 on port 1105 id=#46584616 {0af425b1}
+[05/03/23 15:57:48]: <0x5A03> Deadman validated {679e6d7c}
+[05/03/23 15:57:48]: <0x1603> Habilitando la potencia del brazo... {46fb435d}
+[05/03/23 15:57:49]: <0x1601> Potencia del brazo habilitada. {7d6e77d6}
+[05/03/23 15:57:54]: <0x2401> Saving controller context... {abd63782}
+[05/03/23 15:57:55]: <0x2402> Temperatura del controlador: 28°C {88316a0d}
+[05/03/23 15:57:55]: <0x2402> Temperatura de la CPU: 28°C {98a5fefb}
+[05/03/23 15:58:03]: <0x2401> Saving controller context... {809c605f}
+[05/03/23 15:58:43]: <0x2401> Saving controller context... (5) {6e50b642}
+[05/03/23 15:58:48]: <0x5A01> Deadman enabled. {2919c5cc}
+[05/03/23 15:58:49]: <0x2401> Saving controller context... {c3dd8103}
+[05/03/23 16:04:09]: <0x2401> Saving controller context... (42) {be637de3}
+[05/03/23 16:04:11]: <0x2402> COM-PC: create session 127.0.0.1 on port 1218 id=#46583472 {3d9993a5}
+[05/03/23 16:04:13]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {06e30e07}
+[05/03/23 16:04:13]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {53401db5}
+[05/03/23 16:04:13]: <0x5402> Simulation Aplicación arrancada {16db6625}
+[05/03/23 16:04:14]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 1218 id=#46583472 {a2f74fe9}
+[05/03/23 16:04:14]: <0x2401> Saving controller context... {cb86dd27}
+[05/03/23 16:04:50]: <0x2401> Saving controller context... (4) {095c8834}
+[05/03/23 16:04:53]: <0x5A02> Deadman disabled. {51e24194}
+[05/03/23 16:04:53]: <0x5A03> Deadman validated {cb6fd3d0}
+[05/03/23 16:04:54]: <0x1604> Desactivación de la potencia del brazo... {eed906d2}
+[05/03/23 16:04:55]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {069cc2b2}
+[05/03/23 16:04:58]: <0x2401> Saving controller context... {d3ef0784}
+[05/03/23 16:05:08]: <0x5A02> Deadman disabled. {8467924f}
+[05/03/23 16:05:08]: <0x5A03> Deadman validated {e890ba6f}
+[05/03/23 16:05:08]: <0x1603> Habilitando la potencia del brazo... {39dcb90a}
+[05/03/23 16:05:09]: <0x1601> Potencia del brazo habilitada. {59d9274e}
+[05/03/23 16:05:09]: <0x3F1B> Modo de movimiento manual: Connect {8fcf69dd}
+[05/03/23 16:05:16]: <0x2401> Saving controller context... {4ceb2e82}
+[05/03/23 16:05:19]: <0x2402> COM-PC: create session 127.0.0.1 on port 1400 id=#46584408 {cf624046}
+[05/03/23 16:05:19]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {541ed78f}
+[05/03/23 16:05:19]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {aa7a137d}
+[05/03/23 16:05:19]: <0x3F1B> Modo de movimiento manual: Disabled {d92d170a}
+[05/03/23 16:05:19]: <0x5403> Simulation Aplicación parada {32b89d9b}
+[05/03/23 16:05:19]: <0x3F10> Fin del movimiento de conexión. {d8629e39}
+[05/03/23 16:05:19]: <0x5402> Simulation Aplicación arrancada {dc337dcb}
+[05/03/23 16:05:19]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 1400 id=#46584408 {5f95cbee}
+[05/03/23 16:05:24]: <0x2401> Saving controller context... {06d45fc9}
+[05/03/23 16:06:00]: <0x2401> Saving controller context... (5) {4a879e07}
+[05/03/23 16:06:04]: <0x5A01> Deadman enabled. {ed3d01f4}
+[05/03/23 16:06:05]: <0x2401> Saving controller context... {73464406}
+[05/03/23 16:52:59]: <0x2401> Saving controller context... (380) {12dd53c8}
+[05/03/23 16:53:05]: <0x5403> Simulation Aplicación parada {288e250d}
+[05/03/23 16:53:07]: <0x2401> Saving controller context... {85e00495}
+[05/03/23 16:53:11]: <0x2402> COM-PC: create session 127.0.0.1 on port 1551 id=#46583784 {d5a119c7}
+[05/03/23 16:53:11]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {2ae74be6}
+[05/03/23 16:53:11]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {b8ee62f4}
+[05/03/23 16:53:12]: <0x5402> Simulation Aplicación arrancada {31765ac9}
+[05/03/23 16:53:12]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 1551 id=#46583784 {a7a4ff91}
+[05/03/23 16:53:16]: <0x2401> Saving controller context... {98f54e5d}
+[05/03/23 16:54:01]: <0x2401> Saving controller context... (5) {7bcda49d}
+[05/03/23 16:54:04]: <0x5403> Simulation Aplicación parada {1e29a9d7}
+[05/03/23 16:54:11]: <0x2401> Saving controller context... {6ce94f55}
+[05/03/23 16:54:13]: <0x2402> COM-PC: create session 127.0.0.1 on port 2241 id=#46585032 {fb372670}
+[05/03/23 16:54:14]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {e942cf93}
+[05/03/23 16:54:14]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {b85f15bb}
+[05/03/23 16:54:14]: <0x5402> Simulation Aplicación arrancada {5050e106}
+[05/03/23 16:54:14]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 2241 id=#46585032 {133c1539}
+[05/03/23 16:54:19]: <0x2401> Saving controller context... {861b42a4}
+[05/03/23 17:29:16]: <0x2401> Saving controller context... (287) {62db5053}
+[05/03/23 17:29:20]: <0x5A02> Deadman disabled. {47f302a0}
+[05/03/23 17:29:20]: <0x5A03> Deadman validated {6c623021}
+[05/03/23 17:29:21]: <0x1604> Desactivación de la potencia del brazo... {63ea5f33}
+[05/03/23 17:29:22]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {f512fbf6}
+[05/03/23 17:29:24]: <0x2401> Saving controller context... {33311d8c}
+[05/03/23 17:29:24]: <0x2402> MCP communication disconnected {dad4a4b7}
+[05/03/23 17:29:25]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 1105 id=#46584616 {c7129da9}
+[05/03/23 17:29:26]: <0x2402> COM-PC: create session 127.0.0.1 on port 2815 id=#46585032 {046bbbea}
+[05/04/23 09:45:52]: ----------------------------------------------- {b24a58d4}
+[05/04/23 09:45:52]: Registro iniciado (1048576) {f4f40cf9}
+[05/04/23 09:45:57]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {4ef94536}
+[05/04/23 09:45:57]: <0x0003> Cycle time set to 0.004s {59568ee9}
+[05/04/23 09:45:57]: <0x0003> Simulation cycle time set to 0.1s {871f8772}
+[05/04/23 09:45:57]: <0x0002> Controller IP address could not be updated {63b624bc}
+[05/04/23 09:45:57]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {248278fe}
+[05/04/23 09:45:57]: <0x0001> Error while trying to build User serial 2 {658eecd9}
+[05/04/23 09:45:57]: <0x0002> Default user payload used. {7bc7632b}
+[05/04/23 09:45:57]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {422887b3}
+[05/04/23 09:45:57]: <0x2401> Horas con potencia =17:52:17 {292210b0}
+[05/04/23 09:45:57]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {a5e5dcab}
+[05/04/23 09:45:57]: <0x160B> Error interno ROBOT-Power-HPE1_DELAYon {198f7803}
+[05/04/23 09:45:57]: <0x160B> Error interno ROBOT-Power-HPE2_DELAYon {0978c936}
+[05/04/23 09:45:57]: <0x1750> Error interno SAFETY-SHORTRoff {f2c77994}
+[05/04/23 09:45:58]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {b8654d75}
+[05/04/23 09:46:01]: <0x0003> COM-PC: server created on all interfaces [851] {1e5c0445}
+[05/04/23 09:46:03]: <0x2402> History handler has been connected to IHM {451439a9}
+[05/04/23 09:46:03]: <0x2401> System: s7.11.2 Feb 24 2020 {6085c144}
+[05/04/23 09:46:03]: <0x2401> Kernel: Unknown  {f5c8f2d2}
+[05/04/23 09:46:03]: <0x2401> Configuration Version: c1.046  {e9151747}
+[05/04/23 09:46:03]: <0x2401> CPU: TEKNOR  {e1e3f80e}
+[05/04/23 09:46:03]: <0x2401> Option testMode: enabled  {d6ee2df3}
+[05/04/23 09:46:03]: <0x2401> Option VAL 3: enabled  {e6c95f3b}
+[05/04/23 09:46:03]: <0x2401> N/S del controlador: : ?  {bde02cb5}
+[05/04/23 09:46:03]: <0x2401> Brazo: tx60-S1-R4 suelo {a6f965ca}
+[05/04/23 09:46:03]: <0x2401> N/S del brazo:: ?  {9d26f2d9}
+[05/04/23 09:46:03]: <0x2401> Tipo de aceite:   {fc894284}
+[05/04/23 09:46:03]: <0x2401> Nombre del robot:   {b562d0ca}
+[05/04/23 09:46:03]: <0x2401> EP: s7.11.2 Feb 24 2020 {abc68d8a}
+[05/04/23 09:46:03]: <0x2401> EP10: s7.11.2 Feb 24 2020 {39825014}
+[05/04/23 09:46:03]: <0x2401> SCA: s7.11.2 Feb 24 2020 {67b0f452}
+[05/04/23 09:46:03]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {9f60b810}
+[05/04/23 09:46:03]: <0x2201> Nuevo perfil : default {f55abe6d}
+[05/04/23 09:46:03]: <0x2401> End of controller initialization 0 {ae02ebad}
+[05/04/23 09:46:18]: <0x2402> Mcp = TSimulated {47285898}
+[05/04/23 09:46:18]: <0x340A> Mcp communication established {d34792b4}
+[05/04/23 09:46:18]: <0x1801> Modo de trabajo:automático. {b388c59e}
+[05/04/23 09:46:18]: <0x1750> Error interno SAFETY-SHORTRoff {a41cfd79}
+[05/04/23 09:53:44]: <0x2402> COM-PC: create session 127.0.0.1 on port 50210 id=#43756032 {2784e024}
+[05/04/23 09:57:02]: <0x2402> COM-PC: create session 127.0.0.1 on port 50212 id=#43755512 {36130570}
+[05/04/23 09:57:03]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {d8b95a0c}
+[05/04/23 09:57:04]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {05a88138}
+[05/04/23 09:57:04]: <0x5402> Simulation Aplicación arrancada {b0e235e3}
+[05/04/23 09:57:05]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50212 id=#43755512 {ab044cf7}
+[05/04/23 09:57:17]: <0x5A03> Deadman validated {6ae71d4e}
+[05/04/23 09:57:18]: <0x1603> Habilitando la potencia del brazo... {41f66f89}
+[05/04/23 09:57:18]: <0x1601> Potencia del brazo habilitada. {9f4f9856}
+[05/04/23 09:57:27]: <0x2401> Saving controller context... {ef12e9c2}
+[05/04/23 09:57:27]: <0x2402> Temperatura del controlador: 28°C {632211b4}
+[05/04/23 09:57:27]: <0x2402> Temperatura de la CPU: 28°C {e4827db5}
+[05/04/23 09:57:31]: <0x2402> COM-PC: create session 127.0.0.1 on port 50278 id=#43757176 {ef87c15c}
+[05/04/23 09:57:32]: <0x2401> Saving controller context... {fcf706de}
+[05/04/23 09:57:32]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {b22af9a9}
+[05/04/23 09:57:32]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c7f63ce2}
+[05/04/23 09:57:32]: <0x5403> Simulation Aplicación parada {8d6b2b40}
+[05/04/23 09:57:32]: <0x5402> Simulation Aplicación arrancada {11992fb7}
+[05/04/23 09:57:32]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50278 id=#43757176 {e4820514}
+[05/04/23 09:57:40]: <0x2401> Saving controller context... {204e0678}
+[05/04/23 09:58:00]: <0x2401> Saving controller context... (3) {826ec9fc}
+[05/04/23 09:58:05]: <0x5A01> Deadman enabled. {b0a32bba}
+[05/04/23 09:58:08]: <0x2401> Saving controller context... {c5a32a54}
+[05/04/23 10:02:32]: <0x2401> Saving controller context... (37) {20103802}
+[05/04/23 10:02:34]: <0x2402> COM-PC: create session 127.0.0.1 on port 50379 id=#43757176 {08e638ad}
+[05/04/23 10:02:34]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {5011932d}
+[05/04/23 10:02:34]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {5296aabd}
+[05/04/23 10:02:34]: <0x5403> Simulation Aplicación parada {c3dae4c6}
+[05/04/23 10:02:34]: <0x5402> Simulation Aplicación arrancada {16d47c3e}
+[05/04/23 10:02:34]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50379 id=#43757176 {4fba057b}
+[05/04/23 10:02:39]: <0x2401> Saving controller context... {6a36672d}
+[05/04/23 10:04:15]: <0x2401> Saving controller context... (14) {aa3d6fe1}
+[05/04/23 10:04:19]: <0x2402> COM-PC: create session 127.0.0.1 on port 50293 id=#43754680 {9275ae2f}
+[05/04/23 10:04:19]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {1ae7a6f2}
+[05/04/23 10:04:19]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {4fd53e7a}
+[05/04/23 10:04:19]: <0x5403> Simulation Aplicación parada {eb064b06}
+[05/04/23 10:04:20]: <0x5402> Simulation Aplicación arrancada {028a9503}
+[05/04/23 10:04:20]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50293 id=#43754680 {8bc65fd6}
+[05/04/23 10:04:23]: <0x2401> Saving controller context... {21466879}
+[05/04/23 10:07:55]: <0x2401> Saving controller context... (30) {15980c37}
+[05/04/23 10:07:58]: <0x2402> COM-PC: create session 127.0.0.1 on port 50293 id=#43754680 {7af76e5b}
+[05/04/23 10:07:58]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {05d73c2b}
+[05/04/23 10:07:58]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {3ff1d94e}
+[05/04/23 10:07:58]: <0x5403> Simulation Aplicación parada {b77f763b}
+[05/04/23 10:07:59]: <0x5402> Simulation Aplicación arrancada {e5588e74}
+[05/04/23 10:07:59]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50293 id=#43754680 {c379e933}
+[05/04/23 10:08:02]: <0x2401> Saving controller context... {54f19a0c}
+[05/04/23 10:08:40]: <0x2401> Saving controller context... (5) {b79545f5}
+[05/04/23 10:08:40]: <0x2402> COM-PC: create session 127.0.0.1 on port 50293 id=#43755616 {48414a8a}
+[05/04/23 10:08:40]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {3d2da2d0}
+[05/04/23 10:08:40]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {dec2eecb}
+[05/04/23 10:08:40]: <0x5403> Simulation Aplicación parada {6d65205b}
+[05/04/23 10:08:40]: <0x5402> Simulation Aplicación arrancada {87ed6f33}
+[05/04/23 10:08:41]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50293 id=#43755616 {6c19f8ea}
+[05/04/23 10:08:45]: <0x2401> Saving controller context... {34d24fcc}
+[05/04/23 10:11:28]: <0x2401> Saving controller context... (23) {a37dbb4e}
+[05/04/23 10:11:29]: <0x2402> MCP communication disconnected {b9fe75f4}
+[05/04/23 10:11:29]: <0x1750> Error interno SAFETY-SHORTRoff {a8714422}
+[05/04/23 10:11:29]: <0x1627> Desactivación de la potencia del brazo: cambio del modo de trabajo. {1c8fc78a}
+[05/04/23 10:11:29]: <0x1604> Desactivación de la potencia del brazo... {b4eb5f67}
+[05/04/23 10:11:29]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50210 id=#43756032 {fe0b83aa}
+[05/04/23 10:11:29]: <0x2402> COM-PC: create session 127.0.0.1 on port 50293 id=#43757592 {ee4bae29}
+[05/04/23 10:11:33]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {72cc847d}
+[05/04/23 10:11:33]: <0x2401> Saving controller context... {313e5dee}
+[05/04/23 12:20:09]: ----------------------------------------------- {17160315}
+[05/04/23 12:20:09]: Registro iniciado (1048576) {c16592ff}
+[05/04/23 12:20:14]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {3c1880c7}
+[05/04/23 12:20:14]: <0x0003> Cycle time set to 0.004s {8f5b2cc0}
+[05/04/23 12:20:14]: <0x0003> Simulation cycle time set to 0.1s {a5985c4f}
+[05/04/23 12:20:14]: <0x0002> Controller IP address could not be updated {c7580bad}
+[05/04/23 12:20:14]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {c7d016b2}
+[05/04/23 12:20:14]: <0x0001> Error while trying to build User serial 2 {a146447a}
+[05/04/23 12:20:14]: <0x0002> Default user payload used. {65c971a0}
+[05/04/23 12:20:14]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {8bcb48bb}
+[05/04/23 12:20:14]: <0x2401> Horas con potencia =17:55:46 {653c28c4}
+[05/04/23 12:20:14]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {838498ed}
+[05/04/23 12:20:15]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {ee1855cd}
+[05/04/23 12:20:16]: <0x0003> COM-PC: server created on all interfaces [851] {1af7804b}
+[05/04/23 12:20:18]: <0x2402> History handler has been connected to IHM {3a4d8337}
+[05/04/23 12:20:18]: <0x2401> System: s7.11.2 Feb 24 2020 {8d154da9}
+[05/04/23 12:20:18]: <0x2401> Kernel: Unknown  {f5e0857f}
+[05/04/23 12:20:18]: <0x2401> Configuration Version: c1.046  {b7455b47}
+[05/04/23 12:20:18]: <0x2401> CPU: TEKNOR  {6e1c1e7c}
+[05/04/23 12:20:18]: <0x2401> Option testMode: enabled  {42d4259b}
+[05/04/23 12:20:18]: <0x2401> Option VAL 3: enabled  {521423ca}
+[05/04/23 12:20:18]: <0x2401> N/S del controlador: : ?  {c6f806a2}
+[05/04/23 12:20:18]: <0x2401> Brazo: tx60-S1-R4 suelo {34e0be64}
+[05/04/23 12:20:18]: <0x2401> N/S del brazo:: ?  {e68bf503}
+[05/04/23 12:20:18]: <0x2401> Tipo de aceite:   {e349bc2b}
+[05/04/23 12:20:18]: <0x2401> Nombre del robot:   {8b7c6bc0}
+[05/04/23 12:20:18]: <0x2401> EP: s7.11.2 Feb 24 2020 {6910163f}
+[05/04/23 12:20:18]: <0x2401> EP10: s7.11.2 Feb 24 2020 {b000b53c}
+[05/04/23 12:20:18]: <0x2401> SCA: s7.11.2 Feb 24 2020 {b720c58d}
+[05/04/23 12:20:18]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {8e1f7d17}
+[05/04/23 12:20:18]: <0x2201> Nuevo perfil : default {f29a43c5}
+[05/04/23 12:20:18]: <0x2401> End of controller initialization 0 {55e53233}
+[05/04/23 12:20:36]: <0x2402> Mcp = TSimulated {b35d0e51}
+[05/04/23 12:20:36]: <0x340A> Mcp communication established {21d4937d}
+[05/04/23 12:20:36]: <0x1801> Modo de trabajo:automático. {a0dc52e5}
+[05/04/23 12:22:26]: <0x2402> COM-PC: create session 127.0.0.1 on port 51316 id=#46310584 {e509582a}
+[05/04/23 15:38:54]: <0x2401> Saving controller context... {5e3c165e}
+[05/04/23 15:39:02]: <0x2402> Temperatura del controlador: 28°C {cf01eb74}
+[05/04/23 15:39:02]: <0x2402> Temperatura de la CPU: 28°C {df6c8c80}
+[05/04/23 15:39:07]: <0x2401> Saving controller context... {59bb3984}
+[05/04/23 16:23:38]: <0x2402> MCP communication disconnected {7f36160e}
+[05/04/23 16:23:44]: <0x2402> COM-PC: create session 127.0.0.1 on port 53927 id=#46311208 {9295b22e}
+[05/04/23 16:23:44]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51316 id=#46310584 {82f376eb}
+[05/06/23 08:23:57]: ----------------------------------------------- {9309222e}
+[05/06/23 08:23:57]: Registro iniciado (1048576) {039c858f}
+[05/06/23 08:24:01]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {6d32c5e4}
+[05/06/23 08:24:01]: <0x0003> Cycle time set to 0.004s {91c468fc}
+[05/06/23 08:24:01]: <0x0003> Simulation cycle time set to 0.1s {401021ec}
+[05/06/23 08:24:01]: <0x0002> Controller IP address could not be updated {7f13fedc}
+[05/06/23 08:24:01]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {c4dae5f1}
+[05/06/23 08:24:01]: <0x0001> Error while trying to build User serial 2 {d28e7e8c}
+[05/06/23 08:24:01]: <0x0002> Default user payload used. {79f86799}
+[05/06/23 08:24:01]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {63a71733}
+[05/06/23 08:24:01]: <0x2401> Horas con potencia =17:55:46 {0c3eca76}
+[05/06/23 08:24:01]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {3662dba3}
+[05/06/23 08:24:02]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {c4287c79}
+[05/06/23 08:24:06]: <0x0003> COM-PC: server created on all interfaces [851] {4e2deca9}
+[05/06/23 08:24:07]: <0x2402> History handler has been connected to IHM {ff2ad358}
+[05/06/23 08:24:07]: <0x2401> System: s7.11.2 Feb 24 2020 {c236cfc2}
+[05/06/23 08:24:07]: <0x2401> Kernel: Unknown  {04b31e77}
+[05/06/23 08:24:07]: <0x2401> Configuration Version: c1.046  {f2422858}
+[05/06/23 08:24:07]: <0x2401> CPU: TEKNOR  {d8505770}
+[05/06/23 08:24:07]: <0x2401> Option testMode: enabled  {5c2c42e1}
+[05/06/23 08:24:07]: <0x2401> Option VAL 3: enabled  {4c263e69}
+[05/06/23 08:24:07]: <0x2401> N/S del controlador: : ?  {70cabc0b}
+[05/06/23 08:24:07]: <0x2401> Brazo: tx60-S1-R4 suelo {97aac724}
+[05/06/23 08:24:07]: <0x2401> N/S del brazo:: ?  {57dfe07a}
+[05/06/23 08:24:07]: <0x2401> Tipo de aceite:   {370a71de}
+[05/06/23 08:24:07]: <0x2401> Nombre del robot:   {c8183bf6}
+[05/06/23 08:24:07]: <0x2401> EP: s7.11.2 Feb 24 2020 {856fb30c}
+[05/06/23 08:24:07]: <0x2401> EP10: s7.11.2 Feb 24 2020 {af817244}
+[05/06/23 08:24:07]: <0x2401> SCA: s7.11.2 Feb 24 2020 {6ab36ceb}
+[05/06/23 08:24:07]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {8fc24bfa}
+[05/06/23 08:24:07]: <0x2201> Nuevo perfil : default {0bfc3ec5}
+[05/06/23 08:24:07]: <0x2401> End of controller initialization 0 {46e19f12}
+[05/06/23 08:24:29]: <0x2402> Mcp = TSimulated {0d50e4a0}
+[05/06/23 08:24:29]: <0x340A> Mcp communication established {57896b5e}
+[05/06/23 08:24:30]: <0x1801> Modo de trabajo:automático. {995c3543}
+[05/06/23 11:05:12]: <0x2401> Saving controller context... {353769e1}
+[05/06/23 11:05:16]: <0x2402> Temperatura del controlador: 28°C {c806966d}
+[05/06/23 11:05:16]: <0x2402> Temperatura de la CPU: 28°C {f8b5c181}
+[05/06/23 11:05:21]: <0x2401> Saving controller context... {4885321e}
+[05/06/23 12:05:09]: <0x2402> COM-PC: create session 127.0.0.1 on port 50524 id=#43964008 {14f8e680}
+[05/06/23 12:05:11]: <0x5A03> Deadman validated {10ac4c76}
+[05/06/23 12:05:11]: <0x1603> Habilitando la potencia del brazo... {eef48e01}
+[05/06/23 12:05:11]: <0x1601> Potencia del brazo habilitada. {33e82a6d}
+[05/06/23 12:05:17]: <0x2401> Saving controller context... {c56cf69e}
+[05/06/23 12:05:52]: <0x2401> Saving controller context... (3) {9b6f4ccd}
+[05/06/23 12:05:52]: <0x2402> COM-PC: create session 127.0.0.1 on port 50537 id=#43963592 {67df2ed0}
+[05/06/23 12:05:57]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {80a6ba46}
+[05/06/23 12:05:57]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {bb426336}
+[05/06/23 12:05:59]: <0x5402> Simulation Aplicación arrancada {ff3200a9}
+[05/06/23 12:06:00]: <0x2401> Saving controller context... {f1682b62}
+[05/06/23 12:06:00]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50537 id=#43963592 {71994a6b}
+[05/06/23 12:06:09]: <0x2401> Saving controller context... {39bcdbbc}
+[05/06/23 12:06:13]: <0x5A01> Deadman enabled. {2cdaa03e}
+[05/06/23 12:06:18]: <0x2401> Saving controller context... {01d8d41a}
+[05/06/23 12:08:42]: <0x2401> Saving controller context... (16) {700fdb37}
+[05/06/23 12:08:46]: <0x5A02> Deadman disabled. {db461f1d}
+[05/06/23 12:08:46]: <0x5A03> Deadman validated {f7ba58ba}
+[05/06/23 12:09:02]: <0x5A01> Deadman enabled. {40eb2c21}
+[05/06/23 12:17:45]: <0x2402> COM-PC: create session 127.0.0.1 on port 50623 id=#43964632 {4acedd12}
+[05/06/23 12:17:45]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {b742bdea}
+[05/06/23 12:17:45]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {0892469c}
+[05/06/23 12:17:45]: <0x5403> Simulation Aplicación parada {b188b477}
+[05/06/23 12:17:46]: <0x5402> Simulation Aplicación arrancada {8e280b94}
+[05/06/23 12:17:46]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50623 id=#43964632 {c34456dd}
+[05/06/23 12:25:51]: <0x2402> COM-PC: create session 127.0.0.1 on port 50623 id=#43964632 {d897a1d8}
+[05/06/23 12:25:51]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {983653aa}
+[05/06/23 12:25:51]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {4f0242bc}
+[05/06/23 12:25:51]: <0x5403> Simulation Aplicación parada {1132f4c8}
+[05/06/23 12:25:52]: <0x5402> Simulation Aplicación arrancada {e22ee7f9}
+[05/06/23 12:25:52]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50623 id=#43964632 {e8ab00ce}
+[05/06/23 12:27:10]: <0x2402> COM-PC: create session 127.0.0.1 on port 50623 id=#43963176 {1d347f9e}
+[05/06/23 12:27:11]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {d020a3a5}
+[05/06/23 12:27:11]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {a1960941}
+[05/06/23 12:27:11]: <0x5403> Simulation Aplicación parada {03c9ca66}
+[05/06/23 12:27:11]: <0x5402> Simulation Aplicación arrancada {f5f9cbf1}
+[05/06/23 12:27:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50623 id=#43963176 {08d49ff0}
+[05/06/23 12:32:46]: <0x2402> MCP communication disconnected {92652f97}
+[05/06/23 12:32:46]: <0x1627> Desactivación de la potencia del brazo: cambio del modo de trabajo. {1eccde9c}
+[05/06/23 12:32:46]: <0x1604> Desactivación de la potencia del brazo... {ae080bb5}
+[05/06/23 12:32:47]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {793fc80f}
+[05/06/23 12:32:48]: <0x2401> Saving controller context... {266e344d}
+[05/06/23 12:32:50]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50524 id=#43964008 {ae8a988a}
+[05/08/23 11:49:21]: ----------------------------------------------- {d997c38b}
+[05/08/23 11:49:21]: Registro iniciado (1048576) {17f9e387}
+[05/08/23 11:49:27]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {4e346acb}
+[05/08/23 11:49:27]: <0x0003> Cycle time set to 0.004s {817b59d3}
+[05/08/23 11:49:27]: <0x0003> Simulation cycle time set to 0.1s {6a9d10ae}
+[05/08/23 11:49:27]: <0x0002> Controller IP address could not be updated {14a08829}
+[05/08/23 11:49:27]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {586e22d1}
+[05/08/23 11:49:27]: <0x0001> Error while trying to build User serial 2 {2756f56e}
+[05/08/23 11:49:27]: <0x0002> Default user payload used. {ffc95427}
+[05/08/23 11:49:27]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {b39297f2}
+[05/08/23 11:49:27]: <0x2401> Horas con potencia =18:18:38 {0bde3744}
+[05/08/23 11:49:27]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {636cb002}
+[05/08/23 11:49:28]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {769cb8c3}
+[05/08/23 11:49:30]: <0x0003> COM-PC: server created on all interfaces [851] {c6d4eade}
+[05/08/23 11:49:33]: <0x2402> History handler has been connected to IHM {706a1938}
+[05/08/23 11:49:33]: <0x2401> System: s7.11.2 Feb 24 2020 {cb657168}
+[05/08/23 11:49:33]: <0x2401> Kernel: Unknown  {71e37474}
+[05/08/23 11:49:33]: <0x2401> Configuration Version: c1.046  {d7899bd6}
+[05/08/23 11:49:33]: <0x2401> CPU: TEKNOR  {6becdf4e}
+[05/08/23 11:49:33]: <0x2401> Option testMode: enabled  {dd24aa07}
+[05/08/23 11:49:33]: <0x2401> Option VAL 3: enabled  {e4d16192}
+[05/08/23 11:49:33]: <0x2401> N/S del controlador: : ?  {905c2521}
+[05/08/23 11:49:33]: <0x2401> Brazo: tx60-S1-R4 suelo {906d5cf6}
+[05/08/23 11:49:33]: <0x2401> N/S del brazo:: ?  {b0ccc6bb}
+[05/08/23 11:49:33]: <0x2401> Tipo de aceite:   {4af77bd6}
+[05/08/23 11:49:33]: <0x2401> Nombre del robot:   {85431072}
+[05/08/23 11:49:33]: <0x2401> EP: s7.11.2 Feb 24 2020 {dbe90fcf}
+[05/08/23 11:49:33]: <0x2401> EP10: s7.11.2 Feb 24 2020 {fff123d6}
+[05/08/23 11:49:33]: <0x2401> SCA: s7.11.2 Feb 24 2020 {e48d78af}
+[05/08/23 11:49:33]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {fd456a5d}
+[05/08/23 11:49:33]: <0x2201> Nuevo perfil : default {b59981c1}
+[05/08/23 11:49:34]: <0x2401> End of controller initialization 0 {40c47976}
+[05/08/23 11:49:39]: <0x2401> Saving controller context... {beb3e808}
+[05/08/23 11:49:39]: <0x2402> Temperatura del controlador: 28°C {b899d7c4}
+[05/08/23 11:49:39]: <0x2402> Temperatura de la CPU: 28°C {a81308b8}
+[05/08/23 11:49:47]: <0x2402> Mcp = TSimulated {8a34cd82}
+[05/08/23 11:49:47]: <0x340A> Mcp communication established {7b175401}
+[05/08/23 11:49:47]: <0x1801> Modo de trabajo:automático. {2d6f8af9}
+[05/08/23 11:52:01]: <0x2402> COM-PC: create session 127.0.0.1 on port 33527 id=#45273584 {bd6863d6}
+[05/08/23 11:52:22]: <0x2401> Saving controller context... {78a75849}
+[05/08/23 12:00:42]: <0x2401> Saving controller context... (6) {bd07c0cd}
+[05/08/23 13:22:44]: <0x2401> Watchdog occurs in Cs8 priority:75 {e5aa582b}
+[05/08/23 14:24:57]: <0x2401> Saving controller context... {38806683}
+[05/08/23 16:19:41]: <0x2401> Saving controller context... (1) {0a7488f4}
+[05/08/23 16:19:49]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 33527 id=#45273584 {5e6346b9}
+[05/08/23 16:20:53]: <0x2402> MCP communication disconnected {d0a0ddb2}
+[05/08/23 16:21:04]: <0x2401> Saving controller context... {9430032a}
+[05/08/23 20:36:42]: ----------------------------------------------- {fbec6e7a}
+[05/08/23 20:36:42]: Registro iniciado (1048576) {c96c7e69}
+[05/08/23 20:36:47]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {5caf09ed}
+[05/08/23 20:36:47]: <0x0003> Cycle time set to 0.004s {9643b252}
+[05/08/23 20:36:47]: <0x0003> Simulation cycle time set to 0.1s {e7009995}
+[05/08/23 20:36:47]: <0x0002> Controller IP address could not be updated {1339d849}
+[05/08/23 20:36:47]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {171b620f}
+[05/08/23 20:36:47]: <0x0001> Error while trying to build User serial 2 {4e3198af}
+[05/08/23 20:36:47]: <0x0002> Default user payload used. {5e8d7a94}
+[05/08/23 20:36:47]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {2e9890f8}
+[05/08/23 20:36:47]: <0x2401> Horas con potencia =18:18:38 {78f8dce6}
+[05/08/23 20:36:47]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {1b5fb634}
+[05/08/23 20:36:48]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {9e7e807a}
+[05/08/23 20:36:52]: <0x0003> COM-PC: server created on all interfaces [851] {067e5b03}
+[05/08/23 20:36:53]: <0x2402> History handler has been connected to IHM {0b569698}
+[05/08/23 20:36:53]: <0x2401> System: s7.11.2 Feb 24 2020 {bbb53382}
+[05/08/23 20:36:53]: <0x2401> Kernel: Unknown  {d88c24e2}
+[05/08/23 20:36:53]: <0x2401> Configuration Version: c1.046  {0a29df32}
+[05/08/23 20:36:53]: <0x2401> CPU: TEKNOR  {c8ee5cab}
+[05/08/23 20:36:53]: <0x2401> Option testMode: enabled  {08abf7cf}
+[05/08/23 20:36:53]: <0x2401> Option VAL 3: enabled  {384feba1}
+[05/08/23 20:36:53]: <0x2401> N/S del controlador: : ?  {4b179217}
+[05/08/23 20:36:53]: <0x2401> Brazo: tx60-S1-R4 suelo {79f5c8af}
+[05/08/23 20:36:53]: <0x2401> N/S del brazo:: ?  {6bca1aa0}
+[05/08/23 20:36:53]: <0x2401> Tipo de aceite:   {2a9e6fd0}
+[05/08/23 20:36:53]: <0x2401> Nombre del robot:   {074f240a}
+[05/08/23 20:36:53]: <0x2401> EP: s7.11.2 Feb 24 2020 {278a4a93}
+[05/08/23 20:36:53]: <0x2401> EP10: s7.11.2 Feb 24 2020 {8366d7e0}
+[05/08/23 20:36:53]: <0x2401> SCA: s7.11.2 Feb 24 2020 {671b9c80}
+[05/08/23 20:36:53]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {e720568e}
+[05/08/23 20:36:53]: <0x2201> Nuevo perfil : default {04b39a34}
+[05/08/23 20:36:53]: <0x2401> End of controller initialization 0 {ef06eff3}
+[05/08/23 20:36:58]: <0x2401> Saving controller context... {37e2cd94}
+[05/08/23 20:36:58]: <0x2402> Temperatura del controlador: 28°C {00530034}
+[05/08/23 20:36:58]: <0x2402> Temperatura de la CPU: 28°C {703f50a4}
+[05/08/23 20:37:08]: <0x2402> Mcp = TSimulated {bfbe6ff8}
+[05/08/23 20:37:08]: <0x340A> Mcp communication established {57103a4c}
+[05/08/23 20:37:09]: <0x1801> Modo de trabajo:automático. {e2e54199}
+[05/08/23 20:38:11]: ----------------------------------------------- {3798b6b9}
+[05/08/23 20:38:11]: Registro iniciado (1048576) {2c252686}
+[05/08/23 20:38:15]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {e067b771}
+[05/08/23 20:38:15]: <0x0003> Cycle time set to 0.004s {6354c5b7}
+[05/08/23 20:38:15]: <0x0003> Simulation cycle time set to 0.1s {ca7661d0}
+[05/08/23 20:38:15]: <0x0002> Controller IP address could not be updated {3428ff45}
+[05/08/23 20:38:15]: <0x0003> Mcp = TSimulated {1e9bd83a}
+[05/08/23 20:38:15]: <0x340A> Mcp communication established {a4400075}
+[05/08/23 20:38:15]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {4eb4e1c1}
+[05/08/23 20:38:15]: <0x0001> Error while trying to build User serial 2 {4f637d99}
+[05/08/23 20:38:15]: <0x0002> Default user payload used. {7a82bab8}
+[05/08/23 20:38:15]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {fa34ae59}
+[05/08/23 20:38:15]: <0x2401> Horas con potencia =18:18:38 {f2992d3d}
+[05/08/23 20:38:15]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {42f34fed}
+[05/08/23 20:38:15]: <0x0003> COM-PC: server created on all interfaces [851] {c96aed9f}
+[05/08/23 20:38:16]: <0x2402> History handler has been connected to IHM {ae83d6af}
+[05/08/23 20:38:16]: <0x2401> System: s7.11.2 Feb 24 2020 {4b5489dd}
+[05/08/23 20:38:16]: <0x2401> Kernel: Unknown  {031d1166}
+[05/08/23 20:38:16]: <0x2401> Configuration Version: c1.046  {d7fbe7f8}
+[05/08/23 20:38:16]: <0x2401> CPU: TEKNOR  {3b666e09}
+[05/08/23 20:38:16]: <0x2401> Option testMode: enabled  {d099832e}
+[05/08/23 20:38:16]: <0x2401> Option VAL 3: enabled  {e01df14a}
+[05/08/23 20:38:16]: <0x2401> N/S del controlador: : ?  {0235496f}
+[05/08/23 20:38:16]: <0x2401> Brazo: tx60-S1-R4 suelo {246e1a87}
+[05/08/23 20:38:16]: <0x2401> N/S del brazo:: ?  {e2dc3dc3}
+[05/08/23 20:38:16]: <0x2401> Tipo de aceite:   {197fc18e}
+[05/08/23 20:38:16]: <0x2401> Nombre del robot:   {afda739f}
+[05/08/23 20:38:16]: <0x2401> EP: s7.11.2 Feb 24 2020 {a197a7fb}
+[05/08/23 20:38:16]: <0x2401> EP10: s7.11.2 Feb 24 2020 {e0b9b997}
+[05/08/23 20:38:16]: <0x2401> SCA: s7.11.2 Feb 24 2020 {527d0df8}
+[05/08/23 20:38:16]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {a0da2df5}
+[05/08/23 20:38:16]: <0x2201> Nuevo perfil : default {a5d6b737}
+[05/08/23 20:38:16]: <0x2401> End of controller initialization 0 {a270185a}
+[05/08/23 20:38:16]: <0x1801> Modo de trabajo:automático. {a3c97fda}
+[05/08/23 20:38:16]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {0576e4c6}
+[05/08/23 21:50:38]: <0x2402> MCP communication disconnected {73ea7706}
+[05/09/23 11:45:01]: ----------------------------------------------- {ebe68580}
+[05/09/23 11:45:01]: Registro iniciado (1048576) {16f41d18}
+[05/09/23 11:45:06]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {32884920}
+[05/09/23 11:45:06]: <0x0003> Cycle time set to 0.004s {97e65819}
+[05/09/23 11:45:06]: <0x0003> Simulation cycle time set to 0.1s {e9eb455c}
+[05/09/23 11:45:06]: <0x0002> Controller IP address could not be updated {c08b8b8f}
+[05/09/23 11:45:06]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {500f4b23}
+[05/09/23 11:45:06]: <0x0001> Error while trying to build User serial 2 {2289c91d}
+[05/09/23 11:45:06]: <0x0002> Default user payload used. {0f514df0}
+[05/09/23 11:45:06]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {30691d11}
+[05/09/23 11:45:06]: <0x2401> Horas con potencia =18:18:38 {b942d1bc}
+[05/09/23 11:45:06]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {c062c23b}
+[05/09/23 11:45:07]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {a9628d85}
+[05/09/23 11:45:08]: <0x0003> COM-PC: server created on all interfaces [851] {bd4ee250}
+[05/09/23 11:45:09]: <0x0003> Mcp = TSimulated {28d08719}
+[05/09/23 11:45:09]: <0x340A> Mcp communication established {aaf0f371}
+[05/09/23 11:45:09]: <0x1805> Modo de trabajo:inválido. {69c3b9f0}
+[05/09/23 11:45:10]: <0x2402> History handler has been connected to IHM {3a85ebc7}
+[05/09/23 11:45:10]: <0x2401> System: s7.11.2 Feb 24 2020 {4152a3f8}
+[05/09/23 11:45:10]: <0x2401> Kernel: Unknown  {7dc6a409}
+[05/09/23 11:45:10]: <0x2401> Configuration Version: c1.046  {b8b34cfd}
+[05/09/23 11:45:10]: <0x2401> CPU: TEKNOR  {e0f95e32}
+[05/09/23 11:45:10]: <0x2401> Option testMode: enabled  {a0281d47}
+[05/09/23 11:45:10]: <0x2401> Option VAL 3: enabled  {b09fb0fc}
+[05/09/23 11:45:10]: <0x2401> N/S del controlador: : ?  {958a8a82}
+[05/09/23 11:45:10]: <0x2401> Brazo: tx60-S1-R4 suelo {d000c41d}
+[05/09/23 11:45:10]: <0x2401> N/S del brazo:: ?  {b5c72481}
+[05/09/23 11:45:10]: <0x2401> Tipo de aceite:   {355900ad}
+[05/09/23 11:45:10]: <0x2401> Nombre del robot:   {784bc732}
+[05/09/23 11:45:10]: <0x2401> EP: s7.11.2 Feb 24 2020 {b162893e}
+[05/09/23 11:45:10]: <0x2401> EP10: s7.11.2 Feb 24 2020 {cd331b86}
+[05/09/23 11:45:10]: <0x2401> SCA: s7.11.2 Feb 24 2020 {26bfc834}
+[05/09/23 11:45:10]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {4be093bf}
+[05/09/23 11:45:10]: <0x2201> Nuevo perfil : default {187a42ee}
+[05/09/23 11:45:10]: <0x2401> End of controller initialization 0 {cc4099cd}
+[05/09/23 11:45:11]: <0x1801> Modo de trabajo:automático. {1d7c2698}
+[05/09/23 11:45:16]: <0x2401> Saving controller context... {d3eec56c}
+[05/09/23 11:45:16]: <0x2402> Temperatura del controlador: 28°C {2c984c6a}
+[05/09/23 11:45:16]: <0x2402> Temperatura de la CPU: 28°C {1c8a7ac4}
+[05/09/23 14:03:56]: <0x2401> Saving controller context... {ca8566ad}
+[05/09/23 17:52:34]: ----------------------------------------------- {ed2ecb3a}
+[05/09/23 17:52:34]: Registro iniciado (1048576) {60592476}
+[05/09/23 17:52:39]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {4de5aca3}
+[05/09/23 17:52:39]: <0x0003> Cycle time set to 0.004s {327007bf}
+[05/09/23 17:52:39]: <0x0003> Simulation cycle time set to 0.1s {5bb2b40e}
+[05/09/23 17:52:39]: <0x0002> Controller IP address could not be updated {03aa512d}
+[05/09/23 17:52:39]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {d8dc381f}
+[05/09/23 17:52:39]: <0x0001> Error while trying to build User serial 2 {a6cee485}
+[05/09/23 17:52:39]: <0x0002> Default user payload used. {0f5b67ef}
+[05/09/23 17:52:39]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {749b070a}
+[05/09/23 17:52:39]: <0x2401> Horas con potencia =18:18:38 {ac64bb63}
+[05/09/23 17:52:39]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {ec17ba1d}
+[05/09/23 17:52:40]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {090faab5}
+[05/09/23 17:52:41]: <0x0003> COM-PC: server created on all interfaces [851] {12cac073}
+[05/09/23 17:52:43]: <0x2402> History handler has been connected to IHM {48b27e15}
+[05/09/23 17:52:43]: <0x2401> System: s7.11.2 Feb 24 2020 {605573ca}
+[05/09/23 17:52:43]: <0x2401> Kernel: Unknown  {31aaf208}
+[05/09/23 17:52:43]: <0x2401> Configuration Version: c1.046  {4acaa5f3}
+[05/09/23 17:52:43]: <0x2401> CPU: TEKNOR  {b7449a02}
+[05/09/23 17:52:43]: <0x2401> Option testMode: enabled  {89d686d5}
+[05/09/23 17:52:43]: <0x2401> Option VAL 3: enabled  {9992a936}
+[05/09/23 17:52:43]: <0x2401> N/S del controlador: : ?  {348e1084}
+[05/09/23 17:52:43]: <0x2401> Brazo: tx60-S1-R4 suelo {e5bd3993}
+[05/09/23 17:52:44]: <0x2401> N/S del brazo:: ?  {bd0f50ce}
+[05/09/23 17:52:44]: <0x2401> Tipo de aceite:   {1f033003}
+[05/09/23 17:52:44]: <0x2401> Nombre del robot:   {76dda749}
+[05/09/23 17:52:44]: <0x2401> EP: s7.11.2 Feb 24 2020 {95fbface}
+[05/09/23 17:52:44]: <0x2401> EP10: s7.11.2 Feb 24 2020 {93f9cdb5}
+[05/09/23 17:52:44]: <0x2401> SCA: s7.11.2 Feb 24 2020 {d75fa73c}
+[05/09/23 17:52:44]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {b6c775da}
+[05/09/23 17:52:44]: <0x2201> Nuevo perfil : default {a9b70e3d}
+[05/09/23 17:52:44]: <0x2401> End of controller initialization 0 {f32ece7f}
+[05/09/23 17:52:49]: <0x2401> Saving controller context... {e07bb5b4}
+[05/09/23 17:52:49]: <0x2402> Temperatura del controlador: 28°C {30ea9a21}
+[05/09/23 17:52:49]: <0x2402> Temperatura de la CPU: 28°C {00104cef}
+[05/09/23 17:53:11]: <0x2402> Mcp = TSimulated {44af0a81}
+[05/09/23 17:53:11]: <0x340A> Mcp communication established {ff0e7217}
+[05/09/23 17:53:11]: <0x1801> Modo de trabajo:automático. {a7bc527b}
+[05/09/23 18:09:47]: <0x2402> COM-PC: create session 127.0.0.1 on port 50460 id=#42970744 {4ddb9b3e}
+[05/09/23 20:30:56]: <0x2402> MCP communication disconnected {cc301ebe}
+[05/09/23 20:30:56]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50460 id=#42970744 {393637dd}
+[05/13/23 17:51:37]: ----------------------------------------------- {81418433}
+[05/13/23 17:51:37]: Registro iniciado (1048576) {36856455}
+[05/13/23 17:51:43]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {aea6a3af}
+[05/13/23 17:51:43]: <0x0003> Cycle time set to 0.004s {6701683c}
+[05/13/23 17:51:43]: <0x0003> Simulation cycle time set to 0.1s {47d8036d}
+[05/13/23 17:51:43]: <0x0002> Controller IP address could not be updated {eadf6d15}
+[05/13/23 17:51:43]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {a3cfcb94}
+[05/13/23 17:51:43]: <0x0001> Error while trying to build User serial 2 {aafb2705}
+[05/13/23 17:51:43]: <0x0002> Default user payload used. {81c7cf68}
+[05/13/23 17:51:43]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {964d1c7e}
+[05/13/23 17:51:43]: <0x2401> Horas con potencia =18:18:38 {bb407d44}
+[05/13/23 17:51:43]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {884728b1}
+[05/13/23 17:51:44]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {942210e2}
+[05/13/23 17:51:48]: <0x0003> COM-PC: server created on all interfaces [851] {47054599}
+[05/13/23 17:51:49]: <0x2402> History handler has been connected to IHM {35149379}
+[05/13/23 17:51:49]: <0x2401> System: s7.11.2 Feb 24 2020 {f85412b1}
+[05/13/23 17:51:49]: <0x2401> Kernel: Unknown  {8695a791}
+[05/13/23 17:51:49]: <0x2401> Configuration Version: c1.046  {6307d428}
+[05/13/23 17:51:49]: <0x2401> CPU: TEKNOR  {14fef192}
+[05/13/23 17:51:49]: <0x2401> Option testMode: enabled  {f617acb1}
+[05/13/23 17:51:49]: <0x2401> Option VAL 3: enabled  {712b709f}
+[05/13/23 17:51:49]: <0x2401> N/S del controlador: : ?  {769cf146}
+[05/13/23 17:51:49]: <0x2401> Brazo: tx60-S1-R4 suelo {d26abc0b}
+[05/13/23 17:51:49]: <0x2401> N/S del brazo:: ?  {16cafab3}
+[05/13/23 17:51:49]: <0x2401> Tipo de aceite:   {408a65e5}
+[05/13/23 17:51:49]: <0x2401> Nombre del robot:   {7d8572c0}
+[05/13/23 17:51:49]: <0x2401> EP: s7.11.2 Feb 24 2020 {d1eaf061}
+[05/13/23 17:51:49]: <0x2401> EP10: s7.11.2 Feb 24 2020 {f202ffdb}
+[05/13/23 17:51:49]: <0x2401> SCA: s7.11.2 Feb 24 2020 {c76a7674}
+[05/13/23 17:51:49]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {ca7b37de}
+[05/13/23 17:51:49]: <0x2201> Nuevo perfil : default {2728b375}
+[05/13/23 17:51:49]: <0x2401> End of controller initialization 0 {1dfadfd9}
+[05/13/23 17:52:08]: <0x2402> Mcp = TSimulated {b2632779}
+[05/13/23 17:52:08]: <0x340A> Mcp communication established {fa10561a}
+[05/13/23 17:52:09]: <0x1801> Modo de trabajo:automático. {f6677cdb}
+[05/13/23 18:07:22]: ----------------------------------------------- {a128192a}
+[05/13/23 18:07:22]: Registro iniciado (1048576) {4cd1ebe6}
+[05/13/23 18:07:27]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {92b0f1a0}
+[05/13/23 18:07:27]: <0x0003> Cycle time set to 0.004s {36ed199e}
+[05/13/23 18:07:27]: <0x0003> Simulation cycle time set to 0.1s {0bde8807}
+[05/13/23 18:07:27]: <0x0002> Controller IP address could not be updated {4939c22b}
+[05/13/23 18:07:27]: <0x0003> Mcp = TSimulated {7218ba37}
+[05/13/23 18:07:27]: <0x340A> Mcp communication established {1e6a5907}
+[05/13/23 18:07:27]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {86dd95bf}
+[05/13/23 18:07:27]: <0x0001> Error while trying to build User serial 2 {b815e9ad}
+[05/13/23 18:07:27]: <0x0002> Default user payload used. {f0cc4bb5}
+[05/13/23 18:07:27]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {93cef209}
+[05/13/23 18:07:27]: <0x2401> Horas con potencia =18:18:38 {3549552c}
+[05/13/23 18:07:27]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {d4d678a1}
+[05/13/23 18:07:27]: <0x0003> COM-PC: server created on all interfaces [851] {7d6141a5}
+[05/13/23 18:07:27]: <0x2402> History handler has been connected to IHM {83a8f642}
+[05/13/23 18:07:27]: <0x2401> System: s7.11.2 Feb 24 2020 {bb24e00e}
+[05/13/23 18:07:27]: <0x2401> Kernel: Unknown  {d22d57cf}
+[05/13/23 18:07:27]: <0x2401> Configuration Version: c1.046  {deeec004}
+[05/13/23 18:07:27]: <0x2401> CPU: TEKNOR  {f142cd5b}
+[05/13/23 18:07:27]: <0x2401> Option testMode: enabled  {ff605ba2}
+[05/13/23 18:07:27]: <0x2401> Option VAL 3: enabled  {ef6ba5fd}
+[05/13/23 18:07:27]: <0x2401> N/S del controlador: : ?  {2b7a531c}
+[05/13/23 18:07:27]: <0x2401> Brazo: tx60-S1-R4 suelo {28d2afb8}
+[05/13/23 18:07:27]: <0x2401> N/S del brazo:: ?  {90937857}
+[05/13/23 18:07:27]: <0x2401> Tipo de aceite:   {dc8ac6e9}
+[05/13/23 18:07:27]: <0x2401> Nombre del robot:   {a54b4e83}
+[05/13/23 18:07:27]: <0x2401> EP: s7.11.2 Feb 24 2020 {e863bc44}
+[05/13/23 18:07:27]: <0x2401> EP10: s7.11.2 Feb 24 2020 {f9a8667d}
+[05/13/23 18:07:27]: <0x2401> SCA: s7.11.2 Feb 24 2020 {3f0d2362}
+[05/13/23 18:07:27]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {78fcfde3}
+[05/13/23 18:07:27]: <0x2201> Nuevo perfil : default {2ae7e4a0}
+[05/13/23 18:07:27]: <0x2401> End of controller initialization 0 {cc706df0}
+[05/13/23 18:07:27]: <0x1801> Modo de trabajo:automático. {46b79e5e}
+[05/13/23 18:07:28]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {1ca8cc2d}
+[05/13/23 18:13:15]: <0x2402> COM-PC: create session 127.0.0.1 on port 53934 id=#42708720 {fce76457}
+[05/13/23 18:14:07]: <0x5A03> Deadman validated {92affc2d}
+[05/13/23 18:14:07]: <0x1603> Habilitando la potencia del brazo... {e6e3e4b9}
+[05/13/23 18:14:08]: <0x1601> Potencia del brazo habilitada. {265a2f9b}
+[05/13/23 18:14:14]: <0x2401> Saving controller context... {5b667ed8}
+[05/13/23 18:14:14]: <0x2402> Temperatura del controlador: 28°C {80d320cf}
+[05/13/23 18:14:14]: <0x2402> Temperatura de la CPU: 28°C {b08cff49}
+[05/13/23 18:14:22]: <0x2401> Saving controller context... {128a3864}
+[05/13/23 18:15:04]: <0x2401> Saving controller context... (6) {3b5b0d14}
+[05/13/23 18:15:04]: <0x5A01> Deadman enabled. {a3dba44a}
+[05/13/23 18:15:11]: <0x2401> Saving controller context... {2af2fe4c}
+[05/13/23 18:23:59]: <0x2401> Saving controller context... (72) {5bfc676a}
+[05/13/23 18:24:00]: <0x2402> COM-PC: create session 127.0.0.1 on port 53953 id=#42206024 {7a928ce3}
+[05/13/23 18:24:02]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {6b377992}
+[05/13/23 18:24:02]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {cf54e6ef}
+[05/13/23 18:24:04]: <0x5405> (Archivo statesRobot.pgx-línea 2) 'bstop' : nombre inválido {db731df5}
+[05/13/23 18:24:05]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53953 id=#42206024 {25a98b2c}
+[05/13/23 18:24:07]: <0x2401> Saving controller context... {c971a7e9}
+[05/13/23 18:24:57]: <0x2401> Saving controller context... (7) {28915a02}
+[05/13/23 18:25:03]: <0x2402> COM-PC: create session 127.0.0.1 on port 54136 id=#42206232 {e71339d4}
+[05/13/23 18:25:03]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {fa6a0481}
+[05/13/23 18:25:03]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {1116210c}
+[05/13/23 18:25:04]: <0x5405> (Archivo statesRobot.pgx-línea 2) 'bstop' : nombre inválido {7e87901b}
+[05/13/23 18:25:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 54136 id=#42206232 {0043c05b}
+[05/13/23 18:25:04]: <0x2401> Saving controller context... {bd8cd068}
+[05/13/23 18:25:41]: <0x2401> Saving controller context... (5) {21c0b6d4}
+[05/13/23 18:25:46]: <0x2402> COM-PC: create session 127.0.0.1 on port 53953 id=#42132864 {4eb3c733}
+[05/13/23 18:25:46]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {56ad612d}
+[05/13/23 18:25:46]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {06ff210d}
+[05/13/23 18:25:46]: <0x5402> Simulation Aplicación arrancada {39a0a96d}
+[05/13/23 18:25:46]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53953 id=#42132864 {398fa937}
+[05/13/23 18:25:49]: <0x2401> Saving controller context... {36a3257e}
+[05/13/23 18:26:41]: <0x2401> Saving controller context... (7) {941e2934}
+[05/13/23 18:26:45]: <0x2402> COM-PC: create session 127.0.0.1 on port 53953 id=#42241216 {fbb54e56}
+[05/13/23 18:26:46]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {1509b0c9}
+[05/13/23 18:26:46]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {9934689b}
+[05/13/23 18:26:46]: <0x5403> Simulation Aplicación parada {11770376}
+[05/13/23 18:26:46]: <0x5402> Simulation Aplicación arrancada {bf3d645a}
+[05/13/23 18:26:46]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53953 id=#42241216 {03ae68ba}
+[05/13/23 18:26:49]: <0x2401> Saving controller context... {a2dfff6f}
+[05/13/23 18:33:28]: <0x2401> Saving controller context... (55) {d90c4764}
+[05/13/23 18:33:33]: <0x2402> COM-PC: create session 127.0.0.1 on port 54287 id=#42148872 {9ed8dd17}
+[05/13/23 18:33:33]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a5c00256}
+[05/13/23 18:33:33]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {bba15cb8}
+[05/13/23 18:33:33]: <0x5403> Simulation Aplicación parada {f5cea9f0}
+[05/13/23 18:33:33]: <0x5402> Simulation Aplicación arrancada {b3c5d960}
+[05/13/23 18:33:33]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 54287 id=#42148872 {d908e513}
+[05/13/23 18:33:36]: <0x2401> Saving controller context... {d2356e37}
+[05/13/23 18:36:27]: <0x2401> Saving controller context... (24) {14435404}
+[05/13/23 18:36:33]: <0x3B06> No se puede completar el movimiento: el destino está fuera de alcance.(fuera de los límites de software del los ejes) {27c62880}
+[05/13/23 18:36:33]: <0x5404> ERR 150 Robot parado en un movimiento previo imposible (punto fuera de alcance, configuración del brazo incorrecta, o singularidad). moveRobot.  {ffa58356}
+[05/13/23 18:36:35]: <0x2401> Saving controller context... {bef8f07c}
+[05/13/23 18:36:56]: <0x2401> Saving controller context... (3) {9662d0b6}
+[05/13/23 18:36:56]: <0x5A02> Deadman disabled. {5329796a}
+[05/13/23 18:36:56]: <0x5A03> Deadman validated {95e7f4f8}
+[05/13/23 18:36:57]: <0x1604> Desactivación de la potencia del brazo... {baf8a01c}
+[05/13/23 18:36:58]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {dd147fb7}
+[05/13/23 18:37:00]: <0x5A02> Deadman disabled. {35a6006a}
+[05/13/23 18:37:00]: <0x5A03> Deadman validated {d8e659dc}
+[05/13/23 18:37:02]: <0x2401> Saving controller context... {fbd1f8ae}
+[05/13/23 18:37:57]: <0x5A01> Deadman enabled. {f48d3cf5}
+[05/13/23 18:53:03]: <0x2402> COM-PC: create session 127.0.0.1 on port 54614 id=#42206128 {6d11ca99}
+[05/13/23 18:53:03]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {b716a35a}
+[05/13/23 18:53:03]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {0b2cc086}
+[05/13/23 18:53:03]: <0x5403> Simulation Aplicación parada {1a7e9677}
+[05/13/23 18:53:03]: <0x5402> Simulation Aplicación arrancada {c67002b0}
+[05/13/23 18:53:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 54614 id=#42206128 {35a7cfb1}
+[05/13/23 18:57:59]: <0x5A02> Deadman disabled. {68a9d636}
+[05/13/23 18:57:59]: <0x5A03> Deadman validated {6fc36a45}
+[05/13/23 18:58:00]: <0x1603> Habilitando la potencia del brazo... {0f5ee87a}
+[05/13/23 18:58:02]: <0x1601> Potencia del brazo habilitada. {52e47c4b}
+[05/13/23 18:58:07]: <0x2401> Saving controller context... {a911db69}
+[05/13/23 18:58:32]: <0x3B06> No se puede completar el movimiento: el destino está fuera de alcance.(fuera de los límites de software del los ejes) {b3042bd7}
+[05/13/23 18:58:32]: <0x5404> ERR 150 Robot parado en un movimiento previo imposible (punto fuera de alcance, configuración del brazo incorrecta, o singularidad). moveRobot.  {61110509}
+[05/13/23 18:58:35]: <0x2401> Saving controller context... {1314a337}
+[05/13/23 18:58:56]: <0x2401> Saving controller context... (3) {ab87d9c2}
+[05/13/23 18:58:58]: <0x5A02> Deadman disabled. {22bdb83c}
+[05/13/23 18:58:58]: <0x5A03> Deadman validated {ec401422}
+[05/13/23 18:58:59]: <0x1604> Desactivación de la potencia del brazo... {909d8d13}
+[05/13/23 18:59:00]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {6facee72}
+[05/13/23 18:59:03]: <0x2401> Saving controller context... {c45ad80b}
+[05/13/23 18:59:15]: <0x5A01> Deadman enabled. {780f0238}
+[05/13/23 18:59:55]: <0x5A02> Deadman disabled. {98380d9c}
+[05/13/23 18:59:55]: <0x5A03> Deadman validated {5c41c741}
+[05/13/23 18:59:55]: <0x1603> Habilitando la potencia del brazo... {89e065f6}
+[05/13/23 18:59:55]: <0x1601> Potencia del brazo habilitada. {ebd85d06}
+[05/13/23 18:59:56]: <0x3F1B> Modo de movimiento manual: Connect {f79245c3}
+[05/13/23 19:00:00]: <0x2402> COM-PC: create session 127.0.0.1 on port 54746 id=#42148040 {d7afb1cf}
+[05/13/23 19:00:01]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {ffc0b614}
+[05/13/23 19:00:01]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c410ca61}
+[05/13/23 19:00:01]: <0x3F1B> Modo de movimiento manual: Disabled {1bb7a789}
+[05/13/23 19:00:01]: <0x5403> Simulation Aplicación parada {311b655a}
+[05/13/23 19:00:01]: <0x3F10> Fin del movimiento de conexión. {513875a3}
+[05/13/23 19:00:03]: <0x5402> Simulation Aplicación arrancada {708143a6}
+[05/13/23 19:00:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 54746 id=#42148040 {c58423aa}
+[05/13/23 19:00:06]: <0x2401> Saving controller context... {30f0b242}
+[05/13/23 19:00:46]: <0x2401> Saving controller context... (5) {2c7c8ebf}
+[05/13/23 19:00:53]: <0x5A01> Deadman enabled. {357bdc02}
+[05/13/23 19:00:54]: <0x2401> Saving controller context... {50fd4029}
+[05/13/23 19:00:59]: <0x3B06> No se puede completar el movimiento: el destino está fuera de alcance.(fuera de los límites de software del los ejes) {d14a6eb4}
+[05/13/23 19:00:59]: <0x5404> ERR 150 Robot parado en un movimiento previo imposible (punto fuera de alcance, configuración del brazo incorrecta, o singularidad). moveRobot.  {5b62ae38}
+[05/13/23 19:01:02]: <0x2401> Saving controller context... {43c14b32}
+[05/13/23 19:06:53]: <0x2401> Saving controller context... (49) {8ec87d4b}
+[05/13/23 19:06:56]: <0x2402> COM-PC: create session 127.0.0.1 on port 54746 id=#42148144 {66ce470b}
+[05/13/23 19:06:56]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {f8384ffb}
+[05/13/23 19:06:56]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {4ed5b6ee}
+[05/13/23 19:06:56]: <0x5403> Simulation Aplicación parada {896f3bf6}
+[05/13/23 19:06:56]: <0x5402> Simulation Aplicación arrancada {ac03d386}
+[05/13/23 19:06:56]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 54746 id=#42148144 {d6538a77}
+[05/13/23 19:06:58]: <0x2401> Saving controller context... {0f16a5c9}
+[05/13/23 19:07:06]: <0x2401> Saving controller context... (1) {07e0ded1}
+[05/13/23 19:07:09]: <0x5A02> Deadman disabled. {b4f52097}
+[05/13/23 19:07:09]: <0x5A03> Deadman validated {c35bf604}
+[05/13/23 19:07:10]: <0x1604> Desactivación de la potencia del brazo... {12118c79}
+[05/13/23 19:07:11]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {9cfc432f}
+[05/13/23 19:07:12]: <0x5A02> Deadman disabled. {bdfa1ea6}
+[05/13/23 19:07:12]: <0x5A03> Deadman validated {5d5a9c6b}
+[05/13/23 19:07:13]: <0x1603> Habilitando la potencia del brazo... {e2318bda}
+[05/13/23 19:07:13]: <0x1601> Potencia del brazo habilitada. {9b99c0ad}
+[05/13/23 19:07:14]: <0x2401> Saving controller context... {60b4f45d}
+[05/13/23 19:08:05]: <0x2401> Saving controller context... (4) {339f53b3}
+[05/13/23 19:08:08]: <0x5A01> Deadman enabled. {4215d48e}
+[05/13/23 19:08:13]: <0x2401> Saving controller context... {8b9d61b3}
+[05/13/23 19:09:02]: <0x2401> Saving controller context... (7) {b2ca04de}
+[05/13/23 19:09:04]: <0x5A02> Deadman disabled. {167af675}
+[05/13/23 19:09:04]: <0x5A03> Deadman validated {201d5ad0}
+[05/13/23 19:09:05]: <0x1604> Desactivación de la potencia del brazo... {86c9bda4}
+[05/13/23 19:09:06]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {57ae0cc8}
+[05/13/23 19:09:08]: <0x2401> Saving controller context... {d31dd4b6}
+[05/13/23 19:09:21]: <0x5A01> Deadman enabled. {c3e7f763}
+[05/13/23 19:12:28]: <0x2401> Watchdog occurs in Cs8 priority:75 {2cf09e04}
+[05/13/23 19:14:48]: <0x2401> Watchdog occurs in Cs8 priority:75 (1) {0b6971e3}
+[05/13/23 19:14:58]: <0x5A02> Deadman disabled. {9465060a}
+[05/13/23 19:14:58]: <0x5A03> Deadman validated {fce0a879}
+[05/13/23 19:15:06]: <0x2402> COM-PC: create session 127.0.0.1 on port 55035 id=#45074528 {b8633c55}
+[05/13/23 19:15:06]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {2a6ab505}
+[05/13/23 19:15:06]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {5b7576ca}
+[05/13/23 19:15:06]: <0x5403> Simulation Aplicación parada {a5b18a8d}
+[05/13/23 19:15:06]: <0x5402> Simulation Aplicación arrancada {fbd7aec9}
+[05/13/23 19:15:06]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55035 id=#45074528 {e830557c}
+[05/13/23 19:15:55]: <0x5A01> Deadman enabled. {3d2b292d}
+[05/13/23 19:16:28]: <0x2402> COM-PC: create session 127.0.0.1 on port 55035 id=#42205920 {6198d0cf}
+[05/13/23 19:16:28]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {caf550db}
+[05/13/23 19:16:28]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c7d7811d}
+[05/13/23 19:16:28]: <0x5403> Simulation Aplicación parada {1de7885e}
+[05/13/23 19:16:29]: <0x5402> Simulation Aplicación arrancada {815c0355}
+[05/13/23 19:16:29]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55035 id=#42205920 {93fe0112}
+[05/13/23 19:16:46]: <0x5A02> Deadman disabled. {011ecb1c}
+[05/13/23 19:16:46]: <0x5A03> Deadman validated {804a6f80}
+[05/13/23 19:16:47]: <0x1603> Habilitando la potencia del brazo... {8fefe361}
+[05/13/23 19:16:49]: <0x1601> Potencia del brazo habilitada. {b37d3c12}
+[05/13/23 19:17:00]: <0x2401> Saving controller context... {c11fb749}
+[05/13/23 19:17:13]: <0x2401> Saving controller context... (2) {43a9c741}
+[05/13/23 19:17:19]: <0x5A02> Deadman disabled. {5dceb006}
+[05/13/23 19:17:19]: <0x5A03> Deadman validated {0f9a994b}
+[05/13/23 19:17:20]: <0x1604> Desactivación de la potencia del brazo... {0ea325bb}
+[05/13/23 19:17:21]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {76252a66}
+[05/13/23 19:17:23]: <0x2401> Saving controller context... {8e684fbb}
+[05/13/23 19:17:35]: <0x5A01> Deadman enabled. {b6be7d6f}
+[05/13/23 19:17:55]: <0x5A02> Deadman disabled. {cdaf2e91}
+[05/13/23 19:17:55]: <0x5A03> Deadman validated {e501c4f3}
+[05/13/23 19:17:55]: <0x1603> Habilitando la potencia del brazo... {eb27876d}
+[05/13/23 19:17:56]: <0x1601> Potencia del brazo habilitada. {7915d08e}
+[05/13/23 19:17:56]: <0x3F1B> Modo de movimiento manual: Connect {366a07cf}
+[05/13/23 19:18:01]: <0x2402> COM-PC: create session 127.0.0.1 on port 55104 id=#42206544 {8f446748}
+[05/13/23 19:18:01]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {cb3e6424}
+[05/13/23 19:18:01]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {f341191d}
+[05/13/23 19:18:01]: <0x3F1B> Modo de movimiento manual: Disabled {da1ce72d}
+[05/13/23 19:18:01]: <0x5403> Simulation Aplicación parada {e9d152db}
+[05/13/23 19:18:01]: <0x3F10> Fin del movimiento de conexión. {e8f3d786}
+[05/13/23 19:18:01]: <0x5402> Simulation Aplicación arrancada {5171a675}
+[05/13/23 19:18:01]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55104 id=#42206544 {ffffeba2}
+[05/13/23 19:18:02]: <0x2401> Saving controller context... {2c72c606}
+[05/13/23 19:18:44]: <0x2401> Saving controller context... (6) {dabf6306}
+[05/13/23 19:18:52]: <0x5A01> Deadman enabled. {bbea6fa6}
+[05/13/23 19:18:52]: <0x2401> Saving controller context... {21d9a418}
+[05/13/23 19:19:33]: <0x2401> Saving controller context... (6) {a03b0c7e}
+[05/13/23 19:19:39]: <0x5A02> Deadman disabled. {3d2117dc}
+[05/13/23 19:19:39]: <0x5A03> Deadman validated {8e5d75a7}
+[05/13/23 19:19:40]: <0x1604> Desactivación de la potencia del brazo... {2e80a5bd}
+[05/13/23 19:19:41]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {352dc830}
+[05/13/23 19:19:43]: <0x2401> Saving controller context... {02d503ed}
+[05/13/23 19:19:55]: <0x5A01> Deadman enabled. {f5dc38ad}
+[05/13/23 19:22:30]: <0x1603> Habilitando la potencia del brazo... {2d95995a}
+[05/13/23 19:22:30]: <0x1601> Potencia del brazo habilitada. {c68c4062}
+[05/13/23 19:22:31]: <0x3F1B> Modo de movimiento manual: Connect {4a75f768}
+[05/13/23 19:22:41]: <0x2401> Saving controller context... {8b5b3a93}
+[05/13/23 19:22:47]: <0x2401> Saving controller context... (1) {5f74b804}
+[05/13/23 19:22:47]: <0x2402> COM-PC: create session 127.0.0.1 on port 55206 id=#42329472 {96acec36}
+[05/13/23 19:22:47]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {682c6e53}
+[05/13/23 19:22:47]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {1f025074}
+[05/13/23 19:22:47]: <0x3F1B> Modo de movimiento manual: Disabled {3a73dad3}
+[05/13/23 19:22:47]: <0x5403> Simulation Aplicación parada {a41b2796}
+[05/13/23 19:22:47]: <0x3F10> Fin del movimiento de conexión. {410cd918}
+[05/13/23 19:22:48]: <0x5402> Simulation Aplicación arrancada {6f292f5e}
+[05/13/23 19:22:48]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55206 id=#42329472 {3e9b66b2}
+[05/13/23 19:22:54]: <0x2401> Saving controller context... {27e8fd5d}
+[05/13/23 19:23:08]: <0x2401> Saving controller context... (2) {45be8c9d}
+[05/13/23 19:23:12]: <0x5A02> Deadman disabled. {4e09d3b4}
+[05/13/23 19:23:12]: <0x5A03> Deadman validated {f0fe3f13}
+[05/13/23 19:23:13]: <0x1604> Desactivación de la potencia del brazo... {07270a33}
+[05/13/23 19:23:14]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {f0498900}
+[05/13/23 19:23:17]: <0x2401> Saving controller context... {4db2230d}
+[05/13/23 19:23:28]: <0x5A01> Deadman enabled. {0a86e9ed}
+[05/13/23 19:24:43]: <0x5A02> Deadman disabled. {fc5cd0af}
+[05/13/23 19:24:43]: <0x5A03> Deadman validated {41cb3d0d}
+[05/13/23 19:24:51]: <0x2402> COM-PC: create session 127.0.0.1 on port 55251 id=#42311080 {6670b2a5}
+[05/13/23 19:24:51]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {3faed75c}
+[05/13/23 19:24:51]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {b8c118c3}
+[05/13/23 19:24:51]: <0x5403> Simulation Aplicación parada {ecd3bfb7}
+[05/13/23 19:24:51]: <0x5402> Simulation Aplicación arrancada {cc7b5f89}
+[05/13/23 19:24:51]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55251 id=#42311080 {164f20c4}
+[05/13/23 19:25:01]: <0x5A02> Deadman disabled. {c1cf9efd}
+[05/13/23 19:25:01]: <0x5A03> Deadman validated {a748ef7d}
+[05/13/23 19:25:01]: <0x1603> Habilitando la potencia del brazo... {a299b062}
+[05/13/23 19:25:03]: <0x1601> Potencia del brazo habilitada. {0d0eb8ff}
+[05/13/23 19:25:13]: <0x2401> Saving controller context... {36c4e557}
+[05/13/23 19:26:03]: <0x2401> Saving controller context... (7) {459dab2c}
+[05/13/23 19:26:03]: <0x5A01> Deadman enabled. {1405f0a4}
+[05/13/23 19:26:10]: <0x2401> Saving controller context... {ded4de56}
+[05/13/23 19:26:55]: <0x2401> Saving controller context... (6) {c2c3e591}
+[05/13/23 19:26:56]: <0x5A02> Deadman disabled. {1d2e61fa}
+[05/13/23 19:26:56]: <0x5A03> Deadman validated {f6428bd4}
+[05/13/23 19:26:57]: <0x1604> Desactivación de la potencia del brazo... {7a5e601d}
+[05/13/23 19:26:58]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {ee850118}
+[05/13/23 19:27:00]: <0x2401> Saving controller context... {eb931944}
+[05/13/23 19:27:12]: <0x5A01> Deadman enabled. {55e93fa2}
+[05/13/23 19:28:09]: <0x2401> Watchdog occurs in Cs8 priority:75 {7c2ccda2}
+[05/13/23 19:41:14]: <0x2402> MCP communication disconnected {e5d5f9f5}
+[05/13/23 19:41:24]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53934 id=#42708720 {d458893f}
