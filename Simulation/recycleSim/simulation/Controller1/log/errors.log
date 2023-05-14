@@ -7232,3 +7232,40 @@ Mcp = connected
 [05/13/23 19:28:09]: <0x2401> Watchdog occurs in Cs8 priority:75 {7c2ccda2}
 [05/13/23 19:41:14]: <0x2402> MCP communication disconnected {e5d5f9f5}
 [05/13/23 19:41:24]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53934 id=#42708720 {d458893f}
+[05/13/23 21:24:19]: ----------------------------------------------- {b6fc2fef}
+[05/13/23 21:24:19]: Registro iniciado (1048576) {0152eef4}
+[05/13/23 21:24:24]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {83d965e5}
+[05/13/23 21:24:24]: <0x0003> Cycle time set to 0.004s {40ddd0a4}
+[05/13/23 21:24:24]: <0x0003> Simulation cycle time set to 0.1s {7e3208c6}
+[05/13/23 21:24:24]: <0x0002> Controller IP address could not be updated {5be9a56f}
+[05/13/23 21:24:24]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {6b97f0b9}
+[05/13/23 21:24:24]: <0x0001> Error while trying to build User serial 2 {673cf5a8}
+[05/13/23 21:24:24]: <0x0002> Default user payload used. {dad52368}
+[05/13/23 21:24:24]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {be7af63c}
+[05/13/23 21:24:24]: <0x2401> Horas con potencia =18:27:55 {5d20763c}
+[05/13/23 21:24:24]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {53d63f9c}
+[05/13/23 21:24:25]: <0x0003> Mcp = TSimulated {478f6781}
+[05/13/23 21:24:25]: <0x340A> Mcp communication established {40cd6b2e}
+[05/13/23 21:24:25]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {b6628191}
+[05/13/23 21:24:26]: <0x1805> Modo de trabajo:inválido. {58fec5f4}
+[05/13/23 21:24:26]: <0x0003> COM-PC: server created on all interfaces [851] {53ae7a12}
+[05/13/23 21:24:28]: <0x2402> History handler has been connected to IHM {6cfd1399}
+[05/13/23 21:24:28]: <0x2401> System: s7.11.2 Feb 24 2020 {90f8a633}
+[05/13/23 21:24:28]: <0x2401> Kernel: Unknown  {dcf68b53}
+[05/13/23 21:24:28]: <0x2401> Configuration Version: c1.046  {15d556f5}
+[05/13/23 21:24:28]: <0x2401> CPU: TEKNOR  {d6976eaa}
+[05/13/23 21:24:28]: <0x2401> Option testMode: enabled  {39524038}
+[05/13/23 21:24:28]: <0x2401> Option VAL 3: enabled  {29be7532}
+[05/13/23 21:24:28]: <0x2401> N/S del controlador: : ?  {5baf0cff}
+[05/13/23 21:24:28]: <0x2401> Brazo: tx60-S1-R4 suelo {4a265b00}
+[05/13/23 21:24:28]: <0x2401> N/S del brazo:: ?  {7bbc0d72}
+[05/13/23 21:24:28]: <0x2401> Tipo de aceite:   {8922db34}
+[05/13/23 21:24:28]: <0x2401> Nombre del robot:   {88139fc6}
+[05/13/23 21:24:28]: <0x2401> EP: s7.11.2 Feb 24 2020 {5370c526}
+[05/13/23 21:24:28]: <0x2401> EP10: s7.11.2 Feb 24 2020 {dfc93b6b}
+[05/13/23 21:24:28]: <0x2401> SCA: s7.11.2 Feb 24 2020 {7334eef9}
+[05/13/23 21:24:28]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {49af3211}
+[05/13/23 21:24:28]: <0x2201> Nuevo perfil : default {bab904c3}
+[05/13/23 21:24:28]: <0x2401> End of controller initialization 0 {611f04f6}
+[05/13/23 21:24:28]: <0x1801> Modo de trabajo:automático. {f8de7d3f}
+[05/13/23 21:25:34]: <0x2402> MCP communication disconnected {804bb41f}

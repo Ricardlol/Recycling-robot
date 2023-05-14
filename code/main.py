@@ -32,7 +32,7 @@ if data == b'I':
         leido, frame = cap.read()
 
         if leido:
-            nameFoto = str(uuid.uuid4()) + ".png" # uuid4 regresa un objeto, no una cadena. Por eso lo convertimos
+            nameFoto = './img/' +str(uuid.uuid4()) + ".png" # uuid4 regresa un objeto, no una cadena. Por eso lo convertimos
             print("Foto tomada correctamente con el nombre {}".format(nameFoto))
             cv2.imwrite(nameFoto, frame)
 

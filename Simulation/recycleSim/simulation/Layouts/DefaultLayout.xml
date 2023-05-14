@@ -22,7 +22,7 @@
 				<UIElement xsi:type="SplitContainer" Orientation="Vertical" DockedSize="533,876">
 					<UIElement xsi:type="Workspace">
 						<Content xsi:type="TabbedMdiHost">
-							<Content xsi:type="TabbedMdiContainer" DockedSize="533,662" SelectedWindowUniqueId="4c8a2a14-4288-4e81-bf86-96ef22581333" />
+							<Content xsi:type="TabbedMdiContainer" SelectedWindowUniqueId="08841bc7-3a1b-4d28-83f9-fd007c1823db" />
 						</Content>
 					</UIElement>
 					<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
@@ -100,7 +100,7 @@
 		<ToolWindow UniqueId="6f090ec0-c99e-4aca-973e-905be55b973c" Name="CallTree" IsOpen="false" LastActiveDateTime="2023-04-14T14:07:01.3914268+02:00" StandardMdiBounds="0,0,300,200" State="Docked" />
 		<ToolWindow UniqueId="1a5ef5f6-b295-4443-9b5d-5e50bcc004f8" Name="Geometry" ContainerDockedSize="345,243" IsOpen="true" LastActiveDateTime="2023-04-30T12:10:17.5516035+02:00" StandardMdiBounds="0,0,300,200" State="Docked" />
 		<ToolWindow UniqueId="06d03f51-3499-4aaf-8fcf-f5474d1ce325" Name="Data" ContainerDockedSize="345,243" IsOpen="true" LastActiveDateTime="2023-05-13T18:24:49.2546662+02:00" StandardMdiBounds="0,0,300,200" State="Docked" />
-		<ToolWindow UniqueId="3dee95ba-ff20-4757-9457-68b527aaa48d" Name="CellExplorer" ContainerDockedSize="345,243" IsOpen="true" LastActiveDateTime="2023-05-13T19:31:55.4383997+02:00" StandardMdiBounds="0,0,300,200" State="Docked" />
+		<ToolWindow UniqueId="3dee95ba-ff20-4757-9457-68b527aaa48d" Name="CellExplorer" ContainerDockedSize="345,243" IsOpen="true" LastActiveDateTime="2023-05-13T21:25:20.4627924+02:00" StandardMdiBounds="0,0,300,200" State="Docked" />
 		<ToolWindow UniqueId="25838486-425f-49d2-91b1-32803c688129" Name="FindAndReplace" IsOpen="false" StandardMdiBounds="0,0,300,200" State="Docked" />
 		<ToolWindow UniqueId="4478f260-d6ed-45ea-8321-f075dae88982" Name="FindResults" IsOpen="false" StandardMdiBounds="0,0,300,200" State="Docked" />
 		<ToolWindow UniqueId="59225f2f-c9b1-4148-b052-0c0a6b60a81b" Name="Breakpoints" IsOpen="false" LastActiveDateTime="2023-04-14T14:09:39.793227+02:00" StandardMdiBounds="0,0,300,200" State="Docked" />
@@ -121,7 +121,7 @@
 		<ToolWindow UniqueId="8b277c6a-fad1-48b1-938e-51656e21818b" Name="IoStates" ContainerDockedSize="376,660" IsOpen="false" LastActiveDateTime="2023-04-25T21:18:53.9215358+02:00" State="Docked" />
 		<ToolWindow UniqueId="c9274c85-4013-492f-90d0-c1edab5a8f97" Name="EmulatorVersions" ContainerDockedSize="1538,1200" IsOpen="false" StandardMdiBounds="0,0,300,200" State="Document" />
 		<ToolWindow UniqueId="a762abb8-6820-46e9-b838-71a567a4b7b6" Name="LicenceManager" IsOpen="false" LastActiveDateTime="2023-04-23T14:05:37.5801046+02:00" State="Document" />
-		<ToolWindow UniqueId="aea1b0df-2795-45fc-a1af-7f5ffbb67cd8" Name="_DN_a514df58cc193a9c36d3c887b4920eb6" ContainerDockedSize="345,413" IsOpen="true" LastActiveDateTime="2023-05-13T19:24:51.9485882+02:00" State="Docked">
+		<ToolWindow UniqueId="aea1b0df-2795-45fc-a1af-7f5ffbb67cd8" Name="_DN_a514df58cc193a9c36d3c887b4920eb6" ContainerDockedSize="345,413" IsOpen="true" LastActiveDateTime="2023-05-13T21:24:27.5565118+02:00" State="Docked">
 			<Tag xsi:type="xsd:string">SRS.Emulator.Views.EmulatorCs8View?Controller=Controller1</Tag>
 		</ToolWindow>
 	</ToolWindows>
