@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="pantalla">
+    <Code><![CDATA[begin
+  userPage()
+  cls()
+  title("Start to recicling")
+  gotoxy(35,13)
+  put("EXIT")
+  do
+    gotoxy(0,6)
+    //put("Value PLC:")
+    //putln(nRecvPLC)
+    gotoxy(0,1)
+    put("Port 11001:")
+    gotoxy(12,1)
+    switch nConnection
+      case -1
+        put("Waiting connection")
+      break
+      case 1
+        putln("Connected succesful")
+        put("Go to bin: ")
+        switch nRecvData
+          case 48
+            putln("Yellow")
+          break
+          case 49
+            putln("Blue")
+          break
+          case 50
+            putln("Green")
+          break
+          case 51
+            putln("Brown")
+          break
+          default
+            putln("Bin selected no correct")
+          break
+        endSwitch
+      break
+      case 0
+        putln("Stopped Connection")
+      break
+      default
+        put("Connection lose")
+      break
+    endSwitch
+  until 1==2
+end]]></Code>
+  </Program>
+</Programs>

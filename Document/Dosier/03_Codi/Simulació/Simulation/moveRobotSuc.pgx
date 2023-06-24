@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="moveRobotSuc">
+    <Code><![CDATA[begin
+  movej(JHome,tToolSuccion, mNomSpeed)
+  waitEndMove()
+  movej(JApproach1,tToolSuccion, mNomSpeed)
+  waitEndMove()
+  do
+    movel(pTable,tToolSuccion, mNomSpeed)
+    waitEndMove()
+    sioGet(sPlc, nRecvPLC)
+    if nRecvPLC == 100
+      sioSet(sSocket, 82)
+      movej(jAproachCinta, tToolSuccion, mNomSpeed)
+      waitEndMove()
+      movej(jGetCinta, tToolSuccion, mNomSpeed)
+      waitEndMove()
+      close(tToolSuccion)
+      waitEndMove()
+      nConnection = sioGet(sSocket, nRecvData)
+      switch nRecvData
+        case 48
+          movej(jGetPlaGlaCinta, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        case 49
+          movej(jGetPaperCinta, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        case 50
+          movej(jGetPlaGlaCinta, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        case 51
+          movej(jGetPlaGlaCinta, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        default
+          putln("Bin selected no correct")
+          break
+      endSwitch
+      movel(pApprBins, tToolSuccion, mNomSpeed)
+      waitEndMove()
+      switch nRecvData
+        case 48
+          movel(pBinYellow, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        case 49
+          movel(pBinBlue, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        case 50
+          movel(pBinGreen, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        case 51
+          movel(pBinBrown, tToolSuccion, mNomSpeed)
+          waitEndMove()
+        break
+        default
+          putln("Bin selected no correct")
+        break
+      endSwitch
+      open(tToolSuccion)
+      waitEndMove()
+      nRecvPLC=0
+      clearBuffer(sPlc)
+    endIf
+  until 1==2
+end]]></Code>
+  </Program>
+</Programs>

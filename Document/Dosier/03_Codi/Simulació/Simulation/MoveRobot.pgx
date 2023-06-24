@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="moveRobot">
+    <Code><![CDATA[begin
+  movej(JHome,tToolGripper, mNomSpeed)
+  waitEndMove()
+  movej(JApproach1,tToolGripper, mNomSpeed)
+  waitEndMove()
+  do
+    movel(pTable,tToolGripper, mNomSpeed)
+    waitEndMove()
+    sioGet(sPlc, nRecvPLC)
+    if nRecvPLC == 100
+      sioSet(sSocket, 82)
+      movej(jAproachCinta, tToolGripper, mNomSpeed)
+      waitEndMove()
+      close(tToolGripper)
+      waitEndMove()
+      movej(jGetCinta, tToolGripper, mNomSpeed)
+      waitEndMove()
+      open(tToolGripper)
+      waitEndMove()
+      movej(jAproachCinta, tToolGripper, mNomSpeed)
+      waitEndMove()
+      movel(pApprBins, tToolGripper, mNomSpeed)
+      waitEndMove()
+      nConnection = sioGet(sSocket, nRecvData)
+    switch nRecvData
+      case 48
+        movej(jBinYellow, tToolGripper, mNomSpeed)
+        waitEndMove()
+      break
+      case 49
+        movel(pBinBlue, tToolGripper, mNomSpeed)
+        waitEndMove()
+      break
+      case 50
+        movej(jBinGreen, tToolGripper, mNomSpeed)
+        waitEndMove()
+      break
+      case 51
+        movel(pBinBrown, tToolGripper, mNomSpeed)
+        waitEndMove()
+      break
+      default
+        putln("Bin selected no correct")
+      break
+    endSwitch
+      close(tToolGripper)
+      waitEndMove()
+      delay(5)
+      open(tToolGripper)
+      waitEndMove()
+      nRecvPLC=0
+      clearBuffer(sPlc)
+    endIf
+  until 1==2
+end]]></Code>
+  </Program>
+</Programs>

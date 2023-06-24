@@ -6,7 +6,7 @@ import classModels
 imageSize = (224, 224)
 batch_size = 32
 names_class = ['blue', 'green', 'organic', 'yellow']
-
+"""
 train_path = './dataset/train'
 test_path = './dataset/test'
 validation_path = './dataset/valid'
@@ -60,8 +60,8 @@ print("dataset Augmented")
 epoch = 20
 steps = int(train_batches.samples / 35)
 val_steps = int(valid_batches.samples / 35)
-
-secondModel = classModels.modelsDenseNet121(epoch, steps, val_steps, train_batches, valid_batches, test_batches, test_batches_nopre, True)
+"""
+#secondModel = classModels.modelsDenseNet121(epoch, steps, val_steps, train_batches, valid_batches, test_batches, test_batches_nopre, True)
 
 #secondModel.baseModelDenseNet121()
 
@@ -74,8 +74,7 @@ secondModel = classModels.modelsDenseNet121(epoch, steps, val_steps, train_batch
 #secondModel.save(" SecondModel")
 
 #secondModel.plotGraphics("SeconModel")
-
-secondModel.loadModel("modelUse")
+secondModel = classModels.modelsDenseNet121("modelUse")
 
 #secondModel.evaluateModel()
 
@@ -95,9 +94,7 @@ secondModel.loadModel("modelUse")
 
 #secondModel.testing(names_class)
 #secondModel.preprocesing(names_class)
-secondModel.myImages(names_class, "./dataset/myImages/yellow4(bgGreen).jpg")
-secondModel.myImages(names_class, "./dataset/myImages/test(bgGreen).jpg")
-secondModel.myImages(names_class, "./dataset/myImages/green5(bgGreen).jpg")
-secondModel.myImages(names_class, "./dataset/myImages/box1(bgGreen).jpg")
+secondModel.myImages(names_class, "./dataset/myImages/manzana.JPG")
+secondModel.myImages(names_class, "./dataset/myImages/manzana1.JPG")
 
 #secondModel.myImages(names_class, "./dataset/myImages/test2.JPG")

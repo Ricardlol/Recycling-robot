@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="statesRobot">
+    <Code><![CDATA[begin
+  bStop = false
+  bChangeTool = false
+  do
+    nkey = getKey()
+    if(nkey == 278)
+      bStop = true
+      userPage()
+      cls()
+      gotoxy(15,7)
+      put("FINAL PROGRAM")
+      taskKill("moveRobot")
+      taskKill("screen")
+      wait(taskStatus("moveRobot") == -1)
+      wait(taskStatus("screen") == -1)
+    endIf
+    //NEW not pt in the video 
+    if(nkey == 277)
+      taskSuspend("moveRobot")
+      movej(jChangeTool, tToolGripper, mNomSpeed)
+      waitEndMove()
+      userPage()
+      cls()
+      gotoxy(5,4)
+      putln("I wait for that you changed tool")
+      putln("When you changed the tool press:")
+      putln("Yes(Y) / No(N)")
+      do
+        nkey = getKey()
+        if(nkey == 89 or nkey == 121)
+          bChangeTool = true
+        endIf
+      until bChangeTool == true
+    endIf
+  until bStop == true
+  
+  
+end]]></Code>
+  </Program>
+</Programs>

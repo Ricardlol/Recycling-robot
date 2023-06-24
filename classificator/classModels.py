@@ -36,6 +36,8 @@ class modelsDenseNet121:
         self.optimization = optimization
         self.test_nopre = test_prepro
 
+    def __init__(self, nameModel):
+        self.loadModel(nameModel)
 
     # Create model Denset121
     def baseModelDenseNet121(self):

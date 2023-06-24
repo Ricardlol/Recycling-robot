@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="start">
+    <Code><![CDATA[begin
+  call startingSockets()
+  taskCreate "stateRobot", 1, statesRobot()
+  taskCreate "moveRobot", 1, moveRobot()
+  //taskCreate "moveRobot", 1, moveRobotSuc()
+  taskCreate "screen", 1, pantalla()
+end]]></Code>
+  </Program>
+</Programs>
