@@ -83,8 +83,11 @@ class modelsDenseNet121:
         else:
             self.predic = self.model.predict(x=self.testData, verbose=1, steps=self.val_steps)
 
-    def evaluateModel(self):
-        self.model.evaluate(x=self.testData, verbose=1, steps=self.val_steps)
+    def evaluateModel(self, preproc):
+        if preproc:
+            self.model.evaluate(x=self.test_nopre, verbose=1, steps=self.val_steps)
+        else:
+            self.model.evaluate(x=self.testData, verbose=1, steps=self.val_steps)
     def plotGraphics(self, title):
         plt.title('Training Loss vs Validarion Loss ' + title)
         plt.plot(self.historic.history['loss'], color='blue', label='train')

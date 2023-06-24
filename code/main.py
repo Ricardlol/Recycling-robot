@@ -13,7 +13,10 @@ sock.connect(server_address)
 print("Success Connect")
 data = sock.recv(16)
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
+
+leido, frame = cap.read()
+cv2.imwrite("./background.png", frame)
 
 names_class = ['blue', 'green', 'organic', 'yellow']
 model = classModels.modelsDenseNet121("modelUse")
