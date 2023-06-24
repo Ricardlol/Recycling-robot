@@ -2,48 +2,57 @@
 <Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
   <Program name="moveRobot">
     <Code><![CDATA[begin
-  movej(JHome,tToolSuccion, mNomSpeed)
+  movej(JHome,tToolGripper, mNomSpeed)
   waitEndMove()
-  movej(JApproach1,tToolSuccion, mNomSpeed)
+  movej(JApproach1,tToolGripper, mNomSpeed)
   waitEndMove()
   do
-    movel(pTable,tToolSuccion, mNomSpeed)
+    movel(pTable,tToolGripper, mNomSpeed)
     waitEndMove()
     sioGet(sPlc, nRecvPLC)
     if nRecvPLC == 100
       sioSet(sSocket, 82)
-      movej(jAproachCinta, tToolSuccion, mNomSpeed)
+      movej(jAproachCinta, tToolGripper, mNomSpeed)
       waitEndMove()
-      movej(jGetCinta, tToolSuccion, mNomSpeed)
+      close(tToolGripper)
       waitEndMove()
-      close(tToolSuccion)
+      movej(jGetCinta, tToolGripper, mNomSpeed)
       waitEndMove()
-      movel(pApprBins, tToolSuccion, mNomSpeed)
+      open(tToolGripper)
+      waitEndMove()
+      movej(jAproachCinta, tToolGripper, mNomSpeed)
+      waitEndMove()
+      movel(pApprBins, tToolGripper, mNomSpeed)
       waitEndMove()
       nConnection = sioGet(sSocket, nRecvData)
     switch nRecvData
       case 48
-        movel(pBinYellow, tToolSuccion, mNomSpeed)
+        movej(jBinYellow, tToolGripper, mNomSpeed)
         waitEndMove()
       break
       case 49
-        movel(pBinBlue, tToolSuccion, mNomSpeed)
+        movel(pBinBlue, tToolGripper, mNomSpeed)
         waitEndMove()
       break
       case 50
-        movel(pBinGreen, tToolSuccion, mNomSpeed)
+        movej(jBinGreen, tToolGripper, mNomSpeed)
         waitEndMove()
       break
       case 51
-        movel(pBinBrown, tToolSuccion, mNomSpeed)
+        movel(pBinBrown, tToolGripper, mNomSpeed)
         waitEndMove()
       break
       default
         putln("Bin selected no correct")
       break
     endSwitch
-      open(tToolSuccion)
+      close(tToolGripper)
       waitEndMove()
+      delay(5)
+      open(tToolGripper)
+      waitEndMove()
+      nRecvPLC=0
+      clearBuffer(sPlc)
     endIf
   until 1==2
 end]]></Code>

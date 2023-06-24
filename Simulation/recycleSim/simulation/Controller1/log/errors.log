@@ -7269,3 +7269,1452 @@ Mcp = connected
 [05/13/23 21:24:28]: <0x2401> End of controller initialization 0 {611f04f6}
 [05/13/23 21:24:28]: <0x1801> Modo de trabajo:automático. {f8de7d3f}
 [05/13/23 21:25:34]: <0x2402> MCP communication disconnected {804bb41f}
+[05/15/23 10:17:42]: ----------------------------------------------- {bf62cae1}
+[05/15/23 10:17:42]: Registro iniciado (1048576) {45bf1ae2}
+[05/15/23 10:17:47]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {ef522e07}
+[05/15/23 10:17:47]: <0x0003> Cycle time set to 0.004s {9ffa9dc7}
+[05/15/23 10:17:47]: <0x0003> Simulation cycle time set to 0.1s {b2197374}
+[05/15/23 10:17:47]: <0x0002> Controller IP address could not be updated {c6fad212}
+[05/15/23 10:17:47]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {ec5ad2f2}
+[05/15/23 10:17:47]: <0x0001> Error while trying to build User serial 2 {c335c750}
+[05/15/23 10:17:47]: <0x0002> Default user payload used. {d3e72cee}
+[05/15/23 10:17:47]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {84d38b27}
+[05/15/23 10:17:47]: <0x2401> Horas con potencia =18:27:55 {500d4b8d}
+[05/15/23 10:17:47]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {0fcdb4d1}
+[05/15/23 10:17:48]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {14ecf7dc}
+[05/15/23 10:17:49]: <0x0003> COM-PC: server created on all interfaces [851] {3e1e0e9e}
+[05/15/23 10:17:51]: <0x2402> History handler has been connected to IHM {27662aa8}
+[05/15/23 10:17:51]: <0x2401> System: s7.11.2 Feb 24 2020 {c1c87b9e}
+[05/15/23 10:17:51]: <0x2401> Kernel: Unknown  {7983950b}
+[05/15/23 10:17:51]: <0x2401> Configuration Version: c1.046  {cb3dd64d}
+[05/15/23 10:17:51]: <0x2401> CPU: TEKNOR  {01eed289}
+[05/15/23 10:17:51]: <0x2401> Option testMode: enabled  {fafbd163}
+[05/15/23 10:17:51]: <0x2401> Option VAL 3: enabled  {ca816182}
+[05/15/23 10:17:51]: <0x2401> N/S del controlador: : ?  {a1629df1}
+[05/15/23 10:17:51]: <0x2401> Brazo: tx60-S1-R4 suelo {89978a19}
+[05/15/23 10:17:51]: <0x2401> N/S del brazo:: ?  {c19a25ad}
+[05/15/23 10:17:51]: <0x2401> Tipo de aceite:   {18960a2d}
+[05/15/23 10:17:51]: <0x2401> Nombre del robot:   {31c6db30}
+[05/15/23 10:17:51]: <0x2401> EP: s7.11.2 Feb 24 2020 {03833a1a}
+[05/15/23 10:17:51]: <0x2401> EP10: s7.11.2 Feb 24 2020 {07f9a4b4}
+[05/15/23 10:17:51]: <0x2401> SCA: s7.11.2 Feb 24 2020 {2a6aba9c}
+[05/15/23 10:17:51]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {531a704c}
+[05/15/23 10:17:51]: <0x2201> Nuevo perfil : default {d3294471}
+[05/15/23 10:17:51]: <0x2401> End of controller initialization 0 {47cb2040}
+[05/15/23 10:18:04]: <0x2402> Mcp = TSimulated {42fbbda5}
+[05/15/23 10:18:04]: <0x340A> Mcp communication established {6165328d}
+[05/15/23 10:18:04]: <0x1801> Modo de trabajo:automático. {e8730356}
+[05/15/23 10:19:16]: <0x2402> MCP communication disconnected {0fcffc2e}
+[05/15/23 12:02:48]: ----------------------------------------------- {3f072d8e}
+[05/15/23 12:02:48]: Registro iniciado (1048576) {873f4f32}
+[05/15/23 12:02:53]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {3bfc5693}
+[05/15/23 12:02:53]: <0x0003> Cycle time set to 0.004s {a38f4eff}
+[05/15/23 12:02:53]: <0x0003> Simulation cycle time set to 0.1s {584bf8c1}
+[05/15/23 12:02:53]: <0x0002> Controller IP address could not be updated {b240cdd3}
+[05/15/23 12:02:53]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {a205ca48}
+[05/15/23 12:02:53]: <0x0001> Error while trying to build User serial 2 {8e2926ec}
+[05/15/23 12:02:53]: <0x0002> Default user payload used. {6e2c9477}
+[05/15/23 12:02:53]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {aeede9ea}
+[05/15/23 12:02:53]: <0x2401> Horas con potencia =18:27:55 {f334b64e}
+[05/15/23 12:02:53]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {fa91ab05}
+[05/15/23 12:02:55]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {46078488}
+[05/15/23 12:02:56]: <0x0003> COM-PC: server created on all interfaces [851] {c1ca32d5}
+[05/15/23 12:02:59]: <0x2402> History handler has been connected to IHM {79254d0a}
+[05/15/23 12:02:59]: <0x2401> System: s7.11.2 Feb 24 2020 {14089223}
+[05/15/23 12:02:59]: <0x2401> Kernel: Unknown  {ced4ff3d}
+[05/15/23 12:02:59]: <0x2401> Configuration Version: c1.046  {b38c0491}
+[05/15/23 12:02:59]: <0x2401> CPU: TEKNOR  {3f4b6ab1}
+[05/15/23 12:02:59]: <0x2401> Option testMode: enabled  {d49c89de}
+[05/15/23 12:02:59]: <0x2401> Option VAL 3: enabled  {e4c38310}
+[05/15/23 12:02:59]: <0x2401> N/S del controlador: : ?  {c383d36f}
+[05/15/23 12:02:59]: <0x2401> Brazo: tx60-S1-R4 suelo {4dc49ac0}
+[05/15/23 12:02:59]: <0x2401> N/S del brazo:: ?  {e3b763d2}
+[05/15/23 12:02:59]: <0x2401> Tipo de aceite:   {8cee03fa}
+[05/15/23 12:02:59]: <0x2401> Nombre del robot:   {0e6baccf}
+[05/15/23 12:02:59]: <0x2401> EP: s7.11.2 Feb 24 2020 {5b1fbe65}
+[05/15/23 12:02:59]: <0x2401> EP10: s7.11.2 Feb 24 2020 {c36a340b}
+[05/15/23 12:02:59]: <0x2401> SCA: s7.11.2 Feb 24 2020 {fb9c468c}
+[05/15/23 12:02:59]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {dc047a3e}
+[05/15/23 12:02:59]: <0x2201> Nuevo perfil : default {7c0cf2d4}
+[05/15/23 12:03:00]: <0x2401> End of controller initialization 0 {53ca0bb6}
+[05/15/23 12:03:05]: <0x2401> Saving controller context... {8a80b5eb}
+[05/15/23 12:03:05]: <0x2402> Temperatura del controlador: 28°C {43754fc4}
+[05/15/23 12:03:05]: <0x2402> Temperatura de la CPU: 28°C {3317e977}
+[05/15/23 12:03:18]: <0x2402> Mcp = TSimulated {ef9880ec}
+[05/15/23 12:03:18]: <0x340A> Mcp communication established {5dcdc627}
+[05/15/23 12:03:18]: <0x1801> Modo de trabajo:automático. {fdf89413}
+[05/15/23 12:03:28]: <0x2402> MCP communication disconnected {41067ceb}
+[05/15/23 12:03:29]: ----------------------------------------------- {433e4804}
+[05/15/23 12:03:29]: Registro iniciado (1048576) {e54f3faa}
+[05/15/23 12:03:34]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {2e4d69c8}
+[05/15/23 12:03:34]: <0x0003> Cycle time set to 0.004s {710b0de5}
+[05/15/23 12:03:34]: <0x0003> Simulation cycle time set to 0.1s {46913ad9}
+[05/15/23 12:03:34]: <0x0002> Controller IP address could not be updated {6f3268ff}
+[05/15/23 12:03:34]: <0x0003> Mcp = TSimulated {4af37204}
+[05/15/23 12:03:34]: <0x340A> Mcp communication established {e49a1bb8}
+[05/15/23 12:03:34]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {429d4e17}
+[05/15/23 12:03:34]: <0x0001> Error while trying to build User serial 2 {1f2efc32}
+[05/15/23 12:03:34]: <0x0002> Default user payload used. {655f1a14}
+[05/15/23 12:03:34]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {c549bec8}
+[05/15/23 12:03:34]: <0x2401> Horas con potencia =18:27:55 {37a05444}
+[05/15/23 12:03:34]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {d9b8e85d}
+[05/15/23 12:03:34]: <0x0003> COM-PC: server created on all interfaces [851] {5e0e9a5a}
+[05/15/23 12:03:34]: <0x2402> History handler has been connected to IHM {3ef56865}
+[05/15/23 12:03:34]: <0x2401> System: s7.11.2 Feb 24 2020 {20881060}
+[05/15/23 12:03:34]: <0x2401> Kernel: Unknown  {25280fb0}
+[05/15/23 12:03:34]: <0x2401> Configuration Version: c1.046  {c1f4ae25}
+[05/15/23 12:03:34]: <0x2401> CPU: TEKNOR  {633b1c75}
+[05/15/23 12:03:34]: <0x2401> Option testMode: enabled  {df8e292e}
+[05/15/23 12:03:34]: <0x2401> Option VAL 3: enabled  {cfd93807}
+[05/15/23 12:03:34]: <0x2401> N/S del controlador: : ?  {6a2bc0d6}
+[05/15/23 12:03:34]: <0x2401> Brazo: tx60-S1-R4 suelo {2aee89d1}
+[05/15/23 12:03:34]: <0x2401> N/S del brazo:: ?  {fddc532d}
+[05/15/23 12:03:34]: <0x2401> Tipo de aceite:   {54c807e0}
+[05/15/23 12:03:34]: <0x2401> Nombre del robot:   {5ce5c373}
+[05/15/23 12:03:34]: <0x2401> EP: s7.11.2 Feb 24 2020 {a8aabe79}
+[05/15/23 12:03:34]: <0x2401> EP10: s7.11.2 Feb 24 2020 {de4cd158}
+[05/15/23 12:03:34]: <0x2401> SCA: s7.11.2 Feb 24 2020 {7cc3a81b}
+[05/15/23 12:03:34]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {8268707b}
+[05/15/23 12:03:34]: <0x2201> Nuevo perfil : default {1198a429}
+[05/15/23 12:03:34]: <0x2401> End of controller initialization 0 {3909d40d}
+[05/15/23 12:03:34]: <0x1801> Modo de trabajo:automático. {c09e22f0}
+[05/15/23 12:03:35]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {6ba7e6d4}
+[05/15/23 12:04:24]: <0x2402> COM-PC: create session 127.0.0.1 on port 49899 id=#40606928 {accebda3}
+[05/15/23 13:37:09]: <0x2402> MCP communication disconnected {e1588b89}
+[05/15/23 13:37:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 49899 id=#40606928 {b7ffb14f}
+[05/15/23 13:37:11]: <0x2402> COM-PC: create session 127.0.0.1 on port 49902 id=#40606720 {4741bf26}
+[05/21/23 08:31:43]: ----------------------------------------------- {868ee6d1}
+[05/21/23 08:31:43]: Registro iniciado (1048576) {0cfd4bd4}
+[05/21/23 08:31:51]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {b8d04467}
+[05/21/23 08:31:51]: <0x0003> Cycle time set to 0.004s {5ed75edc}
+[05/21/23 08:31:51]: <0x0003> Simulation cycle time set to 0.1s {68da7c51}
+[05/21/23 08:31:51]: <0x0002> Controller IP address could not be updated {7ecb9e8d}
+[05/21/23 08:31:51]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {f48ee118}
+[05/21/23 08:31:51]: <0x0001> Error while trying to build User serial 2 {8fcf497d}
+[05/21/23 08:31:51]: <0x0002> Default user payload used. {476d5dcf}
+[05/21/23 08:31:51]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {f7e6efca}
+[05/21/23 08:31:51]: <0x2401> Horas con potencia =18:27:55 {03886fab}
+[05/21/23 08:31:51]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {0df786bd}
+[05/21/23 08:31:52]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {cc6e5965}
+[05/21/23 08:31:53]: <0x0003> COM-PC: server created on all interfaces [851] {cad65e41}
+[05/21/23 08:31:55]: <0x2402> History handler has been connected to IHM {d4266bf2}
+[05/21/23 08:31:55]: <0x2401> System: s7.11.2 Feb 24 2020 {20d45761}
+[05/21/23 08:31:55]: <0x2401> Kernel: Unknown  {238a3491}
+[05/21/23 08:31:55]: <0x2401> Configuration Version: c1.046  {d843b26f}
+[05/21/23 08:31:55]: <0x2401> CPU: TEKNOR  {b702bc94}
+[05/21/23 08:31:55]: <0x2401> Option testMode: enabled  {ef52df37}
+[05/21/23 08:31:55]: <0x2401> Option VAL 3: enabled  {9f37ace3}
+[05/21/23 08:31:55]: <0x2401> N/S del controlador: : ?  {27963136}
+[05/21/23 08:31:55]: <0x2401> Brazo: tx60-S1-R4 suelo {a22fc0cd}
+[05/21/23 08:31:55]: <0x2401> N/S del brazo:: ?  {c4d76489}
+[05/21/23 08:31:55]: <0x2401> Tipo de aceite:   {7880aeba}
+[05/21/23 08:31:55]: <0x2401> Nombre del robot:   {abf627d1}
+[05/21/23 08:31:55]: <0x2401> EP: s7.11.2 Feb 24 2020 {d49813ab}
+[05/21/23 08:31:55]: <0x2401> EP10: s7.11.2 Feb 24 2020 {72fed531}
+[05/21/23 08:31:55]: <0x2401> SCA: s7.11.2 Feb 24 2020 {813e5590}
+[05/21/23 08:31:55]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {7a199683}
+[05/21/23 08:31:55]: <0x2201> Nuevo perfil : default {ebc77db3}
+[05/21/23 08:31:56]: <0x2401> End of controller initialization 0 {56a44f83}
+[05/21/23 08:32:01]: <0x2401> Saving controller context... {c9154514}
+[05/21/23 08:32:01]: <0x2402> Temperatura del controlador: 28°C {1c1340b2}
+[05/21/23 08:32:01]: <0x2402> Temperatura de la CPU: 28°C {2cc25f5a}
+[05/21/23 08:32:20]: <0x2402> Mcp = TSimulated {afd11863}
+[05/21/23 08:32:20]: <0x340A> Mcp communication established {757f2d5c}
+[05/21/23 08:32:21]: <0x1801> Modo de trabajo:automático. {86c13d02}
+[05/21/23 08:35:21]: <0x2402> COM-PC: create session 127.0.0.1 on port 50187 id=#49271280 {0dfa74a4}
+[05/21/23 09:43:47]: <0x2402> MCP communication disconnected {83c8d316}
+[05/21/23 09:43:49]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50187 id=#49271280 {8db2f477}
+[05/21/23 09:43:49]: <0x2402> COM-PC: create session 127.0.0.1 on port 50819 id=#49272632 {bdb2deb0}
+[05/22/23 11:55:41]: ----------------------------------------------- {54385923}
+[05/22/23 11:55:41]: Registro iniciado (1048576) {eca0bdd5}
+[05/22/23 11:55:46]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {ba4bfd86}
+[05/22/23 11:55:46]: <0x0003> Cycle time set to 0.004s {b70a495f}
+[05/22/23 11:55:46]: <0x0003> Simulation cycle time set to 0.1s {0ea30bd5}
+[05/22/23 11:55:46]: <0x0002> Controller IP address could not be updated {9679999f}
+[05/22/23 11:55:46]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {49f8443a}
+[05/22/23 11:55:46]: <0x0001> Error while trying to build User serial 2 {6dd65880}
+[05/22/23 11:55:46]: <0x0002> Default user payload used. {7d97e0d8}
+[05/22/23 11:55:46]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {2462457b}
+[05/22/23 11:55:46]: <0x2401> Horas con potencia =18:27:55 {fb54a511}
+[05/22/23 11:55:46]: <0x2401> Dirección Mac = error {8da048e1}
+[05/22/23 11:55:46]: <0x2401> Error de red: dirección MAC incorrecta. {aba6f34e}
+[05/22/23 11:55:47]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {3e5bde51}
+[05/22/23 11:55:47]: <0x0003> COM-PC: server created on all interfaces [851] {26ed9c88}
+[05/22/23 11:55:49]: <0x2402> History handler has been connected to IHM {b3dc8869}
+[05/22/23 11:55:49]: <0x2401> System: s7.11.2 Feb 24 2020 {32c0b35b}
+[05/22/23 11:55:49]: <0x2401> Kernel: Unknown  {ebcf06e6}
+[05/22/23 11:55:49]: <0x2401> Configuration Version: c1.046  {9484aede}
+[05/22/23 11:55:49]: <0x2401> CPU: TEKNOR  {c749dea8}
+[05/22/23 11:55:49]: <0x2401> Option testMode: enabled  {b488a86e}
+[05/22/23 11:55:49]: <0x2401> Option VAL 3: enabled  {44847a92}
+[05/22/23 11:55:49]: <0x2401> N/S del controlador: : ?  {c54f9166}
+[05/22/23 11:55:49]: <0x2401> Brazo: tx60-S1-R4 suelo {9b931db9}
+[05/22/23 11:55:49]: <0x2401> N/S del brazo:: ?  {72705395}
+[05/22/23 11:55:49]: <0x2401> Tipo de aceite:   {90ae5fa2}
+[05/22/23 11:55:49]: <0x2401> Nombre del robot:   {4a36c1c5}
+[05/22/23 11:55:49]: <0x2401> EP: s7.11.2 Feb 24 2020 {0e329cb1}
+[05/22/23 11:55:49]: <0x2401> EP10: s7.11.2 Feb 24 2020 {024c1e15}
+[05/22/23 11:55:49]: <0x2401> SCA: s7.11.2 Feb 24 2020 {05a9d9d0}
+[05/22/23 11:55:49]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {674514ff}
+[05/22/23 11:55:49]: <0x2201> Nuevo perfil : default {54e379ab}
+[05/22/23 11:55:49]: <0x2401> End of controller initialization 0 {7ec68bb3}
+[05/22/23 11:55:55]: <0x2401> Saving controller context... {0be441cb}
+[05/22/23 11:55:55]: <0x2402> Temperatura del controlador: 28°C {53f1dd35}
+[05/22/23 11:55:55]: <0x2402> Temperatura de la CPU: 28°C {63ec3b02}
+[05/22/23 11:56:07]: <0x2402> Mcp = TSimulated {eb663179}
+[05/22/23 11:56:07]: <0x340A> Mcp communication established {dd2edc42}
+[05/22/23 11:56:07]: <0x1801> Modo de trabajo:automático. {30fbdc6e}
+[05/22/23 11:56:15]: ----------------------------------------------- {9197029e}
+[05/22/23 11:56:15]: Registro iniciado (1048576) {07df5898}
+[05/22/23 11:56:19]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {76e50a9c}
+[05/22/23 11:56:19]: <0x0003> Cycle time set to 0.004s {37627760}
+[05/22/23 11:56:19]: <0x0003> Simulation cycle time set to 0.1s {b78f7161}
+[05/22/23 11:56:19]: <0x0002> Controller IP address could not be updated {affbd6d0}
+[05/22/23 11:56:19]: <0x0003> Mcp = TSimulated {15e7b5c9}
+[05/22/23 11:56:19]: <0x340A> Mcp communication established {67f893aa}
+[05/22/23 11:56:19]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {46f16ebe}
+[05/22/23 11:56:19]: <0x0001> Error while trying to build User serial 2 {8307b757}
+[05/22/23 11:56:19]: <0x0002> Default user payload used. {d3246b94}
+[05/22/23 11:56:19]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {bd8ca14f}
+[05/22/23 11:56:19]: <0x2401> Horas con potencia =18:27:55 {a9251353}
+[05/22/23 11:56:19]: <0x2401> Dirección Mac = error {50cb1931}
+[05/22/23 11:56:19]: <0x2401> Error de red: dirección MAC incorrecta. {760fac0c}
+[05/22/23 11:56:19]: <0x0003> COM-PC: server created on all interfaces [851] {a28b7296}
+[05/22/23 11:56:19]: <0x2402> History handler has been connected to IHM {0eaf6f7d}
+[05/22/23 11:56:19]: <0x2401> System: s7.11.2 Feb 24 2020 {304d45f1}
+[05/22/23 11:56:19]: <0x2401> Kernel: Unknown  {9264cb25}
+[05/22/23 11:56:19]: <0x2401> Configuration Version: c1.046  {6bd8908a}
+[05/22/23 11:56:19]: <0x2401> CPU: TEKNOR  {f3716249}
+[05/22/23 11:56:19]: <0x2401> Option testMode: enabled  {1612a7ad}
+[05/22/23 11:56:19]: <0x2401> Option VAL 3: enabled  {b34d5e7a}
+[05/22/23 11:56:19]: <0x2401> N/S del controlador: : ?  {1cfeeabb}
+[05/22/23 11:56:19]: <0x2401> Brazo: tx60-S1-R4 suelo {392f2b91}
+[05/22/23 11:56:19]: <0x2401> N/S del brazo:: ?  {3cf72c2d}
+[05/22/23 11:56:19]: <0x2401> Tipo de aceite:   {51a23ddf}
+[05/22/23 11:56:19]: <0x2401> Nombre del robot:   {84560e0c}
+[05/22/23 11:56:19]: <0x2401> EP: s7.11.2 Feb 24 2020 {d0e48ab1}
+[05/22/23 11:56:19]: <0x2401> EP10: s7.11.2 Feb 24 2020 {01219aad}
+[05/22/23 11:56:19]: <0x2401> SCA: s7.11.2 Feb 24 2020 {33930a49}
+[05/22/23 11:56:19]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {9ade31f2}
+[05/22/23 11:56:19]: <0x2201> Nuevo perfil : default {5c9f3a0b}
+[05/22/23 11:56:19]: <0x2401> End of controller initialization 0 {65e5562b}
+[05/22/23 11:56:20]: <0x1801> Modo de trabajo:automático. {8d1dac14}
+[05/22/23 11:56:20]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {b481dc16}
+[05/22/23 11:56:49]: <0x2402> COM-PC: create session 127.0.0.1 on port 49855 id=#42895888 {48a0493d}
+[05/22/23 12:01:14]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 49855 id=#42895888 {c04a6ec5}
+[05/22/23 12:01:14]: <0x2402> COM-PC: create session 127.0.0.1 on port 49855 id=#42896928 {9c541502}
+[05/22/23 12:01:14]: <0x2402> MCP communication disconnected {39e5571e}
+[05/22/23 12:03:18]: ----------------------------------------------- {11d4e207}
+[05/22/23 12:03:18]: Registro iniciado (1048576) {7a1b656b}
+[05/22/23 12:03:22]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {7d1f4aa6}
+[05/22/23 12:03:22]: <0x0003> Cycle time set to 0.004s {752adbcb}
+[05/22/23 12:03:22]: <0x0003> Simulation cycle time set to 0.1s {7c4cd2e4}
+[05/22/23 12:03:22]: <0x0002> Controller IP address could not be updated {48342a58}
+[05/22/23 12:03:22]: <0x0003> Mcp = TSimulated {96c6185d}
+[05/22/23 12:03:22]: <0x340A> Mcp communication established {e125af7c}
+[05/22/23 12:03:22]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {9b87184e}
+[05/22/23 12:03:22]: <0x0001> Error while trying to build User serial 2 {5934072a}
+[05/22/23 12:03:22]: <0x0002> Default user payload used. {f311841a}
+[05/22/23 12:03:22]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {21ea4daa}
+[05/22/23 12:03:22]: <0x2401> Horas con potencia =18:27:55 {8849ccbb}
+[05/22/23 12:03:22]: <0x2401> Dirección Mac = error {7419e1cf}
+[05/22/23 12:03:22]: <0x2401> Error de red: dirección MAC incorrecta. {ce1873a7}
+[05/22/23 12:03:22]: <0x0003> COM-PC: server created on all interfaces [851] {9d885842}
+[05/22/23 12:03:22]: <0x2402> History handler has been connected to IHM {3e97aeb2}
+[05/22/23 12:03:22]: <0x2401> System: s7.11.2 Feb 24 2020 {beecfd6a}
+[05/22/23 12:03:22]: <0x2401> Kernel: Unknown  {e1df316b}
+[05/22/23 12:03:22]: <0x2401> Configuration Version: c1.046  {841587fb}
+[05/22/23 12:03:22]: <0x2401> CPU: TEKNOR  {2e862c02}
+[05/22/23 12:03:22]: <0x2401> Option testMode: enabled  {1cd5aa0b}
+[05/22/23 12:03:22]: <0x2401> Option VAL 3: enabled  {ec24f76f}
+[05/22/23 12:03:22]: <0x2401> N/S del controlador: : ?  {137d3d6a}
+[05/22/23 12:03:22]: <0x2401> Brazo: tx60-S1-R4 suelo {8299da7c}
+[05/22/23 12:03:22]: <0x2401> N/S del brazo:: ?  {a4fc0f6e}
+[05/22/23 12:03:22]: <0x2401> Tipo de aceite:   {ba068165}
+[05/22/23 12:03:22]: <0x2401> Nombre del robot:   {77a09464}
+[05/22/23 12:03:22]: <0x2401> EP: s7.11.2 Feb 24 2020 {fe7c5347}
+[05/22/23 12:03:22]: <0x2401> EP10: s7.11.2 Feb 24 2020 {e73cfd02}
+[05/22/23 12:03:22]: <0x2401> SCA: s7.11.2 Feb 24 2020 {45dfea60}
+[05/22/23 12:03:22]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {96cb9bfd}
+[05/22/23 12:03:22]: <0x2201> Nuevo perfil : default {7c6a9c1a}
+[05/22/23 12:03:23]: <0x2401> End of controller initialization 0 {2510e6cf}
+[05/22/23 12:03:23]: <0x1801> Modo de trabajo:automático. {1fe400f4}
+[05/22/23 12:03:23]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {215835c5}
+[05/22/23 12:52:25]: <0x2401> Saving controller context... {00c6c1d5}
+[05/22/23 12:52:25]: <0x2402> Temperatura del controlador: 28°C {4175be71}
+[05/22/23 12:52:25]: <0x2402> Temperatura de la CPU: 28°C {b1a8cd71}
+[05/22/23 13:00:50]: <0x2401> Saving controller context... {a160d81b}
+[05/22/23 13:22:21]: <0x2401> Saving controller context... (3) {90d5e0d5}
+[05/22/23 13:24:29]: <0x2402> MCP communication disconnected {f44a7496}
+[05/25/23 17:03:26]: ----------------------------------------------- {1a5b95ee}
+[05/25/23 17:03:26]: Registro iniciado (1048576) {eff222fe}
+[05/25/23 17:03:32]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {5f7e7a6d}
+[05/25/23 17:03:32]: <0x0003> Cycle time set to 0.004s {75020973}
+[05/25/23 17:03:32]: <0x0003> Simulation cycle time set to 0.1s {ad85b6ba}
+[05/25/23 17:03:32]: <0x0002> Controller IP address could not be updated {60c0d7e0}
+[05/25/23 17:03:32]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {09c347c3}
+[05/25/23 17:03:32]: <0x0001> Error while trying to build User serial 2 {9a2d95fe}
+[05/25/23 17:03:32]: <0x0002> Default user payload used. {864ab87f}
+[05/25/23 17:03:32]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {5f9c0817}
+[05/25/23 17:03:32]: <0x2401> Horas con potencia =18:27:55 {8267a4ff}
+[05/25/23 17:03:32]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {cffa80c6}
+[05/25/23 17:03:33]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {c0fa79a7}
+[05/25/23 17:03:36]: <0x0003> COM-PC: server created on all interfaces [851] {920ccda8}
+[05/25/23 17:03:40]: <0x2402> History handler has been connected to IHM {7b9d5f18}
+[05/25/23 17:03:40]: <0x2401> System: s7.11.2 Feb 24 2020 {6c14cef7}
+[05/25/23 17:03:40]: <0x2401> Kernel: Unknown  {184bb095}
+[05/25/23 17:03:40]: <0x2401> Configuration Version: c1.046  {93876ad5}
+[05/25/23 17:03:40]: <0x2401> CPU: TEKNOR  {b727d6cf}
+[05/25/23 17:03:40]: <0x2401> Option testMode: enabled  {fbf5171e}
+[05/25/23 17:03:40]: <0x2401> Option VAL 3: enabled  {890be1ab}
+[05/25/23 17:03:40]: <0x2401> N/S del controlador: : ?  {517abbc6}
+[05/25/23 17:03:40]: <0x2401> Brazo: tx60-S1-R4 suelo {646e5667}
+[05/25/23 17:03:40]: <0x2401> N/S del brazo:: ?  {714f14a5}
+[05/25/23 17:03:40]: <0x2401> Tipo de aceite:   {e2784e7c}
+[05/25/23 17:03:40]: <0x2401> Nombre del robot:   {b1ead1f2}
+[05/25/23 17:03:40]: <0x2401> EP: s7.11.2 Feb 24 2020 {ebbb7009}
+[05/25/23 17:03:40]: <0x2401> EP10: s7.11.2 Feb 24 2020 {637ee88e}
+[05/25/23 17:03:40]: <0x2401> SCA: s7.11.2 Feb 24 2020 {a700220a}
+[05/25/23 17:03:40]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {ceeaad99}
+[05/25/23 17:03:40]: <0x2201> Nuevo perfil : default {659e873b}
+[05/25/23 17:03:40]: <0x2401> End of controller initialization 0 {f1eb361f}
+[05/25/23 17:03:45]: <0x2401> Saving controller context... {5ae5f5cf}
+[05/25/23 17:03:45]: <0x2402> Temperatura del controlador: 28°C {c4d0374c}
+[05/25/23 17:03:45]: <0x2402> Temperatura de la CPU: 28°C {d4340e9e}
+[05/25/23 17:03:58]: <0x2402> Mcp = TSimulated {eb4b264e}
+[05/25/23 17:03:58]: <0x340A> Mcp communication established {cb3ebe04}
+[05/25/23 17:03:59]: <0x1801> Modo de trabajo:automático. {6222b034}
+[05/25/23 17:21:29]: <0x2402> MCP communication disconnected {a769c6a6}
+[05/30/23 11:53:23]: ----------------------------------------------- {904f8420}
+[05/30/23 11:53:23]: Registro iniciado (1048576) {7787a131}
+[05/30/23 11:53:31]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {5aa18346}
+[05/30/23 11:53:31]: <0x0003> Cycle time set to 0.004s {0b13f91d}
+[05/30/23 11:53:31]: <0x0003> Simulation cycle time set to 0.1s {86a9fa9e}
+[05/30/23 11:53:31]: <0x0002> Controller IP address could not be updated {7f28b22c}
+[05/30/23 11:53:31]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {4e461556}
+[05/30/23 11:53:31]: <0x0001> Error while trying to build User serial 2 {fbcb1cc0}
+[05/30/23 11:53:31]: <0x0002> Default user payload used. {9546f27d}
+[05/30/23 11:53:31]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {66306420}
+[05/30/23 11:53:31]: <0x2401> Horas con potencia =18:27:55 {6e31e3a8}
+[05/30/23 11:53:31]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {e352774b}
+[05/30/23 11:53:32]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {484e5b27}
+[05/30/23 11:53:33]: <0x0003> COM-PC: server created on all interfaces [851] {16334af1}
+[05/30/23 11:53:36]: <0x2402> History handler has been connected to IHM {d9d25295}
+[05/30/23 11:53:36]: <0x2401> System: s7.11.2 Feb 24 2020 {b51ca3c6}
+[05/30/23 11:53:36]: <0x2401> Kernel: Unknown  {e865d1b4}
+[05/30/23 11:53:36]: <0x2401> Configuration Version: c1.046  {34530ce2}
+[05/30/23 11:53:36]: <0x2401> CPU: TEKNOR  {9a1791cd}
+[05/30/23 11:53:36]: <0x2401> Option testMode: enabled  {dda33c72}
+[05/30/23 11:53:36]: <0x2401> Option VAL 3: enabled  {cdab69bb}
+[05/30/23 11:53:36]: <0x2401> N/S del controlador: : ?  {f8175beb}
+[05/30/23 11:53:36]: <0x2401> Brazo: tx60-S1-R4 suelo {0259c94e}
+[05/30/23 11:53:36]: <0x2401> N/S del brazo:: ?  {6f53c0cf}
+[05/30/23 11:53:36]: <0x2401> Tipo de aceite:   {7d6e29fa}
+[05/30/23 11:53:36]: <0x2401> Nombre del robot:   {9e777acc}
+[05/30/23 11:53:36]: <0x2401> EP: s7.11.2 Feb 24 2020 {270e395e}
+[05/30/23 11:53:36]: <0x2401> EP10: s7.11.2 Feb 24 2020 {8b123b6d}
+[05/30/23 11:53:36]: <0x2401> SCA: s7.11.2 Feb 24 2020 {e55dcac4}
+[05/30/23 11:53:36]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {b54118d7}
+[05/30/23 11:53:36]: <0x2201> Nuevo perfil : default {2f29d43d}
+[05/30/23 11:53:36]: <0x2401> End of controller initialization 0 {b1b2633a}
+[05/30/23 11:53:41]: <0x2401> Saving controller context... {1341ecb9}
+[05/30/23 11:53:41]: <0x2402> Temperatura del controlador: 28°C {004f94b9}
+[05/30/23 11:53:41]: <0x2402> Temperatura de la CPU: 28°C {102548b4}
+[05/30/23 11:53:46]: <0x2402> Mcp = TSimulated {e425f620}
+[05/30/23 11:53:46]: <0x340A> Mcp communication established {9f69b049}
+[05/30/23 11:53:47]: <0x1801> Modo de trabajo:automático. {12b1e245}
+[05/30/23 11:53:56]: <0x2402> MCP communication disconnected {1523e44f}
+[05/30/23 11:53:58]: ----------------------------------------------- {5fe09f0d}
+[05/30/23 11:53:58]: Registro iniciado (1048576) {f967bbd5}
+[05/30/23 11:54:03]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {a1529f2a}
+[05/30/23 11:54:03]: <0x0003> Cycle time set to 0.004s {739122be}
+[05/30/23 11:54:03]: <0x0003> Simulation cycle time set to 0.1s {26d24079}
+[05/30/23 11:54:03]: <0x0002> Controller IP address could not be updated {a6c3f333}
+[05/30/23 11:54:03]: <0x0003> Mcp = TSimulated {ac061fd0}
+[05/30/23 11:54:03]: <0x340A> Mcp communication established {7d8a8a13}
+[05/30/23 11:54:03]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {da6ab010}
+[05/30/23 11:54:03]: <0x0001> Error while trying to build User serial 2 {39beeb7a}
+[05/30/23 11:54:03]: <0x0002> Default user payload used. {7c393edd}
+[05/30/23 11:54:03]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {4a3ca27d}
+[05/30/23 11:54:03]: <0x2401> Horas con potencia =18:27:55 {56b1bc12}
+[05/30/23 11:54:03]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {a7c986e9}
+[05/30/23 11:54:03]: <0x0003> COM-PC: server created on all interfaces [851] {111bfaf5}
+[05/30/23 11:54:03]: <0x2402> History handler has been connected to IHM {3531f408}
+[05/30/23 11:54:03]: <0x2401> System: s7.11.2 Feb 24 2020 {e9d927e0}
+[05/30/23 11:54:03]: <0x2401> Kernel: Unknown  {c8c7ee10}
+[05/30/23 11:54:03]: <0x2401> Configuration Version: c1.046  {d2cac0b7}
+[05/30/23 11:54:03]: <0x2401> CPU: TEKNOR  {42070890}
+[05/30/23 11:54:03]: <0x2401> Option testMode: enabled  {78e63fc2}
+[05/30/23 11:54:03]: <0x2401> Option VAL 3: enabled  {48dc6efe}
+[05/30/23 11:54:03]: <0x2401> N/S del controlador: : ?  {a2646f4f}
+[05/30/23 11:54:03]: <0x2401> Brazo: tx60-S1-R4 suelo {41f83332}
+[05/30/23 11:54:03]: <0x2401> N/S del brazo:: ?  {82309be9}
+[05/30/23 11:54:03]: <0x2401> Tipo de aceite:   {6be59430}
+[05/30/23 11:54:03]: <0x2401> Nombre del robot:   {1f8c8861}
+[05/30/23 11:54:03]: <0x2401> EP: s7.11.2 Feb 24 2020 {67c854c8}
+[05/30/23 11:54:03]: <0x2401> EP10: s7.11.2 Feb 24 2020 {4a563e09}
+[05/30/23 11:54:03]: <0x2401> SCA: s7.11.2 Feb 24 2020 {2cb60099}
+[05/30/23 11:54:03]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {686c2464}
+[05/30/23 11:54:03]: <0x2201> Nuevo perfil : default {a51104fe}
+[05/30/23 11:54:03]: <0x2401> End of controller initialization 0 {eb7316c1}
+[05/30/23 11:54:03]: <0x1801> Modo de trabajo:automático. {90591e2a}
+[05/30/23 11:54:04]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {a910c6fc}
+[05/30/23 11:57:05]: <0x2402> MCP communication disconnected {b8c699ca}
+[05/30/23 11:59:42]: ----------------------------------------------- {f8d4f122}
+[05/30/23 11:59:42]: Registro iniciado (1048576) {c7d16826}
+[05/30/23 11:59:46]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {149e2151}
+[05/30/23 11:59:46]: <0x0003> Cycle time set to 0.004s {21ebd9f9}
+[05/30/23 11:59:46]: <0x0003> Simulation cycle time set to 0.1s {5b0f7465}
+[05/30/23 11:59:46]: <0x0002> Controller IP address could not be updated {08d39ad3}
+[05/30/23 11:59:46]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {8127161f}
+[05/30/23 11:59:46]: <0x0001> Error while trying to build User serial 2 {d74ff48b}
+[05/30/23 11:59:46]: <0x0002> Default user payload used. {86891d01}
+[05/30/23 11:59:46]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {c9fe344e}
+[05/30/23 11:59:46]: <0x2401> Horas con potencia =18:27:55 {e0b6ef56}
+[05/30/23 11:59:46]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {c63ee155}
+[05/30/23 11:59:46]: <0x0003> COM-PC: server created on all interfaces [851] {3393dcaa}
+[05/30/23 11:59:46]: <0x2402> History handler has been connected to IHM {707f1ef1}
+[05/30/23 11:59:46]: <0x2401> System: s7.11.2 Feb 24 2020 {77ccd1a5}
+[05/30/23 11:59:46]: <0x2401> Kernel: Unknown  {5ae074ca}
+[05/30/23 11:59:46]: <0x2401> Configuration Version: c1.046  {c031f013}
+[05/30/23 11:59:46]: <0x2401> CPU: TEKNOR  {277f67be}
+[05/30/23 11:59:46]: <0x2401> Option testMode: enabled  {4e23bcb0}
+[05/30/23 11:59:46]: <0x2401> Option VAL 3: enabled  {5ec48363}
+[05/30/23 11:59:46]: <0x2401> N/S del controlador: : ?  {bf472a22}
+[05/30/23 11:59:46]: <0x2401> Brazo: tx60-S1-R4 suelo {89d9b57d}
+[05/30/23 11:59:46]: <0x2401> N/S del brazo:: ?  {df496755}
+[05/30/23 11:59:46]: <0x2401> Tipo de aceite:   {2e5b0fa0}
+[05/30/23 11:59:46]: <0x2401> Nombre del robot:   {1a1fbc2a}
+[05/30/23 11:59:46]: <0x2401> EP: s7.11.2 Feb 24 2020 {67048117}
+[05/30/23 11:59:46]: <0x2401> EP10: s7.11.2 Feb 24 2020 {e6bcd57b}
+[05/30/23 11:59:46]: <0x2401> SCA: s7.11.2 Feb 24 2020 {e0c9feec}
+[05/30/23 11:59:46]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {0eeb3230}
+[05/30/23 11:59:46]: <0x2201> Nuevo perfil : default {3a89278f}
+[05/30/23 11:59:46]: <0x2401> End of controller initialization 0 {48ab6c99}
+[05/30/23 11:59:47]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {37216418}
+[05/30/23 11:59:54]: <0x2402> Mcp = TSimulated {4b270c55}
+[05/30/23 11:59:54]: <0x340A> Mcp communication established {057c7440}
+[05/30/23 11:59:54]: <0x1801> Modo de trabajo:automático. {ed136100}
+[05/30/23 12:00:20]: <0x2402> COM-PC: create session 127.0.0.1 on port 50579 id=#44279384 {95c26229}
+[05/30/23 13:33:27]: <0x2402> MCP communication disconnected {539df643}
+[05/30/23 13:33:29]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50579 id=#44279384 {29d6a312}
+[05/30/23 13:33:29]: <0x2402> COM-PC: create session 127.0.0.1 on port 51721 id=#44279384 {59a7d697}
+[06/04/23 11:01:26]: ----------------------------------------------- {9b6fa57c}
+[06/04/23 11:01:26]: Registro iniciado (1048576) {eb295877}
+[06/04/23 11:01:31]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {3d27af06}
+[06/04/23 11:01:31]: <0x0003> Cycle time set to 0.004s {614ae960}
+[06/04/23 11:01:31]: <0x0003> Simulation cycle time set to 0.1s {492df1f4}
+[06/04/23 11:01:31]: <0x0002> Controller IP address could not be updated {30191c5d}
+[06/04/23 11:01:31]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {d47c6cf5}
+[06/04/23 11:01:31]: <0x0001> Error while trying to build User serial 2 {dfddd196}
+[06/04/23 11:01:31]: <0x0002> Default user payload used. {397962ca}
+[06/04/23 11:01:31]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {e3c5d601}
+[06/04/23 11:01:31]: <0x2401> Horas con potencia =18:27:55 {0eeda94f}
+[06/04/23 11:01:31]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {ded10944}
+[06/04/23 11:01:32]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {6179067c}
+[06/04/23 11:01:35]: <0x0003> COM-PC: server created on all interfaces [851] {80024774}
+[06/04/23 11:01:36]: <0x2402> History handler has been connected to IHM {ec4b20fc}
+[06/04/23 11:01:36]: <0x2401> System: s7.11.2 Feb 24 2020 {7ea4a14c}
+[06/04/23 11:01:36]: <0x2401> Kernel: Unknown  {2a5b78f2}
+[06/04/23 11:01:36]: <0x2401> Configuration Version: c1.046  {d3d03861}
+[06/04/23 11:01:36]: <0x2401> CPU: TEKNOR  {69f121b8}
+[06/04/23 11:01:36]: <0x2401> Option testMode: enabled  {aba76564}
+[06/04/23 11:01:36]: <0x2401> Option VAL 3: enabled  {bbe61138}
+[06/04/23 11:01:36]: <0x2401> N/S del controlador: : ?  {f16e0420}
+[06/04/23 11:01:36]: <0x2401> Brazo: tx60-S1-R4 suelo {6a8304d9}
+[06/04/23 11:01:36]: <0x2401> N/S del brazo:: ?  {d1777a9e}
+[06/04/23 11:01:36]: <0x2401> Tipo de aceite:   {f79a7929}
+[06/04/23 11:01:36]: <0x2401> Nombre del robot:   {4d1379b2}
+[06/04/23 11:01:36]: <0x2401> EP: s7.11.2 Feb 24 2020 {5a24918c}
+[06/04/23 11:01:36]: <0x2401> EP10: s7.11.2 Feb 24 2020 {54dca783}
+[06/04/23 11:01:36]: <0x2401> SCA: s7.11.2 Feb 24 2020 {ffbc5c25}
+[06/04/23 11:01:36]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {642ba5a5}
+[06/04/23 11:01:36]: <0x2201> Nuevo perfil : default {1550e2f7}
+[06/04/23 11:01:36]: <0x2401> End of controller initialization 0 {a5d6cb12}
+[06/04/23 11:01:41]: <0x2401> Saving controller context... {c75578ef}
+[06/04/23 11:01:41]: <0x2402> Temperatura del controlador: 28°C {2d48d4ee}
+[06/04/23 11:01:41]: <0x2402> Temperatura de la CPU: 28°C {3d324369}
+[06/04/23 11:01:48]: <0x2402> Mcp = TSimulated {2cff2634}
+[06/04/23 11:01:48]: <0x340A> Mcp communication established {86ec5506}
+[06/04/23 11:01:49]: <0x1801> Modo de trabajo:automático. {d9afb12d}
+[06/04/23 11:15:18]: <0x2402> COM-PC: create session 127.0.0.1 on port 50266 id=#40947704 {7b4e3390}
+[06/04/23 12:07:34]: <0x2402> MCP communication disconnected {5df89975}
+[06/04/23 12:07:37]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50266 id=#40947704 {8dcfeafe}
+[06/04/23 12:07:37]: <0x2402> COM-PC: create session 127.0.0.1 on port 50505 id=#40948640 {9d10365c}
+[06/04/23 21:57:27]: ----------------------------------------------- {6534e813}
+[06/04/23 21:57:27]: Registro iniciado (1048576) {d9d079f4}
+[06/04/23 21:57:32]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {5fe207f7}
+[06/04/23 21:57:32]: <0x0003> Cycle time set to 0.004s {695da4e5}
+[06/04/23 21:57:32]: <0x0003> Simulation cycle time set to 0.1s {0c2ee2a7}
+[06/04/23 21:57:32]: <0x0002> Controller IP address could not be updated {febd0ac7}
+[06/04/23 21:57:32]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {689a03fb}
+[06/04/23 21:57:32]: <0x0001> Error while trying to build User serial 2 {bcc19271}
+[06/04/23 21:57:32]: <0x0002> Default user payload used. {a9b97e8a}
+[06/04/23 21:57:32]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {9af9c0cf}
+[06/04/23 21:57:32]: <0x2401> Horas con potencia =18:27:55 {0029d269}
+[06/04/23 21:57:32]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {03921eb9}
+[06/04/23 21:57:33]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {9531228f}
+[06/04/23 21:57:34]: <0x0003> COM-PC: server created on all interfaces [851] {7ce34f88}
+[06/04/23 21:57:36]: <0x2402> History handler has been connected to IHM {d6708f5f}
+[06/04/23 21:57:36]: <0x2401> System: s7.11.2 Feb 24 2020 {b9ba0aff}
+[06/04/23 21:57:36]: <0x2401> Kernel: Unknown  {c28324de}
+[06/04/23 21:57:36]: <0x2401> Configuration Version: c1.046  {d7764412}
+[06/04/23 21:57:36]: <0x2401> CPU: TEKNOR  {64ff61d3}
+[06/04/23 21:57:36]: <0x2401> Option testMode: enabled  {11b77145}
+[06/04/23 21:57:36]: <0x2401> Option VAL 3: enabled  {01713fa6}
+[06/04/23 21:57:36]: <0x2401> N/S del controlador: : ?  {c99df004}
+[06/04/23 21:57:36]: <0x2401> Brazo: tx60-S1-R4 suelo {85bc4321}
+[06/04/23 21:57:36]: <0x2401> N/S del brazo:: ?  {e9d6d39c}
+[06/04/23 21:57:36]: <0x2401> Tipo de aceite:   {a85b3ea0}
+[06/04/23 21:57:36]: <0x2401> Nombre del robot:   {a3506039}
+[06/04/23 21:57:36]: <0x2401> EP: s7.11.2 Feb 24 2020 {5f370fbf}
+[06/04/23 21:57:36]: <0x2401> EP10: s7.11.2 Feb 24 2020 {73419676}
+[06/04/23 21:57:36]: <0x2401> SCA: s7.11.2 Feb 24 2020 {aac6a315}
+[06/04/23 21:57:36]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {7b3dd921}
+[06/04/23 21:57:36]: <0x2201> Nuevo perfil : default {b617f0a0}
+[06/04/23 21:57:36]: <0x2401> End of controller initialization 0 {cec0c945}
+[06/04/23 21:57:50]: <0x2402> Mcp = TSimulated {4d1f9d16}
+[06/04/23 21:57:50]: <0x340A> Mcp communication established {f8f605f2}
+[06/04/23 21:57:50]: <0x1801> Modo de trabajo:automático. {c287d882}
+[06/04/23 21:58:03]: ----------------------------------------------- {b6eecc9d}
+[06/04/23 21:58:03]: Registro iniciado (1048576) {39abd95a}
+[06/04/23 21:58:08]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {5c65d0c3}
+[06/04/23 21:58:08]: <0x0003> Cycle time set to 0.004s {6244588d}
+[06/04/23 21:58:08]: <0x0003> Simulation cycle time set to 0.1s {325ce666}
+[06/04/23 21:58:08]: <0x0002> Controller IP address could not be updated {f9f4e79e}
+[06/04/23 21:58:08]: <0x0003> Mcp = TSimulated {03f3d27b}
+[06/04/23 21:58:08]: <0x340A> Mcp communication established {d5d66fd5}
+[06/04/23 21:58:08]: <0x0003> MCP communication disconnected {d7512ac6}
+[06/04/23 21:58:08]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {234c979e}
+[06/04/23 21:58:08]: <0x0001> Error while trying to build User serial 2 {86f08420}
+[06/04/23 21:58:08]: <0x0002> Default user payload used. {6ac0bfd0}
+[06/04/23 21:58:08]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {155a79cb}
+[06/04/23 21:58:08]: <0x2401> Horas con potencia =18:27:55 {49759297}
+[06/04/23 21:58:08]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {2f3f017d}
+[06/04/23 21:58:08]: <0x0003> COM-PC: server created on all interfaces [851] {ea7826f4}
+[06/04/23 21:58:08]: <0x2402> History handler has been connected to IHM {09d5b302}
+[06/04/23 21:58:08]: <0x2401> System: s7.11.2 Feb 24 2020 {6c22bd3d}
+[06/04/23 21:58:08]: <0x2401> Kernel: Unknown  {bd35246d}
+[06/04/23 21:58:08]: <0x2401> Configuration Version: c1.046  {b47a1dca}
+[06/04/23 21:58:08]: <0x2401> CPU: TEKNOR  {dd197e9c}
+[06/04/23 21:58:08]: <0x2401> Option testMode: enabled  {8345960a}
+[06/04/23 21:58:08]: <0x2401> Option VAL 3: enabled  {73a459ab}
+[06/04/23 21:58:08]: <0x2401> N/S del controlador: : ?  {27205602}
+[06/04/23 21:58:08]: <0x2401> Brazo: tx60-S1-R4 suelo {e316875e}
+[06/04/23 21:58:08]: <0x2401> N/S del brazo:: ?  {901f4ce3}
+[06/04/23 21:58:08]: <0x2401> Tipo de aceite:   {320d470e}
+[06/04/23 21:58:08]: <0x2401> Nombre del robot:   {9b08e27e}
+[06/04/23 21:58:08]: <0x2401> EP: s7.11.2 Feb 24 2020 {269efc48}
+[06/04/23 21:58:08]: <0x2401> EP10: s7.11.2 Feb 24 2020 {5e01fb62}
+[06/04/23 21:58:08]: <0x2401> SCA: s7.11.2 Feb 24 2020 {46c697ca}
+[06/04/23 21:58:08]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {4e2d8052}
+[06/04/23 21:58:08]: <0x2201> Nuevo perfil : default {bfdb1654}
+[06/04/23 21:58:08]: <0x2401> End of controller initialization 0 {627b0b60}
+[06/04/23 21:58:09]: <0x2402> Mcp = TSimulated {f7c98ac1}
+[06/04/23 21:58:09]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {389d15f5}
+[06/04/23 21:58:11]: <0x340A> Mcp communication established {298345c3}
+[06/04/23 21:58:11]: <0x2402> MCP communication disconnected {1ba72f13}
+[06/04/23 21:59:05]: <0x2402> COM-PC: create session 127.0.0.1 on port 52653 id=#50244528 {14a82392}
+[06/04/23 22:02:26]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 52653 id=#50244528 {cafb1dcd}
+[06/04/23 22:02:26]: <0x2402> COM-PC: create session 127.0.0.1 on port 52655 id=#50245464 {4dc9730c}
+[06/05/23 21:29:31]: ----------------------------------------------- {095dd4bd}
+[06/05/23 21:29:31]: Registro iniciado (1048576) {151f8109}
+[06/05/23 21:29:37]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {ecc386ce}
+[06/05/23 21:29:37]: <0x0003> Cycle time set to 0.004s {e3a92734}
+[06/05/23 21:29:37]: <0x0003> Simulation cycle time set to 0.1s {c0604092}
+[06/05/23 21:29:37]: <0x0002> Controller IP address could not be updated {ae50dbbe}
+[06/05/23 21:29:37]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {e050dc0d}
+[06/05/23 21:29:37]: <0x0001> Error while trying to build User serial 2 {621e6c5c}
+[06/05/23 21:29:37]: <0x0002> Default user payload used. {9d8788ab}
+[06/05/23 21:29:37]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {53dc6115}
+[06/05/23 21:29:37]: <0x2401> Horas con potencia =18:27:55 {d9e741ae}
+[06/05/23 21:29:37]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {ebe0d2c9}
+[06/05/23 21:29:39]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {c1518561}
+[06/05/23 21:29:44]: <0x0003> COM-PC: server created on all interfaces [851] {b0bafb50}
+[06/05/23 21:29:45]: <0x2402> History handler has been connected to IHM {2b970e22}
+[06/05/23 21:29:45]: <0x2401> System: s7.11.2 Feb 24 2020 {57987998}
+[06/05/23 21:29:45]: <0x2401> Kernel: Unknown  {4325b0ca}
+[06/05/23 21:29:45]: <0x2401> Configuration Version: c1.046  {a30d5711}
+[06/05/23 21:29:45]: <0x2401> CPU: TEKNOR  {13f10328}
+[06/05/23 21:29:45]: <0x2401> Option testMode: enabled  {71b72fa4}
+[06/05/23 21:29:45]: <0x2401> Option VAL 3: enabled  {4141b1e2}
+[06/05/23 21:29:45]: <0x2401> N/S del controlador: : ?  {837cb300}
+[06/05/23 21:29:45]: <0x2401> Brazo: tx60-S1-R4 suelo {e3717185}
+[06/05/23 21:29:45]: <0x2401> N/S del brazo:: ?  {a382c410}
+[06/05/23 21:29:45]: <0x2401> Tipo de aceite:   {9d8cc420}
+[06/05/23 21:29:45]: <0x2401> Nombre del robot:   {30e8b3b5}
+[06/05/23 21:29:45]: <0x2401> EP: s7.11.2 Feb 24 2020 {6e43dbdc}
+[06/05/23 21:29:45]: <0x2401> EP10: s7.11.2 Feb 24 2020 {08fd6bea}
+[06/05/23 21:29:45]: <0x2401> SCA: s7.11.2 Feb 24 2020 {c30949c8}
+[06/05/23 21:29:45]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {4f005242}
+[06/05/23 21:29:45]: <0x2201> Nuevo perfil : default {d4cf065c}
+[06/05/23 21:29:45]: <0x2401> End of controller initialization 0 {f1392846}
+[06/05/23 21:30:01]: <0x2402> Mcp = TSimulated {322e8c28}
+[06/05/23 21:30:01]: <0x340A> Mcp communication established {741d1ba4}
+[06/05/23 21:30:01]: <0x1801> Modo de trabajo:automático. {652ecb1f}
+[06/05/23 21:33:12]: <0x2402> MCP communication disconnected {df0846b4}
+[06/07/23 12:08:24]: ----------------------------------------------- {1d2a0c17}
+[06/07/23 12:08:24]: Registro iniciado (1048576) {015b4e07}
+[06/07/23 12:08:29]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {03fd3f65}
+[06/07/23 12:08:29]: <0x0003> Cycle time set to 0.004s {e5d2fcb5}
+[06/07/23 12:08:29]: <0x0003> Simulation cycle time set to 0.1s {7cc7ecd0}
+[06/07/23 12:08:29]: <0x0002> Controller IP address could not be updated {9fcf52d2}
+[06/07/23 12:08:29]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {57415b2c}
+[06/07/23 12:08:29]: <0x0001> Error while trying to build User serial 2 {7f78b1bf}
+[06/07/23 12:08:29]: <0x0002> Default user payload used. {07a43137}
+[06/07/23 12:08:29]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {da413139}
+[06/07/23 12:08:29]: <0x2401> Horas con potencia =18:27:55 {2fa402cc}
+[06/07/23 12:08:29]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {5a0edfc2}
+[06/07/23 12:08:30]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {86df15eb}
+[06/07/23 12:08:31]: <0x0003> COM-PC: server created on all interfaces [851] {085de2fe}
+[06/07/23 12:08:33]: <0x2402> History handler has been connected to IHM {76e13382}
+[06/07/23 12:08:33]: <0x2401> System: s7.11.2 Feb 24 2020 {408fb18f}
+[06/07/23 12:08:33]: <0x2401> Kernel: Unknown  {5ad5f661}
+[06/07/23 12:08:33]: <0x2401> Configuration Version: c1.046  {ec5491c0}
+[06/07/23 12:08:33]: <0x2401> CPU: TEKNOR  {ae22d132}
+[06/07/23 12:08:33]: <0x2401> Option testMode: enabled  {b46f4f71}
+[06/07/23 12:08:33]: <0x2401> Option VAL 3: enabled  {a4121fba}
+[06/07/23 12:08:33]: <0x2401> N/S del controlador: : ?  {a2e1ad64}
+[06/07/23 12:08:33]: <0x2401> Brazo: tx60-S1-R4 suelo {27ce1f4c}
+[06/07/23 12:08:33]: <0x2401> N/S del brazo:: ?  {828bfaeb}
+[06/07/23 12:08:33]: <0x2401> Tipo de aceite:   {8dc7cef3}
+[06/07/23 12:08:33]: <0x2401> Nombre del robot:   {1312f099}
+[06/07/23 12:08:33]: <0x2401> EP: s7.11.2 Feb 24 2020 {afe53120}
+[06/07/23 12:08:33]: <0x2401> EP10: s7.11.2 Feb 24 2020 {64d20bb2}
+[06/07/23 12:08:33]: <0x2401> SCA: s7.11.2 Feb 24 2020 {03d3e623}
+[06/07/23 12:08:33]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {0fab4afc}
+[06/07/23 12:08:33]: <0x2201> Nuevo perfil : default {2dd7f134}
+[06/07/23 12:08:33]: <0x2401> End of controller initialization 0 {ba7c9472}
+[06/07/23 12:08:38]: <0x2401> Saving controller context... {ced45f31}
+[06/07/23 12:08:38]: <0x2402> Temperatura del controlador: 28°C {29642f09}
+[06/07/23 12:08:38]: <0x2402> Temperatura de la CPU: 28°C {39a67b83}
+[06/07/23 12:08:40]: <0x2402> Mcp = TSimulated {dd81a4f9}
+[06/07/23 12:08:40]: <0x340A> Mcp communication established {50d32ea9}
+[06/07/23 12:08:41]: <0x1801> Modo de trabajo:automático. {36ec1da9}
+[06/07/23 12:08:46]: <0x2402> MCP communication disconnected {92c1d7fd}
+[06/07/23 12:08:48]: ----------------------------------------------- {910eee49}
+[06/07/23 12:08:48]: Registro iniciado (1048576) {61f2ff9a}
+[06/07/23 12:08:53]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {87f4efde}
+[06/07/23 12:08:53]: <0x0003> Cycle time set to 0.004s {7752f301}
+[06/07/23 12:08:53]: <0x0003> Simulation cycle time set to 0.1s {63f65f01}
+[06/07/23 12:08:53]: <0x0002> Controller IP address could not be updated {ca8223db}
+[06/07/23 12:08:53]: <0x0003> Mcp = TSimulated {bff82c62}
+[06/07/23 12:08:53]: <0x340A> Mcp communication established {18f43302}
+[06/07/23 12:08:53]: <0x0003> MCP communication disconnected {0b4f7da5}
+[06/07/23 12:08:53]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {2052a3e2}
+[06/07/23 12:08:53]: <0x0001> Error while trying to build User serial 2 {fa421e1f}
+[06/07/23 12:08:53]: <0x0002> Default user payload used. {7d131093}
+[06/07/23 12:08:53]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {6aeb19ab}
+[06/07/23 12:08:53]: <0x2401> Horas con potencia =18:27:55 {ebae72ef}
+[06/07/23 12:08:53]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {cb0cb9c3}
+[06/07/23 12:08:53]: <0x0003> COM-PC: server created on all interfaces [851] {cf4f4ce6}
+[06/07/23 12:08:53]: <0x2402> History handler has been connected to IHM {3f0e9f75}
+[06/07/23 12:08:53]: <0x2401> System: s7.11.2 Feb 24 2020 {4c260832}
+[06/07/23 12:08:53]: <0x2401> Kernel: Unknown  {4e52b7f1}
+[06/07/23 12:08:53]: <0x2401> Configuration Version: c1.046  {4decccaf}
+[06/07/23 12:08:53]: <0x2401> CPU: TEKNOR  {23f492e5}
+[06/07/23 12:08:53]: <0x2401> Option testMode: enabled  {cebb1e4f}
+[06/07/23 12:08:53]: <0x2401> Option VAL 3: enabled  {de1ec3bc}
+[06/07/23 12:08:53]: <0x2401> N/S del controlador: : ?  {f8d78917}
+[06/07/23 12:08:53]: <0x2401> Brazo: tx60-S1-R4 suelo {57e47120}
+[06/07/23 12:08:53]: <0x2401> N/S del brazo:: ?  {d8c277a1}
+[06/07/23 12:08:53]: <0x2401> Tipo de aceite:   {ec593fa6}
+[06/07/23 12:08:53]: <0x2401> Nombre del robot:   {c23027d9}
+[06/07/23 12:08:53]: <0x2401> EP: s7.11.2 Feb 24 2020 {047f91be}
+[06/07/23 12:08:53]: <0x2401> EP10: s7.11.2 Feb 24 2020 {75faf15f}
+[06/07/23 12:08:53]: <0x2401> SCA: s7.11.2 Feb 24 2020 {3666b0d8}
+[06/07/23 12:08:53]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {5b28e1a4}
+[06/07/23 12:08:53]: <0x2201> Nuevo perfil : default {4bced47c}
+[06/07/23 12:08:53]: <0x2401> End of controller initialization 0 {2fdb9f7c}
+[06/07/23 12:08:54]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {5b62d4e6}
+[06/07/23 12:08:54]: <0x2402> Mcp = TSimulated {95ae74b9}
+[06/07/23 12:08:56]: <0x340A> Mcp communication established {3bd33c2e}
+[06/07/23 12:08:56]: <0x2402> MCP communication disconnected {72d0d658}
+[06/07/23 12:16:56]: <0x2402> COM-PC: create session 127.0.0.1 on port 50114 id=#40805664 {fc7376b7}
+[06/07/23 13:56:25]: <0x2401> Saving controller context... {7210e9a8}
+[06/07/23 13:56:26]: <0x2402> Temperatura del controlador: 28°C {1dce3e22}
+[06/07/23 13:56:26]: <0x2402> Temperatura de la CPU: 28°C {2de1d329}
+[06/07/23 13:56:40]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50114 id=#40805664 {7cc84e08}
+[06/07/23 13:56:40]: <0x2402> COM-PC: create session 127.0.0.1 on port 51267 id=#40807640 {6c1101ba}
+[06/07/23 18:42:28]: ----------------------------------------------- {44acf45e}
+[06/07/23 18:42:28]: Registro iniciado (1048576) {0aa75ae2}
+[06/07/23 18:42:33]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {7d4d9062}
+[06/07/23 18:42:33]: <0x0003> Cycle time set to 0.004s {d4986032}
+[06/07/23 18:42:33]: <0x0003> Simulation cycle time set to 0.1s {12c899fb}
+[06/07/23 18:42:33]: <0x0002> Controller IP address could not be updated {bb77159a}
+[06/07/23 18:42:33]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {3543268b}
+[06/07/23 18:42:33]: <0x0001> Error while trying to build User serial 2 {8df8bae0}
+[06/07/23 18:42:33]: <0x0002> Default user payload used. {ea48bdfb}
+[06/07/23 18:42:33]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {76e8bb35}
+[06/07/23 18:42:33]: <0x2401> Horas con potencia =18:27:55 {03af030c}
+[06/07/23 18:42:33]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {cda92918}
+[06/07/23 18:42:34]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {72f0a477}
+[06/07/23 18:42:35]: <0x0003> COM-PC: server created on all interfaces [851] {3289b80a}
+[06/07/23 18:42:38]: <0x2402> History handler has been connected to IHM {091f0f0d}
+[06/07/23 18:42:38]: <0x2401> System: s7.11.2 Feb 24 2020 {aa115a56}
+[06/07/23 18:42:38]: <0x2401> Kernel: Unknown  {0f132848}
+[06/07/23 18:42:38]: <0x2401> Configuration Version: c1.046  {2d11c1fd}
+[06/07/23 18:42:38]: <0x2401> CPU: TEKNOR  {fae1502e}
+[06/07/23 18:42:38]: <0x2401> Option testMode: enabled  {ee61e599}
+[06/07/23 18:42:38]: <0x2401> Option VAL 3: enabled  {debcf319}
+[06/07/23 18:42:38]: <0x2401> N/S del controlador: : ?  {503cd7aa}
+[06/07/23 18:42:38]: <0x2401> Brazo: tx60-S1-R4 suelo {1e84b688}
+[06/07/23 18:42:38]: <0x2401> N/S del brazo:: ?  {b0b4e9ff}
+[06/07/23 18:42:38]: <0x2401> Tipo de aceite:   {b4f201e9}
+[06/07/23 18:42:38]: <0x2401> Nombre del robot:   {8ca378b1}
+[06/07/23 18:42:38]: <0x2401> EP: s7.11.2 Feb 24 2020 {af62545d}
+[06/07/23 18:42:38]: <0x2401> EP10: s7.11.2 Feb 24 2020 {671eaad2}
+[06/07/23 18:42:38]: <0x2401> SCA: s7.11.2 Feb 24 2020 {55141c7a}
+[06/07/23 18:42:38]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {89870e4c}
+[06/07/23 18:42:38]: <0x2201> Nuevo perfil : default {d4d14964}
+[06/07/23 18:42:38]: <0x2401> End of controller initialization 0 {8f926d4f}
+[06/07/23 18:42:43]: <0x2401> Saving controller context... {b0848009}
+[06/07/23 18:42:43]: <0x2402> Temperatura del controlador: 28°C {1315f7b0}
+[06/07/23 18:42:43]: <0x2402> Temperatura de la CPU: 28°C {6312ab10}
+[06/07/23 18:42:59]: <0x2402> Mcp = TSimulated {5b0f59c4}
+[06/07/23 18:42:59]: <0x340A> Mcp communication established {2a431abd}
+[06/07/23 18:42:59]: <0x1801> Modo de trabajo:automático. {b80e060b}
+[06/07/23 18:43:13]: ----------------------------------------------- {024c4302}
+[06/07/23 18:43:13]: Registro iniciado (1048576) {4b7ad38c}
+[06/07/23 18:43:18]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {6e1d3770}
+[06/07/23 18:43:18]: <0x0003> Cycle time set to 0.004s {ecac126a}
+[06/07/23 18:43:18]: <0x0003> Simulation cycle time set to 0.1s {76d27b33}
+[06/07/23 18:43:18]: <0x0002> Controller IP address could not be updated {26fdb204}
+[06/07/23 18:43:18]: <0x0003> Mcp = TSimulated {d5dd8354}
+[06/07/23 18:43:18]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {55138574}
+[06/07/23 18:43:18]: <0x0001> Error while trying to build User serial 2 {7359d75a}
+[06/07/23 18:43:18]: <0x0002> Default user payload used. {7b672aca}
+[06/07/23 18:43:18]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {306dc623}
+[06/07/23 18:43:18]: <0x2401> Horas con potencia =18:27:55 {8c543c8e}
+[06/07/23 18:43:18]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {49cabf05}
+[06/07/23 18:43:18]: <0x0003> COM-PC: server created on all interfaces [851] {88cacc43}
+[06/07/23 18:43:18]: <0x2402> History handler has been connected to IHM {2e40f8e6}
+[06/07/23 18:43:18]: <0x2401> System: s7.11.2 Feb 24 2020 {8602f59c}
+[06/07/23 18:43:18]: <0x2401> Kernel: Unknown  {9b4b88fe}
+[06/07/23 18:43:18]: <0x2401> Configuration Version: c1.046  {4cd3f132}
+[06/07/23 18:43:18]: <0x2401> CPU: TEKNOR  {20901a90}
+[06/07/23 18:43:18]: <0x2401> Option testMode: enabled  {489ea070}
+[06/07/23 18:43:18]: <0x2401> Option VAL 3: enabled  {58e7970d}
+[06/07/23 18:43:18]: <0x2401> N/S del controlador: : ?  {1d1e60ef}
+[06/07/23 18:43:18]: <0x2401> Brazo: tx60-S1-R4 suelo {6b7bb2e1}
+[06/07/23 18:43:18]: <0x2401> N/S del brazo:: ?  {3dad6d42}
+[06/07/23 18:43:18]: <0x2401> Tipo de aceite:   {40a8bb4f}
+[06/07/23 18:43:18]: <0x2401> Nombre del robot:   {70c32f67}
+[06/07/23 18:43:18]: <0x2401> EP: s7.11.2 Feb 24 2020 {e0c14a43}
+[06/07/23 18:43:18]: <0x2401> EP10: s7.11.2 Feb 24 2020 {2205c113}
+[06/07/23 18:43:18]: <0x2401> SCA: s7.11.2 Feb 24 2020 {d98ab8b3}
+[06/07/23 18:43:18]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {d0c99696}
+[06/07/23 18:43:18]: <0x2201> Nuevo perfil : default {717bceb2}
+[06/07/23 18:43:18]: <0x2401> End of controller initialization 0 {3cad98f8}
+[06/07/23 18:43:18]: <0x340A> Mcp communication established {f82fd382}
+[06/07/23 18:43:18]: <0x2402> MCP communication disconnected {2d4bef88}
+[06/07/23 18:43:19]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {957de250}
+[06/07/23 18:43:19]: <0x2402> Mcp = TSimulated {88a0c8d4}
+[06/07/23 18:43:21]: <0x340A> Mcp communication established {08fdf9d1}
+[06/07/23 18:43:21]: <0x2402> MCP communication disconnected {e80e0508}
+[06/07/23 18:44:27]: <0x2402> COM-PC: create session 127.0.0.1 on port 50704 id=#52013464 {2025d21b}
+[06/07/23 19:32:35]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50704 id=#52013464 {e0229c27}
+[06/07/23 19:32:35]: <0x2402> COM-PC: create session 127.0.0.1 on port 50705 id=#52014608 {b0ef72fd}
+[06/08/23 11:49:53]: ----------------------------------------------- {2cad12bb}
+[06/08/23 11:49:53]: Registro iniciado (1048576) {a48ede46}
+[06/08/23 11:49:58]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {35d6dcc6}
+[06/08/23 11:49:58]: <0x0003> Cycle time set to 0.004s {d6001ca2}
+[06/08/23 11:49:58]: <0x0003> Simulation cycle time set to 0.1s {ae6f1afc}
+[06/08/23 11:49:58]: <0x0002> Controller IP address could not be updated {9215314d}
+[06/08/23 11:49:58]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {37fff80a}
+[06/08/23 11:49:58]: <0x0001> Error while trying to build User serial 2 {516a347b}
+[06/08/23 11:49:58]: <0x0002> Default user payload used. {0f20997d}
+[06/08/23 11:49:58]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {732bb1e2}
+[06/08/23 11:49:58]: <0x2401> Horas con potencia =18:27:55 {f54a3d01}
+[06/08/23 11:49:58]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {44709596}
+[06/08/23 11:49:59]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {b0842bd3}
+[06/08/23 11:50:03]: <0x0003> COM-PC: server created on all interfaces [851] {655fe085}
+[06/08/23 11:50:06]: <0x2402> History handler has been connected to IHM {1b91172c}
+[06/08/23 11:50:06]: <0x2401> System: s7.11.2 Feb 24 2020 {b528c61d}
+[06/08/23 11:50:06]: <0x2401> Kernel: Unknown  {b156a9b1}
+[06/08/23 11:50:06]: <0x2401> Configuration Version: c1.046  {5418ef38}
+[06/08/23 11:50:06]: <0x2401> CPU: TEKNOR  {4ddc87b0}
+[06/08/23 11:50:06]: <0x2401> Option testMode: enabled  {8a00ad47}
+[06/08/23 11:50:06]: <0x2401> Option VAL 3: enabled  {9a8407f7}
+[06/08/23 11:50:06]: <0x2401> N/S del controlador: : ?  {d148cf59}
+[06/08/23 11:50:06]: <0x2401> Brazo: tx60-S1-R4 suelo {fc3884de}
+[06/08/23 11:50:06]: <0x2401> N/S del brazo:: ?  {310c63cb}
+[06/08/23 11:50:06]: <0x2401> Tipo de aceite:   {94beaf9e}
+[06/08/23 11:50:06]: <0x2401> Nombre del robot:   {7f51b86f}
+[06/08/23 11:50:06]: <0x2401> EP: s7.11.2 Feb 24 2020 {6b5d791c}
+[06/08/23 11:50:06]: <0x2401> EP10: s7.11.2 Feb 24 2020 {3d90466f}
+[06/08/23 11:50:06]: <0x2401> SCA: s7.11.2 Feb 24 2020 {2e519a6f}
+[06/08/23 11:50:06]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {cb7207ea}
+[06/08/23 11:50:06]: <0x2201> Nuevo perfil : default {10d5aeb7}
+[06/08/23 11:50:06]: <0x2401> End of controller initialization 0 {a7d32a90}
+[06/08/23 11:50:11]: <0x2401> Saving controller context... {90e60167}
+[06/08/23 11:50:11]: <0x2402> Temperatura del controlador: 28°C {c9799fb6}
+[06/08/23 11:50:11]: <0x2402> Temperatura de la CPU: 28°C {d9258ffa}
+[06/08/23 11:50:19]: <0x2402> Mcp = TSimulated {4869a873}
+[06/08/23 11:50:19]: <0x340A> Mcp communication established {60247830}
+[06/08/23 11:50:20]: <0x1801> Modo de trabajo:automático. {ce8fad64}
+[06/08/23 11:51:13]: <0x2402> COM-PC: create session 127.0.0.1 on port 49912 id=#44554664 {147383d0}
+[06/08/23 11:56:46]: <0x2401> Saving controller context... {6b0482ee}
+[06/08/23 13:18:30]: <0x2402> MCP communication disconnected {62a6a398}
+[06/08/23 13:18:31]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 49912 id=#44554664 {ccf3c911}
+[06/08/23 13:18:31]: <0x2402> COM-PC: create session 127.0.0.1 on port 49914 id=#44554560 {fcccef50}
+[06/08/23 13:20:20]: ----------------------------------------------- {05d49536}
+[06/08/23 13:20:20]: Registro iniciado (1048576) {9361dc17}
+[06/08/23 13:20:24]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {a724511d}
+[06/08/23 13:20:24]: <0x0003> Cycle time set to 0.004s {176875c0}
+[06/08/23 13:20:24]: <0x0003> Simulation cycle time set to 0.1s {2adbd1b4}
+[06/08/23 13:20:24]: <0x0002> Controller IP address could not be updated {24eddec8}
+[06/08/23 13:20:24]: <0x0003> Mcp = TSimulated {65975766}
+[06/08/23 13:20:24]: <0x340A> Mcp communication established {6157aa9e}
+[06/08/23 13:20:24]: <0x0003> MCP communication disconnected {a52fd3a3}
+[06/08/23 13:20:24]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {9bcc7954}
+[06/08/23 13:20:24]: <0x0001> Error while trying to build User serial 2 {5682490b}
+[06/08/23 13:20:24]: <0x0002> Default user payload used. {36bd4731}
+[06/08/23 13:20:24]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {0b3eb11c}
+[06/08/23 13:20:24]: <0x2401> Horas con potencia =18:27:55 {e17bb7c0}
+[06/08/23 13:20:24]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {ef3801ca}
+[06/08/23 13:20:25]: <0x0003> Mcp = TSimulated {fa6ead9a}
+[06/08/23 13:20:25]: <0x0003> COM-PC: server created on all interfaces [851] {5bb56adb}
+[06/08/23 13:20:25]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {b29e869a}
+[06/08/23 13:20:26]: <0x2402> History handler has been connected to IHM {477f99b6}
+[06/08/23 13:20:26]: <0x2401> System: s7.11.2 Feb 24 2020 {ab67d108}
+[06/08/23 13:20:26]: <0x2401> Kernel: Unknown  {dd87afad}
+[06/08/23 13:20:26]: <0x2401> Configuration Version: c1.046  {4e8cfd34}
+[06/08/23 13:20:26]: <0x2401> CPU: TEKNOR  {cc7265cf}
+[06/08/23 13:20:26]: <0x2401> Option testMode: enabled  {26a040d9}
+[06/08/23 13:20:26]: <0x2401> Option VAL 3: enabled  {562987af}
+[06/08/23 13:20:26]: <0x2401> N/S del controlador: : ?  {f83f73ce}
+[06/08/23 13:20:26]: <0x2401> Brazo: tx60-S1-R4 suelo {cf1d98b1}
+[06/08/23 13:20:26]: <0x2401> N/S del brazo:: ?  {d88d5002}
+[06/08/23 13:20:26]: <0x2401> Tipo de aceite:   {da7fb3af}
+[06/08/23 13:20:26]: <0x2401> Nombre del robot:   {4eeea15a}
+[06/08/23 13:20:26]: <0x2401> EP: s7.11.2 Feb 24 2020 {48d58dfd}
+[06/08/23 13:20:26]: <0x2401> EP10: s7.11.2 Feb 24 2020 {2f1b8085}
+[06/08/23 13:20:26]: <0x2401> SCA: s7.11.2 Feb 24 2020 {11815f49}
+[06/08/23 13:20:26]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {2563016d}
+[06/08/23 13:20:26]: <0x2201> Nuevo perfil : default {94abd9f3}
+[06/08/23 13:20:26]: <0x2401> End of controller initialization 0 {895ae7d2}
+[06/08/23 13:20:27]: <0x340A> Mcp communication established {abdebc33}
+[06/08/23 13:20:27]: <0x2402> MCP communication disconnected {f60aa4ae}
+[06/08/23 13:58:01]: <0x2401> Saving controller context... {7406bbbd}
+[06/08/23 13:58:01]: <0x2402> Temperatura del controlador: 28°C {ddcb8076}
+[06/08/23 13:58:01]: <0x2402> Temperatura de la CPU: 28°C {adeecf86}
+[06/12/23 11:19:32]: ----------------------------------------------- {1e8f867d}
+[06/12/23 11:19:32]: Registro iniciado (1048576) {9be0fc1f}
+[06/12/23 11:19:37]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {d005eba7}
+[06/12/23 11:19:37]: <0x0003> Cycle time set to 0.004s {2b87f69f}
+[06/12/23 11:19:37]: <0x0003> Simulation cycle time set to 0.1s {7ad551d7}
+[06/12/23 11:19:37]: <0x0002> Controller IP address could not be updated {555a80d8}
+[06/12/23 11:19:37]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {a3589fe6}
+[06/12/23 11:19:37]: <0x0001> Error while trying to build User serial 2 {f2b0acbc}
+[06/12/23 11:19:37]: <0x0002> Default user payload used. {e946dbcf}
+[06/12/23 11:19:37]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {adc4ed38}
+[06/12/23 11:19:37]: <0x2401> Horas con potencia =18:27:55 {b3de1e98}
+[06/12/23 11:19:37]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {c5c5c49a}
+[06/12/23 11:19:38]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {8e1abac5}
+[06/12/23 11:19:38]: <0x0003> COM-PC: server created on all interfaces [851] {df813bb5}
+[06/12/23 11:19:40]: <0x2402> History handler has been connected to IHM {be347210}
+[06/12/23 11:19:40]: <0x2401> System: s7.11.2 Feb 24 2020 {ec84d956}
+[06/12/23 11:19:40]: <0x2401> Kernel: Unknown  {4629f6f5}
+[06/12/23 11:19:40]: <0x2401> Configuration Version: c1.046  {8aee7b53}
+[06/12/23 11:19:40]: <0x2401> CPU: TEKNOR  {c8cd0fab}
+[06/12/23 11:19:40]: <0x2401> Option testMode: enabled  {1058214e}
+[06/12/23 11:19:40]: <0x2401> Option VAL 3: enabled  {00ef4eaa}
+[06/12/23 11:19:40]: <0x2401> N/S del controlador: : ?  {b7e6ee12}
+[06/12/23 11:19:40]: <0x2401> Brazo: tx60-S1-R4 suelo {dcfc2077}
+[06/12/23 11:19:40]: <0x2401> N/S del brazo:: ?  {971d23c1}
+[06/12/23 11:19:40]: <0x2401> Tipo de aceite:   {1a219b18}
+[06/12/23 11:19:40]: <0x2401> Nombre del robot:   {0abad2e3}
+[06/12/23 11:19:40]: <0x2401> EP: s7.11.2 Feb 24 2020 {1b1b5282}
+[06/12/23 11:19:40]: <0x2401> EP10: s7.11.2 Feb 24 2020 {1ecd7713}
+[06/12/23 11:19:40]: <0x2401> SCA: s7.11.2 Feb 24 2020 {5106333d}
+[06/12/23 11:19:40]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {78297613}
+[06/12/23 11:19:40]: <0x2201> Nuevo perfil : default {62cf388a}
+[06/12/23 11:19:40]: <0x2401> End of controller initialization 0 {60d17c3d}
+[06/12/23 11:19:45]: <0x2401> Saving controller context... {8a5b1ff5}
+[06/12/23 11:19:45]: <0x2402> Temperatura del controlador: 28°C {b12dfad5}
+[06/12/23 11:19:45]: <0x2402> Temperatura de la CPU: 28°C {a1dc3dcf}
+[06/12/23 11:19:52]: <0x2402> Mcp = TSimulated {a5998366}
+[06/12/23 11:19:52]: <0x340A> Mcp communication established {a0816189}
+[06/12/23 11:19:52]: <0x1801> Modo de trabajo:automático. {23fc6ccf}
+[06/12/23 11:20:04]: <0x2402> MCP communication disconnected {86932717}
+[06/12/23 11:20:07]: ----------------------------------------------- {eb1fc11f}
+[06/12/23 11:20:07]: Registro iniciado (1048576) {f78c9afb}
+[06/12/23 11:20:12]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {1942c70d}
+[06/12/23 11:20:12]: <0x0003> Cycle time set to 0.004s {4610b2b2}
+[06/12/23 11:20:12]: <0x0003> Simulation cycle time set to 0.1s {3b17a956}
+[06/12/23 11:20:12]: <0x0002> Controller IP address could not be updated {1ed8d8ba}
+[06/12/23 11:20:12]: <0x0003> Mcp = TSimulated {a659440c}
+[06/12/23 11:20:12]: <0x340A> Mcp communication established {a5a87dea}
+[06/12/23 11:20:12]: <0x0003> MCP communication disconnected {2b45a92a}
+[06/12/23 11:20:12]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {ef8d5f27}
+[06/12/23 11:20:12]: <0x0001> Error while trying to build User serial 2 {d820c905}
+[06/12/23 11:20:12]: <0x0002> Default user payload used. {a6238d29}
+[06/12/23 11:20:12]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {49f3dd75}
+[06/12/23 11:20:12]: <0x2401> Horas con potencia =18:27:55 {263b799b}
+[06/12/23 11:20:12]: <0x2401> Dirección Mac = 30-e1-71-27-5c-c4 {cfaa18fc}
+[06/12/23 11:20:12]: <0x0003> COM-PC: server created on all interfaces [851] {693417f1}
+[06/12/23 11:20:12]: <0x2402> History handler has been connected to IHM {836c3da3}
+[06/12/23 11:20:12]: <0x2401> System: s7.11.2 Feb 24 2020 {9ed6d6bf}
+[06/12/23 11:20:12]: <0x2401> Kernel: Unknown  {b79aac8d}
+[06/12/23 11:20:12]: <0x2401> Configuration Version: c1.046  {1028e79b}
+[06/12/23 11:20:12]: <0x2401> CPU: TEKNOR  {b97fef77}
+[06/12/23 11:20:12]: <0x2401> Option testMode: enabled  {b3889922}
+[06/12/23 11:20:12]: <0x2401> Option VAL 3: enabled  {83fbb359}
+[06/12/23 11:20:12]: <0x2401> N/S del controlador: : ?  {e40c9a61}
+[06/12/23 11:20:12]: <0x2401> Brazo: tx60-S1-R4 suelo {2adc5942}
+[06/12/23 11:20:12]: <0x2401> N/S del brazo:: ?  {846bb13f}
+[06/12/23 11:20:12]: <0x2401> Tipo de aceite:   {d3f7ed2a}
+[06/12/23 11:20:12]: <0x2401> Nombre del robot:   {ad6ddeed}
+[06/12/23 11:20:12]: <0x2401> EP: s7.11.2 Feb 24 2020 {03b00dad}
+[06/12/23 11:20:12]: <0x2401> EP10: s7.11.2 Feb 24 2020 {29e3f6be}
+[06/12/23 11:20:12]: <0x2401> SCA: s7.11.2 Feb 24 2020 {ec68db59}
+[06/12/23 11:20:12]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {3cae59dc}
+[06/12/23 11:20:12]: <0x2201> Nuevo perfil : default {f268a1b3}
+[06/12/23 11:20:12]: <0x2401> End of controller initialization 0 {f8e68599}
+[06/12/23 11:20:13]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {b21d2616}
+[06/12/23 11:20:13]: <0x2402> Mcp = TSimulated {68967259}
+[06/12/23 11:20:15]: <0x340A> Mcp communication established {66cbc779}
+[06/12/23 11:20:15]: <0x2402> MCP communication disconnected {311e67a2}
+[06/12/23 11:21:13]: <0x2402> COM-PC: create session 127.0.0.1 on port 13645 id=#48474416 {8e7501e3}
+[06/12/23 11:34:57]: <0x2401> Saving controller context... {da88cafc}
+[06/12/23 11:34:57]: <0x2402> Temperatura del controlador: 28°C {73576c1b}
+[06/12/23 11:34:57]: <0x2402> Temperatura de la CPU: 28°C {634cca0f}
+[06/12/23 12:14:41]: <0x2401> Saving controller context... {f13a3f18}
+[06/12/23 13:25:57]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 13645 id=#48474416 {c8f6f59f}
+[06/12/23 13:25:57]: <0x2402> COM-PC: create session 127.0.0.1 on port 13648 id=#48473896 {386b879b}
+[06/14/23 10:52:52]: ----------------------------------------------- {20ae1719}
+[06/14/23 10:52:52]: Registro iniciado (1048576) {60ab6370}
+[06/14/23 10:52:56]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {0ced9c3d}
+[06/14/23 10:52:56]: <0x0003> Cycle time set to 0.004s {3c1e307e}
+[06/14/23 10:52:56]: <0x0003> Simulation cycle time set to 0.1s {3449c536}
+[06/14/23 10:52:56]: <0x0002> Controller IP address could not be updated {2743ff6e}
+[06/14/23 10:52:56]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {e8d5ac1b}
+[06/14/23 10:52:56]: <0x0001> Error while trying to build User serial 2 {98d11667}
+[06/14/23 10:52:56]: <0x0002> Default user payload used. {bdb92e96}
+[06/14/23 10:52:56]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {deeffe7b}
+[06/14/23 10:52:56]: <0x2401> Horas con potencia =18:27:55 {60f8d52c}
+[06/14/23 10:52:56]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {1c6e05c6}
+[06/14/23 10:52:58]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {074b1f08}
+[06/14/23 10:52:59]: <0x0003> COM-PC: server created on all interfaces [851] {ea841149}
+[06/14/23 10:53:01]: <0x2402> History handler has been connected to IHM {edcbfae9}
+[06/14/23 10:53:01]: <0x2401> System: s7.11.2 Feb 24 2020 {222e384c}
+[06/14/23 10:53:01]: <0x2401> Kernel: Unknown  {c8dfecfe}
+[06/14/23 10:53:01]: <0x2401> Configuration Version: c1.046  {98833c2c}
+[06/14/23 10:53:01]: <0x2401> CPU: TEKNOR  {4b8910c6}
+[06/14/23 10:53:01]: <0x2401> Option testMode: enabled  {ba61bf4a}
+[06/14/23 10:53:01]: <0x2401> Option VAL 3: enabled  {cadc8388}
+[06/14/23 10:53:01]: <0x2401> N/S del controlador: : ?  {e9c897ec}
+[06/14/23 10:53:01]: <0x2401> Brazo: tx60-S1-R4 suelo {3eca8b03}
+[06/14/23 10:53:01]: <0x2401> N/S del brazo:: ?  {d91f7e38}
+[06/14/23 10:53:01]: <0x2401> Tipo de aceite:   {17134846}
+[06/14/23 10:53:01]: <0x2401> Nombre del robot:   {3be29b69}
+[06/14/23 10:53:01]: <0x2401> EP: s7.11.2 Feb 24 2020 {b4eba698}
+[06/14/23 10:53:01]: <0x2401> EP10: s7.11.2 Feb 24 2020 {ef84cb5d}
+[06/14/23 10:53:01]: <0x2401> SCA: s7.11.2 Feb 24 2020 {26201387}
+[06/14/23 10:53:01]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {42984a01}
+[06/14/23 10:53:01]: <0x2201> Nuevo perfil : default {2f944ae1}
+[06/14/23 10:53:01]: <0x2401> End of controller initialization 0 {cb49ea7a}
+[06/14/23 10:53:12]: <0x2401> Saving controller context... {003aedc8}
+[06/14/23 10:53:12]: <0x2402> Temperatura del controlador: 28°C {685a9a70}
+[06/14/23 10:53:12]: <0x2402> Temperatura de la CPU: 28°C {58c3688b}
+[06/14/23 10:53:26]: <0x2402> Mcp = TSimulated {02afea35}
+[06/14/23 10:53:26]: <0x340A> Mcp communication established {96a3277e}
+[06/14/23 10:53:26]: <0x1801> Modo de trabajo:automático. {81e5cc99}
+[06/21/23 11:23:14]: ----------------------------------------------- {84eabdc2}
+[06/21/23 11:23:14]: Registro iniciado (1048576) {605a9bda}
+[06/21/23 11:23:19]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {62d8aa4e}
+[06/21/23 11:23:19]: <0x0003> Cycle time set to 0.004s {08c6865b}
+[06/21/23 11:23:19]: <0x0003> Simulation cycle time set to 0.1s {4eb48c6c}
+[06/21/23 11:23:19]: <0x0002> Controller IP address could not be updated {9149dcbe}
+[06/21/23 11:23:19]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {d25425fc}
+[06/21/23 11:23:19]: <0x0001> Error while trying to build User serial 2 {713b9c29}
+[06/21/23 11:23:19]: <0x0002> Default user payload used. {9e45ba65}
+[06/21/23 11:23:19]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {d77eae5a}
+[06/21/23 11:23:19]: <0x2401> Horas con potencia =18:27:55 {b8a07c56}
+[06/21/23 11:23:19]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {36792c83}
+[06/21/23 11:23:20]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {2818a597}
+[06/21/23 11:23:21]: <0x0003> COM-PC: server created on all interfaces [851] {747d68ab}
+[06/21/23 11:23:23]: <0x2402> History handler has been connected to IHM {230f731f}
+[06/21/23 11:23:23]: <0x2401> System: s7.11.2 Feb 24 2020 {355b3a6d}
+[06/21/23 11:23:23]: <0x2401> Kernel: Unknown  {4fa7fd94}
+[06/21/23 11:23:23]: <0x2401> Configuration Version: c1.046  {75fc66ec}
+[06/21/23 11:23:23]: <0x2401> CPU: TEKNOR  {29a3b5a6}
+[06/21/23 11:23:23]: <0x2401> Option testMode: enabled  {12777796}
+[06/21/23 11:23:23]: <0x2401> Option VAL 3: enabled  {02fe94d2}
+[06/21/23 11:23:23]: <0x2401> N/S del controlador: : ?  {cefd9a62}
+[06/21/23 11:23:23]: <0x2401> Brazo: tx60-S1-R4 suelo {fbd70dba}
+[06/21/23 11:23:23]: <0x2401> N/S del brazo:: ?  {ee7648a6}
+[06/21/23 11:23:23]: <0x2401> Tipo de aceite:   {c3810565}
+[06/21/23 11:23:23]: <0x2401> Nombre del robot:   {0800f58b}
+[06/21/23 11:23:23]: <0x2401> EP: s7.11.2 Feb 24 2020 {598cbdef}
+[06/21/23 11:23:23]: <0x2401> EP10: s7.11.2 Feb 24 2020 {f8941d41}
+[06/21/23 11:23:23]: <0x2401> SCA: s7.11.2 Feb 24 2020 {3e143782}
+[06/21/23 11:23:23]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {fe0d77e6}
+[06/21/23 11:23:23]: <0x2201> Nuevo perfil : default {d31b3159}
+[06/21/23 11:23:23]: <0x2401> End of controller initialization 0 {8dd961c5}
+[06/21/23 11:23:28]: <0x2401> Saving controller context... {2514d007}
+[06/21/23 11:23:28]: <0x2402> Temperatura del controlador: 28°C {4b2b1b1c}
+[06/21/23 11:23:28]: <0x2402> Temperatura de la CPU: 28°C {5b9ee239}
+[06/21/23 11:23:32]: <0x2402> Mcp = TSimulated {1f59c502}
+[06/21/23 11:23:32]: <0x340A> Mcp communication established {7e2036bd}
+[06/21/23 11:23:32]: <0x1801> Modo de trabajo:automático. {eec2d61e}
+[06/21/23 11:23:37]: <0x3407> Error interno MCP-NoAnswer: char 1 {56bbab9a}
+[06/21/23 11:23:43]: <0x3409> Error interno MCP-ResetTimeout {d53daf87}
+[06/21/23 11:23:43]: <0x2402> MCP communication disconnected {83c97220}
+[06/21/23 11:23:47]: <0x2402> Mcp = TSimulated {52c3374e}
+[06/21/23 11:23:47]: <0x340A> Mcp communication established {2f2a8533}
+[06/21/23 11:23:47]: <0x1801> Modo de trabajo:automático. {15cf55e9}
+[06/21/23 11:23:52]: <0x3407> Error interno MCP-NoAnswer: char 1 {4f7d22a5}
+[06/21/23 11:23:58]: <0x3409> Error interno MCP-ResetTimeout {83d42c05}
+[06/21/23 11:23:58]: <0x2402> MCP communication disconnected {00fdf22f}
+[06/21/23 11:24:00]: <0x2402> Mcp = TSimulated {304e55e5}
+[06/21/23 11:24:00]: <0x340A> Mcp communication established {df90f692}
+[06/21/23 11:24:00]: <0x1801> Modo de trabajo:automático. {2b85646f}
+[06/21/23 11:24:05]: <0x3407> Error interno MCP-NoAnswer: char 1 {5c95872b}
+[06/21/23 11:24:11]: <0x3409> Error interno MCP-ResetTimeout {b2efc104}
+[06/21/23 11:24:11]: <0x2402> MCP communication disconnected {420f2afc}
+[06/21/23 11:24:13]: <0x2402> Mcp = TSimulated {cf98b006}
+[06/21/23 11:24:13]: <0x340A> Mcp communication established {8e554895}
+[06/21/23 11:24:13]: <0x1801> Modo de trabajo:automático. {c987acdb}
+[06/21/23 11:24:18]: <0x3407> Error interno MCP-NoAnswer: char 1 {1dac8829}
+[06/21/23 11:24:24]: <0x3409> Error interno MCP-ResetTimeout {262cf16a}
+[06/21/23 11:24:24]: <0x2402> MCP communication disconnected {b1b80983}
+[06/21/23 11:24:26]: <0x2402> Mcp = TSimulated {0df3e633}
+[06/21/23 11:24:26]: <0x340A> Mcp communication established {92b390cd}
+[06/21/23 11:24:26]: <0x1801> Modo de trabajo:automático. {2cf80bd6}
+[06/21/23 11:24:31]: <0x3407> Error interno MCP-NoAnswer: char 1 {30cabbf8}
+[06/21/23 11:24:37]: <0x3409> Error interno MCP-ResetTimeout {43451579}
+[06/21/23 11:24:37]: <0x2402> MCP communication disconnected {c5870242}
+[06/21/23 11:24:39]: <0x2402> Mcp = TSimulated {fb1f660d}
+[06/21/23 11:24:39]: <0x340A> Mcp communication established {712716d2}
+[06/21/23 11:24:39]: <0x1801> Modo de trabajo:automático. {345d5a1b}
+[06/21/23 11:24:44]: <0x3407> Error interno MCP-NoAnswer: char 1 {740d0929}
+[06/21/23 11:24:50]: <0x3409> Error interno MCP-ResetTimeout {db6d4f83}
+[06/21/23 11:24:50]: <0x2402> MCP communication disconnected {3c36d5ca}
+[06/21/23 11:24:52]: <0x2402> Mcp = TSimulated {ee7a199e}
+[06/21/23 11:24:52]: <0x340A> Mcp communication established {946e2289}
+[06/21/23 11:24:52]: <0x1801> Modo de trabajo:automático. {de4793ec}
+[06/21/23 11:24:57]: <0x3407> Error interno MCP-NoAnswer: char 1 {8aefdf02}
+[06/21/23 11:25:03]: <0x3409> Error interno MCP-ResetTimeout {a44c340b}
+[06/21/23 11:25:03]: <0x2402> MCP communication disconnected {0e977dcc}
+[06/21/23 11:25:04]: <0x2402> Mcp = TSimulated {f0f30112}
+[06/21/23 11:25:04]: <0x340A> Mcp communication established {a67f8fd2}
+[06/21/23 11:25:05]: <0x1801> Modo de trabajo:automático. {a7a45a95}
+[06/21/23 11:25:10]: <0x3407> Error interno MCP-NoAnswer: char 1 {6d834953}
+[06/21/23 11:25:16]: <0x3409> Error interno MCP-ResetTimeout {6b76a13b}
+[06/21/23 11:25:16]: <0x2402> MCP communication disconnected {94bcd736}
+[06/21/23 11:25:17]: <0x2402> Mcp = TSimulated {23a9eefa}
+[06/21/23 11:25:17]: <0x340A> Mcp communication established {ae4fda9b}
+[06/21/23 11:25:18]: <0x1801> Modo de trabajo:automático. {cf7ec6c5}
+[06/21/23 11:25:23]: <0x3407> Error interno MCP-NoAnswer: char 1 {2a5f628d}
+[06/21/23 11:25:29]: <0x3409> Error interno MCP-ResetTimeout {ab994fbf}
+[06/21/23 11:25:29]: <0x2402> MCP communication disconnected {22fe1d4b}
+[06/21/23 11:25:30]: <0x2402> Mcp = TSimulated {91d24b94}
+[06/21/23 11:25:30]: <0x340A> Mcp communication established {3f29089f}
+[06/21/23 11:25:31]: <0x1801> Modo de trabajo:automático. {2c42c9b4}
+[06/21/23 11:25:36]: <0x3407> Error interno MCP-NoAnswer: char 1 {c0f833ca}
+[06/21/23 11:25:42]: <0x3409> Error interno MCP-ResetTimeout {5d0da273}
+[06/21/23 11:25:42]: <0x2402> MCP communication disconnected {7db18c44}
+[06/21/23 11:25:43]: <0x2402> Mcp = TSimulated {7351dcd2}
+[06/21/23 11:25:43]: <0x340A> Mcp communication established {646c5f6c}
+[06/21/23 11:25:44]: <0x1801> Modo de trabajo:automático. {9cfa16b4}
+[06/21/23 11:25:49]: <0x3407> Error interno MCP-NoAnswer: char 1 {f5a77ab8}
+[06/21/23 11:25:55]: <0x3409> Error interno MCP-ResetTimeout {b486157b}
+[06/21/23 11:25:55]: <0x2402> MCP communication disconnected {8ebeb9ee}
+[06/21/23 11:25:56]: <0x2402> Mcp = TSimulated {31b005d0}
+[06/21/23 11:25:56]: <0x340A> Mcp communication established {7e0a0df1}
+[06/21/23 11:25:57]: <0x1801> Modo de trabajo:automático. {4f6fc4c8}
+[06/21/23 11:26:02]: <0x3407> Error interno MCP-NoAnswer: char 1 {36d1c260}
+[06/21/23 11:26:08]: <0x3409> Error interno MCP-ResetTimeout {d4bacbd8}
+[06/21/23 11:26:08]: <0x2402> MCP communication disconnected {473a1ac8}
+[06/21/23 11:26:09]: <0x2402> Mcp = TSimulated {05430165}
+[06/21/23 11:26:09]: <0x340A> Mcp communication established {c8075caf}
+[06/21/23 11:26:10]: <0x1801> Modo de trabajo:automático. {879b6851}
+[06/21/23 11:26:15]: <0x3407> Error interno MCP-NoAnswer: char 1 {d45d3da8}
+[06/21/23 11:26:21]: <0x3409> Error interno MCP-ResetTimeout {bab74203}
+[06/21/23 11:26:21]: <0x2402> MCP communication disconnected {658f08fb}
+[06/21/23 11:26:22]: <0x2402> Mcp = TSimulated {58640373}
+[06/21/23 11:26:22]: <0x340A> Mcp communication established {9fe8a52c}
+[06/21/23 11:26:23]: <0x1801> Modo de trabajo:automático. {918135bc}
+[06/21/23 11:26:28]: <0x3407> Error interno MCP-NoAnswer: char 1 {31fed2c6}
+[06/21/23 11:26:34]: <0x3409> Error interno MCP-ResetTimeout {31a18ecf}
+[06/21/23 11:26:34]: <0x2402> MCP communication disconnected {b26f6519}
+[06/21/23 11:26:35]: <0x2402> Mcp = TSimulated {8ade5194}
+[06/21/23 11:26:35]: <0x340A> Mcp communication established {a31d7c1a}
+[06/21/23 11:26:35]: <0x1801> Modo de trabajo:automático. {73e1eef6}
+[06/21/23 11:26:41]: <0x3407> Error interno MCP-NoAnswer: char 1 {29c1dd3b}
+[06/21/23 11:26:47]: <0x3409> Error interno MCP-ResetTimeout {43a51f98}
+[06/21/23 11:26:47]: <0x2402> MCP communication disconnected {8994ab74}
+[06/21/23 11:26:48]: <0x2402> Mcp = TSimulated {166ed098}
+[06/21/23 11:26:48]: <0x340A> Mcp communication established {cd0f5b24}
+[06/21/23 11:26:49]: <0x1801> Modo de trabajo:automático. {b2a81f30}
+[06/21/23 11:26:54]: <0x3407> Error interno MCP-NoAnswer: char 1 {27f601de}
+[06/21/23 11:27:00]: <0x3409> Error interno MCP-ResetTimeout {90f96041}
+[06/21/23 11:27:00]: <0x2402> MCP communication disconnected {60694c7b}
+[06/21/23 11:27:01]: <0x2402> Mcp = TSimulated {537f4c5e}
+[06/21/23 11:27:01]: <0x340A> Mcp communication established {92446eb0}
+[06/21/23 11:27:01]: <0x1801> Modo de trabajo:automático. {42060462}
+[06/21/23 11:27:07]: <0x3407> Error interno MCP-NoAnswer: char 1 {1740c3f2}
+[06/21/23 11:27:13]: <0x3409> Error interno MCP-ResetTimeout {fd6495a9}
+[06/21/23 11:27:13]: <0x2402> MCP communication disconnected {9d6edba0}
+[06/21/23 11:27:14]: <0x2402> Mcp = TSimulated {5aeaef61}
+[06/21/23 11:27:14]: <0x340A> Mcp communication established {e3614863}
+[06/21/23 11:27:14]: <0x1801> Modo de trabajo:automático. {e5592ecb}
+[06/21/23 11:27:20]: <0x3407> Error interno MCP-NoAnswer: char 1 {4da08948}
+[06/21/23 11:27:26]: <0x3409> Error interno MCP-ResetTimeout {ccc65557}
+[06/21/23 11:27:26]: <0x2402> MCP communication disconnected {d868a453}
+[06/21/23 11:27:27]: <0x2402> Mcp = TSimulated {6c2ab512}
+[06/21/23 11:27:27]: <0x340A> Mcp communication established {b1b27839}
+[06/21/23 11:27:27]: <0x1801> Modo de trabajo:automático. {726f336b}
+[06/21/23 11:27:33]: <0x3407> Error interno MCP-NoAnswer: char 1 {5cad44c5}
+[06/21/23 11:27:39]: <0x3409> Error interno MCP-ResetTimeout {0ef4232f}
+[06/21/23 11:27:39]: <0x2402> MCP communication disconnected {1db8f1b8}
+[06/21/23 11:27:40]: <0x2402> Mcp = TSimulated {fa5d5732}
+[06/21/23 11:27:40]: <0x340A> Mcp communication established {1884682d}
+[06/21/23 11:27:40]: <0x1801> Modo de trabajo:automático. {13276750}
+[06/21/23 11:27:46]: <0x3407> Error interno MCP-NoAnswer: char 1 {4020c2fe}
+[06/21/23 11:27:52]: <0x3409> Error interno MCP-ResetTimeout {7147ea6b}
+[06/21/23 11:27:52]: <0x2402> MCP communication disconnected {9e6285df}
+[06/21/23 11:27:53]: <0x2402> Mcp = TSimulated {7d421fa7}
+[06/21/23 11:27:53]: <0x340A> Mcp communication established {e7c8c197}
+[06/21/23 11:27:53]: <0x1801> Modo de trabajo:automático. {c000e020}
+[06/21/23 11:27:59]: <0x3407> Error interno MCP-NoAnswer: char 1 {fdbdadbd}
+[06/21/23 11:28:05]: <0x3409> Error interno MCP-ResetTimeout {7b881cd8}
+[06/21/23 11:28:05]: <0x2402> MCP communication disconnected {f1c8620f}
+[06/21/23 11:28:06]: <0x2402> Mcp = TSimulated {429ec312}
+[06/21/23 11:28:06]: <0x340A> Mcp communication established {886c7d13}
+[06/21/23 11:28:06]: <0x1801> Modo de trabajo:automático. {eb47a162}
+[06/21/23 11:28:11]: <0x3407> Error interno MCP-NoAnswer: char 1 {a4ce9269}
+[06/21/23 11:28:19]: <0x3409> Error interno MCP-ResetTimeout {f6b6aa79}
+[06/21/23 11:28:19]: <0x2402> MCP communication disconnected {22fbb023}
+[06/21/23 11:28:20]: <0x2402> Mcp = TSimulated {adfca37d}
+[06/21/23 11:28:20]: <0x340A> Mcp communication established {908784c5}
+[06/21/23 11:28:21]: <0x1801> Modo de trabajo:automático. {95c3b878}
+[06/21/23 11:28:26]: <0x3407> Error interno MCP-NoAnswer: char 1 {56a44591}
+[06/21/23 11:28:32]: <0x3409> Error interno MCP-ResetTimeout {75851812}
+[06/21/23 11:28:32]: <0x2402> MCP communication disconnected {553ccc64}
+[06/21/23 11:28:35]: <0x2402> Mcp = TSimulated {75ace9fd}
+[06/21/23 11:28:35]: <0x340A> Mcp communication established {be32a418}
+[06/21/23 11:28:36]: <0x1801> Modo de trabajo:automático. {ee6c01b4}
+[06/21/23 11:28:41]: <0x3407> Error interno MCP-NoAnswer: char 1 {83aca556}
+[06/21/23 11:28:47]: <0x3409> Error interno MCP-ResetTimeout {fde792f2}
+[06/21/23 11:28:47]: <0x2402> MCP communication disconnected {a0b4b3a4}
+[06/21/23 11:28:48]: <0x2402> Mcp = TSimulated {d4d0ef6b}
+[06/21/23 11:28:48]: <0x340A> Mcp communication established {79e08ea3}
+[06/21/23 11:28:49]: <0x1801> Modo de trabajo:automático. {deb828e2}
+[06/21/23 11:28:54]: <0x3407> Error interno MCP-NoAnswer: char 1 {260b8f73}
+[06/21/23 11:29:00]: <0x3409> Error interno MCP-ResetTimeout {a2e1c1db}
+[06/21/23 11:29:00]: <0x2402> MCP communication disconnected {88ee9492}
+[06/21/23 11:29:01]: <0x2402> Mcp = TSimulated {fa147b1b}
+[06/21/23 11:29:01]: <0x340A> Mcp communication established {5dd93498}
+[06/21/23 11:29:02]: <0x1801> Modo de trabajo:automático. {ca53642a}
+[06/21/23 11:29:07]: <0x3407> Error interno MCP-NoAnswer: char 1 {e2b847b3}
+[06/21/23 11:29:13]: <0x3409> Error interno MCP-ResetTimeout {e5463b02}
+[06/21/23 11:29:13]: <0x2402> MCP communication disconnected {db52ace4}
+[06/21/23 11:29:14]: <0x2402> Mcp = TSimulated {2bd2a64e}
+[06/21/23 11:29:14]: <0x340A> Mcp communication established {c4a279ef}
+[06/21/23 11:29:15]: <0x1801> Modo de trabajo:automático. {5c3ab8b0}
+[06/21/23 11:29:20]: <0x3407> Error interno MCP-NoAnswer: char 1 {d56f090b}
+[06/21/23 11:29:26]: <0x3409> Error interno MCP-ResetTimeout {f47ca1be}
+[06/21/23 11:29:26]: <0x2402> MCP communication disconnected {c9294bd9}
+[06/21/23 11:29:27]: <0x2402> Mcp = TSimulated {75f3ab6a}
+[06/21/23 11:29:27]: <0x340A> Mcp communication established {a9c27f1f}
+[06/21/23 11:29:28]: <0x1801> Modo de trabajo:automático. {0a626b42}
+[06/21/23 11:29:33]: <0x3407> Error interno MCP-NoAnswer: char 1 {e218c8c1}
+[06/21/23 11:29:39]: <0x3409> Error interno MCP-ResetTimeout {c748830a}
+[06/21/23 11:29:39]: <0x2402> MCP communication disconnected {810618de}
+[06/21/23 11:29:40]: <0x2402> Mcp = TSimulated {af52e227}
+[06/21/23 11:29:40]: <0x340A> Mcp communication established {094ac287}
+[06/21/23 11:29:40]: <0x1801> Modo de trabajo:automático. {7a7b1153}
+[06/21/23 11:29:46]: <0x3407> Error interno MCP-NoAnswer: char 1 {139aa2e6}
+[06/21/23 11:29:52]: <0x3409> Error interno MCP-ResetTimeout {6ff7b87b}
+[06/21/23 11:29:52]: <0x2402> MCP communication disconnected {8d22750f}
+[06/21/23 11:29:53]: <0x2402> Mcp = TSimulated {2ab76569}
+[06/21/23 11:29:53]: <0x340A> Mcp communication established {7ccfcaf7}
+[06/21/23 11:29:53]: <0x1801> Modo de trabajo:automático. {22b206a7}
+[06/21/23 11:29:58]: <0x3407> Error interno MCP-NoAnswer: char 1 {9fa674da}
+[06/21/23 11:30:04]: <0x3409> Error interno MCP-ResetTimeout {6651e8c1}
+[06/21/23 11:30:04]: <0x2402> MCP communication disconnected {2d4a703c}
+[06/21/23 11:30:06]: <0x2402> Mcp = TSimulated {13ad3f21}
+[06/21/23 11:30:06]: <0x340A> Mcp communication established {6f8ee668}
+[06/21/23 11:30:06]: <0x1801> Modo de trabajo:automático. {b19b5ec3}
+[06/21/23 11:30:11]: <0x3407> Error interno MCP-NoAnswer: char 1 {439cb0ce}
+[06/21/23 11:30:17]: <0x3409> Error interno MCP-ResetTimeout {f0c94117}
+[06/21/23 11:30:17]: <0x2402> MCP communication disconnected {7f63e2d5}
+[06/21/23 11:30:19]: <0x2402> Mcp = TSimulated {f3224e91}
+[06/21/23 11:30:19]: <0x340A> Mcp communication established {074e6ea9}
+[06/21/23 11:30:19]: <0x1801> Modo de trabajo:automático. {cf1b3dbd}
+[06/21/23 11:30:24]: <0x3407> Error interno MCP-NoAnswer: char 1 {0829b472}
+[06/21/23 11:30:30]: <0x3409> Error interno MCP-ResetTimeout {e060405b}
+[06/21/23 11:30:30]: <0x2402> MCP communication disconnected {9bea91f3}
+[06/21/23 11:30:32]: <0x2402> Mcp = TSimulated {809f42ef}
+[06/21/23 11:30:32]: <0x340A> Mcp communication established {e69f2f7a}
+[06/21/23 11:30:32]: <0x1801> Modo de trabajo:automático. {95bdd203}
+[06/21/23 11:30:37]: <0x3407> Error interno MCP-NoAnswer: char 1 {3ab6ac87}
+[06/21/23 11:30:43]: <0x3409> Error interno MCP-ResetTimeout {ba3a1aad}
+[06/21/23 11:30:43]: <0x2402> MCP communication disconnected {1e875584}
+[06/21/23 11:30:45]: <0x2402> Mcp = TSimulated {14395632}
+[06/21/23 11:30:45]: <0x340A> Mcp communication established {1d35c4f1}
+[06/21/23 11:30:45]: <0x1801> Modo de trabajo:automático. {259df49b}
+[06/21/23 11:30:50]: <0x3407> Error interno MCP-NoAnswer: char 1 {5927ddc3}
+[06/21/23 11:30:56]: <0x3409> Error interno MCP-ResetTimeout {cb83f5ac}
+[06/21/23 11:30:56]: <0x2402> MCP communication disconnected {7a6525e1}
+[06/21/23 11:30:57]: <0x2402> Mcp = TSimulated {585fc798}
+[06/21/23 11:30:57]: <0x340A> Mcp communication established {c734f41e}
+[06/21/23 11:30:58]: <0x1801> Modo de trabajo:automático. {c412a640}
+[06/21/23 11:31:03]: <0x3407> Error interno MCP-NoAnswer: char 1 {1e3872d1}
+[06/21/23 11:31:09]: <0x3409> Error interno MCP-ResetTimeout {8033895e}
+[06/21/23 11:31:09]: <0x2402> MCP communication disconnected {d3c23fc5}
+[06/21/23 11:31:10]: <0x2402> Mcp = TSimulated {3e21facf}
+[06/21/23 11:31:10]: <0x340A> Mcp communication established {dfbe83bf}
+[06/21/23 11:31:11]: <0x1801> Modo de trabajo:automático. {3d072a86}
+[06/21/23 11:31:16]: <0x3407> Error interno MCP-NoAnswer: char 1 {c665f9be}
+[06/21/23 11:31:22]: <0x3409> Error interno MCP-ResetTimeout {51e2643c}
+[06/21/23 11:31:22]: <0x2402> MCP communication disconnected {da3eac9d}
+[06/21/23 11:31:23]: <0x2402> Mcp = TSimulated {59aff1c5}
+[06/21/23 11:31:23]: <0x340A> Mcp communication established {4ed069f4}
+[06/21/23 11:31:24]: <0x1801> Modo de trabajo:automático. {1bf6c142}
+[06/21/23 11:31:29]: <0x3407> Error interno MCP-NoAnswer: char 1 {a27979e0}
+[06/21/23 11:31:35]: <0x3409> Error interno MCP-ResetTimeout {a6a5644a}
+[06/21/23 11:31:35]: <0x2402> MCP communication disconnected {ec16a26f}
+[06/21/23 11:31:36]: <0x2402> Mcp = TSimulated {9c118167}
+[06/21/23 11:31:36]: <0x340A> Mcp communication established {8b1e748d}
+[06/21/23 11:31:37]: <0x1801> Modo de trabajo:automático. {89d563e6}
+[06/21/23 11:31:42]: <0x3407> Error interno MCP-NoAnswer: char 1 {b55c3cc1}
+[06/21/23 11:31:48]: <0x3409> Error interno MCP-ResetTimeout {0b1d70c8}
+[06/21/23 11:31:48]: <0x2402> MCP communication disconnected {86558a25}
+[06/21/23 11:31:49]: <0x2402> Mcp = TSimulated {08488176}
+[06/21/23 11:31:49]: <0x340A> Mcp communication established {7d13c226}
+[06/21/23 11:31:50]: <0x1801> Modo de trabajo:automático. {9f61191d}
+[06/21/23 11:31:55]: <0x3407> Error interno MCP-NoAnswer: char 1 {71a71ce4}
+[06/21/23 11:32:01]: <0x3409> Error interno MCP-ResetTimeout {43e610ac}
+[06/21/23 11:32:01]: <0x2402> MCP communication disconnected {13221a5b}
+[06/21/23 11:32:02]: <0x2402> Mcp = TSimulated {d6347e95}
+[06/21/23 11:32:02]: <0x340A> Mcp communication established {3d4cb93b}
+[06/21/23 11:32:03]: <0x1801> Modo de trabajo:automático. {5858f227}
+[06/21/23 11:32:08]: <0x3407> Error interno MCP-NoAnswer: char 1 {2db95e3f}
+[06/21/23 11:32:14]: <0x3409> Error interno MCP-ResetTimeout {a3f6b656}
+[06/21/23 11:32:14]: <0x2402> MCP communication disconnected {481fe400}
+[06/21/23 11:32:15]: <0x2402> Mcp = TSimulated {b3563f40}
+[06/21/23 11:32:15]: <0x340A> Mcp communication established {9cff45a8}
+[06/21/23 11:32:16]: <0x1801> Modo de trabajo:automático. {05025e81}
+[06/21/23 11:32:21]: <0x3407> Error interno MCP-NoAnswer: char 1 {65eee954}
+[06/21/23 11:32:27]: <0x3409> Error interno MCP-ResetTimeout {88f307e6}
+[06/21/23 11:32:27]: <0x2402> MCP communication disconnected {91e46801}
+[06/21/23 11:32:28]: <0x2402> Mcp = TSimulated {a6720d7b}
+[06/21/23 11:32:28]: <0x340A> Mcp communication established {6eb76a82}
+[06/21/23 11:32:29]: <0x1801> Modo de trabajo:automático. {c4ddc2a9}
+[06/21/23 11:32:34]: <0x3407> Error interno MCP-NoAnswer: char 1 {1d672932}
+[06/21/23 11:32:40]: <0x3409> Error interno MCP-ResetTimeout {88ea6059}
+[06/21/23 11:32:40]: <0x2402> MCP communication disconnected {3f0ab5e0}
+[06/21/23 11:32:41]: <0x2402> Mcp = TSimulated {2f8e98a3}
+[06/21/23 11:32:41]: <0x340A> Mcp communication established {fcb41048}
+[06/21/23 11:32:42]: <0x1801> Modo de trabajo:automático. {5aff9ae7}
+[06/21/23 11:32:47]: <0x3407> Error interno MCP-NoAnswer: char 1 {13b1e21b}
+[06/21/23 11:32:53]: <0x3409> Error interno MCP-ResetTimeout {0ed2acce}
+[06/21/23 11:32:53]: <0x2402> MCP communication disconnected {f3b0f317}
+[06/21/23 11:32:54]: <0x2402> Mcp = TSimulated {1d786d98}
+[06/21/23 11:32:54]: <0x340A> Mcp communication established {401938f8}
+[06/21/23 11:32:55]: <0x1801> Modo de trabajo:automático. {e63a5d96}
+[06/21/23 11:33:00]: <0x3407> Error interno MCP-NoAnswer: char 1 {49246da2}
+[06/21/23 11:33:06]: <0x3409> Error interno MCP-ResetTimeout {4ddf72e1}
+[06/21/23 11:33:06]: <0x2402> MCP communication disconnected {4a4cd5e3}
+[06/21/23 11:33:07]: <0x2402> Mcp = TSimulated {928ff953}
+[06/21/23 11:33:07]: <0x340A> Mcp communication established {9e7b648d}
+[06/21/23 11:33:08]: <0x1801> Modo de trabajo:automático. {db0ce14a}
+[06/21/23 11:33:13]: <0x3407> Error interno MCP-NoAnswer: char 1 {f6c7f45e}
+[06/21/23 11:33:19]: <0x3409> Error interno MCP-ResetTimeout {5eed21f4}
+[06/21/23 11:33:19]: <0x2402> MCP communication disconnected {e6f74a44}
+[06/21/23 11:33:20]: <0x2402> Mcp = TSimulated {505e3621}
+[06/21/23 11:33:20]: <0x340A> Mcp communication established {138de04a}
+[06/21/23 11:33:20]: <0x1801> Modo de trabajo:automático. {683a1df0}
+[06/21/23 11:33:26]: <0x3407> Error interno MCP-NoAnswer: char 1 {54f3f345}
+[06/21/23 11:33:32]: <0x3409> Error interno MCP-ResetTimeout {095863f5}
+[06/21/23 11:33:32]: <0x2402> MCP communication disconnected {9b425d58}
+[06/21/23 11:33:33]: <0x2402> Mcp = TSimulated {c433b7da}
+[06/21/23 11:33:33]: <0x340A> Mcp communication established {45f83af4}
+[06/21/23 11:33:33]: <0x1801> Modo de trabajo:automático. {4e4bea38}
+[06/21/23 11:33:39]: <0x3407> Error interno MCP-NoAnswer: char 1 {42f2c4ab}
+[06/21/23 11:33:45]: <0x3409> Error interno MCP-ResetTimeout {8c0626ac}
+[06/21/23 11:33:45]: <0x2402> MCP communication disconnected {13a56e23}
+[06/21/23 11:33:46]: <0x2402> Mcp = TSimulated {d8904095}
+[06/21/23 11:33:46]: <0x340A> Mcp communication established {208014f5}
+[06/21/23 11:33:46]: <0x1801> Modo de trabajo:automático. {e6a616dc}
+[06/21/23 11:33:52]: <0x3407> Error interno MCP-NoAnswer: char 1 {eebca86e}
+[06/21/23 11:33:58]: <0x3409> Error interno MCP-ResetTimeout {346b6130}
+[06/21/23 11:33:58]: <0x2402> MCP communication disconnected {281465b6}
+[06/21/23 11:33:59]: <0x2402> Mcp = TSimulated {74eac273}
+[06/21/23 11:33:59]: <0x340A> Mcp communication established {8eaa4f99}
+[06/21/23 11:33:59]: <0x1801> Modo de trabajo:automático. {c234990b}
+[06/21/23 11:34:04]: <0x3407> Error interno MCP-NoAnswer: char 1 {d92dc9d5}
+[06/21/23 11:34:10]: <0x3409> Error interno MCP-ResetTimeout {da93c15f}
+[06/21/23 11:34:10]: <0x2402> MCP communication disconnected {f2fa79b2}
+[06/21/23 11:34:12]: <0x2402> Mcp = TSimulated {1a13f51b}
+[06/21/23 11:34:12]: <0x340A> Mcp communication established {006a4644}
+[06/21/23 11:34:12]: <0x1801> Modo de trabajo:automático. {288d1e31}
+[06/21/23 11:34:17]: <0x3407> Error interno MCP-NoAnswer: char 1 {7f6de93d}
+[06/21/23 11:34:23]: <0x3409> Error interno MCP-ResetTimeout {c803530c}
+[06/21/23 11:34:23]: <0x2402> MCP communication disconnected {d03bd05f}
+[06/21/23 11:34:25]: <0x2402> Mcp = TSimulated {7a7955f6}
+[06/21/23 11:34:25]: <0x340A> Mcp communication established {074c9ff8}
+[06/21/23 11:34:25]: <0x1801> Modo de trabajo:automático. {75c3c9a1}
+[06/21/23 11:34:30]: <0x3407> Error interno MCP-NoAnswer: char 1 {0d3d9729}
+[06/21/23 11:34:36]: <0x3409> Error interno MCP-ResetTimeout {d4d2ac6d}
+[06/21/23 11:34:36]: <0x2402> MCP communication disconnected {070bebbf}
+[06/21/23 11:34:38]: <0x2402> Mcp = TSimulated {7a0a8608}
+[06/21/23 11:34:38]: <0x340A> Mcp communication established {2705dccc}
+[06/21/23 11:34:38]: <0x1801> Modo de trabajo:automático. {a8f1671a}
+[06/21/23 11:34:43]: <0x3407> Error interno MCP-NoAnswer: char 1 {039cb2be}
+[06/21/23 11:34:49]: <0x3409> Error interno MCP-ResetTimeout {4ccf13a1}
+[06/21/23 11:34:49]: <0x2402> MCP communication disconnected {b696ae7e}
+[06/21/23 11:34:51]: <0x2402> Mcp = TSimulated {f04c735e}
+[06/21/23 11:34:51]: <0x340A> Mcp communication established {56ec225a}
+[06/21/23 11:34:51]: <0x1801> Modo de trabajo:automático. {1bee8b67}
+[06/21/23 11:34:56]: <0x3407> Error interno MCP-NoAnswer: char 1 {0940fd55}
+[06/21/23 11:35:02]: <0x3409> Error interno MCP-ResetTimeout {97b5d76b}
+[06/21/23 11:35:02]: <0x2402> MCP communication disconnected {f654ef05}
+[06/21/23 11:35:04]: <0x2402> Mcp = TSimulated {45c4b3f0}
+[06/21/23 11:35:04]: <0x340A> Mcp communication established {45f3b4c6}
+[06/21/23 11:35:04]: <0x1801> Modo de trabajo:automático. {1c86d24a}
+[06/21/23 11:35:09]: <0x3407> Error interno MCP-NoAnswer: char 1 {812d1a97}
+[06/21/23 11:35:15]: <0x3409> Error interno MCP-ResetTimeout {a82a6e54}
+[06/21/23 11:35:15]: <0x2402> MCP communication disconnected {a7224193}
+[06/21/23 11:35:17]: <0x2402> Mcp = TSimulated {d08219c0}
+[06/21/23 11:35:17]: <0x340A> Mcp communication established {62993da3}
+[06/21/23 11:35:17]: <0x1801> Modo de trabajo:automático. {0bb38f17}
+[06/21/23 11:35:22]: <0x3407> Error interno MCP-NoAnswer: char 1 {89e2cded}
+[06/21/23 11:35:28]: <0x3409> Error interno MCP-ResetTimeout {88b7d3a9}
+[06/21/23 11:35:28]: <0x2402> MCP communication disconnected {86f02c71}
+[06/21/23 11:35:30]: <0x2402> Mcp = TSimulated {8f865e03}
+[06/21/23 11:35:30]: <0x340A> Mcp communication established {fc3f622d}
+[06/21/23 11:35:30]: <0x1801> Modo de trabajo:automático. {045c7eaa}
+[06/21/23 11:35:35]: <0x3407> Error interno MCP-NoAnswer: char 1 {57cb17f0}
+[06/21/23 11:35:41]: <0x3409> Error interno MCP-ResetTimeout {3537b1e6}
+[06/21/23 11:35:41]: <0x2402> MCP communication disconnected {e3decb45}
+[06/21/23 11:35:43]: <0x2402> Mcp = TSimulated {bcb700cf}
+[06/21/23 11:35:43]: <0x340A> Mcp communication established {0dc60752}
+[06/21/23 11:35:43]: <0x1801> Modo de trabajo:automático. {5db783df}
+[06/21/23 11:35:48]: <0x3407> Error interno MCP-NoAnswer: char 1 {ec6e3e92}
+[06/21/23 11:35:54]: <0x3409> Error interno MCP-ResetTimeout {2215bb35}
+[06/21/23 11:35:54]: <0x2402> MCP communication disconnected {e2f6dcbf}
+[06/21/23 11:35:55]: <0x2402> Mcp = TSimulated {eac012c0}
+[06/21/23 11:35:55]: <0x340A> Mcp communication established {74ac98f6}
+[06/21/23 11:35:56]: <0x1801> Modo de trabajo:automático. {0ab85a4b}
+[06/21/23 11:36:01]: <0x3407> Error interno MCP-NoAnswer: char 1 {f6b031ae}
+[06/21/23 11:36:07]: <0x3409> Error interno MCP-ResetTimeout {a272b6d0}
+[06/21/23 11:36:07]: <0x2402> MCP communication disconnected {2d280b9b}
+[06/21/23 11:36:08]: <0x2402> Mcp = TSimulated {5f5e7b6f}
+[06/21/23 11:36:08]: <0x340A> Mcp communication established {c4cfde08}
+[06/21/23 11:36:09]: <0x1801> Modo de trabajo:automático. {f4a38403}
+[06/21/23 11:36:14]: <0x3407> Error interno MCP-NoAnswer: char 1 {2c1f056f}
+[06/21/23 11:36:20]: <0x3409> Error interno MCP-ResetTimeout {a7fe6bc2}
+[06/21/23 11:36:20]: <0x2402> MCP communication disconnected {53ade05f}
+[06/21/23 11:36:22]: <0x2402> Mcp = TSimulated {5201b8fe}
+[06/21/23 11:36:22]: <0x340A> Mcp communication established {9f033015}
+[06/21/23 11:36:22]: <0x1801> Modo de trabajo:automático. {71e3caa6}
+[06/21/23 11:36:27]: <0x3407> Error interno MCP-NoAnswer: char 1 {37ba4540}
+[06/21/23 11:36:33]: <0x3409> Error interno MCP-ResetTimeout {f0792f05}
+[06/21/23 11:36:33]: <0x2402> MCP communication disconnected {84ecd4cc}
+[06/21/23 11:36:34]: <0x2402> Mcp = TSimulated {6c4e37fb}
+[06/21/23 11:36:34]: <0x340A> Mcp communication established {ddf907ef}
+[06/21/23 11:36:35]: <0x1801> Modo de trabajo:automático. {a57f0348}
+[06/21/23 11:36:40]: <0x3407> Error interno MCP-NoAnswer: char 1 {2f2e62da}
+[06/21/23 11:36:46]: <0x3409> Error interno MCP-ResetTimeout {5fdb63ac}
+[06/21/23 11:36:46]: <0x2402> MCP communication disconnected {ae1880ad}
+[06/21/23 11:36:47]: <0x2402> Mcp = TSimulated {92b059a3}
+[06/21/23 11:36:47]: <0x340A> Mcp communication established {829f14bd}
+[06/21/23 11:36:48]: <0x1801> Modo de trabajo:automático. {16e48f98}
+[06/21/23 11:36:53]: <0x3407> Error interno MCP-NoAnswer: char 1 {e630fff4}
+[06/21/23 11:36:59]: <0x3409> Error interno MCP-ResetTimeout {eaaf0ff6}
+[06/21/23 11:36:59]: <0x2402> MCP communication disconnected {e605aee6}
+[06/21/23 11:37:00]: <0x2402> Mcp = TSimulated {db4eddf3}
+[06/21/23 11:37:00]: <0x340A> Mcp communication established {d0725b3b}
+[06/21/23 11:37:01]: <0x1801> Modo de trabajo:automático. {6094f4d5}
+[06/21/23 11:37:06]: <0x3407> Error interno MCP-NoAnswer: char 1 {1dec3f1f}
+[06/21/23 11:37:12]: <0x3409> Error interno MCP-ResetTimeout {43bb228d}
+[06/21/23 11:37:12]: <0x2402> MCP communication disconnected {a2f4465c}
+[06/21/23 11:37:13]: <0x2402> Mcp = TSimulated {2eb513f9}
+[06/21/23 11:37:13]: <0x340A> Mcp communication established {9055472f}
+[06/21/23 11:37:14]: <0x1801> Modo de trabajo:automático. {bbe8f900}
+[06/21/23 11:37:19]: <0x3407> Error interno MCP-NoAnswer: char 1 {d68ec109}
+[06/21/23 11:37:25]: <0x3409> Error interno MCP-ResetTimeout {5be3ad5f}
+[06/21/23 11:37:25]: <0x2402> MCP communication disconnected {4180eb94}
+[06/21/23 11:37:26]: <0x2402> Mcp = TSimulated {085d01f0}
+[06/21/23 11:37:26]: <0x340A> Mcp communication established {ba52311c}
+[06/21/23 11:37:27]: <0x1801> Modo de trabajo:automático. {a187f92b}
+[06/21/23 11:37:32]: <0x3407> Error interno MCP-NoAnswer: char 1 {7cdc85de}
+[06/21/23 11:37:38]: <0x3409> Error interno MCP-ResetTimeout {a99442b1}
+[06/21/23 11:37:38]: <0x2402> MCP communication disconnected {df2c225c}
+[06/21/23 11:37:39]: <0x2402> Mcp = TSimulated {affc1675}
+[06/21/23 11:37:39]: <0x340A> Mcp communication established {b5eab05b}
+[06/21/23 11:37:40]: <0x1801> Modo de trabajo:automático. {2fc1a23f}
+[06/21/23 11:37:45]: <0x3407> Error interno MCP-NoAnswer: char 1 {f4857ec0}
+[06/21/23 11:37:51]: <0x3409> Error interno MCP-ResetTimeout {925996f7}
+[06/21/23 11:37:51]: <0x2402> MCP communication disconnected {335a8583}
+[06/21/23 11:37:52]: <0x2402> Mcp = TSimulated {0e804fcb}
+[06/21/23 11:37:52]: <0x340A> Mcp communication established {f1e6f292}
+[06/21/23 11:37:52]: <0x1801> Modo de trabajo:automático. {d38d9cd6}
+[06/21/23 11:37:58]: <0x3407> Error interno MCP-NoAnswer: char 1 {d2e25195}
+[06/21/23 11:38:04]: <0x3409> Error interno MCP-ResetTimeout {c787b630}
+[06/21/23 11:38:04]: <0x2402> MCP communication disconnected {dec30a9a}
+[06/21/23 11:38:05]: <0x2402> Mcp = TSimulated {2d3c7551}
+[06/21/23 11:38:05]: <0x340A> Mcp communication established {8c4713f6}
+[06/21/23 11:38:05]: <0x1801> Modo de trabajo:automático. {15866243}
+[06/21/23 11:38:11]: <0x3407> Error interno MCP-NoAnswer: char 1 {e14f3993}
+[06/21/23 11:38:17]: <0x3409> Error interno MCP-ResetTimeout {b6467f8e}
+[06/21/23 11:38:17]: <0x2402> MCP communication disconnected {b7248d1b}
+[06/21/23 11:38:18]: <0x2402> Mcp = TSimulated {20008bce}
+[06/21/23 11:38:18]: <0x340A> Mcp communication established {6ab9e8af}
+[06/21/23 11:38:18]: <0x1801> Modo de trabajo:automático. {c5bd77c9}
+[06/21/23 11:38:24]: <0x3407> Error interno MCP-NoAnswer: char 1 {cb3f83cf}
+[06/21/23 11:38:30]: <0x3409> Error interno MCP-ResetTimeout {7f57bdc8}
+[06/21/23 11:38:30]: <0x2402> MCP communication disconnected {64f6a8d9}
+[06/21/23 11:38:31]: <0x2402> Mcp = TSimulated {d926f532}
+[06/21/23 11:38:31]: <0x340A> Mcp communication established {1f35f9a0}
+[06/21/23 11:38:31]: <0x1801> Modo de trabajo:automático. {a3979fdb}
+[06/21/23 11:38:36]: <0x3407> Error interno MCP-NoAnswer: char 1 {f37cf865}
+[06/21/23 11:41:33]: ----------------------------------------------- {0dd0ea1e}
+[06/21/23 11:41:33]: Registro iniciado (1048576) {cba3963b}
+[06/21/23 11:41:38]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {202b38b1}
+[06/21/23 11:41:38]: <0x0003> Cycle time set to 0.004s {d26fa013}
+[06/21/23 11:41:38]: <0x0003> Simulation cycle time set to 0.1s {3c04366c}
+[06/21/23 11:41:38]: <0x0002> Controller IP address could not be updated {984014d3}
+[06/21/23 11:41:38]: <0x0003> Starc2 coder board detected (Slot: 0(Add: 0x4000), Simulated) {4c6b28b3}
+[06/21/23 11:41:38]: <0x0001> Error while trying to build User serial 2 {8f1e463c}
+[06/21/23 11:41:38]: <0x0002> Default user payload used. {0fac86f7}
+[06/21/23 11:41:38]: <0x0003> Payload default: mass=3.51969 kg, gravity center: x=0 y=0 z=56.34303 mm, inertia=0 {c899aee0}
+[06/21/23 11:41:38]: <0x2401> Horas con potencia =18:27:55 {5f5ef77f}
+[06/21/23 11:41:38]: <0x2401> Dirección Mac = 3c-a0-67-8c-70-dd {15149b2d}
+[06/21/23 11:41:38]: <0x0003> COM-PC: server created on all interfaces [851] {9ec83b8a}
+[06/21/23 11:41:39]: <0x2402> History handler has been connected to IHM {434a5f43}
+[06/21/23 11:41:39]: <0x2401> System: s7.11.2 Feb 24 2020 {03d273de}
+[06/21/23 11:41:39]: <0x2401> Kernel: Unknown  {a4442a1e}
+[06/21/23 11:41:39]: <0x2401> Configuration Version: c1.046  {85ef34c7}
+[06/21/23 11:41:39]: <0x2401> CPU: TEKNOR  {905f71c4}
+[06/21/23 11:41:39]: <0x2401> Option testMode: enabled  {db97b75a}
+[06/21/23 11:41:39]: <0x2401> Option VAL 3: enabled  {cbbc49d7}
+[06/21/23 11:41:39]: <0x2401> N/S del controlador: : ?  {ad2238d9}
+[06/21/23 11:41:39]: <0x2401> Brazo: tx60-S1-R4 suelo {7ae5ef54}
+[06/21/23 11:41:39]: <0x2401> N/S del brazo:: ?  {3a5f951d}
+[06/21/23 11:41:39]: <0x2401> Tipo de aceite:   {3172257e}
+[06/21/23 11:41:39]: <0x2401> Nombre del robot:   {cbc20444}
+[06/21/23 11:41:39]: <0x2401> EP: s7.11.2 Feb 24 2020 {3f4cc6fc}
+[06/21/23 11:41:39]: <0x2401> EP10: s7.11.2 Feb 24 2020 {40de7f1f}
+[06/21/23 11:41:39]: <0x2401> SCA: s7.11.2 Feb 24 2020 {32b5c8fe}
+[06/21/23 11:41:39]: <0x2401> B_SCS: s7.11.2 Feb 24 2020 {cbe23c91}
+[06/21/23 11:41:39]: <0x2201> Nuevo perfil : default {6f2f969a}
+[06/21/23 11:41:39]: <0x2401> End of controller initialization 0 {d2a0003b}
+[06/21/23 11:41:39]: <0x1602> Fin de la fase de desactivación de la potencia del brazo. {94daf428}
+[06/21/23 11:41:43]: <0x2402> Mcp = TSimulated {f84692eb}
+[06/21/23 11:41:43]: <0x340A> Mcp communication established {8a04cacb}
+[06/21/23 11:41:43]: <0x1801> Modo de trabajo:automático. {f7cdd556}
+[06/21/23 11:47:35]: <0x2402> COM-PC: create session 127.0.0.1 on port 50703 id=#44551960 {7cdb48bf}
+[06/21/23 11:51:47]: <0x2401> Saving controller context... {f05ff25d}
+[06/21/23 11:51:48]: <0x2402> Temperatura del controlador: 28°C {39efa8fa}
+[06/21/23 11:51:48]: <0x2402> Temperatura de la CPU: 28°C {beea71fa}
+[06/21/23 11:54:15]: <0x2401> Saving controller context... {b44473cd}
+[06/21/23 13:21:11]: <0x2401> Saving controller context... (6) {fac348ed}
+[06/21/23 13:26:32]: <0x2402> MCP communication disconnected {ef56be7d}
+[06/21/23 13:26:32]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 50703 id=#44551960 {31af9368}
+[06/21/23 13:26:32]: <0x2402> COM-PC: create session 127.0.0.1 on port 50755 id=#44553936 {0108d9ea}

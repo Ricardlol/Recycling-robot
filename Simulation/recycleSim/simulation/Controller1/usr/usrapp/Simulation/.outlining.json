@@ -2,24 +2,84 @@
   "programs": [
     {
       "mode": 3,
-      "name": "statesRobot",
-      "nodes": [
-        {
-          "start": 24,
-          "end": 402,
-          "isCollapsed": false
-        },
-        {
-          "start": 51,
-          "end": 380,
-          "isCollapsed": false
-        }
-      ]
+      "name": "startingSockets",
+      "nodes": []
     },
     {
       "mode": 3,
-      "name": "startingSockets",
-      "nodes": []
+      "name": "moveRobotSuc",
+      "nodes": [
+        {
+          "start": 123,
+          "end": 1768,
+          "isCollapsed": false
+        },
+        {
+          "start": 217,
+          "end": 1755,
+          "isCollapsed": false
+        },
+        {
+          "start": 501,
+          "end": 1055,
+          "isCollapsed": false
+        },
+        {
+          "start": 526,
+          "end": 629,
+          "isCollapsed": false
+        },
+        {
+          "start": 638,
+          "end": 740,
+          "isCollapsed": false
+        },
+        {
+          "start": 749,
+          "end": 852,
+          "isCollapsed": false
+        },
+        {
+          "start": 861,
+          "end": 964,
+          "isCollapsed": false
+        },
+        {
+          "start": 973,
+          "end": 1039,
+          "isCollapsed": false
+        },
+        {
+          "start": 1130,
+          "end": 1659,
+          "isCollapsed": false
+        },
+        {
+          "start": 1155,
+          "end": 1253,
+          "isCollapsed": false
+        },
+        {
+          "start": 1262,
+          "end": 1358,
+          "isCollapsed": false
+        },
+        {
+          "start": 1367,
+          "end": 1464,
+          "isCollapsed": false
+        },
+        {
+          "start": 1473,
+          "end": 1570,
+          "isCollapsed": false
+        },
+        {
+          "start": 1579,
+          "end": 1643,
+          "isCollapsed": false
+        }
+      ]
     },
     {
       "mode": 3,
@@ -98,42 +158,73 @@
       "nodes": [
         {
           "start": 123,
-          "end": 1124,
+          "end": 1343,
           "isCollapsed": false
         },
         {
           "start": 217,
-          "end": 1111,
+          "end": 1330,
           "isCollapsed": false
         },
         {
-          "start": 567,
-          "end": 1056,
+          "start": 684,
+          "end": 1173,
           "isCollapsed": false
         },
         {
-          "start": 590,
-          "end": 682,
+          "start": 707,
+          "end": 799,
           "isCollapsed": false
         },
         {
-          "start": 689,
-          "end": 779,
+          "start": 806,
+          "end": 896,
           "isCollapsed": false
         },
         {
-          "start": 786,
-          "end": 877,
+          "start": 903,
+          "end": 994,
           "isCollapsed": false
         },
         {
-          "start": 884,
-          "end": 975,
+          "start": 1001,
+          "end": 1092,
           "isCollapsed": false
         },
         {
-          "start": 982,
-          "end": 1042,
+          "start": 1099,
+          "end": 1159,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "statesRobot",
+      "nodes": [
+        {
+          "start": 46,
+          "end": 829,
+          "isCollapsed": false
+        },
+        {
+          "start": 73,
+          "end": 326,
+          "isCollapsed": false
+        },
+        {
+          "start": 362,
+          "end": 807,
+          "isCollapsed": false
+        },
+        {
+          "start": 658,
+          "end": 797,
+          "isCollapsed": false
+        },
+        {
+          "start": 693,
+          "end": 765,
           "isCollapsed": false
         }
       ]

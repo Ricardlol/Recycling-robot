@@ -3,6 +3,7 @@
   <Parameters version="s7.11.2" stackSize="5000" millimeterUnit="true" />
   <Programs>
     <Program file="moveRobot.pgx" />
+    <Program file="moveRobotSuc.pgx" />
     <Program file="pantalla.pgx" />
     <Program file="start.pgx" />
     <Program file="startingSockets.pgx" />

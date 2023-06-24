@@ -6,6 +6,7 @@
   //clearBuffer(sPlc)
   wait(sioSet(sSocket, 73)==1)
   //wait(sioGet(sPlc, nRecvPLC)==1)
+  
 end]]></Code>
   </Program>
 </Programs>

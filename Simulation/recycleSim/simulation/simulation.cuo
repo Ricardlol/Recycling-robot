@@ -8,6 +8,9 @@
     <Nodes>
       <Node Path="simulation" IsExpanded="true" />
       <Node Path="simulation\Controller1" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx\jointRx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx\mdesc" IsExpanded="true" />
       <Node Path="simulation\Controller1\Disk:##TestSuccionar#TestSuccionar.pjx\jointRx" IsExpanded="true" />
     </Nodes>
   </Option>
@@ -16,6 +19,7 @@
       <Node Path="simulation" IsExpanded="true" />
       <Node Path="simulation\Controller1" IsExpanded="true" />
       <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx" IsExpanded="true" />
+      <Node Path="simulation\Controller1\Disk:##Simulation#Simulation.pjx\start" IsExpanded="true" />
     </Nodes>
   </Option>
   <Option Name="GeometryView">

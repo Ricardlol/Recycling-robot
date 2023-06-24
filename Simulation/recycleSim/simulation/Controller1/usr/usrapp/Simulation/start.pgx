@@ -5,6 +5,7 @@
   call startingSockets()
   taskCreate "stateRobot", 1, statesRobot()
   taskCreate "moveRobot", 1, moveRobot()
+  //taskCreate "moveRobot", 1, moveRobotSuc()
   taskCreate "screen", 1, pantalla()
 end]]></Code>
   </Program>
